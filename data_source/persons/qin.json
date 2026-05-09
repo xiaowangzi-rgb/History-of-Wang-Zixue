@@ -1,0 +1,45 @@
+[
+  {
+    "id": "person_qin_始皇帝",
+    "name": "始皇帝",
+    "dynastyId": "dynasty_qin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": -221,
+    "birthYear": -221,
+    "yearUncertainty": "year",
+    "reignEnd": -210,
+    "deathYear": -210,
+    "_rawPortraitPath": "秦/始皇帝"
+  },
+  {
+    "id": "person_qin_二世皇帝",
+    "name": "二世皇帝",
+    "dynastyId": "dynasty_qin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": -210,
+    "birthYear": -210,
+    "yearUncertainty": "year",
+    "reignEnd": -207,
+    "deathYear": -207
+  },
+  {
+    "id": "person_qin_子婴",
+    "name": "子婴",
+    "dynastyId": "dynasty_qin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": -207,
+    "birthYear": -207,
+    "yearUncertainty": "year",
+    "reignEnd": -206,
+    "deathYear": -206
+  }
+]

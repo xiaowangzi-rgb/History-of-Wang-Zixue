@@ -1,18 +1,28 @@
 {
   "_schemaVersion": "v0.6",
   "_minAppVersion": "1.0.0",
-  "count": 2,
-  "totalBytes": 27727,
+  "count": 4,
+  "totalBytes": 234968,
   "files": [
     {
       "path": "dynasties.json",
-      "sha256": "8a6dd75e64ab71f3bbfd62030a5516730f75549de66cc7b39ec580e82a0d82cf",
-      "size": 9813
+      "sha256": "f7ed8e83ecd98da2158011c680be2d29fd20f0161b6cc0ee971f03690c5f6590",
+      "size": 9815
     },
     {
       "path": "regimes.json",
       "sha256": "03d7f763860c053eaf364b5d0040e8a1f638afbb598e3f43aa1cb3d88e5fe789",
       "size": 17914
+    },
+    {
+      "path": "events.json",
+      "sha256": "f907306b25f62e8d2f777a22057b654e79136fe635d9b8a960fd3a056b9ecc13",
+      "size": 64713
+    },
+    {
+      "path": "persons.json",
+      "sha256": "02d0bcdccc74131a4249b53ca3a57789ab4f599a5eb61f87edbd9bc04e04fb1b",
+      "size": 142526
     }
   ]
 }

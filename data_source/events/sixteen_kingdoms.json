@@ -1,0 +1,78 @@
+[
+  {
+    "id": "event_16k_liu_yuan",
+    "name": "刘渊建汉 五胡乱华",
+    "year": 304,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "regimeId": "regime_han_zhao",
+    "category": "war",
+    "summary": "匈奴贵族刘渊于左国城自称汉王,国号汉(后改赵,即汉赵/前赵)。匈奴、鲜卑、羯、氐、羌五胡相继建国,北方陷入大混乱。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_16k_shi_le",
+    "name": "石勒灭前赵 建后赵",
+    "year": 319,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "regimeId": "regime_later_zhao",
+    "category": "war",
+    "summary": "羯族奴隶出身的石勒以武力崛起,称王建后赵,后灭前赵几乎统一北方。中国历史上少有的奴隶称帝者。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_16k_ranmin",
+    "name": "冉闵颁《杀胡令》",
+    "year": 350,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "category": "war",
+    "summary": "冉闵于邺城起兵,颁布杀胡令,号令汉人反抗胡族屠戮,数十万羯胡死于此役。冉魏短命,但深刻改变北方民族格局。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_16k_fu_jian",
+    "name": "苻坚一统北方",
+    "year": 376,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "regimeId": "regime_former_qin",
+    "category": "war",
+    "summary": "前秦苻坚任王猛为相,先后灭前燕、前凉、代国,基本统一北方。\"五胡\"政权中唯一接近统一者,惜淝水一役全功尽弃。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_16k_kumarajiva",
+    "name": "鸠摩罗什长安译经",
+    "year": 401,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "regimeId": "regime_later_qin",
+    "category": "religion",
+    "summary": "后秦姚兴迎西域高僧鸠摩罗什入长安主持译场,十二年间译出《金刚经》《法华经》等三百余卷,奠定汉传佛教经典基础。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_16k_taiwu",
+    "name": "北魏太武帝统一北方",
+    "year": 439,
+    "dynastyId": "dynasty_sixteen_kingdoms",
+    "category": "war",
+    "summary": "拓跋焘灭北凉,北方一百三十五年的十六国大混乱终结。中国进入南北朝并立时期。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "event_qing_nurhaci",
+    "name": "努尔哈赤建立后金",
+    "year": 1616,
+    "dynastyId": "dynasty_qing",
+    "category": "politics",
+    "summary": "建州女真酋长努尔哈赤统一女真各部,于赫图阿拉建国号金(史称后金),创满文与八旗制。清王朝立基于此。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_huang_taiji",
+    "name": "皇太极改国号大清",
+    "year": 1636,
+    "dynastyId": "dynasty_qing",
+    "category": "politics",
+    "summary": "皇太极改族名为满洲、改国号大清。八年后清军入关,中国进入满清统治。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_enter_pass",
+    "name": "清军入关 顺治建都北京",
+    "year": 1644,
+    "dynastyId": "dynasty_qing",
+    "category": "war",
+    "summary": "吴三桂开山海关引清军入,多尔衮率军击败李自成。顺治帝迁都北京,以中国正统自居。颁\"剃发令\"\"扬州十日\"\"嘉定三屠\"激起江南士民激烈抵抗。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_kangyong_qian",
+    "name": "康乾盛世",
+    "year": 1681,
+    "dynastyId": "dynasty_qing",
+    "category": "politics",
+    "summary": "康熙、雍正、乾隆三朝百三十余年,平三藩、收台湾、平准噶尔、定西藏,版图臻于极盛,人口破三亿。同时大兴文字狱,思想钳制。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_dream_red",
+    "name": "曹雪芹著《红楼梦》",
+    "year": 1754,
+    "dynastyId": "dynasty_qing",
+    "category": "culture",
+    "summary": "曹雪芹\"披阅十载,增删五次\"成《红楼梦》前八十回,贾府兴衰映照康乾盛世内里。中国古典小说巅峰,\"红学\"专门之学由此而生。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_opium_war",
+    "name": "鸦片战争",
+    "year": 1840,
+    "dynastyId": "dynasty_qing",
+    "category": "war",
+    "summary": "英国以林则徐虎门销烟为由发动战争,清军惨败。次年签《南京条约》,割香港、赔银两千一百万、开五口通商。中国近代史开端。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_taiping",
+    "name": "太平天国运动",
+    "year": 1851,
+    "dynastyId": "dynasty_qing",
+    "category": "war",
+    "summary": "洪秀全以拜上帝教起义,十四年间纵横十八省,定都天京。最终为湘军淮军所平,死亡逾两千万,中国近代规模最大的内战。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_self_strengthening",
+    "name": "洋务运动",
+    "year": 1861,
+    "dynastyId": "dynasty_qing",
+    "category": "politics",
+    "summary": "曾国藩、李鸿章、张之洞等以\"师夷长技以自强\"为旨,办江南制造局、轮船招商局、北洋海军。三十余年中国近代工业化起步,甲午一役破灭。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_jiawu",
+    "name": "甲午战争 戊戌变法",
+    "year": 1894,
+    "dynastyId": "dynasty_qing",
+    "category": "war",
+    "summary": "日本击败清军,北洋舰队全军覆没。《马关条约》割台澎、赔银两亿。康梁戊戌变法百日维新被慈禧推翻,六君子遇害。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qing_xinhai",
+    "name": "辛亥革命 清朝灭亡",
+    "year": 1911,
+    "dynastyId": "dynasty_qing",
+    "category": "politics",
+    "summary": "武昌起义引发各省独立。次年二月,六岁宣统帝溥仪退位,清帝国二百九十六年终结,中国两千年帝制告终。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

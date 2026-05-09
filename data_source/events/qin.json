@@ -1,0 +1,86 @@
+[
+  {
+    "id": "event_qin_unification",
+    "name": "秦灭六国 完成统一",
+    "year": -221,
+    "dynastyId": "dynasty_qin",
+    "category": "politics",
+    "summary": "秦王嬴政历时十年,先后灭韩、赵、魏、楚、燕、齐六国,结束春秋战国五百余年分裂,建立中国历史上第一个中央集权的统一多民族国家。嬴政自称始皇帝。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_jun_xian",
+    "name": "推行郡县制",
+    "year": -221,
+    "dynastyId": "dynasty_qin",
+    "category": "politics",
+    "summary": "秦始皇废分封、立郡县,分天下为三十六郡(后增至四十余郡),郡下设县,中央直派郡守县令,确立中央集权官僚体制,影响中国政制两千余年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_standardization",
+    "name": "书同文 车同轨 统一度量衡",
+    "year": -221,
+    "dynastyId": "dynasty_qin",
+    "category": "culture",
+    "summary": "秦始皇颁令统一文字(以小篆为标准)、统一车轨宽度、统一度量衡与货币(半两钱),为大一统帝国奠定文化与经济基础。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_great_wall",
+    "name": "修筑长城 北击匈奴",
+    "year": -214,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "秦始皇命蒙恬率三十万大军北击匈奴,收复河套,并将原秦、赵、燕三国长城连接修缮,西起临洮、东至辽东,即秦长城。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_burn_books",
+    "name": "焚书坑儒",
+    "year": -213,
+    "dynastyId": "dynasty_qin",
+    "category": "culture",
+    "summary": "始皇采李斯议焚毁民间所藏诸子百家及六国史书,次年坑杀方士儒生四百六十余人。专制思想钳制致先秦典籍大量散佚。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_chen_sheng",
+    "name": "陈胜吴广起义",
+    "year": -209,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "二世元年,戍卒陈胜、吴广因雨失期当斩,于大泽乡振臂一呼\"王侯将相宁有种乎\",中国历史上第一次大规模农民起义爆发,六国旧贵族纷纷响应。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_fall",
+    "name": "秦朝灭亡 楚汉相争开始",
+    "year": -207,
+    "dynastyId": "dynasty_qin",
+    "category": "politics",
+    "summary": "刘邦率军入咸阳,秦王子婴出降。项羽随后入关,焚阿房宫,杀子婴。秦立国仅十五年而亡,楚汉争霸开启。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "person_republic_袁世凯",
+    "name": "袁世凯",
+    "dynastyId": "dynasty_republic",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 1915,
+    "birthYear": 1915,
+    "yearUncertainty": "year",
+    "reignEnd": 1916,
+    "deathYear": 1916
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "event_sui_yang_jian",
+    "name": "杨坚建立隋朝",
+    "year": 581,
+    "dynastyId": "dynasty_sui",
+    "category": "politics",
+    "summary": "北周外戚杨坚逼静帝禅位,建国号隋,定都长安。结束北朝。八年后灭陈,完成南北统一。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_sui_three_provinces",
+    "name": "确立三省六部制",
+    "year": 583,
+    "dynastyId": "dynasty_sui",
+    "category": "politics",
+    "summary": "隋文帝改革官制,设尚书、门下、内史三省与吏户礼兵刑工六部,中央分权制衡。此制为唐宋元明清沿用一千三百年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_sui_keju",
+    "name": "创立科举制",
+    "year": 605,
+    "dynastyId": "dynasty_sui",
+    "category": "politics",
+    "summary": "隋炀帝设进士科,以考试选官,打破门阀世袭。科举制深刻影响中国一千三百年的政治与社会流动。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_sui_grand_canal",
+    "name": "开凿大运河",
+    "year": 605,
+    "dynastyId": "dynasty_sui",
+    "category": "economy",
+    "summary": "隋炀帝征役百万开通永济渠、通济渠、邗沟、江南河,以洛阳为中心,北达涿郡、南至余杭,全长两千七百公里。沟通南北,泽被千年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_sui_korea_war",
+    "name": "三征高句丽",
+    "year": 612,
+    "dynastyId": "dynasty_sui",
+    "category": "war",
+    "summary": "炀帝三次发兵百万远征高句丽,皆败。劳民伤财,加之同期巡幸江都、修宫室,国力耗尽,各地起义蜂起。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_sui_fall",
+    "name": "隋朝灭亡 李渊太原起兵",
+    "year": 618,
+    "dynastyId": "dynasty_sui",
+    "category": "politics",
+    "summary": "炀帝困居江都为宇文化及所弑。李渊于太原起兵,入长安立恭帝,旋废之自立,建唐。隋立国仅三十七年而亡。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

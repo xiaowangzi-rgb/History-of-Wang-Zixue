@@ -1,0 +1,110 @@
+[
+  {
+    "id": "event_roc_found",
+    "name": "中华民国成立",
+    "year": 1912,
+    "dynastyId": "dynasty_republic",
+    "category": "politics",
+    "summary": "1912 年元旦孙中山就任临时大总统于南京,中华民国成立。亚洲第一个共和国,中国两千年帝制时代终结。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_warlords",
+    "name": "袁世凯称帝 军阀混战",
+    "year": 1916,
+    "dynastyId": "dynasty_republic",
+    "category": "politics",
+    "summary": "袁世凯洪宪称帝失败八十三日而亡,中国进入北洋军阀混战时期。直、皖、奉三系十余年攻伐,民众苦于兵燹。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_may_fourth",
+    "name": "五四运动",
+    "year": 1919,
+    "dynastyId": "dynasty_republic",
+    "category": "culture",
+    "summary": "巴黎和会拒绝中国诉求,北京学生 5 月 4 日游行抗议。新文化运动以\"民主与科学\"为旗帜,白话文取代文言,马克思主义传入。中国现代史开端。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_ccp_found",
+    "name": "中国共产党成立",
+    "year": 1921,
+    "dynastyId": "dynasty_republic",
+    "category": "politics",
+    "summary": "陈独秀、李大钊等在上海召开中共一大,十三位代表(代表全国五十七名党员)宣告中共成立。中国现代史最深刻的政治力量诞生。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_northern_expedition",
+    "name": "北伐战争 国民政府定都南京",
+    "year": 1926,
+    "dynastyId": "dynasty_republic",
+    "category": "war",
+    "summary": "蒋介石率国民革命军北伐,两年间击破吴佩孚、孙传芳、张作霖三大军阀。1928 年东北易帜,国民政府名义上统一中国。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_jiuyiba",
+    "name": "九一八事变 日本侵华",
+    "year": 1931,
+    "dynastyId": "dynasty_republic",
+    "category": "war",
+    "summary": "日本关东军炮击沈阳北大营,半年内占领东北全境,扶植伪满洲国。中国抗日战争由此发端,国府\"攘外必先安内\"政策饱受诟病。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_long_march",
+    "name": "红军长征",
+    "year": 1934,
+    "dynastyId": "dynasty_republic",
+    "category": "war",
+    "summary": "中央红军被迫撤离江西苏区,经云贵川藏陕,行二万五千里至陕北。损兵九成而存火种,毛泽东于遵义会议确立领导地位。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_anti_japan",
+    "name": "全面抗日战争",
+    "year": 1937,
+    "dynastyId": "dynasty_republic",
+    "category": "war",
+    "summary": "七七事变后日本全面侵华,南京大屠杀三十余万平民死。八年抗战中国军民死伤逾三千五百万,国共合作至 1945 年日本投降。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_roc_civil_war",
+    "name": "国共内战",
+    "year": 1946,
+    "dynastyId": "dynasty_republic",
+    "category": "war",
+    "summary": "抗战胜利后国共破裂,三年半全面内战。三大战役后国民政府败退台湾,共产党席卷大陆。中国当代政治格局成型。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

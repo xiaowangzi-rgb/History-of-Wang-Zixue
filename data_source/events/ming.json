@@ -1,0 +1,110 @@
+[
+  {
+    "id": "event_ming_zhu_yuanzhang",
+    "name": "朱元璋建立明朝",
+    "year": 1368,
+    "dynastyId": "dynasty_ming",
+    "category": "politics",
+    "summary": "贫农出身的朱元璋于应天(南京)称帝,国号大明,年号洪武。出身布衣而成开国之君,中国历史上罕见。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_jingnan",
+    "name": "靖难之役 永乐迁都",
+    "year": 1399,
+    "dynastyId": "dynasty_ming",
+    "category": "war",
+    "summary": "燕王朱棣以\"清君侧\"为名起兵,四年后攻入南京,建文帝失踪。朱棣即位为永乐帝,1421 年迁都北京。中国政治中心北移。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_zheng_he",
+    "name": "郑和下西洋",
+    "year": 1405,
+    "dynastyId": "dynasty_ming",
+    "category": "diplomacy",
+    "summary": "宦官郑和率二百余艘宝船、两万七千人七下西洋,远抵东非肯尼亚海岸。早于哥伦布近百年,中国古代规模最大的海上远航。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_yongle_dadian",
+    "name": "永乐大典编纂完成",
+    "year": 1408,
+    "dynastyId": "dynasty_ming",
+    "category": "culture",
+    "summary": "永乐帝命解缙等召集两千余学者历时五年编成《永乐大典》二万二千卷,集中国古代文献之大成。后多散佚,残卷今存四百余册。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_tumu",
+    "name": "土木堡之变",
+    "year": 1449,
+    "dynastyId": "dynasty_ming",
+    "category": "war",
+    "summary": "宦官王振挟英宗亲征瓦剌,五十万大军于土木堡覆没,英宗被俘。于谦挽天倾,北京保卫战守住江山。明转衰之始。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_wang_yangming",
+    "name": "王阳明创心学",
+    "year": 1508,
+    "dynastyId": "dynasty_ming",
+    "category": "culture",
+    "summary": "王阳明谪龙场驿大悟\"心即理\",提出\"知行合一\"\"致良知\",创阳明心学。冲击程朱理学正统,影响近代东亚思想巨大。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_zhang_juzheng",
+    "name": "张居正改革",
+    "year": 1573,
+    "dynastyId": "dynasty_ming",
+    "category": "politics",
+    "summary": "万历首辅张居正推行考成法整顿吏治、一条鞭法简化赋税。十年间国库充盈、边备整肃,延明祚数十年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_li_shizhen",
+    "name": "李时珍《本草纲目》",
+    "year": 1578,
+    "dynastyId": "dynasty_ming",
+    "category": "science",
+    "summary": "李时珍历时二十七年完成《本草纲目》五十二卷,载药物一千八百九十二种。达尔文誉为\"中国百科全书\",被译为多种外文。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ming_li_zicheng",
+    "name": "李自成入北京 崇祯自缢",
+    "year": 1644,
+    "dynastyId": "dynasty_ming",
+    "category": "war",
+    "summary": "李自成农民军攻入北京,崇祯帝煤山自缢,明亡。吴三桂引清兵入关,李自成败退。中国进入明清易代大动荡。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

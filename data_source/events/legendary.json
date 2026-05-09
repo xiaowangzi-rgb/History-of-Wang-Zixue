@@ -1,0 +1,38 @@
+[
+  {
+    "id": "event_legendary_huangdi",
+    "name": "黄帝大战蚩尤(传说)",
+    "year": -2500,
+    "dynastyId": "dynasty_legendary",
+    "category": "war",
+    "summary": "传说中黄帝部落与蚩尤部落在涿鹿之野交战,黄帝得胜成为华夏共主。后世中国人自称\"炎黄子孙\"由此而来。考古无定论,留作传说。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_yao_shun",
+    "name": "尧舜禅让(传说)",
+    "year": -2200,
+    "dynastyId": "dynasty_legendary",
+    "category": "politics",
+    "summary": "传说尧禅位于舜、舜禅位于禹,皆择贤而非传子,为儒家理想中的\"大同之世\"。后世以\"尧舜\"为圣君标准。考古证据缺乏。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_dayu",
+    "name": "大禹治水(半信史)",
+    "year": -2100,
+    "dynastyId": "dynasty_legendary",
+    "category": "science",
+    "summary": "禹疏浚河道治水十三年,三过家门而不入,功成被舜禅位为天子。开启夏代世袭制。半信史,考古上二里头文化或与其相关。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

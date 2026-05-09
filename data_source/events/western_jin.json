@@ -1,0 +1,62 @@
+[
+  {
+    "id": "event_wj_sima_yan",
+    "name": "司马炎篡魏 建立西晋",
+    "year": 266,
+    "dynastyId": "dynasty_western_jin",
+    "category": "politics",
+    "summary": "司马炎逼魏元帝禅位,建国号晋,定都洛阳。司马氏经三代经营终代曹魏。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wj_taikang",
+    "name": "太康之治",
+    "year": 280,
+    "dynastyId": "dynasty_western_jin",
+    "category": "politics",
+    "summary": "灭吴后短暂统一,晋武帝改元太康。十年间天下太平、人口增长,但豪门世族奢靡之风滋长,埋下衰败之根。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wj_eight_kings",
+    "name": "八王之乱",
+    "year": 291,
+    "dynastyId": "dynasty_western_jin",
+    "category": "war",
+    "summary": "晋惠帝昏弱,皇后贾南风专政,司马氏八位诸侯王为争权先后混战十六年。中央崩坏,北方民族趁机入主中原。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wj_yongjia",
+    "name": "永嘉之乱",
+    "year": 311,
+    "dynastyId": "dynasty_western_jin",
+    "category": "war",
+    "summary": "匈奴汉国刘聪部攻陷洛阳,俘晋怀帝,屠杀王公士民三万余人,史称永嘉之乱。中原士族大举南迁,衣冠南渡。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wj_fall",
+    "name": "西晋灭亡",
+    "year": 316,
+    "dynastyId": "dynasty_western_jin",
+    "category": "war",
+    "summary": "匈奴攻陷长安,晋愍帝出降被杀。西晋立国五十一年而亡,中原进入十六国大混乱时期。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

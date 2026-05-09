@@ -6,7 +6,7 @@
   "required": ["id", "name", "dynastyId"],
   "additionalProperties": true,
   "properties": {
-    "id": { "type": "string", "pattern": "^person_[a-z0-9_]+$" },
+    "id": { "type": "string", "pattern": "^person_[\\w\\u4e00-\\u9fff\\-]+$" },
     "name": { "type": "string", "minLength": 1 },
     "nameEn": { "type": ["string", "null"] },
     "birthYear": { "type": ["integer", "null"] },

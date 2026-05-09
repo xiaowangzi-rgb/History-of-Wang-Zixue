@@ -1,0 +1,59 @@
+[
+  {
+    "id": "person_sui_隋高祖",
+    "name": "隋高祖",
+    "dynastyId": "dynasty_sui",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 581,
+    "birthYear": 581,
+    "yearUncertainty": "year",
+    "reignEnd": 604,
+    "deathYear": 604,
+    "_rawPortraitPath": "隋/隋高祖"
+  },
+  {
+    "id": "person_sui_隋世祖",
+    "name": "隋世祖",
+    "dynastyId": "dynasty_sui",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 604,
+    "birthYear": 604,
+    "yearUncertainty": "year",
+    "reignEnd": 618,
+    "deathYear": 618
+  },
+  {
+    "id": "person_sui_恭皇帝",
+    "name": "恭皇帝",
+    "dynastyId": "dynasty_sui",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 617,
+    "birthYear": 617,
+    "yearUncertainty": "year",
+    "reignEnd": 618,
+    "deathYear": 618
+  },
+  {
+    "id": "person_sui_杨侗",
+    "name": "杨侗",
+    "dynastyId": "dynasty_sui",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 618,
+    "birthYear": 618,
+    "yearUncertainty": "year",
+    "reignEnd": 619,
+    "deathYear": 619
+  }
+]

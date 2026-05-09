@@ -1,0 +1,50 @@
+[
+  {
+    "id": "event_xin_wang_mang_usurp",
+    "name": "王莽篡汉 建立新朝",
+    "year": 9,
+    "dynastyId": "dynasty_xin",
+    "category": "politics",
+    "summary": "外戚王莽以摄政名义代汉自立,改国号\"新\",成为中国历史上少数非禅让而以儒家\"复古\"理念合法化的篡位者。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xin_reform",
+    "name": "王莽改制 复古失败",
+    "year": 10,
+    "dynastyId": "dynasty_xin",
+    "category": "politics",
+    "summary": "王莽推行王田制(土地国有)、奴婢禁卖、五均六筦(国营工商)、屡改币制,效仿《周礼》,但脱离实际、操之过急,导致经济崩溃、民怨沸腾。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xin_red_eyebrows",
+    "name": "绿林赤眉起义",
+    "year": 17,
+    "dynastyId": "dynasty_xin",
+    "category": "war",
+    "summary": "天凤四年,荆州绿林军、青州赤眉军先后举兵,饥民数十万响应。新朝灭亡,中原大乱十余年,东汉得以重建。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xin_wang_mang_death",
+    "name": "新朝灭亡 王莽身死",
+    "year": 23,
+    "dynastyId": "dynasty_xin",
+    "category": "politics",
+    "summary": "更始元年,绿林军入长安,王莽于渐台被乱兵所杀,首级悬于宛市。新朝立国十五年而亡,中国唯一的\"复古王朝\"实验破产。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

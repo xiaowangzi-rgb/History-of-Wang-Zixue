@@ -1,0 +1,110 @@
+[
+  {
+    "id": "event_tang_li_yuan",
+    "name": "李渊建立唐朝",
+    "year": 618,
+    "dynastyId": "dynasty_tang",
+    "category": "politics",
+    "summary": "李渊于长安称帝,建国号唐。其次子李世民功盖天下,武德九年发动玄武门之变,夺嫡即位,是为唐太宗。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_zhenguan",
+    "name": "贞观之治",
+    "year": 627,
+    "dynastyId": "dynasty_tang",
+    "category": "politics",
+    "summary": "唐太宗李世民以\"水能载舟亦能覆舟\"为治国理念,重用魏征、房玄龄等贤臣,虚心纳谏、轻徭薄赋。二十三年间夜不闭户,胡人称\"天可汗\",中国历史上最被推崇的治世。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_xuanzang",
+    "name": "玄奘西行求法",
+    "year": 629,
+    "dynastyId": "dynasty_tang",
+    "category": "religion",
+    "summary": "玄奘冒禁西出玉门,经西域、中亚至天竺取经。十七年携经像六百五十七部归国,主持长安译场二十年,著《大唐西域记》。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_wu_zetian",
+    "name": "武则天称帝 建立武周",
+    "year": 690,
+    "dynastyId": "dynasty_tang",
+    "category": "politics",
+    "summary": "武则天废唐睿宗,改国号周,定都洛阳,成为中国历史上唯一正统女皇帝。在位十五年,推动科举、抑制门阀、重用寒门。705 年神龙政变后归政唐中宗。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_kaiyuan",
+    "name": "开元盛世",
+    "year": 713,
+    "dynastyId": "dynasty_tang",
+    "category": "politics",
+    "summary": "唐玄宗李隆基前期任用姚崇、宋璟等贤相,励精图治三十年。开元天宝年间国力达盛唐顶峰,人口八千万,长安成为世界最大都市。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_li_bai",
+    "name": "盛唐诗歌 李白杜甫",
+    "year": 750,
+    "dynastyId": "dynasty_tang",
+    "category": "culture",
+    "summary": "李白(701-762)\"诗仙\"放浪形骸,杜甫(712-770)\"诗圣\"忧国忧民。两人一相会便如\"青天里太阳和月亮走碰头\",代表中国古典诗歌的巅峰。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_anshi",
+    "name": "安史之乱",
+    "year": 755,
+    "dynastyId": "dynasty_tang",
+    "category": "war",
+    "summary": "范阳节度使安禄山以诛杨国忠为名起兵,攻陷长安。玄宗奔蜀,马嵬坡缢死杨贵妃。八年内乱致大唐人口锐减、藩镇割据,盛极而衰。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_huang_chao",
+    "name": "黄巢起义",
+    "year": 875,
+    "dynastyId": "dynasty_tang",
+    "category": "war",
+    "summary": "盐贩黄巢率众起义,攻陷长安,僖宗奔蜀。十年内乱沉重打击门阀世族,大唐已名存实亡,各地藩镇竞相争雄。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_tang_fall",
+    "name": "朱温篡唐",
+    "year": 907,
+    "dynastyId": "dynasty_tang",
+    "category": "politics",
+    "summary": "宣武节度使朱温弑唐昭宗,逼哀帝禅位,建国号梁(后梁),唐立国二百八十九年而亡。中国进入五代十国大分裂。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

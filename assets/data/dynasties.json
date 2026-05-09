@@ -97,7 +97,7 @@
   {
     "id": "dynasty_western_han",
     "name": "西汉",
-    "startYear": 24,
+    "startYear": -202,
     "endYear": 9,
     "color": "#B8473C",
     "colorDark": "#D45C50",

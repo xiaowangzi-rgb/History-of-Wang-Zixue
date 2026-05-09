@@ -18,9 +18,9 @@
       "type": "string",
       "enum": ["politics", "war", "culture", "science", "economy", "diplomacy", "person", "religion", "other"]
     },
-    "summary": { "type": "string", "minLength": 50, "maxLength": 1000 },
+    "summary": { "type": "string", "minLength": 30, "maxLength": 1000 },
     "body": { "type": ["string", "null"], "maxLength": 8000 },
-    "participants": { "type": "array", "items": { "type": "string", "pattern": "^person_[a-z0-9_]+$" } },
+    "participants": { "type": "array", "items": { "type": "string", "pattern": "^person_[\\w\\u4e00-\\u9fff\\-]+$" } },
     "locationName": { "type": ["string", "null"] },
     "historicity": { "type": "string", "enum": ["historical", "semi-historical", "legendary"] },
     "tags": { "type": "array", "items": { "type": "string" } },

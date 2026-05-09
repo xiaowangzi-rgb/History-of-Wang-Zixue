@@ -1,0 +1,110 @@
+[
+  {
+    "id": "event_prc_found",
+    "name": "中华人民共和国成立",
+    "year": 1949,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "politics",
+    "summary": "1949 年 10 月 1 日,毛泽东于北京天安门城楼宣告中华人民共和国成立。中国结束百余年战乱,大陆进入新政权治下的和平建设时期。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_korean_war",
+    "name": "抗美援朝",
+    "year": 1950,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "war",
+    "summary": "朝鲜战争爆发后,中国派志愿军入朝作战三年。打破了美军不可战胜的神话,但伤亡逾三十万,确立了中国大陆在东亚的地缘政治地位。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_land_reform",
+    "name": "土地改革",
+    "year": 1950,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "economy",
+    "summary": "全国农村开展土改运动,三亿农民分得七亿亩土地,延续两千年的封建土地制度终结。同期\"镇反\"\"三反五反\"清算旧社会力量。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_first_5year",
+    "name": "第一个五年计划",
+    "year": 1953,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "economy",
+    "summary": "学习苏联模式,集中力量发展重工业。156 项苏援工程奠定工业化基础。同期完成对农业、手工业、资本主义工商业的社会主义改造。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_great_leap",
+    "name": "大跃进",
+    "year": 1958,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "economy",
+    "summary": "\"超英赶美\"全民大炼钢铁、人民公社化运动,严重违背经济规律。三年自然灾害(1959-1961)导致严重饥荒,非正常死亡数千万。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_atom_bomb",
+    "name": "两弹一星 原子弹试爆成功",
+    "year": 1964,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "science",
+    "summary": "1964 年罗布泊原子弹试爆成功,1967 年氢弹、1970 年东方红一号卫星相继问世。中国跻身核大国与航天国行列,确立大国地位。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_cultural_revolution",
+    "name": "文化大革命",
+    "year": 1966,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "politics",
+    "summary": "1966-1976 年十年浩劫,大量传统文化遭破坏,知识分子受迫害,经济停滞。结束于 1976 年毛泽东去世、四人帮被捕。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_china_us",
+    "name": "中美关系正常化",
+    "year": 1972,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "diplomacy",
+    "summary": "尼克松访华,中美发表《上海公报》。同期中国恢复联合国席位,与日本建交。冷战格局下中国战略地位提升,为日后改革开放奠基。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_prc_third_plenum",
+    "name": "十一届三中全会 改革开放",
+    "year": 1978,
+    "dynastyId": "dynasty_prc_pre_reform",
+    "category": "politics",
+    "summary": "1978 年 12 月,中共十一届三中全会决定将工作重心转到经济建设,开启改革开放。本 app 时段终点。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

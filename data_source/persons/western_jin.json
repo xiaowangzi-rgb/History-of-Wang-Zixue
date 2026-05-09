@@ -1,0 +1,72 @@
+[
+  {
+    "id": "person_western_jin_晋世祖",
+    "name": "晋世祖",
+    "dynastyId": "dynasty_western_jin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 265,
+    "birthYear": 265,
+    "yearUncertainty": "year",
+    "reignEnd": 290,
+    "deathYear": 290
+  },
+  {
+    "id": "person_western_jin_孝惠皇帝",
+    "name": "孝惠皇帝",
+    "dynastyId": "dynasty_western_jin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 290,
+    "birthYear": 290,
+    "yearUncertainty": "year",
+    "reignEnd": 306,
+    "deathYear": 306
+  },
+  {
+    "id": "person_western_jin_司马伦",
+    "name": "司马伦",
+    "dynastyId": "dynasty_western_jin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 301,
+    "birthYear": 301,
+    "yearUncertainty": "year",
+    "reignEnd": 301,
+    "deathYear": 301
+  },
+  {
+    "id": "person_western_jin_孝懷皇帝",
+    "name": "孝懷皇帝",
+    "dynastyId": "dynasty_western_jin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 306,
+    "birthYear": 306,
+    "yearUncertainty": "year",
+    "reignEnd": 311,
+    "deathYear": 311
+  },
+  {
+    "id": "person_western_jin_孝愍皇帝",
+    "name": "孝愍皇帝",
+    "dynastyId": "dynasty_western_jin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 313,
+    "birthYear": 313,
+    "yearUncertainty": "year",
+    "reignEnd": 316,
+    "deathYear": 316
+  }
+]

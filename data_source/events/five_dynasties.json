@@ -1,0 +1,79 @@
+[
+  {
+    "id": "event_5d_zhu_wen",
+    "name": "朱温建立后梁",
+    "year": 907,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "regimeId": "regime_later_liang",
+    "category": "politics",
+    "summary": "朱温代唐自立,建国号梁(史称后梁),五代纪元开始。北方五代相继更替五十三年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_li_cunxu",
+    "name": "李存勖灭后梁 建后唐",
+    "year": 923,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "regimeId": "regime_later_tang",
+    "category": "war",
+    "summary": "沙陀人李存勖灭后梁,建国号唐(后唐),自命大唐继承者。三年后为伶官之变所弑,后唐由养子李嗣源继位。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_shi_jingtang",
+    "name": "石敬瑭割燕云十六州",
+    "year": 936,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "regimeId": "regime_later_jin",
+    "category": "war",
+    "summary": "河东节度使石敬瑭借契丹之力灭后唐,建后晋,以\"儿皇帝\"之耻割燕云十六州予契丹。中原失去北方屏障,影响后世四百年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_southern_tang",
+    "name": "南唐李煜 词坛绝唱",
+    "year": 961,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "category": "culture",
+    "summary": "南唐后主李煜词风婉约凄绝,\"问君能有几多愁,恰似一江春水向东流\",北宋灭南唐后被毒杀。其词承上启下,影响北宋词坛。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_chai_rong",
+    "name": "周世宗柴荣改革",
+    "year": 954,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "regimeId": "regime_later_zhou",
+    "category": "politics",
+    "summary": "柴荣即位后整顿吏治、招抚流民、北伐契丹收三州三关,展现统一气象。在位仅六年病逝,英年早逝,统一大业由赵匡胤完成。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_chen_qiao",
+    "name": "陈桥兵变 黄袍加身",
+    "year": 960,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "regimeId": "regime_later_zhou",
+    "category": "politics",
+    "summary": "周世宗死后,殿前都点检赵匡胤率军北征,军行陈桥驿,部下以黄袍加身。回师开封,迫周恭帝禅位,建宋。五代终结。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "event_song_zhao_kuangyin",
+    "name": "赵匡胤建立北宋",
+    "year": 960,
+    "dynastyId": "dynasty_song",
+    "category": "politics",
+    "summary": "赵匡胤陈桥兵变后于开封称帝,国号宋。次年\"杯酒释兵权\"解除诸将兵权,确立\"重文抑武\"祖宗之法,影响两宋三百年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_unification",
+    "name": "北宋统一中原",
+    "year": 979,
+    "dynastyId": "dynasty_song",
+    "category": "war",
+    "summary": "宋太宗灭北汉,基本统一中原。然燕云十六州始终未能收复,与辽对峙百年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_chanyuan",
+    "name": "澶渊之盟",
+    "year": 1004,
+    "dynastyId": "dynasty_song",
+    "category": "diplomacy",
+    "summary": "辽军南下至澶州,宋真宗御驾亲征。宋辽订立和约,宋每年输辽银十万两、绢二十万匹,换得百年和平。开\"岁币\"先例。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_wang_anshi",
+    "name": "王安石变法",
+    "year": 1069,
+    "dynastyId": "dynasty_song",
+    "category": "politics",
+    "summary": "宋神宗任王安石为相,推行青苗、募役、保甲、方田均税等新法,意图富国强兵。新旧党争激烈,十六年后元祐更化尽废。中国古代规模最大的改革之一。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_su_shi",
+    "name": "苏轼 文坛宗主",
+    "year": 1080,
+    "dynastyId": "dynasty_song",
+    "category": "culture",
+    "summary": "苏轼诗词文书画俱绝,\"大江东去\"开豪放词风。\"乌台诗案\"贬黄州后\"一蓑烟雨任平生\",代表宋代士大夫精神巅峰。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_jingkang",
+    "name": "靖康之变",
+    "year": 1127,
+    "dynastyId": "dynasty_song",
+    "category": "war",
+    "summary": "金兵攻陷开封,徽钦二帝及三千余皇族被掳北上,北宋亡。康王赵构南渡建立南宋,定都临安。中国南北再度分裂。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_yue_fei",
+    "name": "岳飞抗金 风波亭遇害",
+    "year": 1142,
+    "dynastyId": "dynasty_song",
+    "category": "war",
+    "summary": "岳飞率岳家军北伐,郾城大捷。秦桧十二道金牌召回,以\"莫须有\"罪名缢杀于风波亭。\"撼山易,撼岳家军难\"。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_zhu_xi",
+    "name": "朱熹集理学大成",
+    "year": 1190,
+    "dynastyId": "dynasty_song",
+    "category": "culture",
+    "summary": "朱熹集北宋周敦颐、二程之学,作《四书章句集注》,确立理学体系。元明清三代官方正统思想,影响东亚文明八百年。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_movable_type",
+    "name": "毕昇发明活字印刷",
+    "year": 1045,
+    "dynastyId": "dynasty_song",
+    "category": "science",
+    "summary": "平民毕昇创泥活字印刷术,沈括《梦溪笔谈》载之。比谷腾堡早四百年,与造纸、火药、指南针并称四大发明。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_song_yashan",
+    "name": "崖山海战 南宋灭亡",
+    "year": 1279,
+    "dynastyId": "dynasty_song",
+    "category": "war",
+    "summary": "宋元崖山决战,宋军战败,丞相陆秀夫负幼帝赵昺投海,十万军民相随殉国。\"崖山之后无中国\"之说由此而来。南宋立国一百五十二年终。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

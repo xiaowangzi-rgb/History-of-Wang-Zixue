@@ -1,0 +1,44 @@
+[
+  {
+    "id": "person_xin_王莽",
+    "name": "王莽",
+    "dynastyId": "dynasty_xin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 9,
+    "birthYear": 9,
+    "yearUncertainty": "year",
+    "reignEnd": 23,
+    "deathYear": 23
+  },
+  {
+    "id": "person_xin_刘玄",
+    "name": "刘玄",
+    "dynastyId": "dynasty_xin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 23,
+    "birthYear": 23,
+    "yearUncertainty": "year",
+    "reignEnd": 25,
+    "deathYear": 25
+  },
+  {
+    "id": "person_xin_刘盆子",
+    "name": "刘盆子",
+    "dynastyId": "dynasty_xin",
+    "role": "君主",
+    "historicity": "historical",
+    "_schemaVersion": "v0.6",
+    "source": "people-portraits-index",
+    "reignStart": 25,
+    "birthYear": 25,
+    "yearUncertainty": "year",
+    "reignEnd": 27,
+    "deathYear": 27
+  }
+]

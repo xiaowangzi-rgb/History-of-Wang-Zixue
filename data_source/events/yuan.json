@@ -1,0 +1,98 @@
+[
+  {
+    "id": "event_yuan_genghis",
+    "name": "成吉思汗建立蒙古",
+    "year": 1206,
+    "dynastyId": "dynasty_yuan",
+    "category": "politics",
+    "summary": "铁木真统一蒙古各部,于斡难河源召开忽里勒台大会,被尊为成吉思汗,建立大蒙古国。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_west_expedition",
+    "name": "蒙古西征",
+    "year": 1219,
+    "dynastyId": "dynasty_yuan",
+    "category": "war",
+    "summary": "成吉思汗、拔都、旭烈兀三次西征,先后灭花剌子模、罗斯诸国、阿拉伯阿拔斯王朝,版图横跨欧亚。沟通东西方,催生欧洲对东方的认知。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_kublai",
+    "name": "忽必烈建立元朝",
+    "year": 1271,
+    "dynastyId": "dynasty_yuan",
+    "category": "politics",
+    "summary": "忽必烈取《易经》\"大哉乾元\"之意,改国号大元,定都大都(北京)。八年后灭南宋统一中国,首次北方游牧民族完整入主中原。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_marco_polo",
+    "name": "马可·波罗来华",
+    "year": 1275,
+    "dynastyId": "dynasty_yuan",
+    "category": "diplomacy",
+    "summary": "威尼斯商人马可·波罗经丝路抵大都,在元朝任职十七年。归国后狱中口述《马可·波罗游记》,西方第一次系统了解中国。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_4_classes",
+    "name": "推行四等人制",
+    "year": 1271,
+    "dynastyId": "dynasty_yuan",
+    "category": "politics",
+    "summary": "元廷将治下民众分蒙古、色目、汉人、南人四等,政治权利与刑罚不一。深化民族隔阂,埋下元末汉人反抗根源。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_drama",
+    "name": "元曲鼎盛 关汉卿《窦娥冤》",
+    "year": 1300,
+    "dynastyId": "dynasty_yuan",
+    "category": "culture",
+    "summary": "汉族文人因仕途阻塞转入戏曲创作,关汉卿、马致远、白朴、郑光祖\"元曲四大家\"。杂剧成为继唐诗宋词后又一代表性文学形式。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_red_turban",
+    "name": "红巾军起义",
+    "year": 1351,
+    "dynastyId": "dynasty_yuan",
+    "category": "war",
+    "summary": "韩山童、刘福通以白莲教为旗号起义,众皆头裹红巾。十年战乱使元廷失去统治根基,朱元璋部于群雄中崛起。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_fall",
+    "name": "元朝退出中原",
+    "year": 1368,
+    "dynastyId": "dynasty_yuan",
+    "category": "war",
+    "summary": "朱元璋大将徐达攻克大都,元顺帝北遁草原,史称北元。元立国九十八年,其继承者北元政权延续至 1388 年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

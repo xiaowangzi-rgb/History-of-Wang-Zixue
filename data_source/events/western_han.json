@@ -1,0 +1,86 @@
+[
+  {
+    "id": "event_xh_liu_bang_emperor",
+    "name": "刘邦称帝 建立汉朝",
+    "year": -202,
+    "dynastyId": "dynasty_western_han",
+    "category": "politics",
+    "summary": "楚汉相争四年,刘邦垓下击败项羽,二月即皇帝位于氾水之阳,定都长安,国号汉。汉承秦制,行郡国并行制。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_wenjing",
+    "name": "文景之治",
+    "year": -180,
+    "dynastyId": "dynasty_western_han",
+    "category": "politics",
+    "summary": "汉文帝、景帝两朝四十年间,行黄老之术、轻徭薄赋、与民休息,国库充盈,人口翻倍,为汉武帝盛世奠定物质基础。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_seven_kingdoms",
+    "name": "七国之乱",
+    "year": -154,
+    "dynastyId": "dynasty_western_han",
+    "category": "war",
+    "summary": "景帝采晁错削藩之策,吴王刘濞联合楚、赵等七国以\"清君侧\"为名叛乱。周亚夫三月平定,中央集权大为加强。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_dushu_rushu",
+    "name": "罢黜百家 独尊儒术",
+    "year": -134,
+    "dynastyId": "dynasty_western_han",
+    "category": "culture",
+    "summary": "汉武帝采董仲舒议,设五经博士,以儒家学说为官方意识形态。儒学自此成为两千年中国主流思想。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_zhang_qian",
+    "name": "张骞通西域",
+    "year": -138,
+    "dynastyId": "dynasty_western_han",
+    "category": "diplomacy",
+    "summary": "汉武帝派张骞出使大月氏,前后两次共历时近三十年,沟通中原与西域,开辟丝绸之路,中外文化交流自此大启。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_huo_qubing",
+    "name": "卫青霍去病北击匈奴",
+    "year": -119,
+    "dynastyId": "dynasty_western_han",
+    "category": "war",
+    "summary": "汉武帝元狩四年,卫青、霍去病分东西两路远征漠北,大破匈奴主力,封狼居胥。匈奴远遁,漠南无王庭,汉北疆压力大减。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xh_sima_qian",
+    "name": "司马迁完成《史记》",
+    "year": -91,
+    "dynastyId": "dynasty_western_han",
+    "category": "culture",
+    "summary": "司马迁忍宫刑之辱,历十三年完成《史记》一百三十篇,首创纪传体通史。鲁迅誉为\"史家之绝唱,无韵之离骚\"。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

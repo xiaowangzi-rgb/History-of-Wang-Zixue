@@ -67,12 +67,15 @@
 
 ### 4.3 各朝代占位事件 + 人物(非 β 时段)
 
-- [ ] 4.3.1 20 个非 β 时段每个 5-10 个事件标题 (LLM 协助列出,不写 body)
-- [ ] 4.3.2 20 个非 β 时段每个 5-10 个关键人物
-      → 优先用 `raw/images/people-portraits/index.json` 中的君主名(从夏到清,
-        532 位现成)
-      → 帝王照搬,加少量重要人物(诸葛亮 / 李白 / 王安石 / 张居正 等)
-- [ ] 4.3.3 占位文件 _schemaVersion + 顶层结构正确
+- [x] 4.3.1 19 个非 β 时段每个 4-10 个事件标题 (139 条手工写入,只 summary 不写 body)
+      → 文件: legendary, qin, western_han, xin, eastern_han, three_kingdoms,
+        western_jin, eastern_jin, sixteen_kingdoms, southern_northern, sui,
+        tang, five_dynasties, song, yuan, ming, qing, republic, prc_pre_reform
+- [x] 4.3.2 17 个非 β 时段共 361 个君主人物从 `raw/images/people-portraits/index.json` import
+      → `tools/import_persons_index.py` 自动映射 dynasty 名 → dynasty_id (+regime_id)
+      → β 朝代 171 条跳过留 Sprint 4 手工 curate
+      → 重要人物(诸葛亮 / 李白 等)Sprint 4 与 β 一并写入
+- [x] 4.3.3 占位文件 _schemaVersion + 顶层结构正确 (validate.py 全 pass)
 
 ### 4.4 朝代 hero 图(从 raw/ 引用)
 

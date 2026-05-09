@@ -1,0 +1,86 @@
+[
+  {
+    "id": "event_eh_guangwu_restore",
+    "name": "光武中兴",
+    "year": 25,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "politics",
+    "summary": "刘秀于鄗县称帝,定都洛阳,恢复汉号,史称东汉。其在位期间整顿吏治、释放奴婢、轻徭薄赋,人称光武中兴。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_ban_chao",
+    "name": "班超经营西域",
+    "year": 73,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "diplomacy",
+    "summary": "班超率三十六骑出使西域,以\"不入虎穴焉得虎子\"之勇定鄯善、于阗等国,前后三十一年使西域五十余国归附,丝路重通。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_cailun_paper",
+    "name": "蔡伦改进造纸术",
+    "year": 105,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "science",
+    "summary": "宦官蔡伦总结前人经验,以树皮、麻头、敝布、鱼网为原料造纸,大幅降低成本与提升质量。\"蔡侯纸\"自此普及,深刻改变中国乃至世界文明史。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_zhang_heng",
+    "name": "张衡发明地动仪",
+    "year": 132,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "science",
+    "summary": "太史令张衡造候风地动仪,以铜铸,内有都柱,外列八龙,首次实现地震方位远程监测。同期作《二京赋》《灵宪》,博通天文文学。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_dangren",
+    "name": "党锢之祸",
+    "year": 166,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "politics",
+    "summary": "桓帝、灵帝两朝,宦官集团构陷士大夫为\"党人\",大规模禁锢、捕杀。东汉士林精英遭重创,统治根基动摇。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_yellow_turban",
+    "name": "黄巾起义",
+    "year": 184,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "张角以太平道发动起义,信徒数十万头戴黄巾,呼\"苍天已死,黄天当立\"。东汉中央调动失去威信,各地豪强趁机崛起,军阀割据格局成型。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_dong_zhuo",
+    "name": "董卓乱政 群雄逐鹿",
+    "year": 189,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "灵帝崩,何进召董卓入京诛宦,反被董卓废少帝、立献帝、迁都长安。十八路诸侯讨董,东汉名存实亡,三国鼎立的序幕揭开。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]
