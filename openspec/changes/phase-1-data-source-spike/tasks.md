@@ -57,41 +57,56 @@
 
 > 这是 Phase 1 的"创造性工作量",约 1-2 个月业余时间。
 
-### 5.1 尧舜禹时期(传说时代)
+### 5.1 尧舜禹(雾化骨架,**不深耕**)
 
-- [ ] 5.1.1 列出 5-10 件关键事件: 大禹治水 / 禅让 / 三皇五帝传说 / ...
-- [ ] 5.1.2 列出 5-10 个关键人物: 尧 / 舜 / 禹 / 黄帝 / 炎帝 / ...
-- [ ] 5.1.3 每件事 LLM 起草 body → `staged/llm-drafts/legendary/`
-- [ ] 5.1.4 人工校对 → `data_source/events/legendary.json`,所有 historicity
-      = "legendary"
+- [ ] 5.1.1 录入 5-10 个传说事件占位(name + year approx),historicity = legendary
+- [ ] 5.1.2 录入 5-10 个传说人物占位(name + role)
+- [ ] 5.1.3 不写 body / portrait,UI 雾化呈现
 
-### 5.2 夏
+### 5.2 夏(深耕)
 
-- [ ] 5.2.1 列出 5-10 件关键事件: 启杀伯益 / 太康失国 / 少康中兴 / 夏桀亡 / ...
-- [ ] 5.2.2 列出 5-10 个关键人物: 启 / 少康 / 桀 / ...
-- [ ] 5.2.3 LLM 起草 → 校对 → `data_source/events/xia.json`(部分 historicity
-      = "semi-historical")
+- [ ] 5.2.1 列出 15-25 件关键事件: 大禹治水(historical 视角)/ 启杀伯益 /
+      太康失国 / 少康中兴 / 夏桀亡 / ...
+- [ ] 5.2.2 列出 8-12 个关键人物: 启 / 少康 / 桀 / 伊尹(夏末)/ ...
+- [ ] 5.2.3 LLM 双 pass 起草 (summary A 风格 + body C 风格)
+- [ ] 5.2.4 人工校对 → `data_source/events/xia.json`(部分 historicity = "semi-historical")
 
-### 5.3 商
+### 5.3 商(深耕)
 
-- [ ] 5.3.1 列出 10-20 件关键事件: 商汤灭夏 / 盘庚迁殷 / 武丁中兴 / 牧野之
-      战(商方视角)/ ...
-- [ ] 5.3.2 列出 10-15 个关键人物: 商汤 / 伊尹 / 盘庚 / 武丁 / 妇好 / 纣王 /
-      ...
-- [ ] 5.3.3 LLM 起草 → 校对 → `data_source/events/shang.json`
+- [ ] 5.3.1 列出 20-30 件关键事件: 商汤灭夏 / 盘庚迁殷 / 武丁中兴 / 妇好祭祀 /
+      纣王亡 / ...
+- [ ] 5.3.2 列出 10-15 个关键人物: 商汤 / 伊尹 / 盘庚 / 武丁 / 妇好 / 纣王 / ...
+- [ ] 5.3.3 LLM 双 pass 起草 → 校对 → `data_source/events/shang.json`
 
-### 5.4 西周
+### 5.4 西周(深耕)
 
-- [ ] 5.4.1 列出 15-30 件关键事件: 武王伐纣 / 周公东征 / 成康之治 / 国人暴动 /
+- [ ] 5.4.1 列出 20-30 件关键事件: 武王伐纣 / 周公东征 / 成康之治 / 国人暴动 /
       宣王中兴 / 平王东迁 / ...
 - [ ] 5.4.2 列出 10-15 个关键人物: 文王 / 武王 / 周公 / 姜尚 / 召公 / 厉王 /
       宣王 / 幽王 / ...
-- [ ] 5.4.3 LLM 起草 → 校对 → `data_source/events/western_zhou.json`
+- [ ] 5.4.3 LLM 双 pass 起草 → 校对 → `data_source/events/western_zhou.json`
 
-### 5.5 β 深耕字数检查
+### 5.5 东周春秋(深耕)
 
-- [ ] 5.5.1 跑 `tools/validate.py` 字数检查,确保所有 body 在 800-5000 字间
-- [ ] 5.5.2 修订 < 800 字的(扩写)和 > 5000 字的(拆分事件)
+- [ ] 5.5.1 列出 25-40 件关键事件: 平王东迁 / 春秋五霸(齐桓晋文宋襄秦穆楚庄)/
+      孔子周游 / 老子出关 / 子产改革 / 弭兵之会 / ...
+- [ ] 5.5.2 列出 15-20 个关键人物: 周平王 / 齐桓公 / 管仲 / 晋文公 / 楚庄王 /
+      孔子 / 老子 / 孙武 / 子产 / ...
+- [ ] 5.5.3 LLM 双 pass 起草 → 校对 → `data_source/events/eastern_zhou_spring_autumn.json`
+
+### 5.6 东周战国(深耕)
+
+- [ ] 5.6.1 列出 25-40 件关键事件: 三家分晋 / 田氏代齐 / 商鞅变法 / 围魏救赵 /
+      合纵连横 / 田单复国 / 秦灭六国 / 长平之战 / 屈原投江 / 荆轲刺秦 / ...
+- [ ] 5.6.2 列出 15-20 个关键人物: 商鞅 / 苏秦 / 张仪 / 孟子 / 庄子 / 荀子 /
+      韩非子 / 屈原 / 白起 / 廉颇 / 李斯 / 嬴政 / ...
+- [ ] 5.6.3 LLM 双 pass 起草 → 校对 → `data_source/events/eastern_zhou_warring_states.json`
+
+### 5.7 β 深耕字数 + 比例检查
+
+- [ ] 5.7.1 跑 `tools/validate.py` 字数检查(summary 150-500, body 800-5000)
+- [ ] 5.7.2 跑内容比例检查(政治军事合计 ≤ 40%,文化+科技+人物 ≥ 50%)
+- [ ] 5.7.3 修订 < 800 字的(扩写)和 > 5000 字的(拆分事件)
 
 ## 6. 校验工具
 
@@ -120,6 +135,19 @@
 - [ ] 8.2 实现 LLM 起草调用(DeepSeek-V3,环境变量 key)
 - [ ] 8.3 实现"草稿落 staged + source: llm-draft"
 - [ ] 8.4 实现"校对后导出到 data_source + source 改为 llm-reviewed"
+
+## 8.5 图片爬取 + 处理(Phase 1 必做范围)
+
+- [ ] 8.5.1 写 `tools/crawl_images.py` 基于 Scrapling
+- [ ] 8.5.2 实现自动评分排序(分辨率 + 来源 + 标签 + 文件名匹配)
+- [ ] 8.5.3 25 朝代 hero 图: 爬取 → 你 review 选 top1 → 落 `raw/images/dynasties/`
+      (~2 小时筛选)
+- [ ] 8.5.4 β 时段 ~50 关键人物 portrait: 爬取 → review 选 top1
+      (~3-5 小时筛选)
+- [ ] 8.5.5 写 `tools/process_images.py`(Pillow 压缩 + WebP 转换)
+- [ ] 8.5.6 跑 process_images,产出 `data_source/images/{dynasties,persons}/*.{webp,thumb.webp}`
+- [ ] 8.5.7 写 `tools/build_image_manifest.py`(SHA-256 hash + size)
+- [ ] 8.5.8 在 dynasty / person JSON 中填入 heroImage / portrait + source + license 字段
 
 ## 9. build 工具
 

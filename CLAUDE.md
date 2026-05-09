@@ -116,7 +116,8 @@ ETL 脚本支持 `--model` 参数,环节级别选择模型。
   - 1.0 doc 重定位 v3 — 工期重估 / 做题降级 / 加热更(本次完成)
   - 1.1 数据源调研(多源 merge): Hellohistory + Wikidata + 维基百科年表
   - 1.2 全 25 朝代骨架: 朝代/政权/树拓扑,每朝代占位 5-10 条事件 + 5-10 个关键人物
-  - 1.3 β 深耕: 尧舜禹 + 夏 + 商 + 西周 完整跑通(40-70 件事件,含 markdown body)
+  - 1.3 β 深耕: **夏 + 商 + 西周 + 东周(春秋战国)** 完整跑通(100-180 件事件,
+       含 markdown body) — 尧舜禹保留为雾化骨架,不深耕
   - 1.4 树图 UI MVP(Flutter + CustomPainter,git 风格,从下到上)
   - 1.5 数据热更模块(详见 `docs/data-update-strategy.md`):
        app 启动检查 GitHub Raw / R2 上的 manifest.json,
@@ -137,10 +138,14 @@ ETL 脚本支持 `--model` 参数,环节级别选择模型。
     / `mergedIntoRegimeId` 字段表达,UI 渲染为 git 风格树图
 
   **schema 当前版本**: v0.6(详见 `docs/data-schema.md`)
-  - 事件含 `summary` (150-300 字) + `body` (markdown,1-2K 常态,**5K 字硬上限**)
-  - body 结构: `## 起因 / ## 经过 / ## 后果` 三段(可扩 ## 影响 / ## 评价)
+  - 事件含 `summary` (150-500 字 **A 风格**) + `body` (markdown,800-2000 字常态,
+    **5K 字硬上限**,**C 风格**)
+  - **summary = A 风格**: 教科书味,精准,可背诵 — 树图卡片显示
+  - **body = C 风格**: 历史叙事 + 起因/经过/后果 + 现代史学视角 — 详情页显示
   - 事件参与者用 `participants` 字段(主角列表,引用 `personId`)
   - 人物 = first-class 实体(在树图朝代节点展开后作"成员列表"渲染)
+  - dynasty / person 含 hero 图 / portrait 字段(Phase 1 做朝代 hero + β 人物画像)
+  - 写作风格、内容比例、敏感边界详见 `docs/content-style-guide.md`
 
 ---
 
@@ -178,7 +183,9 @@ ETL 脚本支持 `--model` 参数,环节级别选择模型。
 | `docs/persona-design.md` | LLM 扮演历史人物的设计(⚠️ 已降级,Phase 后期) |
 | `docs/ui-design.md` | 时间线 / 朝代图 / 卡片 / 对话 UI 设计 |
 | `docs/timeline-design.md` | 时间线模块详细设计(Phase 1 主战场) |
-| `docs/data-source-survey.md` | 现成 GitHub 数据集调研 |
+| `docs/data-source-survey.md` | 现成 GitHub 数据集 + 图片源调研 |
+| `docs/content-style-guide.md` | **内容写作指南 + 比例 + 标准 + 敏感边界 + 图片** |
+| `docs/data-update-strategy.md` | 数据热更(GitHub Raw / 图片 manifest)|
 | `docs/data-pipeline.md` | 多源 ETL 流程 |
 | `docs/roadmap.md` | 阶段 0-4 路线图 |
 | `docs/decisions.md` | 关键决策记录(ADR 风格) |

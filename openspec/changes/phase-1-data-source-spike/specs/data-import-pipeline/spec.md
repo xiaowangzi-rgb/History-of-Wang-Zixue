@@ -138,12 +138,52 @@ Phase 1 β 深耕(尧舜禹+夏+商+西周)允许 LLM 协助起草事件 `body`�
 - **WHEN** 在 `raw/` 下 clone 任意仓库
 - **THEN** `git status` 不显示 `raw/` 下的内容
 
+### Requirement: 图片爬取与处理工具
+
+`tools/crawl_images.py` MUST 基于 [Scrapling](https://github.com/D4Vinci/Scrapling)
+库,从 Wikimedia Commons + 中文维基百科 拉取候选图片到 `raw/images/<entity_type>/<id>/`。
+其他来源(故宫 / 百度 / AI)Phase 1 不爬取。
+
+`tools/process_images.py` MUST 用 Pillow 把人工筛选后的图压缩到:
+- 主图: 800x600 WebP, ~150 KB
+- 缩略图: 320x240 WebP, ~30 KB
+输出到 `data_source/images/<entity_type>/<id>.{webp,thumb.webp}`。
+
+`tools/build_image_manifest.py` MUST 生成 `assets/images/_manifest.json`,
+含每张图的 SHA-256 hash + size,用于运行期热更检测。
+
+#### Scenario: 仅从 Wikimedia 爬
+
+- **WHEN** `tools/crawl_images.py` 运行
+- **THEN** 仅访问 `commons.wikimedia.org` 和 `*.wikipedia.org` 域名
+- **AND** 不访问百度 / 故宫 / 国博等其他源(Phase 2 评估)
+
+#### Scenario: 自动评分排序
+
+- **WHEN** 多张候选图被爬到
+- **THEN** 按规则打分(分辨率 / 来源 / 标签 / 文件名匹配),top1 为默认采用
+
+### Requirement: 图片热更模块
+
+`assets/images/_manifest.json` MUST 是独立 manifest(不与数据 manifest 混在一起),
+让运行期可以**懒加载**(按朝代展开时才下载该朝代图)。
+
+#### Scenario: 图片 manifest 独立
+
+- **WHEN** `tools/build.py` 完成
+- **THEN** `assets/images/_manifest.json` 存在,与
+  `assets/data/manifest.json` 分开
+- **AND** 图片 manifest 含 `entity_id` → `{hash, size, type}` 映射
+
 ### Requirement: Phase 1 流水线最小性
 
-Phase 1 流水线 SHALL 仅含: import → merge → validate → build。**不含**:
+Phase 1 流水线 SHALL 仅含: import → merge → validate → build →
+crawl_images → process_images → build_image_manifest。**不含**:
 - CBDB 抽取(Phase 3)
 - LLM 富化产生骨架数据(本期 LLM 仅作 β 深耕的起草助手)
 - chinese-poetry 文学家抽取(Phase 3)
+- 事件场景图爬取(Phase 2 评估)
+- AI 图生成(Phase 1 不用)
 
 #### Scenario: Phase 1 不依赖 CBDB
 

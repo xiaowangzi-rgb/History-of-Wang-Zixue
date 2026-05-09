@@ -158,3 +158,78 @@
 - Phase 1.1 完成后,在本文档底部附"实地验证结论"段落
 - 选定的源记到 `docs/decisions.md`(ADR)
 - 不选的源在本文档备注一笔,免得后面忘了为什么 pass
+
+---
+
+## 图片源调研(2026-05 新增)
+
+### 候选图片源
+
+| # | 源 | 协议 | 内容 | 适合 Phase 1? |
+|---|---|---|---|---|
+| 1 | [Wikimedia Commons](https://commons.wikimedia.org) | CC-BY-SA / CC0 / Public Domain | 真实文物 / 传统画像 / 地图 | ★★★★★ 主力 |
+| 2 | [中文维基百科](https://zh.wikipedia.org) | CC-BY-SA-3.0/4.0 | 主条目首图 | ★★★★ |
+| 3 | 故宫博物院官网 | "未经许可不得使用" | 高清文物 | ⚠ 仅本地 review |
+| 4 | 国家博物馆官网 | 部分 CC | 国家级文物 | ★★ 备选 |
+| 5 | 百度百科 | 来源混乱 | 杂图 | ⚠ 仅本地 review |
+| 6 | AI 生成 (MJ/SD) | 用户拥有 | 任意 | ✗ 历史准确性争议 |
+
+### Phase 1 图片来源决策(ADR-026)
+
+```
+   仅限源 1 + 2(Wikimedia + Wikipedia 中文)
+   ────────────────────────────────────────
+   理由:
+   ✓ 协议干净(公开仓库 OK)
+   ✓ 内容覆盖度高(80%+ 朝代 + 人物有图)
+   ✓ 高清(传统文物图分辨率足够)
+
+   故宫 / 百度 / AI 推迟到 Phase 2 评估
+```
+
+### 爬取工具
+
+[D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) — Python 反检测爬虫库:
+- Cloudflare 绕过(以备未来 Wikimedia 加防护)
+- Auto-relocate elements(网站改版后自动追)
+- 异步支持,批量爬取效率高
+- Phase 1 用法相对简单,主要用其 `Fetcher` 接口
+
+### Wikimedia 图片获取建议
+
+```python
+# 伪代码,Phase 1.4 实施时具体写
+from scrapling import Fetcher
+
+def find_hero_image(entity_name: str) -> list[ImageCandidate]:
+    """根据实体名找候选图(权重排序)"""
+    # 1. 维基条目首图(权威)
+    # 2. Commons 搜索 entity_name 标题/描述匹配
+    # 3. 按 license / resolution / 来源权威打分
+```
+
+### 自动评分规则(降低人工筛选成本)
+
+```
+   分辨率 ≥ 800x600           +2
+   来源 commons.wikimedia.org  +3
+   文件名含实体名              +2
+   标签含 "painting/statue/portrait/artifact"   +2
+   非 thumbnail               +1
+   尺寸 ≥ 200KB(非过小压缩)  +1
+
+   按总分倒序排,top1 默认采用
+   你点"备选"按钮可切换 top2/3
+```
+
+### Phase 1 图片任务量预估
+
+```
+   25 朝代 hero            ~2 小时(快速筛选)
+   β 时段人物 ~50 张       ~3-5 小时
+   ──────────────────────
+   总计                    ~5-7 小时
+```
+
+事件场景图(~150-180 张) Phase 1 不做。
+

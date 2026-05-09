@@ -85,11 +85,18 @@
   "sources": ["《论语》", "《史记·孔子世家》"],
   "wikidataId": "Q4604",
 
-  "systemPromptSerious": "(build 时自动填充,人工不要直接写)",
-  "systemPromptRomance": "(build 时自动填充)",
+  "portrait": "images/persons/person_kongzi.webp",
+  "portraitSource": "https://commons.wikimedia.org/wiki/File:Confucius_Tang_Dynasty.jpg",
+  "portraitLicense": "public-domain",
+
+  "systemPromptSerious": "(Phase 3 复活,Phase 1 不填)",
+  "systemPromptRomance": "(Phase 3 复活,Phase 1 不填)",
   "promptTemplateVersion": "v1"
 }
 ```
+
+**v0.6 注**: `portrait` / `portraitSource` / `portraitLicense` 三字段为 v0.6 新增。
+`systemPrompt*` 字段定义保留但 Phase 1 不填(Phase 3 恢复时填,详见 ADR-011)。
 
 ### 字段说明
 
@@ -152,6 +159,22 @@
   "source": "manual"
 }
 ```
+
+### v0.6 新增图片字段
+
+```json
+{
+  ...,
+  "heroImage": "images/dynasties/dynasty_western_zhou.webp",
+  "heroImageSource": "https://commons.wikimedia.org/wiki/File:He_Zun.jpg",
+  "heroImageLicense": "CC-BY-SA-4.0"
+}
+```
+
+- `heroImage`: 相对 `assets/images/` 的路径,build 时从 `data_source/images/` 拷贝
+- `heroImageSource`: 溯源 URL(合规需要,显示"图源:维基共享")
+- `heroImageLicense`: 许可证(`CC-BY-SA-4.0` / `CC-BY-4.0` / `CC0` / `public-domain`)
+- Phase 1 仅 dynasty 必须有,event / person 选填(详见 content-style-guide)
 
 ### `_yearAuthority` 字段
 
@@ -243,12 +266,19 @@ regime)。
 
 ### 字数硬约束(`tools/validate.py` 强制)
 
-| 字段 | 下限 | 上限 | 行为 |
-|---|---|---|---|
-| `summary` | 150 字 | 500 字 | 超过/不足 → 报错 |
-| `body` | 800 字 | **5000 字** | 超过 → 报错并阻塞 build;不足 → warning |
+| 字段 | 下限 | 常态目标 | 上限 | 行为 |
+|---|---|---|---|---|
+| `summary` | 150 字 | 200-300 字 | 500 字 | 超出 → 报错 |
+| `body` | 800 字 | **1000-2000 字** | **5000 字** | 超过上限 → 报错并阻塞 build;不足 → warning |
 
 字数计算: markdown 全文(含 `## 起因` 等标题 + 内容)的中文/英文字符数(不计空白)。
+
+### 内容风格(参见 `docs/content-style-guide.md`)
+
+- **`summary` 风格 = A (教科书风)**: 精准、可背诵、5 句话框架完整
+- **`body` 风格 = C (历史叙事风)**: 故事性 + 起因/经过/后果 + 现代史学视角
+- 此组合让"快速浏览(树图卡片读 summary)"和"深度阅读(详情页读 body)"
+  共用一份数据,职责清晰
 
 ### `body` 推荐结构
 

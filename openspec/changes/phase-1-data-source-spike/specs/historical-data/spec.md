@@ -87,13 +87,43 @@
 
 `tools/validate.py` MUST 强制以下字数限制:
 
-| 字段 | 下限 | 上限 | 行为 |
-|---|---|---|---|
-| `summary` | 150 字 | 500 字 | 超出 → 错误,阻塞 build |
-| `body` | 800 字 | 5000 字 | 超出上限 → 错误,阻塞;不足下限 → warning,不阻塞 |
+| 字段 | 下限 | 常态目标 | 上限 | 行为 |
+|---|---|---|---|---|
+| `summary` | 150 字 | 200-300 字 | 500 字 | 超出 → 错误,阻塞 build |
+| `body` | 800 字 | **1000-2000 字** | **5000 字** | 超过上限 → 错误,阻塞;不足下限 → warning |
 
 字数计算: 字符数(中文一字一计,英文/数字一字符一计,**含 markdown 标记**,
 不计空白)。
+
+### Requirement: 内容双层风格(summary A / body C)
+
+`summary` 字段 MUST 用 **A 风格**(教科书味,精准,可背诵)。
+`body` 字段 MUST 用 **C 风格**(历史叙事,起因/经过/后果,后果段含现代史学视角)。
+详见 `docs/content-style-guide.md`。
+
+#### Scenario: summary 风格符合 A 标准
+
+- **WHEN** 撰写 event.summary
+- **THEN** 内容是中性陈述,1-2 段,无 markdown 标题
+- **AND** 不带情感色彩 / 主观最高级评价 / 口语化措辞
+
+#### Scenario: body 必含起因经过后果三段
+
+- **WHEN** 撰写 β 时段 event.body
+- **THEN** 含 `## 起因` / `## 经过` / `## 后果` 三段
+- **AND** 后果段含"现代史学家认为..."或类似的当代视角句
+
+### Requirement: 内容比例(LLM prompt 与人工 review 标准)
+
+每朝代 100 件事件按以下比例分布(±5% 容差):
+- 政治 25% / 军事 15% / 文化 25% / 科技 15% / 外交 5% / 经济 5% / 人物大事 10%
+
+LLM 起草 prompt MUST 含明确比例约束。人工 review 事件清单时按比例砍/补。
+
+#### Scenario: 事件清单比例失衡
+
+- **WHEN** 某朝代 100 件事件中政治军事合计 > 50%(超过 40+5 的容差)
+- **THEN** 视为不合格,需重新分布
 
 #### Scenario: body 超过 5K 字阻塞 build
 
@@ -182,23 +212,26 @@ Phase 1 数据 SHALL 同时满足:
 
 1. **全朝代骨架**: 25 个朝代节点全部录入,树拓扑(并立期政权的 parent /
    merged / siblings)完整
-2. **β 深耕**: 尧舜禹 + 夏 + 商 + 西周 4 时段含完整 body 和关键人物
-3. **β 时段事件量**: 合并后 ≥ 30 件且 ≤ 70 件
-4. **β 时段人物量**: 合并后 ≥ 15 人且 ≤ 60 人
+2. **β 深耕**: **夏 + 商 + 西周 + 东周春秋 + 东周战国** 5 时段含完整 body 和关键人物
+3. **β 时段事件量**: 合并后 ≥ 100 件且 ≤ 180 件
+4. **β 时段人物量**: 合并后 ≥ 40 人且 ≤ 80 人
 5. **其他时段占位**: 每时段 5-10 件事件标题 + 5-10 个人物名
+6. **尧舜禹**: 仅作为 dynasty_legendary 骨架渲染,事件占位 5-10 件,无 body
 
 #### Scenario: 全朝代骨架完整度
 
 - **WHEN** Phase 1 数据完成
 - **THEN** `data_source/dynasties.json` 至少含 25 个朝代记录,从
-  `dynasty_legendary` 或 `dynasty_xia` 起,到改革开放前止
+  `dynasty_legendary` 起,到改革开放前(1976/1978)止
 
 #### Scenario: β 深耕完整度
 
 - **WHEN** Phase 1 数据完成
-- **THEN** `data_source/events/legendary.json` + `xia.json` + `shang.json`
-  + `western_zhou.json` 合并后含 30-70 件事件
-- **AND** 每件含 `body` 字段且字数 800-5000 字
+- **THEN** `data_source/events/xia.json` + `shang.json` + `western_zhou.json`
+  + `eastern_zhou_spring_autumn.json` + `eastern_zhou_warring_states.json`
+  合并后含 100-180 件事件
+- **AND** 每件含 `summary` (A 风格) + `body` (C 风格) 字段
+- **AND** body 字数 800-5000
 
 #### Scenario: 三国并立期树拓扑完整
 
@@ -207,3 +240,45 @@ Phase 1 数据 SHALL 同时满足:
   `regime_wu` 三个 regime
 - **AND** 三者的 `siblingRegimeIds` 互相引用
 - **AND** 三者的 `parentRegimeId` 都指向 `regime_eastern_han`(或类似前序)
+
+### Requirement: 图片字段(v0.6)
+
+`dynasty` 实体 MUST 含: `heroImage` / `heroImageSource` / `heroImageLicense`。
+`person` 实体可选含: `portrait` / `portraitSource` / `portraitLicense`。
+`event` 实体 Phase 1 不要求图片字段。
+
+`heroImageLicense` / `portraitLicense` 取自枚举:
+`CC-BY-SA-4.0` | `CC-BY-SA-3.0` | `CC-BY-4.0` | `CC0` | `public-domain`。
+
+#### Scenario: dynasty 必填 hero 图
+
+- **WHEN** 创建 dynasty 记录
+- **THEN** 含 `heroImage`(相对 `assets/images/` 路径)
+- **AND** 含 `heroImageSource`(URL)
+- **AND** 含 `heroImageLicense`(枚举值)
+
+#### Scenario: 图片来源限 Wikimedia
+
+- **WHEN** Phase 1 录入图片字段
+- **THEN** `heroImageSource` / `portraitSource` 必须以
+  `https://commons.wikimedia.org/` 或 `https://*.wikipedia.org/` 开头
+
+#### Scenario: β 时段人物 portrait 完整度
+
+- **WHEN** Phase 1 数据完成
+- **THEN** β 时段 ≥ 80% 的关键人物含 `portrait` 字段(允许部分缺失)
+
+### Requirement: 政治敏感边界
+
+事件内容 MUST 按 `docs/content-style-guide.md` 三档处理:
+- **安全话题**: 大胆挖现代史学视角
+- **敏感话题**: 中立陈述,不带价值判断
+- **红线话题**: 简短陈述,不做"为什么"解释
+
+**1949-1976 内容 Phase 1 整体推迟**(占位事件可以有,无 body)。
+
+#### Scenario: 红线话题不写 body
+
+- **WHEN** 录入"文革"或类似红线话题事件
+- **THEN** 仅写 summary(精简事实),不写 body
+- **AND** 标 `source: "manual"` 不进 LLM 起草流程
