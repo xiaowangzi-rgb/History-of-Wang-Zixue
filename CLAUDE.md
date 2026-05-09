@@ -161,15 +161,36 @@ ETL 脚本支持 `--model` 参数,环节级别选择模型。
 ├── openspec/
 │   ├── specs/                   # 由 /opsx:propose 流程产出
 │   └── changes/                 # 同上
-├── docs/                        # 详细设计文档(进 git)
-├── data_source/                 # 校对后的源数据(进 git)
+│
+│  ── 我们的开发(进 git)─────────────────
+├── docs/                        # 设计文档
+├── data_source/                 # 校对后的源数据
 │   └── LICENSE                  # 数据 CC-BY-SA-4.0
-├── tools/                       # 开发期 Python 脚本(占位)
-├── personas/                    # prompt 模板(占位)
+├── tools/                       # 开发期 Python 脚本(ETL / validate / build)
+├── personas/                    # prompt 模板
 ├── assets/                      # Flutter 资产
-│   └── data/                    # build 产物(进 git)
-└── raw/                         # gitignore!原始第三方数据
+│   └── data/                    # build 产物
+├── lib/                         # Flutter app 代码 (Phase 1.4 起)
+│
+│  ── 外部采集数据(进 git,ADR-028)─────
+├── raw/
+│   ├── dynasties/               # 朝代 / 帝王 / 年表
+│   ├── geography/               # GB2260 / GeoJSON / 历史地名
+│   ├── images/                  # Wikimedia 图索引 + 25 张 AI 君主画像
+│   │   └── people-portraits/    # 532 位君主目录骨架
+│   ├── people/                  # 简繁字典 / 人物轨迹
+│   ├── wikipedia/               # Wikipedia 4 篇摘录
+│   ├── cbdb/                    # ✗ gitignore (CBDB 大库)
+│   └── chinese-poetry/          # ✗ gitignore (诗词全文大库)
+│
+│  ── 本地工作区(gitignored)─────────────
+└── _local/
+    ├── llm-drafts/              # LLM 起草中间产物
+    ├── crawl-cache/             # 爬虫下载原始
+    └── cbdb-cache/              # CBDB 解压
 ```
+
+**详见 ADR-028**(仓库结构政策)。
 
 ---
 

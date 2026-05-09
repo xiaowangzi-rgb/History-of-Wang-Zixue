@@ -721,6 +721,62 @@ systemPromptRomance` 字段。运行期 app 直接读取该字符串,**不做模
 
 ---
 
+## ADR-028: 仓库结构 — raw/ 进 git + _local/ 作 gitignored 工作区(2026-05)
+
+**日期**: 2026-05-09
+**状态**: ✅ accepted(部分推翻 ADR-003 / ADR-004 中"raw/ 不进 git"的设定)
+
+**决策**:
+- `raw/` 目录改为**进 git**,存放外部采集的小型参考数据集(~78 MB 在限内)
+- `raw/cbdb/` / `raw/chinese-poetry/` / `raw/wikidata-dump/` 等**大库子目录**仍单独 gitignore
+- 新增概念 `_local/`(gitignored): 本地工作区,放 LLM 草稿 / 爬虫缓存 / 大文件
+- 数据流向四层: `raw/ (外部)` → `data_source/ (校对)` → `assets/ (build)` → app
+
+**理由**:
+- 原 ADR 设"raw/ 不进 git"是为了防 CBDB 几百 MB 大库
+- 实际 agent 采集的数据是结构化小文件(JSON/TSV/Wikipedia 摘录),~78 MB 完全在 GitHub repo 限内
+- 数据进 git 有可追溯性 + reproducibility,他人 fork 也能跑通
+- 大库通过 `raw/<source>/` 子目录 gitignore 单独控制,粒度更准
+- agent 自动采集流程也需要"raw/ 是 git 一部分"才能 push 上来
+
+**目录结构(本次确立)**:
+```
+/                              项目根
+├── docs/ openspec/ tools/      ┐
+├── personas/ data_source/      │  我们的开发(进 git)
+├── assets/ lib/ pubspec.yaml   │
+│
+├── raw/                        ★ 外部采集数据(进 git,本次新政策)
+│   ├── dynasties/              │
+│   ├── geography/              │  agent / Scrapling 抓取产物
+│   ├── images/                 │  含 AI 生成画像
+│   ├── people/                 │
+│   ├── wikipedia/              │
+│   ├── cbdb/                   ✗ 大库子目录单独 gitignore
+│   └── chinese-poetry/         ✗ 同上
+│
+└── _local/                     ✗ 本地工作区(gitignored)
+    ├── llm-drafts/             ✗ LLM 起草中间产物
+    ├── crawl-cache/            ✗ 爬虫下载原始(待 process)
+    └── cbdb-cache/             ✗ CBDB 解压后大库
+```
+
+**替代**:
+- 维持原 "raw/ 全 ignore": 数据无法进 git,agent push 不到远程,reproducibility 失
+- 把 raw/ 改名 data-imports/: 改名工作量大,与 agent 现有路径冲突,推迟到稳定后再考虑
+
+**后果**:
+- `.gitignore` 修订: `raw/` 删,加 `_local/` + `raw/cbdb/` 等子目录
+- 仓库体积: ~80 MB(GitHub 推荐 < 1 GB,完全 OK)
+- CLAUDE.md 仓库结构段已更新
+- 后续 agent 采集的新数据继续 push 到 raw/,Phase 1 ETL 工具读这里
+- LLM 起草(`tools/seed_phase1.py`)输出到 `_local/llm-drafts/`,校对后才进 `data_source/`
+
+**未决**: 是否改名 `raw/` → `data-imports/`(语义更准)?
+推迟到 agent 采集流程稳定后再考虑(避免改名引入路径混乱)。
+
+---
+
 ## ADR-010: 用 OpenSpec 管理变更
 
 **日期**: 2026-05-09
