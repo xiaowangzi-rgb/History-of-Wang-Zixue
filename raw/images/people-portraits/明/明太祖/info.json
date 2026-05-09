@@ -1,0 +1,15 @@
+{
+  "name": "明太祖",
+  "dynasty": "明",
+  "templeTitle": "太祖",
+  "posthumous": "开天行道肇紀立極大圣至神仁文义武俊德成功高皇帝",
+  "era": "龙凤（韩宋） / 吴（西吴）",
+  "reign_start": 1364,
+  "reign_end": 1368,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "朱元璋.png"
+  ]
+}

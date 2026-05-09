@@ -1,0 +1,15 @@
+{
+  "name": "唐太宗",
+  "dynasty": "唐",
+  "templeTitle": "太宗",
+  "posthumous": "文武大圣大广孝皇帝",
+  "era": "贞观",
+  "reign_start": 626,
+  "reign_end": 649,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "唐太宗李世民.png"
+  ]
+}

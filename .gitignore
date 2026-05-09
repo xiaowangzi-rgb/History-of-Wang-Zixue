@@ -11,12 +11,19 @@ secrets/
 .anthropic_key
 config.local.*
 
-# ===== 第三方原始数据 =====
-# CBDB / chinese-poetry / Wikidata dump 等原始数据,法律边界 + 体积考虑都不进仓库
-raw/
+# ===== 本地大文件 / 工具缓存(不进 git)=====
+# CBDB SQLite / chinese-poetry 全文等大库,法律边界 + 体积考虑不进仓库
+_local/
+raw/cbdb/
+raw/chinese-poetry/
+raw/wikidata-dump/
 *.7z
 *.zip
 *.tar.gz
+
+# 注: raw/ 下"小型外部数据集"(JSON/TSV/Wikipedia 摘录/AI 生成元数据等)
+# 通过 ADR-028 已决定**进 git**(总量 ~78 MB,在 GitHub repo 限内)
+# 仅 raw/cbdb/ 等大库子目录单独 gitignore
 
 # ===== Flutter / Dart =====
 .dart_tool/

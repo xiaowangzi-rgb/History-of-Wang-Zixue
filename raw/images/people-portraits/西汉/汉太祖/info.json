@@ -1,0 +1,15 @@
+{
+  "name": "汉太祖",
+  "dynasty": "西汉",
+  "templeTitle": "太祖",
+  "posthumous": "高皇帝",
+  "era": "",
+  "reign_start": -206,
+  "reign_end": -195,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "刘邦.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "始皇帝",
+  "dynasty": "秦",
+  "templeTitle": "",
+  "posthumous": "始皇帝",
+  "era": "",
+  "reign_start": -221,
+  "reign_end": -210,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "始皇帝.png"
+  ]
+}

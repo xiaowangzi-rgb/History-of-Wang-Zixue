@@ -1,0 +1,15 @@
+{
+  "name": "唐玄宗",
+  "dynasty": "唐",
+  "templeTitle": "玄宗",
+  "posthumous": "至道大圣大明孝皇帝",
+  "era": "先天 / 开元 / 天宝",
+  "reign_start": 712,
+  "reign_end": 756,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "李隆基.png"
+  ]
+}

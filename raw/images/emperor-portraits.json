@@ -1,0 +1,352 @@
+[
+  {
+    "name": "秦始皇",
+    "image": "Qinshihuang.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qinshihuang.jpg"
+  },
+  {
+    "name": "隋文帝",
+    "image": "Sui Wendi Tang.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sui%20Wendi%20Tang.jpg"
+  },
+  {
+    "name": "隋炀帝",
+    "image": "Sui Yangdi Tang.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sui%20Yangdi%20Tang.jpg"
+  },
+  {
+    "name": "唐高祖",
+    "image": "TangGaozu.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangGaozu.jpg"
+  },
+  {
+    "name": "唐太宗",
+    "image": "TangTaizong- cropped.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangTaizong-%20cropped.jpg"
+  },
+  {
+    "name": "唐中宗",
+    "image": "Tang Zhongzong.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Zhongzong.png"
+  },
+  {
+    "name": "唐睿宗",
+    "image": "Tang Ruizong.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Ruizong.png"
+  },
+  {
+    "name": "武则天",
+    "image": "唐后行從圖 (局部) - 武則天.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96%20%28%E5%B1%80%E9%83%A8%29%20-%20%E6%AD%A6%E5%89%87%E5%A4%A9.png"
+  },
+  {
+    "name": "唐玄宗",
+    "image": "李隆基像.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%9D%8E%E9%9A%86%E5%9F%BA%E5%83%8F.jpg"
+  },
+  {
+    "name": "唐肃宗",
+    "image": "TangSuzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangSuzong.jpg"
+  },
+  {
+    "name": "唐代宗",
+    "image": "Tang Daizong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Daizong.jpg"
+  },
+  {
+    "name": "唐德宗",
+    "image": "Tang Dezong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Dezong.jpg"
+  },
+  {
+    "name": "唐宪宗",
+    "image": "TangXianzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangXianzong.jpg"
+  },
+  {
+    "name": "唐穆宗",
+    "image": "Muzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Muzong.jpg"
+  },
+  {
+    "name": "唐敬宗",
+    "image": "帝鉴图说.Recueil Historique des Principaux Traits de la Vie des Empereurs Chinois.95帧图.彩绘册页.约18世纪 (唐敬宗) (cropped).jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4.Recueil%20Historique%20des%20Principaux%20Traits%20de%20la%20Vie%20des%20Empereurs%20Chinois.95%E5%B8%A7%E5%9B%BE.%E5%BD%A9%E7%BB%98%E5%86%8C%E9%A1%B5.%E7%BA%A618%E4%B8%96%E7%BA%AA%20%28%E5%94%90%E6%95%AC%E5%AE%97%29%20%28cropped%29.jpg"
+  },
+  {
+    "name": "唐文宗",
+    "image": "TangWenzongAlt.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangWenzongAlt.jpg"
+  },
+  {
+    "name": "唐武宗",
+    "image": "Tang Wuzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tang%20Wuzong.jpg"
+  },
+  {
+    "name": "唐懿宗",
+    "image": "TangYizong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/TangYizong.jpg"
+  },
+  {
+    "name": "唐僖宗",
+    "image": "唐僖宗帝（殘唐五代史演義傳）.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%94%90%E5%83%96%E5%AE%97%E5%B8%9D%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg"
+  },
+  {
+    "name": "唐昭宗",
+    "image": "Zhaozong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhaozong.jpg"
+  },
+  {
+    "name": "宋太祖",
+    "image": "Song Taizu.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Taizu.jpg"
+  },
+  {
+    "name": "宋太宗",
+    "image": "Emperor Taizong of Song.tif",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Emperor%20Taizong%20of%20Song.tif"
+  },
+  {
+    "name": "宋真宗",
+    "image": "Portrait assis de l'empereur Song Zhenzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Song%20Zhenzong.jpg"
+  },
+  {
+    "name": "宋仁宗",
+    "image": "Song Renzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Renzong.jpg"
+  },
+  {
+    "name": "宋英宗",
+    "image": "Song Yingzong 1.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Yingzong%201.jpg"
+  },
+  {
+    "name": "宋神宗",
+    "image": "Shenzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Shenzong.jpg"
+  },
+  {
+    "name": "宋哲宗",
+    "image": "Zhezong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Zhezong.jpg"
+  },
+  {
+    "name": "宋徽宗",
+    "image": "Seated Portrait of Emperor Song Huizong.tif",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Seated%20Portrait%20of%20Emperor%20Song%20Huizong.tif"
+  },
+  {
+    "name": "宋钦宗",
+    "image": "Songqinzong Chinghong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Songqinzong%20Chinghong.jpg"
+  },
+  {
+    "name": "宋高宗",
+    "image": "Song Gaozong.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Gaozong.png"
+  },
+  {
+    "name": "宋孝宗",
+    "image": "Xiaozong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xiaozong.jpg"
+  },
+  {
+    "name": "宋光宗",
+    "image": "Guangzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Guangzong.jpg"
+  },
+  {
+    "name": "宋宁宗",
+    "image": "Song Ningzong 1.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Ningzong%201.png"
+  },
+  {
+    "name": "宋理宗",
+    "image": "Song Lizong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Lizong.jpg"
+  },
+  {
+    "name": "宋度宗",
+    "image": "Duzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Duzong.jpg"
+  },
+  {
+    "name": "宋恭帝",
+    "image": "Song Gongdi2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Gongdi2.jpg"
+  },
+  {
+    "name": "宋端宗",
+    "image": "ZhaoShiDuanzong.png",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/ZhaoShiDuanzong.png"
+  },
+  {
+    "name": "宋末帝",
+    "image": "Song Modi.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Song%20Modi.jpg"
+  },
+  {
+    "name": "元世祖忽必烈",
+    "image": "YuanEmperorAlbumKhubilaiPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumKhubilaiPortrait.jpg"
+  },
+  {
+    "name": "元成宗铁穆耳",
+    "image": "YuanEmperorAlbumTemurOljeituPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumTemurOljeituPortrait.jpg"
+  },
+  {
+    "name": "元武宗海山",
+    "image": "YuanEmperorAlbumQaishanKulugPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumQaishanKulugPortrait.jpg"
+  },
+  {
+    "name": "元仁宗爱育黎拔力八达",
+    "image": "YuanEmperorAlbumAyurbarvadaBuyantuPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumAyurbarvadaBuyantuPortrait.jpg"
+  },
+  {
+    "name": "元文宗图帖睦尔",
+    "image": "YuanEmperorAlbumTughTemurPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumTughTemurPortrait.jpg"
+  },
+  {
+    "name": "元明宗和世㻋",
+    "image": "YuanEmperor Kusala.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperor%20Kusala.jpg"
+  },
+  {
+    "name": "元宁宗懿璘质班",
+    "image": "YuanEmperorAlbumIrinchinbalPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/YuanEmperorAlbumIrinchinbalPortrait.jpg"
+  },
+  {
+    "name": "明太祖朱元璋",
+    "image": "A Seated Portrait of Ming Emperor Taizu.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/A%20Seated%20Portrait%20of%20Ming%20Emperor%20Taizu.jpg"
+  },
+  {
+    "name": "明成祖朱棣",
+    "image": "Portrait assis de l'empereur Ming Chengzu.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Ming%20Chengzu.jpg"
+  },
+  {
+    "name": "明仁宗朱高炽",
+    "image": "MingRenzongPortrait.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/MingRenzongPortrait.jpg"
+  },
+  {
+    "name": "明宣宗朱瞻基",
+    "image": "Portrait assis de l'empereur Ming Xuanzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Ming%20Xuanzong.jpg"
+  },
+  {
+    "name": "明英宗朱祁镇",
+    "image": "Portrait assis de l'empereur Ming Yingzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Ming%20Yingzong.jpg"
+  },
+  {
+    "name": "明宪宗朱见深",
+    "image": "Portrait assis de l'empereur Ming Xianzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Ming%20Xianzong.jpg"
+  },
+  {
+    "name": "明孝宗朱祐樘",
+    "image": "Portrait assis de l'empereur Hongzhi.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Hongzhi.jpg"
+  },
+  {
+    "name": "明武宗朱厚照",
+    "image": "Ming Wuzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ming%20Wuzong.jpg"
+  },
+  {
+    "name": "明世宗朱厚熜",
+    "image": "Portrait assis de l'empereur Jiajing.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20assis%20de%20l%27empereur%20Jiajing.jpg"
+  },
+  {
+    "name": "明穆宗朱载坖",
+    "image": "明穆宗坐像 軸.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%8E%E7%A9%86%E5%AE%97%E5%9D%90%E5%83%8F%20%E8%BB%B8.jpg"
+  },
+  {
+    "name": "明神宗朱翊钧",
+    "image": "Ming Shenzong (1).jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ming%20Shenzong%20%281%29.jpg"
+  },
+  {
+    "name": "明光宗朱常洛",
+    "image": "Ming Guangzong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ming%20Guangzong.jpg"
+  },
+  {
+    "name": "明熹宗朱由校",
+    "image": "明熹宗坐像.tif",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%98%8E%E7%86%B9%E5%AE%97%E5%9D%90%E5%83%8F.tif"
+  },
+  {
+    "name": "清世祖顺治",
+    "image": "清 佚名 《清世祖顺治皇帝朝服像》.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%85%20%E4%BD%9A%E5%90%8D%20%E3%80%8A%E6%B8%85%E4%B8%96%E7%A5%96%E9%A1%BA%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+  },
+  {
+    "name": "清圣祖康熙",
+    "image": "Portrait of the Kangxi Emperor in Court Dress.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Kangxi%20Emperor%20in%20Court%20Dress.jpg"
+  },
+  {
+    "name": "清世宗雍正",
+    "image": "Portrait of the Yongzheng Emperor in Court Dress.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20the%20Yongzheng%20Emperor%20in%20Court%20Dress.jpg"
+  },
+  {
+    "name": "清高宗乾隆",
+    "image": "清 郎世宁绘《清高宗乾隆帝朝服像》.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%85%20%E9%83%8E%E4%B8%96%E5%AE%81%E7%BB%98%E3%80%8A%E6%B8%85%E9%AB%98%E5%AE%97%E4%B9%BE%E9%9A%86%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+  },
+  {
+    "name": "清仁宗嘉庆",
+    "image": "清 佚名 《清仁宗嘉庆皇帝朝服像》.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%85%20%E4%BD%9A%E5%90%8D%20%E3%80%8A%E6%B8%85%E4%BB%81%E5%AE%97%E5%98%89%E5%BA%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+  },
+  {
+    "name": "清宣宗道光",
+    "image": "003-The Imperial Portrait of a Chinese Emperor called \"Daoguang\".JPG",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/003-The%20Imperial%20Portrait%20of%20a%20Chinese%20Emperor%20called%20%22Daoguang%22.JPG"
+  },
+  {
+    "name": "清文宗咸丰",
+    "image": "《咸丰皇帝朝服像》.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+  },
+  {
+    "name": "清穆宗同治",
+    "image": "清 佚名 《清穆宗同治皇帝朝服像》.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E6%B8%85%20%E4%BD%9A%E5%90%8D%20%E3%80%8A%E6%B8%85%E7%A9%86%E5%AE%97%E5%90%8C%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg"
+  },
+  {
+    "name": "清德宗光绪",
+    "image": "The Imperial Portrait of Emperor Guangxu2.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Imperial%20Portrait%20of%20Emperor%20Guangxu2.jpg"
+  },
+  {
+    "name": "清宣统溥仪",
+    "image": "Xuantong.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Xuantong.jpg"
+  },
+  {
+    "name": "袁世凯",
+    "image": "袁世凱祭天.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/%E8%A2%81%E4%B8%96%E5%87%B1%E7%A5%AD%E5%A4%A9.jpg"
+  },
+  {
+    "name": "溥仪",
+    "image": "Puyi (1922).jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/Special:FilePath/Puyi%20%281922%29.jpg"
+  }
+]

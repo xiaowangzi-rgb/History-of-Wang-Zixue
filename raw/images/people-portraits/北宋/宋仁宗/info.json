@@ -1,0 +1,15 @@
+{
+  "name": "宋仁宗",
+  "dynasty": "北宋",
+  "templeTitle": "仁宗",
+  "posthumous": "神文圣武明孝皇帝",
+  "era": "天圣 / 明道 / 景佑 / 宝元 / 康定 / 庆历 / 皇佑 / 至和 / 嘉佑",
+  "reign_start": 1022,
+  "reign_end": 1063,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "仁宗.png"
+  ]
+}

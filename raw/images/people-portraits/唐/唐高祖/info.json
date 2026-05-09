@@ -1,0 +1,15 @@
+{
+  "name": "唐高祖",
+  "dynasty": "唐",
+  "templeTitle": "高祖",
+  "posthumous": "神尧大圣大光孝皇帝",
+  "era": "武德",
+  "reign_start": 618,
+  "reign_end": 626,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "李渊.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "明神宗",
+  "dynasty": "明",
+  "templeTitle": "神宗",
+  "posthumous": "範天合道哲肃敦簡光文章武安仁止孝显皇帝",
+  "era": "万历",
+  "reign_start": 1572,
+  "reign_end": 1620,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "万历.png"
+  ]
+}

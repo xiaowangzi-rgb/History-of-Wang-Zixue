@@ -1,0 +1,4840 @@
+[
+  {
+    "name": "僖王",
+    "dynasty": "东周",
+    "path": "东周/僖王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-682~-677"
+  },
+  {
+    "name": "元安王",
+    "dynasty": "东周",
+    "path": "东周/元安王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-402~-376"
+  },
+  {
+    "name": "元王",
+    "dynasty": "东周",
+    "path": "东周/元王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-476~-469"
+  },
+  {
+    "name": "匡王",
+    "dynasty": "东周",
+    "path": "东周/匡王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-613~-607"
+  },
+  {
+    "name": "哀王",
+    "dynasty": "东周",
+    "path": "东周/哀王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-441~-441"
+  },
+  {
+    "name": "夷烈王",
+    "dynasty": "东周",
+    "path": "东周/夷烈王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-376~-369"
+  },
+  {
+    "name": "威烈王",
+    "dynasty": "东周",
+    "path": "东周/威烈王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-426~-402"
+  },
+  {
+    "name": "定王",
+    "dynasty": "东周",
+    "path": "东周/定王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-607~-586"
+  },
+  {
+    "name": "平王",
+    "dynasty": "东周",
+    "path": "东周/平王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-771~-720"
+  },
+  {
+    "name": "庄王",
+    "dynasty": "东周",
+    "path": "东周/庄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-697~-682"
+  },
+  {
+    "name": "思王",
+    "dynasty": "东周",
+    "path": "东周/思王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-441~-441"
+  },
+  {
+    "name": "悼王",
+    "dynasty": "东周",
+    "path": "东周/悼王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-520~-520"
+  },
+  {
+    "name": "惠王",
+    "dynasty": "东周",
+    "path": "东周/惠王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-677~-652"
+  },
+  {
+    "name": "慎靚王",
+    "dynasty": "东周",
+    "path": "东周/慎靚王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-321~-315"
+  },
+  {
+    "name": "敬王",
+    "dynasty": "东周",
+    "path": "东周/敬王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-520~-476"
+  },
+  {
+    "name": "显圣王",
+    "dynasty": "东周",
+    "path": "东周/显圣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-369~-321"
+  },
+  {
+    "name": "景王",
+    "dynasty": "东周",
+    "path": "东周/景王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-545~-520"
+  },
+  {
+    "name": "桓王",
+    "dynasty": "东周",
+    "path": "东周/桓王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-720~-697"
+  },
+  {
+    "name": "穨",
+    "dynasty": "东周",
+    "path": "东周/穨",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-675~-673"
+  },
+  {
+    "name": "簡王",
+    "dynasty": "东周",
+    "path": "东周/簡王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-586~-572"
+  },
+  {
+    "name": "考哲王",
+    "dynasty": "东周",
+    "path": "东周/考哲王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-441~-426"
+  },
+  {
+    "name": "襄王",
+    "dynasty": "东周",
+    "path": "东周/襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-652~-619"
+  },
+  {
+    "name": "贞定王",
+    "dynasty": "东周",
+    "path": "东周/贞定王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-469~-441"
+  },
+  {
+    "name": "赧王/隐王",
+    "dynasty": "东周",
+    "path": "东周/赧王_隐王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-315~-256"
+  },
+  {
+    "name": "靈王",
+    "dynasty": "东周",
+    "path": "东周/靈王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-572~-545"
+  },
+  {
+    "name": "頃王",
+    "dynasty": "东周",
+    "path": "东周/頃王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-619~-613"
+  },
+  {
+    "name": "刘懿",
+    "dynasty": "东汉",
+    "path": "东汉/刘懿",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "125~125"
+  },
+  {
+    "name": "刘辯",
+    "dynasty": "东汉",
+    "path": "东汉/刘辯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "189~189"
+  },
+  {
+    "name": "孝和皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝和皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "88~105"
+  },
+  {
+    "name": "孝安皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝安皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "106~125"
+  },
+  {
+    "name": "孝桓皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝桓皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "146~167"
+  },
+  {
+    "name": "孝殤皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝殤皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "105~106"
+  },
+  {
+    "name": "孝沖皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝沖皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "144~145"
+  },
+  {
+    "name": "孝獻皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝獻皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "189~220"
+  },
+  {
+    "name": "孝質皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝質皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "145~146"
+  },
+  {
+    "name": "孝靈皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝靈皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "167~189"
+  },
+  {
+    "name": "孝顺皇帝",
+    "dynasty": "东汉",
+    "path": "东汉/孝顺皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "125~144"
+  },
+  {
+    "name": "汉世祖",
+    "dynasty": "东汉",
+    "path": "东汉/汉世祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "刘秀.png"
+    ],
+    "reign": "25~57"
+  },
+  {
+    "name": "汉显宗",
+    "dynasty": "东汉",
+    "path": "东汉/汉显宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "57~75"
+  },
+  {
+    "name": "汉肃宗",
+    "dynasty": "东汉",
+    "path": "东汉/汉肃宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "75~88"
+  },
+  {
+    "name": "袁世凯",
+    "dynasty": "中国民国",
+    "path": "中国民国/袁世凯",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1915~1916"
+  },
+  {
+    "name": "冲王",
+    "dynasty": "前凉",
+    "path": "前凉/冲王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "355~363"
+  },
+  {
+    "name": "前凉世宗",
+    "dynasty": "前凉",
+    "path": "前凉/前凉世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "346~353"
+  },
+  {
+    "name": "前凉世祖",
+    "dynasty": "前凉",
+    "path": "前凉/前凉世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "324~346"
+  },
+  {
+    "name": "前凉太宗",
+    "dynasty": "前凉",
+    "path": "前凉/前凉太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "320~324"
+  },
+  {
+    "name": "前凉太祖",
+    "dynasty": "前凉",
+    "path": "前凉/前凉太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "301~314"
+  },
+  {
+    "name": "前凉高祖",
+    "dynasty": "前凉",
+    "path": "前凉/前凉高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "314~320"
+  },
+  {
+    "name": "哀公",
+    "dynasty": "前凉",
+    "path": "前凉/哀公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "353~353"
+  },
+  {
+    "name": "威王",
+    "dynasty": "前凉",
+    "path": "前凉/威王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "353~355"
+  },
+  {
+    "name": "悼公",
+    "dynasty": "前凉",
+    "path": "前凉/悼公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "363~376"
+  },
+  {
+    "name": "前燕太祖",
+    "dynasty": "前燕",
+    "path": "前燕/前燕太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "337~348"
+  },
+  {
+    "name": "前燕烈祖",
+    "dynasty": "前燕",
+    "path": "前燕/前燕烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "348~360"
+  },
+  {
+    "name": "幽皇帝",
+    "dynasty": "前燕",
+    "path": "前燕/幽皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "360~370"
+  },
+  {
+    "name": "前秦世祖",
+    "dynasty": "前秦",
+    "path": "前秦/前秦世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "357~385"
+  },
+  {
+    "name": "前秦太宗",
+    "dynasty": "前秦",
+    "path": "前秦/前秦太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "386~394"
+  },
+  {
+    "name": "前秦太祖",
+    "dynasty": "前秦",
+    "path": "前秦/前秦太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "350~350"
+  },
+  {
+    "name": "前秦高祖",
+    "dynasty": "前秦",
+    "path": "前秦/前秦高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "351~355"
+  },
+  {
+    "name": "哀平皇帝",
+    "dynasty": "前秦",
+    "path": "前秦/哀平皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "385~386"
+  },
+  {
+    "name": "苻崇",
+    "dynasty": "前秦",
+    "path": "前秦/苻崇",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "394~394"
+  },
+  {
+    "name": "苻生",
+    "dynasty": "前秦",
+    "path": "前秦/苻生",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "355~357"
+  },
+  {
+    "name": "前蜀高祖",
+    "dynasty": "前蜀",
+    "path": "前蜀/前蜀高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "903~907"
+  },
+  {
+    "name": "王衍",
+    "dynasty": "前蜀",
+    "path": "前蜀/王衍",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "918~925"
+  },
+  {
+    "name": "北凉太祖",
+    "dynasty": "北凉",
+    "path": "北凉/北凉太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "401~433"
+  },
+  {
+    "name": "哀王",
+    "dynasty": "北凉",
+    "path": "北凉/哀王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "433~439"
+  },
+  {
+    "name": "段业",
+    "dynasty": "北凉",
+    "path": "北凉/段业",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "397~401"
+  },
+  {
+    "name": "沮渠安周",
+    "dynasty": "北凉",
+    "path": "北凉/沮渠安周",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "444~460"
+  },
+  {
+    "name": "沮渠無諱",
+    "dynasty": "北凉",
+    "path": "北凉/沮渠無諱",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "439~444"
+  },
+  {
+    "name": "宋仁宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋仁宗",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "仁宗.png"
+    ],
+    "reign": "1022~1063"
+  },
+  {
+    "name": "宋哲宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋哲宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1085~1100"
+  },
+  {
+    "name": "宋太宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋太宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "976~997"
+  },
+  {
+    "name": "宋太祖",
+    "dynasty": "北宋",
+    "path": "北宋/宋太祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "宋太祖赵匡胤.png"
+    ],
+    "reign": "960~976"
+  },
+  {
+    "name": "宋徽宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋徽宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1100~1126"
+  },
+  {
+    "name": "宋真宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋真宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "997~1022"
+  },
+  {
+    "name": "宋神宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋神宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1067~1085"
+  },
+  {
+    "name": "宋英宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋英宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1063~1067"
+  },
+  {
+    "name": "宋钦宗",
+    "dynasty": "北宋",
+    "path": "北宋/宋钦宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1126~1127"
+  },
+  {
+    "name": "北燕太祖",
+    "dynasty": "北燕",
+    "path": "北燕/北燕太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "409~430"
+  },
+  {
+    "name": "惠懿皇帝",
+    "dynasty": "北燕",
+    "path": "北燕/惠懿皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "407~409"
+  },
+  {
+    "name": "昭文皇帝",
+    "dynasty": "北燕",
+    "path": "北燕/昭文皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "430~436"
+  },
+  {
+    "name": "南凉烈祖",
+    "dynasty": "南凉",
+    "path": "南凉/南凉烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "397~399"
+  },
+  {
+    "name": "康王",
+    "dynasty": "南凉",
+    "path": "南凉/康王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "399~402"
+  },
+  {
+    "name": "景王",
+    "dynasty": "南凉",
+    "path": "南凉/景王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "402~404"
+  },
+  {
+    "name": "南唐元宗",
+    "dynasty": "南唐",
+    "path": "南唐/南唐元宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "943~961"
+  },
+  {
+    "name": "南唐烈祖",
+    "dynasty": "南唐",
+    "path": "南唐/南唐烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "937~943"
+  },
+  {
+    "name": "文宣",
+    "dynasty": "南唐",
+    "path": "南唐/文宣",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "961~975"
+  },
+  {
+    "name": "元懿太子",
+    "dynasty": "南宋",
+    "path": "南宋/元懿太子",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1129~1129"
+  },
+  {
+    "name": "文献王",
+    "dynasty": "南平",
+    "path": "南平/文献王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "928~948"
+  },
+  {
+    "name": "武信王",
+    "dynasty": "南平",
+    "path": "南平/武信王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "913~928"
+  },
+  {
+    "name": "贞懿王",
+    "dynasty": "南平",
+    "path": "南平/贞懿王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "948~960"
+  },
+  {
+    "name": "高保勗",
+    "dynasty": "南平",
+    "path": "南平/高保勗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "960~962"
+  },
+  {
+    "name": "高继冲",
+    "dynasty": "南平",
+    "path": "南平/高继冲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "962~963"
+  },
+  {
+    "name": "刘鋹",
+    "dynasty": "南汉",
+    "path": "南汉/刘鋹",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "958~971"
+  },
+  {
+    "name": "南汉中宗",
+    "dynasty": "南汉",
+    "path": "南汉/南汉中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "943~958"
+  },
+  {
+    "name": "南汉烈宗",
+    "dynasty": "南汉",
+    "path": "南汉/南汉烈宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "909~911"
+  },
+  {
+    "name": "南汉高祖",
+    "dynasty": "南汉",
+    "path": "南汉/南汉高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "911~917"
+  },
+  {
+    "name": "殇皇帝",
+    "dynasty": "南汉",
+    "path": "南汉/殇皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "942~943"
+  },
+  {
+    "name": "南燕世宗",
+    "dynasty": "南燕",
+    "path": "南燕/南燕世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "398~405"
+  },
+  {
+    "name": "慕容超",
+    "dynasty": "南燕",
+    "path": "南燕/慕容超",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "405~410"
+  },
+  {
+    "name": "后凉太祖",
+    "dynasty": "后凉",
+    "path": "后凉/后凉太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "386~399"
+  },
+  {
+    "name": "呂隆",
+    "dynasty": "后凉",
+    "path": "后凉/呂隆",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "401~403"
+  },
+  {
+    "name": "隱王",
+    "dynasty": "后凉",
+    "path": "后凉/隱王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "399~399"
+  },
+  {
+    "name": "靈皇帝",
+    "dynasty": "后凉",
+    "path": "后凉/靈皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "399~401"
+  },
+  {
+    "name": "后周世宗",
+    "dynasty": "后周",
+    "path": "后周/后周世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "954~959"
+  },
+  {
+    "name": "后周太祖",
+    "dynasty": "后周",
+    "path": "后周/后周太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "951~954"
+  },
+  {
+    "name": "恭皇帝",
+    "dynasty": "后周",
+    "path": "后周/恭皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "959~960"
+  },
+  {
+    "name": "后唐庄宗",
+    "dynasty": "后唐",
+    "path": "后唐/后唐庄宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "923~926"
+  },
+  {
+    "name": "后唐明宗",
+    "dynasty": "后唐",
+    "path": "后唐/后唐明宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "926~933"
+  },
+  {
+    "name": "后唐闵宗",
+    "dynasty": "后唐",
+    "path": "后唐/后唐闵宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "933~934"
+  },
+  {
+    "name": "李从珂",
+    "dynasty": "后唐",
+    "path": "后唐/李从珂",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "934~936"
+  },
+  {
+    "name": "后晋高祖",
+    "dynasty": "后晋",
+    "path": "后晋/后晋高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "936~942"
+  },
+  {
+    "name": "石重貴",
+    "dynasty": "后晋",
+    "path": "后晋/石重貴",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "942~946"
+  },
+  {
+    "name": "后梁太祖",
+    "dynasty": "后梁",
+    "path": "后梁/后梁太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "907~912"
+  },
+  {
+    "name": "朱友珪",
+    "dynasty": "后梁",
+    "path": "后梁/朱友珪",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "912~913"
+  },
+  {
+    "name": "朱瑱",
+    "dynasty": "后梁",
+    "path": "后梁/朱瑱",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "913~923"
+  },
+  {
+    "name": "刘繼元",
+    "dynasty": "后汉",
+    "path": "后汉/刘繼元",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "968~979"
+  },
+  {
+    "name": "刘繼恩",
+    "dynasty": "后汉",
+    "path": "后汉/刘繼恩",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "968~968"
+  },
+  {
+    "name": "后汉世祖",
+    "dynasty": "后汉",
+    "path": "后汉/后汉世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "951~954"
+  },
+  {
+    "name": "后汉睿宗",
+    "dynasty": "后汉",
+    "path": "后汉/后汉睿宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "954~968"
+  },
+  {
+    "name": "后汉高祖",
+    "dynasty": "后汉",
+    "path": "后汉/后汉高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "947~948"
+  },
+  {
+    "name": "隱皇帝",
+    "dynasty": "后汉",
+    "path": "后汉/隱皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "948~950"
+  },
+  {
+    "name": "后燕世祖",
+    "dynasty": "后燕",
+    "path": "后燕/后燕世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "384~396"
+  },
+  {
+    "name": "后燕中宗",
+    "dynasty": "后燕",
+    "path": "后燕/后燕中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "398~401"
+  },
+  {
+    "name": "后燕烈宗",
+    "dynasty": "后燕",
+    "path": "后燕/后燕烈宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "396~398"
+  },
+  {
+    "name": "慕容詳",
+    "dynasty": "后燕",
+    "path": "后燕/慕容詳",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "397~397"
+  },
+  {
+    "name": "慕容麟",
+    "dynasty": "后燕",
+    "path": "后燕/慕容麟",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "397~397"
+  },
+  {
+    "name": "昭文皇帝",
+    "dynasty": "后燕",
+    "path": "后燕/昭文皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "401~407"
+  },
+  {
+    "name": "蘭汗",
+    "dynasty": "后燕",
+    "path": "后燕/蘭汗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "398~398"
+  },
+  {
+    "name": "后秦太祖",
+    "dynasty": "后秦",
+    "path": "后秦/后秦太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "384~394"
+  },
+  {
+    "name": "后秦高祖",
+    "dynasty": "后秦",
+    "path": "后秦/后秦高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "394~416"
+  },
+  {
+    "name": "姚泓",
+    "dynasty": "后秦",
+    "path": "后秦/姚泓",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "416~417"
+  },
+  {
+    "name": "后蜀高祖",
+    "dynasty": "后蜀",
+    "path": "后蜀/后蜀高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "934~934"
+  },
+  {
+    "name": "睿恭孝皇帝",
+    "dynasty": "后蜀",
+    "path": "后蜀/睿恭孝皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "934~965"
+  },
+  {
+    "name": "后赵太祖",
+    "dynasty": "后赵",
+    "path": "后赵/后赵太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "334~349"
+  },
+  {
+    "name": "后赵高祖",
+    "dynasty": "后赵",
+    "path": "后赵/后赵高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "319~333"
+  },
+  {
+    "name": "石世",
+    "dynasty": "后赵",
+    "path": "后赵/石世",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "349~349"
+  },
+  {
+    "name": "石弘",
+    "dynasty": "后赵",
+    "path": "后赵/石弘",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "333~334"
+  },
+  {
+    "name": "石袛",
+    "dynasty": "后赵",
+    "path": "后赵/石袛",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "350~351"
+  },
+  {
+    "name": "石遵",
+    "dynasty": "后赵",
+    "path": "后赵/石遵",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "349~349"
+  },
+  {
+    "name": "石鑒",
+    "dynasty": "后赵",
+    "path": "后赵/石鑒",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "349~350"
+  },
+  {
+    "name": "承天广运圣德神功肇紀立極仁孝武皇帝",
+    "dynasty": "后金",
+    "path": "后金/承天广运圣德神功肇紀立極仁孝武皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1616~1626"
+  },
+  {
+    "name": "吴越世宗",
+    "dynasty": "吴越",
+    "path": "吴越/吴越世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "932~941"
+  },
+  {
+    "name": "吴越太祖",
+    "dynasty": "吴越",
+    "path": "吴越/吴越太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "907~932"
+  },
+  {
+    "name": "吴越成宗",
+    "dynasty": "吴越",
+    "path": "吴越/吴越成宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "941~947"
+  },
+  {
+    "name": "忠逊王",
+    "dynasty": "吴越",
+    "path": "吴越/忠逊王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "947~948"
+  },
+  {
+    "name": "秦国忠懿王",
+    "dynasty": "吴越",
+    "path": "吴越/秦国忠懿王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "948~978"
+  },
+  {
+    "name": "吴太祖",
+    "dynasty": "吴（三国）",
+    "path": "吴（三国）/吴太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "222~252"
+  },
+  {
+    "name": "孙亮",
+    "dynasty": "吴（三国）",
+    "path": "吴（三国）/孙亮",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "252~258"
+  },
+  {
+    "name": "孙皓",
+    "dynasty": "吴（三国）",
+    "path": "吴（三国）/孙皓",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "264~280"
+  },
+  {
+    "name": "景皇帝",
+    "dynasty": "吴（三国）",
+    "path": "吴（三国）/景皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "258~264"
+  },
+  {
+    "name": "吴太祖",
+    "dynasty": "吴（五代十国）",
+    "path": "吴（五代十国）/吴太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "902~905"
+  },
+  {
+    "name": "吴烈祖",
+    "dynasty": "吴（五代十国）",
+    "path": "吴（五代十国）/吴烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "905~908"
+  },
+  {
+    "name": "吴高祖",
+    "dynasty": "吴（五代十国）",
+    "path": "吴（五代十国）/吴高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "908~919"
+  },
+  {
+    "name": "睿皇帝",
+    "dynasty": "吴（五代十国）",
+    "path": "吴（五代十国）/睿皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "920~927"
+  },
+  {
+    "name": "周世宗",
+    "dynasty": "周（南北朝）",
+    "path": "周（南北朝）/周世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "557~560"
+  },
+  {
+    "name": "周高祖",
+    "dynasty": "周（南北朝）",
+    "path": "周（南北朝）/周高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "560~578"
+  },
+  {
+    "name": "孝闵皇帝",
+    "dynasty": "周（南北朝）",
+    "path": "周（南北朝）/孝闵皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "557~557"
+  },
+  {
+    "name": "宣皇帝",
+    "dynasty": "周（南北朝）",
+    "path": "周（南北朝）/宣皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "578~579"
+  },
+  {
+    "name": "靜皇帝",
+    "dynasty": "周（南北朝）",
+    "path": "周（南北朝）/靜皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "579~581"
+  },
+  {
+    "name": "武瞾",
+    "dynasty": "周（唐）",
+    "path": "周（唐）/武瞾",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "武则天.png"
+    ],
+    "reign": "690~705"
+  },
+  {
+    "name": "唐中宗",
+    "dynasty": "唐",
+    "path": "唐/唐中宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "705~710"
+  },
+  {
+    "name": "唐代宗",
+    "dynasty": "唐",
+    "path": "唐/唐代宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "762~779"
+  },
+  {
+    "name": "唐僖宗",
+    "dynasty": "唐",
+    "path": "唐/唐僖宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "873~888"
+  },
+  {
+    "name": "唐太宗",
+    "dynasty": "唐",
+    "path": "唐/唐太宗",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "唐太宗李世民.png"
+    ],
+    "reign": "626~649"
+  },
+  {
+    "name": "唐宣宗",
+    "dynasty": "唐",
+    "path": "唐/唐宣宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "846~859"
+  },
+  {
+    "name": "唐宪宗",
+    "dynasty": "唐",
+    "path": "唐/唐宪宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "805~820"
+  },
+  {
+    "name": "唐德宗",
+    "dynasty": "唐",
+    "path": "唐/唐德宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "779~805"
+  },
+  {
+    "name": "唐懿宗",
+    "dynasty": "唐",
+    "path": "唐/唐懿宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "859~873"
+  },
+  {
+    "name": "唐敬宗",
+    "dynasty": "唐",
+    "path": "唐/唐敬宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "824~826"
+  },
+  {
+    "name": "唐文宗",
+    "dynasty": "唐",
+    "path": "唐/唐文宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "826~840"
+  },
+  {
+    "name": "唐昭宗",
+    "dynasty": "唐",
+    "path": "唐/唐昭宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "888~900"
+  },
+  {
+    "name": "唐武宗",
+    "dynasty": "唐",
+    "path": "唐/唐武宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "840~846"
+  },
+  {
+    "name": "唐玄宗",
+    "dynasty": "唐",
+    "path": "唐/唐玄宗",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "李隆基.png"
+    ],
+    "reign": "712~756"
+  },
+  {
+    "name": "唐睿宗",
+    "dynasty": "唐",
+    "path": "唐/唐睿宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "710~712"
+  },
+  {
+    "name": "唐穆宗",
+    "dynasty": "唐",
+    "path": "唐/唐穆宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "820~824"
+  },
+  {
+    "name": "唐肃宗",
+    "dynasty": "唐",
+    "path": "唐/唐肃宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "756~762"
+  },
+  {
+    "name": "唐顺宗",
+    "dynasty": "唐",
+    "path": "唐/唐顺宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "805~805"
+  },
+  {
+    "name": "唐高宗",
+    "dynasty": "唐",
+    "path": "唐/唐高宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "649~683"
+  },
+  {
+    "name": "唐高祖",
+    "dynasty": "唐",
+    "path": "唐/唐高祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "李渊.png"
+    ],
+    "reign": "618~626"
+  },
+  {
+    "name": "昭宣光烈孝皇帝",
+    "dynasty": "唐",
+    "path": "唐/昭宣光烈孝皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "904~907"
+  },
+  {
+    "name": "殤皇帝",
+    "dynasty": "唐",
+    "path": "唐/殤皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "710~710"
+  },
+  {
+    "name": "三且辛",
+    "dynasty": "商",
+    "path": "商/三且辛",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1171~-1167"
+  },
+  {
+    "name": "且庚",
+    "dynasty": "商",
+    "path": "商/且庚",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1215~-1204"
+  },
+  {
+    "name": "中丁",
+    "dynasty": "商",
+    "path": "商/中丁",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1400~-1391"
+  },
+  {
+    "name": "南庚",
+    "dynasty": "商",
+    "path": "商/南庚",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1325~-1319"
+  },
+  {
+    "name": "卜丙",
+    "dynasty": "商",
+    "path": "商/卜丙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1546~-1544"
+  },
+  {
+    "name": "卜壬",
+    "dynasty": "商",
+    "path": "商/卜壬",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1391~-1381"
+  },
+  {
+    "name": "商且乙宗",
+    "dynasty": "商",
+    "path": "商/商且乙宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1372~-1353"
+  },
+  {
+    "name": "商且甲旧宗",
+    "dynasty": "商",
+    "path": "商/商且甲旧宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1204~-1171"
+  },
+  {
+    "name": "商且辛宗",
+    "dynasty": "商",
+    "path": "商/商且辛宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1353~-1339"
+  },
+  {
+    "name": "商中宗",
+    "dynasty": "商",
+    "path": "商/商中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1487~-1413"
+  },
+  {
+    "name": "商中宗且丁",
+    "dynasty": "商",
+    "path": "商/商中宗且丁",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1334~-1325"
+  },
+  {
+    "name": "商太宗",
+    "dynasty": "商",
+    "path": "商/商太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1540~-1528"
+  },
+  {
+    "name": "商康且丁宗",
+    "dynasty": "商",
+    "path": "商/商康且丁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1167~-1159"
+  },
+  {
+    "name": "商文武丁宗",
+    "dynasty": "商",
+    "path": "商/商文武丁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1124~-1101"
+  },
+  {
+    "name": "商武乙宗",
+    "dynasty": "商",
+    "path": "商/商武乙宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1159~-1124"
+  },
+  {
+    "name": "商高且乙",
+    "dynasty": "商",
+    "path": "商/商高且乙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1600~-1587"
+  },
+  {
+    "name": "大庚",
+    "dynasty": "商",
+    "path": "商/大庚",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1509~-1504"
+  },
+  {
+    "name": "小且乙",
+    "dynasty": "商",
+    "path": "商/小且乙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1284~-1274"
+  },
+  {
+    "name": "小甲",
+    "dynasty": "商",
+    "path": "商/小甲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1504~-1487"
+  },
+  {
+    "name": "小辛",
+    "dynasty": "商",
+    "path": "商/小辛",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1287~-1284"
+  },
+  {
+    "name": "帝辛",
+    "dynasty": "商",
+    "path": "商/帝辛",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1075~-1046"
+  },
+  {
+    "name": "戔甲",
+    "dynasty": "商",
+    "path": "商/戔甲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1381~-1372"
+  },
+  {
+    "name": "文武帝乙",
+    "dynasty": "商",
+    "path": "商/文武帝乙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1101~-1075"
+  },
+  {
+    "name": "武丁",
+    "dynasty": "商",
+    "path": "商/武丁",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1274~-1215"
+  },
+  {
+    "name": "燕壬",
+    "dynasty": "商",
+    "path": "商/燕壬",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1544~-1540"
+  },
+  {
+    "name": "羌丁",
+    "dynasty": "商",
+    "path": "商/羌丁",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1528~-1509"
+  },
+  {
+    "name": "羌甲",
+    "dynasty": "商",
+    "path": "商/羌甲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1339~-1334"
+  },
+  {
+    "name": "般庚",
+    "dynasty": "商",
+    "path": "商/般庚",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1315~-1287"
+  },
+  {
+    "name": "象甲",
+    "dynasty": "商",
+    "path": "商/象甲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1319~-1315"
+  },
+  {
+    "name": "雍己",
+    "dynasty": "商",
+    "path": "商/雍己",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1413~-1400"
+  },
+  {
+    "name": "不降",
+    "dynasty": "夏",
+    "path": "夏/不降",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1702~-1644"
+  },
+  {
+    "name": "仲康",
+    "dynasty": "夏",
+    "path": "夏/仲康",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-2159~-2147"
+  },
+  {
+    "name": "发",
+    "dynasty": "夏",
+    "path": "夏/发",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1596~-1590"
+  },
+  {
+    "name": "启",
+    "dynasty": "夏",
+    "path": "夏/启",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-2198~-2189"
+  },
+  {
+    "name": "太康",
+    "dynasty": "夏",
+    "path": "夏/太康",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-2188~-2160"
+  },
+  {
+    "name": "孔甲",
+    "dynasty": "夏",
+    "path": "夏/孔甲",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1612~-1604"
+  },
+  {
+    "name": "少康",
+    "dynasty": "夏",
+    "path": "夏/少康",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1875~-1855"
+  },
+  {
+    "name": "履癸",
+    "dynasty": "夏",
+    "path": "夏/履癸",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1589~-1559"
+  },
+  {
+    "name": "廑",
+    "dynasty": "夏",
+    "path": "夏/廑",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1622~-1615"
+  },
+  {
+    "name": "扃",
+    "dynasty": "夏",
+    "path": "夏/扃",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1643~-1626"
+  },
+  {
+    "name": "杼",
+    "dynasty": "夏",
+    "path": "夏/杼",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1852~-1836"
+  },
+  {
+    "name": "槐",
+    "dynasty": "夏",
+    "path": "夏/槐",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1833~-1790"
+  },
+  {
+    "name": "泄",
+    "dynasty": "夏",
+    "path": "夏/泄",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1730~-1706"
+  },
+  {
+    "name": "皋",
+    "dynasty": "夏",
+    "path": "夏/皋",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1601~-1599"
+  },
+  {
+    "name": "相",
+    "dynasty": "夏",
+    "path": "夏/相",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1943~-1916"
+  },
+  {
+    "name": "禹",
+    "dynasty": "夏",
+    "path": "夏/禹",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-2205~-2198"
+  },
+  {
+    "name": "芒",
+    "dynasty": "夏",
+    "path": "夏/芒",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1789~-1732"
+  },
+  {
+    "name": "光圣皇帝",
+    "dynasty": "夏王国（大辽、宋册封）",
+    "path": "夏王国（大辽、宋册封）/光圣皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1004~1032"
+  },
+  {
+    "name": "应运法天神智仁圣至道广德光孝皇帝",
+    "dynasty": "夏王国（大辽、宋册封）",
+    "path": "夏王国（大辽、宋册封）/应运法天神智仁圣至道广德光孝皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "990~1004"
+  },
+  {
+    "name": "夏世祖",
+    "dynasty": "夏（五胡十六国）",
+    "path": "夏（五胡十六国）/夏世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "407~425"
+  },
+  {
+    "name": "赫連定",
+    "dynasty": "夏（五胡十六国）",
+    "path": "夏（五胡十六国）/赫連定",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "428~431"
+  },
+  {
+    "name": "赫連昌",
+    "dynasty": "夏（五胡十六国）",
+    "path": "夏（五胡十六国）/赫連昌",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "425~428"
+  },
+  {
+    "name": "也孙鐵木儿",
+    "dynasty": "大元",
+    "path": "大元/也孙鐵木儿",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1323~1328"
+  },
+  {
+    "name": "元世祖",
+    "dynasty": "大元",
+    "path": "大元/元世祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "忽必烈.png"
+    ],
+    "reign": "1260~1294"
+  },
+  {
+    "name": "元仁宗",
+    "dynasty": "大元",
+    "path": "大元/元仁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1311~1320"
+  },
+  {
+    "name": "元宁宗",
+    "dynasty": "大元",
+    "path": "大元/元宁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1332~1332"
+  },
+  {
+    "name": "元成宗",
+    "dynasty": "大元",
+    "path": "大元/元成宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1294~1307"
+  },
+  {
+    "name": "元文宗",
+    "dynasty": "大元",
+    "path": "大元/元文宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1328~1329"
+  },
+  {
+    "name": "元明宗",
+    "dynasty": "大元",
+    "path": "大元/元明宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1329~1329"
+  },
+  {
+    "name": "元武宗",
+    "dynasty": "大元",
+    "path": "大元/元武宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1307~1311"
+  },
+  {
+    "name": "元英宗",
+    "dynasty": "大元",
+    "path": "大元/元英宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1320~1323"
+  },
+  {
+    "name": "阿剌吉八",
+    "dynasty": "大元",
+    "path": "大元/阿剌吉八",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1328~1328"
+  },
+  {
+    "name": "大契丹国世宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "947~951"
+  },
+  {
+    "name": "大契丹国兴宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国兴宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1031~1055"
+  },
+  {
+    "name": "大契丹国圣宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国圣宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "982~1031"
+  },
+  {
+    "name": "大契丹国太宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "927~947"
+  },
+  {
+    "name": "大契丹国太祖",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "907~916"
+  },
+  {
+    "name": "大契丹国景宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国景宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "969~982"
+  },
+  {
+    "name": "大契丹国穆宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国穆宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "951~969"
+  },
+  {
+    "name": "大契丹国道宗",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/大契丹国道宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1055~1101"
+  },
+  {
+    "name": "耶律察割",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/耶律察割",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "951~951"
+  },
+  {
+    "name": "耶律阿果",
+    "dynasty": "大契丹国（大辽）",
+    "path": "大契丹国（大辽）/耶律阿果",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1101~1125"
+  },
+  {
+    "name": "清世宗",
+    "dynasty": "大清",
+    "path": "大清/清世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1722~1735"
+  },
+  {
+    "name": "清世祖",
+    "dynasty": "大清",
+    "path": "大清/清世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1643~1661"
+  },
+  {
+    "name": "清仁宗",
+    "dynasty": "大清",
+    "path": "大清/清仁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1796~1820"
+  },
+  {
+    "name": "清圣祖",
+    "dynasty": "大清",
+    "path": "大清/清圣祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1661~1722"
+  },
+  {
+    "name": "清太宗",
+    "dynasty": "大清",
+    "path": "大清/清太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1636~1643"
+  },
+  {
+    "name": "清宣宗",
+    "dynasty": "大清",
+    "path": "大清/清宣宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1820~1850"
+  },
+  {
+    "name": "清德宗",
+    "dynasty": "大清",
+    "path": "大清/清德宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1875~1908"
+  },
+  {
+    "name": "清文宗",
+    "dynasty": "大清",
+    "path": "大清/清文宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1850~1861"
+  },
+  {
+    "name": "清穆宗",
+    "dynasty": "大清",
+    "path": "大清/清穆宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1861~1875"
+  },
+  {
+    "name": "清高宗",
+    "dynasty": "大清",
+    "path": "大清/清高宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1735~1796"
+  },
+  {
+    "name": "溥仪",
+    "dynasty": "大清",
+    "path": "大清/溥仪",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "1908~1912"
+  },
+  {
+    "name": "刘义符",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/刘义符",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "422~424"
+  },
+  {
+    "name": "刘劭",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/刘劭",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "453~453"
+  },
+  {
+    "name": "刘子业",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/刘子业",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "464~465"
+  },
+  {
+    "name": "刘昱",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/刘昱",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "472~476"
+  },
+  {
+    "name": "宋世祖",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/宋世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "453~464"
+  },
+  {
+    "name": "宋太宗",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/宋太宗",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "465~472"
+  },
+  {
+    "name": "宋太祖",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/宋太祖",
+    "has_portrait": false,
+    "portrait_source": "Wikimedia Commons",
+    "images": [],
+    "reign": "424~453"
+  },
+  {
+    "name": "宋高祖",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/宋高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "420~422"
+  },
+  {
+    "name": "顺皇帝",
+    "dynasty": "宋（南北朝）",
+    "path": "宋（南北朝）/顺皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "476~479"
+  },
+  {
+    "name": "哀皇帝",
+    "dynasty": "成",
+    "path": "成/哀皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "334~334"
+  },
+  {
+    "name": "成太宗",
+    "dynasty": "成",
+    "path": "成/成太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "304~334"
+  },
+  {
+    "name": "李期",
+    "dynasty": "成",
+    "path": "成/李期",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "334~338"
+  },
+  {
+    "name": "王莽",
+    "dynasty": "新",
+    "path": "新/王莽",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "9~23"
+  },
+  {
+    "name": "体天弘道高明广运圣武神功純仁至孝文皇帝",
+    "dynasty": "明",
+    "path": "明/体天弘道高明广运圣武神功純仁至孝文皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1402~1424"
+  },
+  {
+    "name": "嗣天章道誠懿渊功观文揚武克仁篤孝让皇帝",
+    "dynasty": "明",
+    "path": "明/嗣天章道誠懿渊功观文揚武克仁篤孝让皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1398~1402"
+  },
+  {
+    "name": "明世宗",
+    "dynasty": "明",
+    "path": "明/明世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1527~1567"
+  },
+  {
+    "name": "明仁宗",
+    "dynasty": "明",
+    "path": "明/明仁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1424~1425"
+  },
+  {
+    "name": "明光宗",
+    "dynasty": "明",
+    "path": "明/明光宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1620~1620"
+  },
+  {
+    "name": "明太祖",
+    "dynasty": "明",
+    "path": "明/明太祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "朱元璋.png"
+    ],
+    "reign": "1364~1368"
+  },
+  {
+    "name": "明孝宗",
+    "dynasty": "明",
+    "path": "明/明孝宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1487~1505"
+  },
+  {
+    "name": "明宣宗",
+    "dynasty": "明",
+    "path": "明/明宣宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1425~1435"
+  },
+  {
+    "name": "明宪宗",
+    "dynasty": "明",
+    "path": "明/明宪宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1464~1487"
+  },
+  {
+    "name": "明思宗",
+    "dynasty": "明",
+    "path": "明/明思宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "崇祯.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "明成祖",
+    "dynasty": "明",
+    "path": "明/明成祖",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "朱棣.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "明武宗",
+    "dynasty": "明",
+    "path": "明/明武宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1505~1521"
+  },
+  {
+    "name": "明熹宗",
+    "dynasty": "明",
+    "path": "明/明熹宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1620~1627"
+  },
+  {
+    "name": "明神宗",
+    "dynasty": "明",
+    "path": "明/明神宗",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "万历.png"
+    ],
+    "reign": "1572~1620"
+  },
+  {
+    "name": "明穆宗",
+    "dynasty": "明",
+    "path": "明/明穆宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1567~1572"
+  },
+  {
+    "name": "明英宗",
+    "dynasty": "明",
+    "path": "明/明英宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1435~1449"
+  },
+  {
+    "name": "绍天绎道剛明恪儉揆文奮武敦仁懋孝烈皇帝",
+    "dynasty": "明",
+    "path": "明/绍天绎道剛明恪儉揆文奮武敦仁懋孝烈皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1627~1644"
+  },
+  {
+    "name": "郕戾王",
+    "dynasty": "明",
+    "path": "明/郕戾王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1449~1457"
+  },
+  {
+    "name": "司马伦",
+    "dynasty": "晋",
+    "path": "晋/司马伦",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "301~301"
+  },
+  {
+    "name": "司马奕",
+    "dynasty": "晋",
+    "path": "晋/司马奕",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "365~371"
+  },
+  {
+    "name": "哀皇帝",
+    "dynasty": "晋",
+    "path": "晋/哀皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "361~365"
+  },
+  {
+    "name": "孝惠皇帝",
+    "dynasty": "晋",
+    "path": "晋/孝惠皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "290~306"
+  },
+  {
+    "name": "孝愍皇帝",
+    "dynasty": "晋",
+    "path": "晋/孝愍皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "313~316"
+  },
+  {
+    "name": "孝懷皇帝",
+    "dynasty": "晋",
+    "path": "晋/孝懷皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "306~311"
+  },
+  {
+    "name": "安皇帝",
+    "dynasty": "晋",
+    "path": "晋/安皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "396~418"
+  },
+  {
+    "name": "康皇帝",
+    "dynasty": "晋",
+    "path": "晋/康皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "342~344"
+  },
+  {
+    "name": "恭皇帝",
+    "dynasty": "晋",
+    "path": "晋/恭皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "418~420"
+  },
+  {
+    "name": "晋世祖",
+    "dynasty": "晋",
+    "path": "晋/晋世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "265~290"
+  },
+  {
+    "name": "晋中宗",
+    "dynasty": "晋",
+    "path": "晋/晋中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "317~322"
+  },
+  {
+    "name": "晋太宗",
+    "dynasty": "晋",
+    "path": "晋/晋太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "371~372"
+  },
+  {
+    "name": "晋孝宗",
+    "dynasty": "晋",
+    "path": "晋/晋孝宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "344~361"
+  },
+  {
+    "name": "晋显宗",
+    "dynasty": "晋",
+    "path": "晋/晋显宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "325~342"
+  },
+  {
+    "name": "晋烈宗",
+    "dynasty": "晋",
+    "path": "晋/晋烈宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "372~396"
+  },
+  {
+    "name": "晋肃祖",
+    "dynasty": "晋",
+    "path": "晋/晋肃祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "322~325"
+  },
+  {
+    "name": "浞",
+    "dynasty": "有穷氏",
+    "path": "有穷氏/浞",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1915~-1876"
+  },
+  {
+    "name": "羿",
+    "dynasty": "有穷氏",
+    "path": "有穷氏/羿",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1916~-1915"
+  },
+  {
+    "name": "敬皇帝",
+    "dynasty": "梁",
+    "path": "梁/敬皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "555~557"
+  },
+  {
+    "name": "梁世宗",
+    "dynasty": "梁",
+    "path": "梁/梁世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "562~585"
+  },
+  {
+    "name": "梁世祖",
+    "dynasty": "梁",
+    "path": "梁/梁世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "552~554"
+  },
+  {
+    "name": "梁中宗",
+    "dynasty": "梁",
+    "path": "梁/梁中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "555~562"
+  },
+  {
+    "name": "梁太宗",
+    "dynasty": "梁",
+    "path": "梁/梁太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "549~551"
+  },
+  {
+    "name": "梁高祖",
+    "dynasty": "梁",
+    "path": "梁/梁高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "502~549"
+  },
+  {
+    "name": "萧庄",
+    "dynasty": "梁",
+    "path": "梁/萧庄",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "557~560"
+  },
+  {
+    "name": "萧棟",
+    "dynasty": "梁",
+    "path": "梁/萧棟",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "551~551"
+  },
+  {
+    "name": "萧正德",
+    "dynasty": "梁",
+    "path": "梁/萧正德",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "549~549"
+  },
+  {
+    "name": "萧琮",
+    "dynasty": "梁",
+    "path": "梁/萧琮",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "586~587"
+  },
+  {
+    "name": "闵皇帝",
+    "dynasty": "梁",
+    "path": "梁/闵皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "555~555"
+  },
+  {
+    "name": "恭孝王",
+    "dynasty": "楚",
+    "path": "楚/恭孝王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "950~951"
+  },
+  {
+    "name": "文昭王",
+    "dynasty": "楚",
+    "path": "楚/文昭王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "932~947"
+  },
+  {
+    "name": "武穆王",
+    "dynasty": "楚",
+    "path": "楚/武穆王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "907~930"
+  },
+  {
+    "name": "马希声",
+    "dynasty": "楚",
+    "path": "楚/马希声",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "930~932"
+  },
+  {
+    "name": "马希崇",
+    "dynasty": "楚",
+    "path": "楚/马希崇",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "951~951"
+  },
+  {
+    "name": "马希广",
+    "dynasty": "楚",
+    "path": "楚/马希广",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "947~950"
+  },
+  {
+    "name": "楚哀王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚哀王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-228~-228"
+  },
+  {
+    "name": "楚声王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚声王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-407~-402"
+  },
+  {
+    "name": "楚威王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚威王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-339~-329"
+  },
+  {
+    "name": "楚宣王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚宣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-369~-340"
+  },
+  {
+    "name": "楚幽王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚幽王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-237~-228"
+  },
+  {
+    "name": "楚怀王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚怀王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-328~-299"
+  },
+  {
+    "name": "楚悼王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚悼王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-401~-381"
+  },
+  {
+    "name": "楚王负刍",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚王负刍",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-227~-223"
+  },
+  {
+    "name": "楚简王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚简王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-431~-408"
+  },
+  {
+    "name": "楚考烈王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚考烈王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-262~-238"
+  },
+  {
+    "name": "楚肃王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚肃王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-380~-370"
+  },
+  {
+    "name": "楚顷襄王",
+    "dynasty": "楚（战国）",
+    "path": "楚（战国）/楚顷襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-298~-263"
+  },
+  {
+    "name": "刘和",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/刘和",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "310~310"
+  },
+  {
+    "name": "刘曜",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/刘曜",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "318~319"
+  },
+  {
+    "name": "李勢",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/李勢",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "343~347"
+  },
+  {
+    "name": "汉中宗",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/汉中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "338~343"
+  },
+  {
+    "name": "汉烈宗",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/汉烈宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "310~318"
+  },
+  {
+    "name": "汉高祖",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/汉高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "304~310"
+  },
+  {
+    "name": "隱皇帝",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/隱皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "318~318"
+  },
+  {
+    "name": "靳準",
+    "dynasty": "汉（五胡十六国）",
+    "path": "汉（五胡十六国）/靳準",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "318~318"
+  },
+  {
+    "name": "东海郡侯",
+    "dynasty": "海陵庶人（金世宗諡）",
+    "path": "海陵庶人（金世宗諡）/东海郡侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1208~1213"
+  },
+  {
+    "name": "海陵庶人世宗",
+    "dynasty": "海陵庶人（金世宗諡）",
+    "path": "海陵庶人（金世宗諡）/海陵庶人世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1161~1189"
+  },
+  {
+    "name": "海陵庶人章宗",
+    "dynasty": "海陵庶人（金世宗諡）",
+    "path": "海陵庶人（金世宗諡）/海陵庶人章宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1189~1208"
+  },
+  {
+    "name": "清世宗",
+    "dynasty": "清",
+    "path": "清/清世宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "雍正.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清世祖",
+    "dynasty": "清",
+    "path": "清/清世祖",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "顺治.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清圣祖",
+    "dynasty": "清",
+    "path": "清/清圣祖",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "康熙.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清太宗",
+    "dynasty": "清",
+    "path": "清/清太宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "皇太极.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清德宗",
+    "dynasty": "清",
+    "path": "清/清德宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "光绪.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清文宗",
+    "dynasty": "清",
+    "path": "清/清文宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "咸丰.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "清高宗",
+    "dynasty": "清",
+    "path": "清/清高宗",
+    "has_portrait": true,
+    "portrait_source": "",
+    "images": [
+      "乾隆.png"
+    ],
+    "reign": ""
+  },
+  {
+    "name": "燕孝王",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕孝王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-257~-255"
+  },
+  {
+    "name": "燕惠王",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕惠王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-278~-272"
+  },
+  {
+    "name": "燕易王",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕易王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-332~-321"
+  },
+  {
+    "name": "燕昭王",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕昭王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-311~-279"
+  },
+  {
+    "name": "燕武成王",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕武成王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-271~-258"
+  },
+  {
+    "name": "燕王哙",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕王哙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-320~-314"
+  },
+  {
+    "name": "燕王喜",
+    "dynasty": "燕（战国）",
+    "path": "燕（战国）/燕王喜",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-254~-222"
+  },
+  {
+    "name": "刘玄",
+    "dynasty": "玄汉",
+    "path": "玄汉/刘玄",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "23~25"
+  },
+  {
+    "name": "刘盆子",
+    "dynasty": "玄汉",
+    "path": "玄汉/刘盆子",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "25~27"
+  },
+  {
+    "name": "二世皇帝",
+    "dynasty": "秦",
+    "path": "秦/二世皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-210~-207"
+  },
+  {
+    "name": "始皇帝",
+    "dynasty": "秦",
+    "path": "秦/始皇帝",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "始皇帝.png"
+    ],
+    "reign": "-221~-210"
+  },
+  {
+    "name": "子婴",
+    "dynasty": "秦",
+    "path": "秦/子婴",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-207~-206"
+  },
+  {
+    "name": "秦出公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦出公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-386~-385"
+  },
+  {
+    "name": "秦孝公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦孝公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-361~-338"
+  },
+  {
+    "name": "秦孝文王",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦孝文王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-250~-250"
+  },
+  {
+    "name": "秦庄襄王",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦庄襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-249~-247"
+  },
+  {
+    "name": "秦惠公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦惠公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-399~-387"
+  },
+  {
+    "name": "秦惠文王",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦惠文王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-337~-311"
+  },
+  {
+    "name": "秦昭襄王",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦昭襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-306~-251"
+  },
+  {
+    "name": "秦武王",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦武王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-310~-307"
+  },
+  {
+    "name": "秦灵公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦灵公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-424~-415"
+  },
+  {
+    "name": "秦献公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦献公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-384~-362"
+  },
+  {
+    "name": "秦王政",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦王政",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-246~-221"
+  },
+  {
+    "name": "秦简公",
+    "dynasty": "秦（战国）",
+    "path": "秦（战国）/秦简公",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-414~-400"
+  },
+  {
+    "name": "孝懷皇帝",
+    "dynasty": "蜀汉",
+    "path": "蜀汉/孝懷皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "223~263"
+  },
+  {
+    "name": "蜀汉烈祖",
+    "dynasty": "蜀汉",
+    "path": "蜀汉/蜀汉烈祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "刘备.png"
+    ],
+    "reign": "221~223"
+  },
+  {
+    "name": "衛绍王哀宗",
+    "dynasty": "衛绍王（金宣宗諡）",
+    "path": "衛绍王（金宣宗諡）/衛绍王哀宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1224~1234"
+  },
+  {
+    "name": "衛绍王宣宗",
+    "dynasty": "衛绍王（金宣宗諡）",
+    "path": "衛绍王（金宣宗諡）/衛绍王宣宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1213~1224"
+  },
+  {
+    "name": "衛绍王昭宗",
+    "dynasty": "衛绍王（金宣宗諡）",
+    "path": "衛绍王（金宣宗諡）/衛绍王昭宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1234~1234"
+  },
+  {
+    "name": "李恂",
+    "dynasty": "西凉",
+    "path": "西凉/李恂",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "420~421"
+  },
+  {
+    "name": "李歆",
+    "dynasty": "西凉",
+    "path": "西凉/李歆",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "417~420"
+  },
+  {
+    "name": "西凉太祖",
+    "dynasty": "西凉",
+    "path": "西凉/西凉太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "400~417"
+  },
+  {
+    "name": "共王",
+    "dynasty": "西周",
+    "path": "西周/共王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-909~-900"
+  },
+  {
+    "name": "厲王",
+    "dynasty": "西周",
+    "path": "西周/厲王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-858~-841"
+  },
+  {
+    "name": "和",
+    "dynasty": "西周",
+    "path": "西周/和",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-841~-828"
+  },
+  {
+    "name": "夷王",
+    "dynasty": "西周",
+    "path": "西周/夷王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-869~-858"
+  },
+  {
+    "name": "孝王",
+    "dynasty": "西周",
+    "path": "西周/孝王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-876~-870"
+  },
+  {
+    "name": "宣王",
+    "dynasty": "西周",
+    "path": "西周/宣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-828~-782"
+  },
+  {
+    "name": "幽王",
+    "dynasty": "西周",
+    "path": "西周/幽王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-782~-771"
+  },
+  {
+    "name": "康王",
+    "dynasty": "西周",
+    "path": "西周/康王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1007~-983"
+  },
+  {
+    "name": "懿王",
+    "dynasty": "西周",
+    "path": "西周/懿王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-900~-876"
+  },
+  {
+    "name": "成王",
+    "dynasty": "西周",
+    "path": "西周/成王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1044~-1008"
+  },
+  {
+    "name": "攜王",
+    "dynasty": "西周",
+    "path": "西周/攜王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-771~-750"
+  },
+  {
+    "name": "昭王",
+    "dynasty": "西周",
+    "path": "西周/昭王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-982~-964"
+  },
+  {
+    "name": "武王",
+    "dynasty": "西周",
+    "path": "西周/武王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1122~-1045"
+  },
+  {
+    "name": "穆王",
+    "dynasty": "西周",
+    "path": "西周/穆王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-963~-909"
+  },
+  {
+    "name": "李睍",
+    "dynasty": "西夏",
+    "path": "西夏/李睍",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1226~1227"
+  },
+  {
+    "name": "西夏仁宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏仁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1139~1193"
+  },
+  {
+    "name": "西夏崇宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏崇宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1086~1139"
+  },
+  {
+    "name": "西夏惠宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏惠宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1068~1086"
+  },
+  {
+    "name": "西夏桓宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏桓宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1193~1206"
+  },
+  {
+    "name": "西夏毅宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏毅宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1048~1068"
+  },
+  {
+    "name": "西夏獻宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏獻宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1223~1226"
+  },
+  {
+    "name": "西夏神宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏神宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1211~1223"
+  },
+  {
+    "name": "西夏襄宗",
+    "dynasty": "西夏",
+    "path": "西夏/西夏襄宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1206~1211"
+  },
+  {
+    "name": "刘婴",
+    "dynasty": "西汉",
+    "path": "西汉/刘婴",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "6~8"
+  },
+  {
+    "name": "刘弘",
+    "dynasty": "西汉",
+    "path": "西汉/刘弘",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-184~-180"
+  },
+  {
+    "name": "刘恭",
+    "dynasty": "西汉",
+    "path": "西汉/刘恭",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-188~-184"
+  },
+  {
+    "name": "刘賀",
+    "dynasty": "西汉",
+    "path": "西汉/刘賀",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-74~-74"
+  },
+  {
+    "name": "孝元皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝元皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-49~-33"
+  },
+  {
+    "name": "孝哀皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝哀皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-7~-1"
+  },
+  {
+    "name": "孝平皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝平皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-1~6"
+  },
+  {
+    "name": "孝惠皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝惠皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-195~-188"
+  },
+  {
+    "name": "孝成皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝成皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-33~-7"
+  },
+  {
+    "name": "孝昭皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝昭皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-87~-74"
+  },
+  {
+    "name": "孝景皇帝",
+    "dynasty": "西汉",
+    "path": "西汉/孝景皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-157~-141"
+  },
+  {
+    "name": "汉世宗",
+    "dynasty": "西汉",
+    "path": "西汉/汉世宗",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "汉武帝.png"
+    ],
+    "reign": "-141~-87"
+  },
+  {
+    "name": "汉中宗",
+    "dynasty": "西汉",
+    "path": "西汉/汉中宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-74~-49"
+  },
+  {
+    "name": "汉太宗",
+    "dynasty": "西汉",
+    "path": "西汉/汉太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-180~-157"
+  },
+  {
+    "name": "汉太祖",
+    "dynasty": "西汉",
+    "path": "西汉/汉太祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "刘邦.png"
+    ],
+    "reign": "-206~-195"
+  },
+  {
+    "name": "乞伏暮末",
+    "dynasty": "西秦",
+    "path": "西秦/乞伏暮末",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "428~431"
+  },
+  {
+    "name": "西秦太祖",
+    "dynasty": "西秦",
+    "path": "西秦/西秦太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "412~428"
+  },
+  {
+    "name": "西秦烈祖",
+    "dynasty": "西秦",
+    "path": "西秦/西秦烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "385~388"
+  },
+  {
+    "name": "西秦高祖",
+    "dynasty": "西秦",
+    "path": "西秦/西秦高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "388~400"
+  },
+  {
+    "name": "辽仁宗",
+    "dynasty": "西辽",
+    "path": "西辽/辽仁宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1150~1163"
+  },
+  {
+    "name": "辽德宗",
+    "dynasty": "西辽",
+    "path": "西辽/辽德宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1124~1143"
+  },
+  {
+    "name": "刘曜",
+    "dynasty": "赵",
+    "path": "赵/刘曜",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "319~328"
+  },
+  {
+    "name": "刘熙",
+    "dynasty": "赵",
+    "path": "赵/刘熙",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "329~329"
+  },
+  {
+    "name": "代王嘉",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/代王嘉",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-227~-222"
+  },
+  {
+    "name": "赵孝成王",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵孝成王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-265~-245"
+  },
+  {
+    "name": "赵幽缪王",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵幽缪王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-235~-228"
+  },
+  {
+    "name": "赵悼襄王",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵悼襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-244~-236"
+  },
+  {
+    "name": "赵惠文王",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵惠文王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-298~-266"
+  },
+  {
+    "name": "赵成侯",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵成侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-374~-350"
+  },
+  {
+    "name": "赵敬侯",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵敬侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-386~-375"
+  },
+  {
+    "name": "赵武侯",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵武侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-399~-387"
+  },
+  {
+    "name": "赵武灵王",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵武灵王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-325~-299"
+  },
+  {
+    "name": "赵烈侯",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵烈侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-408~-400"
+  },
+  {
+    "name": "赵肃侯",
+    "dynasty": "赵（战国）",
+    "path": "赵（战国）/赵肃侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-349~-326"
+  },
+  {
+    "name": "东昏王",
+    "dynasty": "金",
+    "path": "金/东昏王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1135~1150"
+  },
+  {
+    "name": "海陵炀郡王",
+    "dynasty": "金",
+    "path": "金/海陵炀郡王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1150~1161"
+  },
+  {
+    "name": "金太宗",
+    "dynasty": "金",
+    "path": "金/金太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1123~1135"
+  },
+  {
+    "name": "金太祖",
+    "dynasty": "金",
+    "path": "金/金太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "1115~1123"
+  },
+  {
+    "name": "朱文進",
+    "dynasty": "闽",
+    "path": "闽/朱文進",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "944~945"
+  },
+  {
+    "name": "王延政",
+    "dynasty": "闽",
+    "path": "闽/王延政",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "945~945"
+  },
+  {
+    "name": "王延翰",
+    "dynasty": "闽",
+    "path": "闽/王延翰",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "925~927"
+  },
+  {
+    "name": "闽太祖",
+    "dynasty": "闽",
+    "path": "闽/闽太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "909~925"
+  },
+  {
+    "name": "闽康宗",
+    "dynasty": "闽",
+    "path": "闽/闽康宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "936~939"
+  },
+  {
+    "name": "闽惠宗",
+    "dynasty": "闽",
+    "path": "闽/闽惠宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "927~933"
+  },
+  {
+    "name": "闽景宗",
+    "dynasty": "闽",
+    "path": "闽/闽景宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "939~944"
+  },
+  {
+    "name": "陈世祖",
+    "dynasty": "陈",
+    "path": "陈/陈世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "559~566"
+  },
+  {
+    "name": "陈伯宗",
+    "dynasty": "陈",
+    "path": "陈/陈伯宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "566~568"
+  },
+  {
+    "name": "陈叔宝",
+    "dynasty": "陈",
+    "path": "陈/陈叔宝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "582~589"
+  },
+  {
+    "name": "陈高宗",
+    "dynasty": "陈",
+    "path": "陈/陈高宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "568~582"
+  },
+  {
+    "name": "陈高祖",
+    "dynasty": "陈",
+    "path": "陈/陈高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "557~559"
+  },
+  {
+    "name": "恭皇帝",
+    "dynasty": "隋",
+    "path": "隋/恭皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "617~618"
+  },
+  {
+    "name": "杨侗",
+    "dynasty": "隋",
+    "path": "隋/杨侗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "618~619"
+  },
+  {
+    "name": "隋世祖",
+    "dynasty": "隋",
+    "path": "隋/隋世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "604~618"
+  },
+  {
+    "name": "隋高祖",
+    "dynasty": "隋",
+    "path": "隋/隋高祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "杨坚.png"
+    ],
+    "reign": "581~604"
+  },
+  {
+    "name": "韩厘王",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩厘王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-295~-273"
+  },
+  {
+    "name": "韩哀侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩哀侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-376~-374"
+  },
+  {
+    "name": "韩宣惠王",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩宣惠王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-332~-312"
+  },
+  {
+    "name": "韩懿侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩懿侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-374~-363"
+  },
+  {
+    "name": "韩文侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩文侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-386~-377"
+  },
+  {
+    "name": "韩昭侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩昭侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-362~-333"
+  },
+  {
+    "name": "韩景侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩景侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-408~-400"
+  },
+  {
+    "name": "韩桓惠王",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩桓惠王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-272~-239"
+  },
+  {
+    "name": "韩烈侯",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩烈侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-399~-387"
+  },
+  {
+    "name": "韩王安",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩王安",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-238~-230"
+  },
+  {
+    "name": "韩襄王",
+    "dynasty": "韩（战国）",
+    "path": "韩（战国）/韩襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-311~-296"
+  },
+  {
+    "name": "元皇帝",
+    "dynasty": "魏（三国）",
+    "path": "魏（三国）/元皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "260~266"
+  },
+  {
+    "name": "曹芳",
+    "dynasty": "魏（三国）",
+    "path": "魏（三国）/曹芳",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "239~254"
+  },
+  {
+    "name": "曹髦",
+    "dynasty": "魏（三国）",
+    "path": "魏（三国）/曹髦",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "254~260"
+  },
+  {
+    "name": "魏烈祖",
+    "dynasty": "魏（三国）",
+    "path": "魏（三国）/魏烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "226~239"
+  },
+  {
+    "name": "魏高祖",
+    "dynasty": "魏（三国）",
+    "path": "魏（三国）/魏高祖",
+    "has_portrait": true,
+    "portrait_source": "AI Generated (OpenAI)",
+    "images": [
+      "曹丕.png"
+    ],
+    "reign": "220~226"
+  },
+  {
+    "name": "元曄",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/元曄",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "530~531"
+  },
+  {
+    "name": "元朗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/元朗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "531~532"
+  },
+  {
+    "name": "元钊",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/元钊",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "528~528"
+  },
+  {
+    "name": "元钦",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/元钦",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "551~554"
+  },
+  {
+    "name": "孝武皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/孝武皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "532~534"
+  },
+  {
+    "name": "孝靜皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/孝靜皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "534~550"
+  },
+  {
+    "name": "恭皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/恭皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "554~556"
+  },
+  {
+    "name": "拓跋余",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/拓跋余",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "452~452"
+  },
+  {
+    "name": "文景皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/文景皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "508~508"
+  },
+  {
+    "name": "文皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/文皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "535~551"
+  },
+  {
+    "name": "節闵皇帝",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/節闵皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "531~532"
+  },
+  {
+    "name": "魏世宗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏世宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "499~515"
+  },
+  {
+    "name": "魏世祖",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "423~452"
+  },
+  {
+    "name": "魏太宗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏太宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "409~423"
+  },
+  {
+    "name": "魏敬宗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏敬宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "528~530"
+  },
+  {
+    "name": "魏显祖",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏显祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "465~471"
+  },
+  {
+    "name": "魏烈祖",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏烈祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "386~409"
+  },
+  {
+    "name": "魏肃宗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏肃宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "515~528"
+  },
+  {
+    "name": "魏高宗",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏高宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "452~465"
+  },
+  {
+    "name": "魏高祖",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/魏高祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "471~499"
+  },
+  {
+    "name": "？",
+    "dynasty": "魏（南北朝）",
+    "path": "魏（南北朝）/？",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "528~528"
+  },
+  {
+    "name": "魏安釐王",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏安釐王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-276~-243"
+  },
+  {
+    "name": "魏惠王",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏惠王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-369~-319"
+  },
+  {
+    "name": "魏文侯",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏文侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-445~-403"
+  },
+  {
+    "name": "魏昭王",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏昭王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-295~-277"
+  },
+  {
+    "name": "魏景湣王",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏景湣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-242~-228"
+  },
+  {
+    "name": "魏武侯",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏武侯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-395~-370"
+  },
+  {
+    "name": "魏王假",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏王假",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-227~-225"
+  },
+  {
+    "name": "魏襄王",
+    "dynasty": "魏（战国）",
+    "path": "魏（战国）/魏襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-318~-296"
+  },
+  {
+    "name": "和皇帝",
+    "dynasty": "齐",
+    "path": "齐/和皇帝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "501~502"
+  },
+  {
+    "name": "萧宝卷",
+    "dynasty": "齐",
+    "path": "齐/萧宝卷",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "498~501"
+  },
+  {
+    "name": "萧昭业",
+    "dynasty": "齐",
+    "path": "齐/萧昭业",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "493~494"
+  },
+  {
+    "name": "萧昭文",
+    "dynasty": "齐",
+    "path": "齐/萧昭文",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "494~494"
+  },
+  {
+    "name": "高延宗",
+    "dynasty": "齐",
+    "path": "齐/高延宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "576~576"
+  },
+  {
+    "name": "高恒",
+    "dynasty": "齐",
+    "path": "齐/高恒",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "577~577"
+  },
+  {
+    "name": "高殷",
+    "dynasty": "齐",
+    "path": "齐/高殷",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "559~560"
+  },
+  {
+    "name": "高湝",
+    "dynasty": "齐",
+    "path": "齐/高湝",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "577~577"
+  },
+  {
+    "name": "高緯",
+    "dynasty": "齐",
+    "path": "齐/高緯",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "565~577"
+  },
+  {
+    "name": "齐世祖",
+    "dynasty": "齐",
+    "path": "齐/齐世祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "561~565"
+  },
+  {
+    "name": "齐太祖",
+    "dynasty": "齐",
+    "path": "齐/齐太祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "479~482"
+  },
+  {
+    "name": "齐显祖",
+    "dynasty": "齐",
+    "path": "齐/齐显祖",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "550~559"
+  },
+  {
+    "name": "齐肃宗",
+    "dynasty": "齐",
+    "path": "齐/齐肃宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "560~561"
+  },
+  {
+    "name": "齐高宗",
+    "dynasty": "齐",
+    "path": "齐/齐高宗",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "494~498"
+  },
+  {
+    "name": "齐威王",
+    "dynasty": "齐（战国）",
+    "path": "齐（战国）/齐威王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-356~-320"
+  },
+  {
+    "name": "齐宣王",
+    "dynasty": "齐（战国）",
+    "path": "齐（战国）/齐宣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-319~-301"
+  },
+  {
+    "name": "齐湣王",
+    "dynasty": "齐（战国）",
+    "path": "齐（战国）/齐湣王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-300~-284"
+  },
+  {
+    "name": "齐王建",
+    "dynasty": "齐（战国）",
+    "path": "齐（战国）/齐王建",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-264~-221"
+  },
+  {
+    "name": "齐襄王",
+    "dynasty": "齐（战国）",
+    "path": "齐（战国）/齐襄王",
+    "has_portrait": false,
+    "portrait_source": null,
+    "images": [],
+    "reign": "-283~-265"
+  }
+]

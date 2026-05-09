@@ -1,0 +1,15 @@
+{
+  "name": "汉世宗",
+  "dynasty": "西汉",
+  "templeTitle": "世宗",
+  "posthumous": "孝武皇帝",
+  "era": "建元 / 元光 / 元朔 / 元狩 / 元鼎 / 元封 / 太初 / 天汉 / 太始 / 征和 / 后元",
+  "reign_start": -141,
+  "reign_end": -87,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "汉武帝.png"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "元世祖",
+  "dynasty": "大元",
+  "templeTitle": "世祖",
+  "posthumous": "圣德神功文武皇帝",
+  "era": "（大元皇帝）",
+  "reign_start": 1260,
+  "reign_end": 1294,
+  "bio": "",
+  "has_portrait": true,
+  "portrait_source": "AI Generated (OpenAI)",
+  "images": [
+    "忽必烈.png"
+  ]
+}

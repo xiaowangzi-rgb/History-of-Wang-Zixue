@@ -1,0 +1,21 @@
+{
+  "emperor_portraits": {
+    "count": 70,
+    "source": "Wikipedia List of Chinese monarchs",
+    "coverage": "秦/隋/唐/宋/元/明/清",
+    "file": "emperor-portraits.json"
+  },
+  "chinese_inventions": {
+    "count": 58,
+    "source": "Wikipedia List of Chinese inventions",
+    "file": "chinese-inventions-images.json"
+  },
+  "timeline_diagrams": {
+    "count": 2,
+    "source": "Wikipedia Timeline of Chinese history",
+    "files": [
+      "Divisions of Chinese history.jpg",
+      "Timeline of Chinese History.svg"
+    ]
+  }
+}

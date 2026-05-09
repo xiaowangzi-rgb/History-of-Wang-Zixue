@@ -1,0 +1,2891 @@
+{{Short description|none}}
+{{Use dmy dates|date=November 2015}}
+{{more footnotes needed|date=November 2020}}
+{{History of China}}
+[[File:Timeline of Chinese History.svg|thumb|upright=1.3|Timeline of Chinese history]]
+The [[history of China]] and [[Dynasties of China|its dynasties]] contain many important legal and territorial changes and political events.
+
+Dates prior to 841 BC, the beginning of the [[Gonghe Regency]], are provisional and subject to dispute.
+
+{{Dynamic list}}
+
+{{TOC limit|2}}
+
+== Prehistory ==
+{| class="wikitable"
+| 80,000 [[Before Christ|BC]]
+| valign="top" | ''H. sapiens'' appears in modern [[Dao County]], Hunan.<ref>{{cite news|url=https://www.bbc.com/news/science-environment-34531861|title=Fossil teeth place humans in Asia '20,000 years early'|work=[[BBC News]]|access-date=14 October 2015}}</ref>
+|-
+| [[Upper Paleolithic|20,000 BC]] || valign="top" | [[Pottery]] was used in [[Xianren Cave]].<ref name=Xiaohong>[https://www.science.org/doi/10.1126/science.1218643 Xiaohong, et al.] (2002).</ref>
+|-
+| rowspan="2" valign="top" | [[8th millennium BC|7600 BC]] || The [[Zengpiyan]] culture appeared.
+|-
+| Pigs were first domesticated in China.<ref name=huang>[http://www.igsnrr.ac.cn/menu9/book5.jsp?id=725 Huang et al.]{{dead link|date=November 2017 |bot=InternetArchiveBot |fix-attempted=yes }} (2002).</ref>
+|-
+| rowspan="2" valign="top" | 7500 BC|| The [[Pengtoushan]] culture appeared.
+|-
+| Rice was first domesticated in China.
+|-
+| [[7th millennium BC|7000 BC]] || The [[Peiligang culture]] appeared.
+|-
+| 6600 BC|| The [[Jiahu symbols]] were first used at [[Jiahu]].
+|-
+| 6500 BC|| The [[Cishan culture]] appeared.
+|-
+| [[6th millennium BC|6000 BC]] || Dogs were first domesticated in China.<ref name=huang/>
+|-
+| [[4th millennium BC|4000 BC]] || Symbols were carved into pottery at [[Banpo]].
+|-
+| 3630 BC|| [[Sericulture|Silk processing]] was invented by the [[Yangshao culture]].
+|}
+== 3rd millennium BC ==
+<div class="toc">'''Contents''': [[#Antiquity|Antiquity]]{{·}}Centuries: [[#22nd century BC|22nd BC]]{{·}}[[#21st century BC|21st BC]]</div>
+
+=== Antiquity ===
+
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 2570 BC || || Silk was produced by the [[Liangzhu culture]].
+|-
+| rowspan="2" valign="top" | 2500 BC || || ''[[Battle of Banquan]]'': The forces of the divine farmer [[Shennong]] were repelled by a force of tribes allied under the [[Yellow Emperor]].
+|-
+| || ''[[Battle of Zhuolu]]'': A combined army of tribes under the [[Yellow Emperor]] defeated [[Hmong people|Hmong]] invasion at [[Zhuolu Town|Zhuolo]].
+|-
+| 2366 BC || || [[Emperor Zhi|Zhi]] became [[Chinese sovereign|king]].
+|}
+
+=== 22nd century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 2200 BC || || ''[[Great Flood (China)|Great Flood]]'': [[Yu the Great]] completed a drainage system which ended the periodic and destructive flooding of the [[Yellow River|Yellow]] and [[Yangtze]] Rivers. (Reliable Archaeological discoveries depict that it happened around 1920BC.<ref>{{Cite journal|last1=Wu|first1=Qinglong|last2=Zhao|first2=Zhijun|last3=Liu|first3=Li|last4=Granger|first4=Darryl E.|last5=Wong|first5=Hui|last6=Cohen|first6=David J.|last7=Wu|first7=Xiaohong|last8=Ye|first8=Maolin|last9=Bar-Yosef|first9=Ofer|date=2016-08-05|title=Outburst flood at 1920 BCE supports historicity of China's Great Flood and the Xia dynasty|journal=Science|language=en|volume=353|issue=6299|pages=579–582|doi=10.1126/science.aaf0842|issn=0036-8075|pmid=27493183|bibcode=2016Sci...353..579W|s2cid=206646492}}</ref>)
+|-
+| || The [[Nine Tripod Cauldrons]] were forged from metal given in tribute to [[Yu the Great|Yu]] by the [[Nine Provinces (China)|Nine Provinces]].
+|-
+| | 2117 BC || || [[Tai Kang]] became [[Chinese sovereign|king]] of the [[Xia dynasty]].
+|}
+
+=== 21st century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 2075 BC || || [[Xiang of Xia]] became [[Chinese sovereign|king]] of the [[Xia dynasty]].
+|-
+| rowspan="2" valign="top" | 2047 BC || || [[Xiang of Xia|Xiang]] was murdered and displaced as [[Chinese sovereign|king]] on the orders of the warlord Han Zhuo.  His pregnant wife fled the capital [[Shangqiu]].
+|-
+| || [[Xiang of Xia|Xiang's]] wife gave birth to a son, [[Shao Kang]].
+|-
+| | 2007 BC || || The people of [[Shangqiu]] welcomed an army loyal to [[Shao Kang|Shao]] into the city.  Han committed suicide.
+|}
+
+== 2nd–1st millennia ==
+
+===19th century BC===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1831 BC || || [[Bu Jiang|Bu]] abdicated in favor of his younger brother [[Jiong of Xia]].
+|-
+| 1831 BC || || ''[[Mount Tai earthquake]]'': An earthquake occurred at [[Mount Tai]].
+|-
+| 1810 BC || || [[Jiong of Xia|Jiong]] was succeeded by his son [[Jin of Xia]].
+|}
+
+=== 18th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1789 BC || || [[Jin of Xia|Jin]] was succeeded by his cousin, [[Bu Jiang|Bu's]] son [[Kong Jia]].
+|-
+| 1758 BC || || [[Kong Jia|Kong]] was succeeded by his son [[Gao of Xia]].
+|-
+| 1747 BC || || [[Gao of Xia|Gao]] was succeeded by his son [[Fa of Xia]].
+|-
+| 1728 BC || || [[Fa of Xia|Fa]] was succeeded by his son [[Jie of Xia]].
+|}
+
+=== 17th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| | 1675 BC || || [[Jie of Xia|Jie]] was succeeded by [[Tang of Shang]], marking the beginning of the [[Shang dynasty]].
+|}
+
+=== 16th century BC ===
+
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| | [[1600s BC (decade)|1600 BC]] ||  || [[Battle of Mingtiao]]: the Shang clan (later [[Shang dynasty]]) overthrow the corrupt and [[Jie of Xia|last emperor]] of the [[Xia dynasty]]
+|}
+
+=== 15th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| [[1500s BC (decade)|1500 BC]] || || The [[Erligang culture]] appeared.
+|}
+
+=== 13th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 1290 BC || || [[Pan Geng]] became [[Chinese sovereign|king]] of the [[Shang dynasty]].
+|-
+| || The capital of the [[Shang dynasty]] was moved from [[Yan (state)|Yan]] to [[Yinxu|Yin]].
+|-
+| rowspan="2" valign="top" | 1250 BC || || [[Wu Ding]] became [[Chinese sovereign|king]] of the [[Shang dynasty]].
+|-
+| || [[Oracle bone]]s were first used for divination; evidence of [[oracle bone script]] first appears.
+|}
+
+=== 12th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| [[1200s BC (decade)|1200 BC]] || || [[Wu Ding|Wu's]] wife, the [[general officer|general]] and [[high priest]]ess [[Fu Hao]], died and was buried at the [[tomb of Fu Hao]] in [[Yinxu]].
+|-
+| 1192 BC || || [[Wu Ding|Wu]] died.  He was succeeded by his son [[Zu Geng of Shang]].
+|-
+| 1170 BC || || [[Geng Ding]] became [[Chinese sovereign|king]] of the [[Shang dynasty]].
+|-
+| 1147 BC || || [[Geng Ding|Geng]] was succeeded by his son [[Wu Yi of Shang]].
+|-
+| 1112 BC || || [[Wu Yi of Shang|Wu]] was killed by lightning while out hunting.  He was succeeded by his son [[Wen Ding]].
+|-
+| [[1100s BC (decade)|1101 BC]] || || [[Wen Ding|Wen]] was succeeded by his son [[Di Yi]].
+|}
+
+=== 11th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1076 BC || || [[Di Yi|Di]] died.
+|-
+| 1075 BC || || [[Di Yi|Di]] was succeeded as [[Chinese sovereign|king]] of the [[Shang dynasty]] by his son [[King Zhou of Shang]].
+|-
+| 1050 BC || || [[King Wen of Zhou]] died.
+|-
+| 1047 BC || || [[King Zhou of Shang|Zhou]] took [[Daji]] as his concubine.
+|-
+| rowspan="2" valign="top" | 1046 BC || || ''[[Battle of Muye]]'': The forces of the [[predynastic Zhou]], led by [[King Wu of Zhou]] and aided by [[Shang dynasty]] defectors, dealt a bloody defeat to Shang forces at Muye, near [[Yinxu]].
+|-
+| || [[King Zhou of Shang|Zhou]] committed suicide by burning himself with his jewels on the [[Deer Terrace Pavilion]].
+|-
+| 1043 BC || || [[King Wu of Zhou|Wu]] died.
+|-
+| 1042 BC || || [[King Wu of Zhou|Wu]] was succeeded by his son [[King Cheng of Zhou]].
+|-
+| 1034 BC || || [[Chinese bronze inscriptions]] came into use.
+|-
+| 1021 BC || || [[King Cheng of Zhou|Cheng]] died.
+|-
+| 1020 BC || || [[King Cheng of Zhou|Cheng]] was succeeded by his son [[King Kang of Zhou]].
+|}
+
+=== 10th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| [[1000s BC (decade)|1000 BC]] || || The ''[[Classic of Poetry]]'' was compiled.
+|-
+| 996 BC || || [[King Kang of Zhou|Kang]] died.
+|-
+| 976 BC || || [[King Mu of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| 964 BC || || [[King Mu of Zhou|Mu]] led an unsuccessful expedition against the [[Quanrong]].
+|-
+| 922 BC || || [[King Mu of Zhou|Mu]] died.  He was succeeded by his son [[King Gong of Zhou]].
+|}
+
+=== 9th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| [[900s BC (decade)|900 BC]] || || [[King Gong of Zhou|Gong]] died.
+|-
+| 899 BC || || [[King Gong of Zhou|Gong's]] son [[King Yi of Zhou (Jian)|Ji Jian, King Yi of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| 892 BC || || [[King Yi of Zhou (Jian)|Ji Jian]] died.
+|-
+| 891 BC || || [[King Yi of Zhou (Jian)|Ji Jian's]] uncle, [[King Mu of Zhou|Mu's]] son [[King Xiao of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| 886 BC || || [[King Xiao of Zhou|Xiao]] died.
+|-
+| 885 BC || || [[King Yi of Zhou (Jian)|Ji Jian's]] son [[King Yi of Zhou (Xie)|Ji Xie, King Yi of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| 878 BC || || [[King Yi of Zhou (Xie)|Ji Xie]] died.
+|-
+| 877 BC || || [[King Yi of Zhou (Xie)|Ji Xie's]] son [[King Li of Zhou]] became king of the [[Zhou dynasty]].
+|-
+| 842 BC || || A popular revolt forced [[King Li of Zhou|Li]] into exile near [[Linfen]].
+|-
+| 841 BC || || The [[Gonghe Regency]] came into power.
+|-
+| 828 BC || || [[King Li of Zhou|Li]] died.
+|-
+| 827 BC || || [[King Li of Zhou|Li's]] son [[King Xuan of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|}
+
+=== 8th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 782 BC || || [[King Xuan of Zhou|Xuan]] died.
+|-
+| 781 BC || || [[King Xuan of Zhou|Xuan's]] son [[King You of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| 779 BC || || [[King You of Zhou|You]] took [[Bao Si]] as his concubine.
+|-
+| 771 BC || || The [[Marquess of Shen]], whose daughter had been replaced by [[Bao Si]] as [[queen consort|queen]], led an attack on [[Haojing]] in alliance with the [[Quanrong]]. [[King You of Zhou|You]] and Bao's son [[Bofu]] were killed.
+|-
+| rowspan="2" valign="top" | 770 BC || || [[King You of Zhou|You's]] son [[King Ping of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| || [[King Ping of Zhou|Ping]] moved the [[Zhou dynasty|Zhou]] capital east to [[Luoyang]].
+|-
+| 720 BC || || [[King Ping of Zhou|Ping]] died.
+|-
+| [[719 BC]] || || [[King Ping of Zhou|Ping's]] grandson [[King Huan of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[707 BC]] || || ''[[Battle of Xuge]]'': [[King Huan of Zhou|Huan]], in coalition with the [[Zhou dynasty|Zhou]] [[vassal state]]s [[Chen (state)|Chen]], [[Cai (state)|Cai]] and [[Wey (state)|Wey]], led a punitive expedition against [[Zheng (state)|Zheng]].  The coalition was defeated and Huan was wounded.
+|}
+
+=== 7th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| [[697 BC]] || || [[King Huan of Zhou|Huan]] died.
+|-
+| [[696 BC]] || || [[King Huan of Zhou|Huan's]] son [[King Zhuang of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[685 BC]] || || [[Duke Huan of Qi]] became [[duke]] of [[Qi (state)|Qi]].
+|-
+| [[682 BC]] || || [[King Zhuang of Zhou|Zhuang]] died.
+|-
+| [[681 BC]] || || [[King Zhuang of Zhou|Zhuang's]] son [[King Xi of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[677 BC]] || || [[King Xi of Zhou|Xi]] died.
+|-
+| [[676 BC]] || || [[King Xi of Zhou|Xi's]] son [[King Hui of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[652 BC]] || || [[King Hui of Zhou|Hui]] died.
+|-
+| [[651 BC]] || || [[King Hui of Zhou|Hui's]] son [[King Xiang of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[645 BC]] || || The [[Qi (state)|Qi]] [[chancellor (China)|chancellor]] [[Guan Zhong]] died.
+|-
+| [[632 BC]] || || ''[[Battle of Chengpu]]'': [[Jin (Chinese state)|Jin]] and its allies decisively defeated a coalition led by [[Chu (state)|Chu]].
+|-
+| 630 BC || || [[Sunshu Ao]] was born.
+|-
+| [[619 BC]] || || [[King Xiang of Zhou|Xiang]] died.
+|-
+| [[618 BC]] || || [[King Xiang of Zhou|Xiang's]] son [[King Qing of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[613 BC]] || || [[King Qing of Zhou|Qing]] died.
+|-
+| [[612 BC]] || || [[King Qing of Zhou|Qing's]] son [[King Kuang of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[607 BC]] || || [[King Kuang of Zhou|Kuang]] died.
+|-
+| [[606 BC]] || || [[King Kuang of Zhou|Kuang's]] brother [[King Ding of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|}
+
+=== 6th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 600 BC || || [[Knife money]] came into use.
+|-
+| [[595 BC]] || || ''[[Battle of Bi]]'': [[Chu (state)|Chu]] decisively defeated [[Jin (Chinese state)|Jin]] at Bi, near modern [[Xingyang]].
+|-
+| [[586 BC]] || || [[King Ding of Zhou|Ding]] died.
+|-
+| [[585 BC]] || || [[King Ding of Zhou|Ding's]] son [[King Jian of Zhou]] became king of the [[Zhou dynasty]].
+|-
+| [[575 BC]] || || ''[[Battle of Yanling]]'': A numerically superior [[Chu (state)|Chu]] force was defeated by [[Jin (Chinese state)|Jin]] in modern [[Yanling County, Henan|Yanling County]]. [[King Gong of Chu]] was injured.
+|-
+| [[572 BC]] || || [[King Jian of Zhou|Jian]] died.
+|-
+| [[571 BC]] || || [[King Jian of Zhou|Jian's]] son [[King Ling of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[551 BC]] || || [[Confucius]] was born.
+|-
+| [[548 BC]] || || The earliest surviving reference to [[Go (game)|Go]] appeared.
+|-
+| [[545 BC]] || || [[King Ling of Zhou|Ling]] died.
+|-
+| rowspan="2" valign="top" | [[544 BC]] || || [[King Ling of Zhou|Ling's]] son [[King Jing of Zhou (Gui)|Ji Gui, King Jing of Zhou]] became king of the [[Zhou dynasty]].
+|-
+| || The Chinese people were first divided into a [[caste]] system of [[four occupations]].
+|-
+| [[543 BC]] || || The [[Zheng (state)|Zheng]] prime minister [[Zichan]] established the state's first written civil code.
+|-
+| rowspan="2" valign="top" | 520 BC || || [[King Jing of Zhou (Gui)|Ji Gui]] died.  He was succeeded by his son [[King Dao of Zhou]].
+|-
+| || [[King Dao of Zhou|Dao]] was murdered by his brother.
+|-
+| [[519 BC]] || || [[King Dao of Zhou|Dao's]] brother [[King Jing of Zhou (Gai)|Ji Gai, King Jing of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[515 BC]] || || The [[Wu (state)|Wu]] [[Chinese sovereign|king]] [[King Liao of Wu|Liao]] was killed by the assassin [[Zhuan Zhu]].
+|-
+| [[514 BC]] || || [[King Helü of Wu]] became [[Chinese sovereign|king]] of [[Wu (state)|Wu]].
+|-
+| [[506 BC]] || || ''[[Battle of Boju]]'': [[Wu (state)|Wu]] decisively defeated a numerically superior [[Chu (state)|Chu]] force at [[Macheng|Boju]].
+|}
+
+=== 5th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 500 BC || || [[Cast iron]] was first invented in China.
+|-
+| [[486 BC]] || || The [[Wu (state)|Wu]] [[Chinese sovereign|king]] [[King Fuchai of Wu]] ordered the building of the Han Canal.
+|-
+| [[484 BC]] || || [[Wu Zixu]] died.
+|-
+| [[482 BC]] || || The [[Yue (state)|Yue]] [[Chinese sovereign|king]] [[King Goujian of Yue]] captured the [[Wu (state)|Wu]] capital in a surprise assault.
+|-
+| [[479 BC]] || || The generally agreed upon date of [[Confucius|Confucius']] death.
+|-
+|-
+| [[477 BC]] || || [[King Jing of Zhou (Gai)|Ji Gai]] died.
+|-
+| [[476 BC|475 BC]] || || [[King Jing of Zhou (Gai)|Ji Gai's]] son [[King Yuan of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[473 BC]] || || [[Wu (state)|Wu]] was annexed by [[Yue (state)|Yue]].
+|-
+| 470 BC || || [[Mozi]] was born.
+|-
+| [[469 BC]] || || [[King Yuan of Zhou|Yuan]] died.
+|-
+|518 BC|[[518 BC|518]] [[469 BC|BC]]||  || [[King Yuan of Zhou|Yuan's]] son [[King Zhending of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[465 BC]] || || [[King Goujian of Yue|Goujian]] died.
+|-
+| rowspan="3" valign="top" | [[441 BC]] || || [[King Zhending of Zhou|Zhending]] died.  He was succeeded by his son [[King Ai of Zhou]].
+|-
+| || [[King Ai of Zhou|Ai]] was murdered and succeeded as [[Chinese sovereign|king]] by his younger brother [[King Si of Zhou]].
+|-
+| || [[King Si of Zhou|Si]] was murdered by his brother [[King Kao of Zhou]].
+|-
+| 440 BC || || [[King Kao of Zhou|Kao]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[432 BC]] || || The [[tomb of Marquis Yi of Zeng]] was constructed.
+|-
+| [[426 BC]] || || [[King Kao of Zhou|Kao]] died.
+|-
+| [[425 BC]] || || [[King Kao of Zhou|Kao's]] son [[King Weilie of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[403 BC]] || || ''[[Partition of Jin]]'': [[King Weilie of Zhou|Weilie]] recognized the [[Jin (Chinese state)|Jin]] nobles [[Marquess Wen of Wei]], [[Marquess Lie of Zhao]] and [[Marquess Jing of Han]] as [[marquess]]es, granting ''de jure'' independence from Jin to the states of [[Wei (state)|Wei]], [[Zhao (state)|Zhao]] and [[Han (Warring States)|Han]].
+|-
+| [[402 BC]] || || [[King Weilie of Zhou|Weilie]] died.
+|-
+| [[401 BC]] || || [[King Weilie of Zhou|Weilie's]] son [[King An of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|}
+
+=== 4th century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="4" valign="top" | 400 BC || || [[Gan De]] was born.
+|-
+| || [[Shi Shen]] was born.
+|-
+| || The earliest surviving [[Chinese cartography|Chinese maps]] appeared.
+|-
+| || The first Chinese [[Chinese astronomy|star catalogue]] was compiled.
+|-
+| [[389 BC]] || || The ''[[Zuo Zhuan]]'' was published.
+|-
+| [[386 BC]] || || The city of [[Handan]] was founded to serve as the [[Zhao (state)|Zhao]] capital.
+|-
+| [[381 BC]] || || The [[Chu (state)|Chu]] prime minister [[Wu Qi]] was murdered by nobles at the funeral of its [[Chinese sovereign|king]] [[King Dao of Chu]].
+|-
+| [[376 BC]] || || [[King An of Zhou|An]] died.
+|-
+| rowspan="2" valign="top" | [[375 BC]] || || [[King An of Zhou|An's]] son [[King Lie of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| || [[Zheng (state)|Zheng]] was annexed by [[Han (Warring States)|Han]].
+|-
+| 370 BC || || [[Zhuang Zhou]] was born.
+|-
+| [[369 BC]] || || [[King Lie of Zhou|Lie]] died.
+|-
+| [[368 BC]] || || [[King Lie of Zhou|Lie's]] brother [[King Xian of Zhou]] became [[Chinese sovereign|king]] of the [[Zhou dynasty]].
+|-
+| [[361 BC]] || || [[Duke Xiao of Qin]] became [[duke]] of [[Qin (state)|Qin]].
+|-
+| [[356 BC]] || || [[Duke Xiao of Qin|Xiao's]] adviser [[Shang Yang]] implemented a legal code in [[Qin (state)|Qin]] based on the ''[[Canon of Laws]]'' which established punishment for complicity in a crime, established a system of military ranks, and implemented policies encouraging the cultivation of unsettled land.
+|-
+| [[354 BC]] || || ''[[Battle of Guiling]]'': [[Wei (state)|Wei]] laid siege to the [[Zhao (state)|Zhao]] capital [[Handan]].
+|-
+| [[353 BC]] || || ''Battle of Guiling'': The [[Wei (state)|Wei]] army fled [[Handan]] in response to reports of a [[Qi (state)|Qi]] attack on their capital [[Kaifeng|Daliang]] and were defeated by Qi forces at Guiling, in modern [[Changyuan County]].
+|-
+| rowspan="2" valign="top" | [[342 BC]] || || ''[[Battle of Maling]]'': [[Qi (state)|Qi]] dealt [[Wei (state)|Wei]] a bloody defeat.
+|-
+| || The crossbow was first used in China.
+|-
+| rowspan="2" valign="top" | [[338 BC]] || || [[Duke Xiao of Qin|Xiao]] died.  He was succeeded by his son [[King Huiwen of Qin]].
+|-
+| || [[Shang Yang|Shang]] and his family were executed by dismemberment on charges of treason.
+|-
+| [[321 BC]] || || [[King Xian of Zhou|Xian]] died.
+|-
+| 320 BC || || [[King Xian of Zhou|Xian's]] son [[King Shenjing of Zhou]] became king of the [[Zhou dynasty]].
+|-
+| [[319 BC]] || || The [[Confucianism|Confucian]] [[Mencius]] became a [[Qi (state)|Qi]] official.
+|-
+| rowspan="3" valign="top" | [[316 BC]] || || [[Sun Bin]] died.
+|-
+| || [[Shu (state)|Shu]] was conquered and annexed by [[Qin (state)|Qin]].
+|-
+| || [[Ba (state)|Ba]] was conquered and annexed by [[Qin (state)|Qin]].
+|-
+| [[315 BC]] || || [[King Shenjing of Zhou|Shenjing]] died.
+|-
+| [[314 BC]] || || [[King Shenjing of Zhou|Shenjing's]] son [[King Nan of Zhou]] became king of the [[Zhou dynasty]].
+|-
+| [[311 BC]] || || [[King Huiwen of Qin|Huiwen]] died.
+|-
+| rowspan="2" valign="top" | 310 BC || || [[King Huiwen of Qin|Huiwen's]] son [[King Wu of Qin]] became king of [[Qin (state)|Qin]].
+|-
+| || [[Xun Kuang]] was born.
+|-
+| rowspan="2" valign="top" | [[307 BC]] || || The [[Zhou dynasty|Zhou]] [[Chinese sovereign|king]] [[King Wuling of Zhao]] ordered his cavalry to begin wearing clothes fashioned after those of the [[Donghu people|Donghu]] and [[Xiongnu]] peoples.
+|-
+| || [[King Wu of Qin|Wu]] died.
+|-
+| [[306 BC]] || || [[King Wu of Qin|Wu's]] brother [[King Zhaoxiang of Qin]] became [[Chinese sovereign|king]] of [[Qin (state)|Qin]].
+|-
+| [[305 BC]] || || [[Zou Yan]] was born. The [[Tsinghua Bamboo Slips]] were written.
+|}
+
+=== 3rd century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 300 BC || || ''[[Erya]]'' was published.
+|-
+| || The [[Guodian Chu Slips]] were produced.
+|-
+| [[293 BC]] || || ''[[Battle of Yique]]'': [[Qin (state)|Qin]] dealt a bloody defeat to a [[Wei (state)|Wei]]-[[Han (Warring States)|Han]] alliance.
+|-
+| rowspan="2" valign="top" | [[278 BC]] || || [[Qin (state)|Qin]] conquered the [[Chu (state)|Chu]] capital [[Ying (Chu)|Ying.]]
+|-
+| || The [[Chu (state)|Chu]] poet [[Qu Yuan]] wrote ''[[Lament for Ying]]'' and drowned himself in the [[Miluo River]] because he could not bear his exile any long or to his despair for the state of his fellow countrymen
+|-
+| [[262 BC]] || April || ''[[Battle of Changping]]'': [[Zhao (state)|Zhao]] intercepted a [[Qin (state)|Qin]] invasion of the [[commandery (China)|commandery]] of [[Shangdang]] .
+|-
+| rowspan="2" valign="top" | 260 BC || July || ''Battle of Changping'': [[Qin (state)|Qin]] forces encircled the [[Zhao (state)|Zhao]] army, forcing its surrender.  The Zhao general [[Zhao Kuo]] was killed in action.
+|-
+| July || ''Battle of Changping'': The captured [[Zhao (state)|Zhao]] soldiers were executed.
+|-
+|259 BC
+|18 February
+|[[Qin Shi Huang]] is born.
+|-
+| rowspan="3" valign="top" | [[256 BC]] || || [[King Nan of Zhou|Nan]] submitted to [[King Zhaoxiang of Qin|Zhaoxiang]] and took the title [[Duke]] of West Zhou.
+|-
+| || [[King Nan of Zhou|Nan]] died.  His territory was annexed by [[Qin (state)|Qin]].
+|-
+| || The [[Dujiangyan irrigation system]] was built.
+|-
+| [[251 BC]] || || [[King Zhaoxiang of Qin|Zhaoxiang]] died.
+|-
+| rowspan="3" valign="top" | 250 BC || || The first drawings of the repeating crossbow appeared in [[Chu (state)|Chu]] records.
+|-
+| 13 September || [[King Zhaoxiang of Qin|Zhaoxiang's]] son [[King Xiaowen of Qin]] became [[Chinese sovereign|king]] of [[Qin (state)|Qin]].
+|-
+| 15 September || [[King Xiaowen of Qin|Xiaowen]] died. He was succeeded by his son [[King Zhuangxiang of Qin]].
+|-
+| [[247 BC]] || 7 May || [[King Zhuangxiang of Qin|Zhuangxiang]] died. He was succeeded by his son [[Qin Shi Huang]].
+|-
+| [[246 BC]] || || The [[Zhengguo Canal]] was completed by [[Zheng Guo]] of [[Qin (state)|Qin]].
+|-
+| 230 BC || || ''[[Qin's wars of unification]]'': [[Qin (state)|Qin]] invaded [[Han (Warring States)|Han]].
+|-
+| [[227 BC]] || || [[Jing Ke]] failed in an assassination attempt on [[Qin Shi Huang]].
+|-
+| [[225 BC]] || || [[Qin (state)|Qin]] conquered [[Wei (state)|Wei]].
+|-
+| [[223 BC]] || || [[Qin (state)|Qin]] conquered [[Chu (state)|Chu]].
+|-
+| rowspan="2" valign="top" | [[222 BC]] || || [[Qin (state)|Qin]] conquered [[Yan (state)|Yan]].
+|-
+| || [[Qin (state)|Qin]] conquered [[Zhao (state)|Zhao]].
+|-
+| rowspan="2" valign="top" | [[221 BC]] || || [[Qin (state)|Qin]] conquered [[Qi (state)|Qi]].
+|-
+| || The [[Heirloom Seal of the Realm]] was carved.
+|-
+| rowspan="3" valign="top" | [[220 BC]] || || [[Qin Shi Huang]] took the title Qin Shi Huang, first [[emperor of China]].
+|-
+| || Construction began on the [[Great Wall of China]].
+|-
+| || [[Chancellor (China)|Chancellor]] [[Li Si]] standardized the Chinese writing system with the creation of [[Small Seal Script]].
+|-
+| [[214 BC]] || || The [[Lingqu Canal]] was built.
+|-
+| [[213 BC]] || || ''[[Burning of books and burying of scholars]]'': All copies of the ''[[Classic of Poetry]]'', the ''[[Book of Documents]]'' and works of the [[Hundred Schools of Thought]] were ordered burned.
+|-
+| rowspan="3" valign="top" | 210 BC || 10 September || [[Qin Shi Huang]] died from mercury pills made by his alchemists and court physicians; ironically these pills were meant to make Qin Shi Huang immortal.
+|-
+| || [[Qin Shi Huang]] was buried with the [[Terracotta Army]] in the [[Mausoleum of the First Qin Emperor]].
+|-
+| October || [[Qin Shi Huang]]'s son [[Qin Er Shi]] succeeded him as [[emperor of China]].
+|-
+| rowspan="3" valign="top" | [[209 BC]] || || The [[Xiongnu]] ''[[chanyu]]'' [[Modu Chanyu]] established the Xiongnu Empire on the [[Eurasian Steppe]].
+|-
+| July || ''[[Dazexiang Uprising]]'': Military officers [[Chen Sheng]] and [[Wu Guang]] began a rebellion for fear of being executed after failing to arrive at their posts.
+|-
+| December || ''Dazexiang Uprising'': [[Chen Sheng]] and [[Wu Guang]] were assassinated by their own men.
+|-
+| [[208 BC]] || || [[Li Si|Li]] was executed on charges of treason. [[Zhao Gao]], who had framed him, was appointed [[chancellor (China)|chancellor]] in his stead.
+|-
+| rowspan="5" valign="top" | [[207 BC]] || || ''[[Battle of Julu]]'': [[Chu (state)|Chu]] forces led by the warlord [[Xiang Yu]] defeated a numerically superior [[Qin dynasty|Qin]] force, killing a large fraction of the Qin army.
+|-
+| October || [[Zhao Gao]] had [[Qin Er Shi]] killed.  Qin Er Shi's nephew [[Ziying]] succeeded him.
+|-
+| || The [[Chu (state)|Chu]] general [[Emperor Gaozu of Han]] entered the [[Qin dynasty|Qin]] capital [[Xianyang]].
+|-
+| December || [[Ziying]] killed [[Zhao Gao|Zhao]].
+|-
+| December || [[Ziying]] surrendered to [[Emperor Gaozu of Han|Gaozu]].
+|-
+| rowspan="2" valign="top" | [[206 BC]] || || ''[[Feast at Hong Gate]]'': [[Emperor Gaozu of Han|Gaozu]] fled a banquet after it became clear that [[Xiang Yu|Xiang]] had invited him there to be killed.
+|-
+| || [[Xiang Yu|Xiang]] led an army into [[Xianyang]], burned the [[Epang Palace]] and killed [[Ziying]] and the royal family.
+|-
+| [[205 BC]] || || ''[[Battle of Jingxing]]'': [[Han dynasty|Han]] forces dealt a decisive defeat to a numerically superior [[Kingdom of Zhao|Zhao]] army at [[Jingxing Pass]].
+|-
+| [[204 BC]] || || The [[Qin dynasty|Qin]] general [[Zhao Tuo]] established the state of [[Nanyue]].
+|-
+| rowspan="2" valign="top" | [[202 BC]] || || ''[[Battle of Gaixia]]'': [[Emperor Gaozu of Han|Gaozu's]] [[Han dynasty|Han]] forces destroyed the [[Western Chu]] army led by [[Xiang Yu|Xiang]] in modern [[Suzhou, Anhui|Suzhou]].
+|-
+| || [[Emperor Gaozu of Han|Gaozu]] took the title [[emperor of China|emperor]] and established his capital in [[Luoyang]].
+|}
+
+=== 2nd century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 200 BC || || ''[[Battle of Baideng]]'': The [[Xiongnu]] encircled and besieged a superior [[Han dynasty|Han]] force.
+|-
+| || The multi-tube seed drill was invented.
+|-
+| [[195 BC]] || 1 June || [[Emperor Gaozu of Han|Gaozu]] died.  He was succeeded by his son [[Emperor Hui of Han]].
+|-
+| [[193 BC]] || || The [[Han dynasty|Han]] [[chancellor (China)|chancellor]] [[Xiao He]] died.
+|-
+| 190 BC || || [[Chang'an]] became the eastern terminus of the [[Silk Road]] to Europe.
+|-
+| [[188 BC]] || || [[Emperor Hui of Han|Hui]] died.  He was succeeded by his son [[Emperor Qianshao of Han]].
+|-
+| [[186 BC]] || || [[Zhang Liang (Western Han)|Zhang Liang]] died.
+|-
+| [[184 BC]] || || [[Emperor Qianshao of Han|Qianshao]] was deposed and killed on the orders of the [[empress dowager]] [[Empress Lü Zhi]].  He was succeeded by his brother [[Emperor Houshao of Han]].
+|-
+| 180 BC || || ''[[Lü Clan Disturbance]]'': [[Emperor Houshao of Han|Houshao]] was deposed by imperial officials led by [[Chen Ping (Han dynasty)|Chen Ping]] and [[Zhou Bo]].  He was succeeded by his uncle, [[Emperor Gaozu of Han|Gaozu's]] son [[Emperor Wen of Han]].
+|-
+| [[168 BC]] || || The [[Mawongdui Silk Texts]] were buried at [[Mawongdui]].
+|-
+| [[157 BC]] || Summer || [[Emperor Wen of Han|Wen]] died.  He was succeeded by his son [[Emperor Jing of Han]].
+|-
+| [[141 BC]] || 9 March || [[Emperor Jing of Han|Jing]] died.  He was succeeded by his son [[Emperor Wu of Han]].
+|-
+| 140 BC || || [[Emperor Wu of Han|Wu]] adopted [[Confucianism]].
+|-
+| [[139 BC]] || || The [[Eight Immortals of Huainan]] published the ''[[Huainanzi]]''.
+|-
+| rowspan="2" valign="top" | [[135 BC]] || || ''[[Han campaigns against Minyue]]'': The [[Han dynasty]] invaded [[Minyue]] after a plea for assistance from its [[vassal state]] [[Nanyue]].
+|-
+| || ''[[Southward expansion of the Han dynasty]]'': The [[Han dynasty]] annexed [[Minyue]].
+|-
+| [[133 BC]] || June || ''[[Battle of Mayi]]'': A [[Han dynasty|Han]] deception failed to lure the [[Xiongnu]] into an ambush at [[Shuozhou|Mayi]].
+|-
+| [[125 BC]] || || [[Zhang Qian]] returned to the [[Han dynasty|Han]] court to report on his travels to the kingdoms of [[Dayuan]], [[Kangju]], the [[Greco-Bactrian Kingdom|Greco-Bactrian]] and [[Indo-Greek Kingdom]]s, [[Parthia]] and [[Mesopotamia]].
+|-
+| [[119 BC]] || January || ''[[Battle of Mobei]]'': A [[Han dynasty|Han]] expedition into the [[Orkhon Valley]] began which would deal a decisive and bloody defeat to the [[Xiongnu]].
+|-
+| rowspan="2" valign="top" | [[111 BC]] || || ''Han campaigns against Minyue'': The [[Minyue]] rump state of Dongyue was invaded and annexed by the [[Han dynasty]].
+|-
+| || ''[[Han–Nanyue War]]'': The [[Han dynasty]] conquered and annexed [[Nanyue]].
+|-
+| [[109 BC]] || || ''[[Han campaigns against Dian]]'': The [[Han dynasty]] invaded and annexed the [[Dian Kingdom]].
+|-
+| [[108 BC]] || December || ''[[Battle of Loulan]]'': [[Han dynasty|Han]] forces attacked the [[Loulan Kingdom]] at [[Lop Nur]].
+|-
+| [[102 BC]] || || [[Han dynasty|Han]] forces laid siege to [[Kokand]].
+|}
+
+=== 1st century BC ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 100 BC || || Steel was first used in China.
+|-
+| [[91 BC]] || || [[Sima Qian]] completed the ''[[Records of the Grand Historian]]''.
+|-
+| [[87 BC]] || 29 March || [[Emperor Wu of Han|Wu]] died.  He was succeeded by his young son [[Emperor Zhao of Han]], with [[Huo Guang]], [[Jin Midi]] and Shangguang Jie acting as regents.
+|-
+| [[86 BC]] || || [[Jin Midi|Jin]] died.
+|-
+| rowspan="4" valign="top" | [[74 BC]] || || [[Emperor Zhao of Han|Zhao]] died.
+|-
+| 18 July || The [[Prince of Changyi]] was appointed [[emperor of China|emperor]] of [[Han dynasty|Han]] by [[Huo Guang]].
+|-
+| 14 August || The [[Prince of Changyi]] was deposed.
+|-
+| || [[Huo Guang|Huo]] appointed [[Emperor Wu of Han|Wu's]] great-grandson, then a commoner, [[Emperor Xuan of Han]].
+|-
+| [[67 BC]] || December || ''[[Battle of Jushi]]'': [[Han dynasty|Han]] forces defeated the people of the [[Gushi culture]], at that time subject to the [[Xiongnu]], at Jiaohe in modern [[Turpan]].
+|-
+| 60 BC || || The [[Protectorate of the Western Regions]] was established.
+|-
+| [[49 BC]] || || [[Emperor Xuan of Han|Xuan]] died.
+|-
+| rowspan="2" valign="top" | [[48 BC]] || || [[Emperor Xuan of Han|Xuan's]] son [[Emperor Yuan of Han]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+| || [[Consort Ban]] was born.
+|-
+| 40 BC || || The earliest surviving Chinese record of the treadle-operated tilt hammer appeared.
+|-
+| [[37 BC]] || || [[Jing Fang]] died.
+|-
+| [[36 BC]] || December || ''[[Battle of Zhizhi]]'': A [[Han dynasty|Han]] force breached and destroyed a fortress occupied by the [[Xiongnu]] [[chanyu]] [[Zhizhi Chanyu]] at [[Taraz]], killing him.
+|-
+| [[33 BC]] || || [[Emperor Yuan of Han|Yuan]] died.  He was succeeded by his son [[Emperor Cheng of Han]].
+|-
+| 30 BC || || The earliest surviving mention of the wheelbarrow appeared.
+|-
+| [[18 BC]] || || [[Liu Xiang (scholar)|Liu Xiang]] compiled the ''[[Biographies of Exemplary Women]]''.
+|-
+| [[7 BC]] || || [[Emperor Cheng of Han|Cheng]] died.  He was succeeded by his nephew [[Emperor Ai of Han]].
+|-
+| rowspan="2" valign="top" | [[1 BC]] || || [[Emperor Ai of Han|Ai]] died.
+|-
+| || [[Emperor Ai of Han|Ai's]] young cousin [[Emperor Ping of Han]] was appointed [[emperor of China|emperor]] of the [[Han dynasty]], with [[Wang Mang]] acting as regent.
+|}
+
+==<span class="anchor" id="1st millennium"></span>1st–2nd millennia==
+
+<div class="toc">'''Centuries''': [[#1st century|1st]]{{·}}[[#2nd century|2nd]]{{·}}[[#3rd century|3rd]]{{·}}[[#4th century|4th]]{{·}}[[#5th century|5th]]{{·}}[[#6th century|6th]]{{·}}[[#7th century|7th]]{{·}}[[#8th century|8th]]{{·}}[[#9th century|9th]]{{·}}[[#10th century|10th]]{{·}}[[#11th century|11th]]{{·}}[[#12th century|12th]]{{·}}[[#13th century|13th]]{{·}}[[#14th century|14th]]{{·}}[[#15th century|15th]]{{·}}[[#16th century|16th]]{{·}}[[#17th century|17th]]{{·}}[[#18th century|18th]]{{·}}[[#19th century|19th]]{{·}}[[#20th century|20th]]</div>
+
+=== 1st century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1 || || The first model of a stern-mounted [[rudder]] was produced.
+|-
+| 2 || || A census counted fifty-nine million people in the [[Han dynasty|Han]] empire.
+|-
+| 3 || || [[Emperor Ping of Han|Ping]] established a national school system. [[Ban Biao]], first author of the ''[[Book of Han]]'', is born.
+|-
+| 6 || 3 February || [[Emperor Ping of Han|Ping]] died after being poisoned by [[Wang Mang|Wang]], who became acting [[emperor of China|emperor]].
+|-
+| 8 || || [[Liu Xin (scholar)|Liu Xin]] completed a star catalogue and calculated the length of the year.
+|-
+| rowspan="2" valign="top" | 9 || || [[Wang Mang|Wang]] declared himself [[emperor of China|emperor]] of the [[Xin dynasty]].
+|-
+| || [[Wang Mang|Wang]] introduced the [[well-field system]] of land distribution and agricultural production.
+|-
+| rowspan="2" valign="top" | 10 || || [[Wang Mang|Wang]] introduced an income tax of ten percent for professionals and skilled laborers.
+|-
+| || [[Wang Mang|Wang]] outlawed the private use of crossbows.
+|-
+| 12 || || [[Wang Mang|Wang]] abandoned the [[well-field system]] under pressure from the aristocracy.
+|-
+| rowspan="2" valign="top" | 17 || || [[Wang Mang|Wang]] imposed government monopolies on liquor, salt, iron, coinage, forestry, and fishing.
+|-
+| || [[Mother Lü]] initiated a rebellion against a county magistrate in Haiqu County, near modern [[Rizhao]].
+|-
+| 18 || || [[Yang Xiong (author)|Yang Xiong]] dies.
+|-
+| rowspan="2" valign="top" | 23 || || ''[[Battle of Kunyang]]'': [[Lülin]] forces broke the siege of Kunyang, in modern [[Ye County]], by a vastly superior [[Xin dynasty|Xin]] army.
+|-
+| 6 October || [[Lülin]] rebels stormed the [[Weiyang Palace]] and killed [[Wang Mang|Wang]].  The [[Gengshi Emperor]] ascended the throne, restoring the [[Han dynasty]].
+|-
+| rowspan="3" valign="top" | 25 || || ''[[Red Eyebrows Rebellions]]'': The [[Gengshi Emperor]] was executed.
+|-
+| || ''Red Eyebrows Rebellions'': The Red Eyebrows appointed [[Liu Penzi]] their emperor.
+|-
+| 5 August || The [[Han dynasty|Han]] warlord [[Emperor Guangwu of Han]] took the title [[emperor of China|emperor]].
+|-
+| 27 || || ''Red Eyebrows Rebellions'': The Red Eyebrows surrendered to the [[Han dynasty]].
+|-
+| 31 || || [[Du Shi]] invented waterwheel-powered bellows for smelting cast iron.
+|-
+| 32 || || [[Ban Gu]], co-author of the ''[[Book of Han]]'', is born.
+|-
+| 33 || || A blockade of the [[Yangtze River]] by the rebel Gongsun Shu was broken by [[Han dynasty|Han]] castle ships.
+|-
+| 43 || || ''[[Second Chinese domination of Vietnam]]'': Vietnam fell into [[Han dynasty|Han]] control.
+|-
+| 45 || || [[Ban Zhao]], China's first female historian, is born.
+|-
+| 52 || || The ''[[Yuejue Shu]]'' was written.
+|-
+| 57 || 29 March || [[Emperor Guangwu of Han|Guangwu]] died.  He was succeeded by his son [[Emperor Ming of Han]].
+|-
+| 58 || || The [[Han dynasty|Han]] [[chancellor (China)|chancellor]] [[Deng Yu]] died.
+|-
+| 65 || || [[Emperor Ming of Han|Ming's]] half brother [[Liu Ying (prince)|Liu Ying]] converted to [[Buddhism]].
+|-
+| 68 || || The [[Buddhism|Buddhist]] [[White Horse Temple]] was established in [[Luoyang]].
+|-
+| 73 || February || ''[[Battle of Yiwulu]]'': A punitive [[Han dynasty|Han]] expedition against the [[Xiongnu]] captured territory in the area of modern [[Hami City]].
+|-
+| 75 || || [[Emperor Ming of Han|Ming]] died.  He was succeeded by his son [[Emperor Zhang of Han]].
+|-
+| 83 || || [[Wang Chong]] correctly theorized the nature of the [[water cycle]].
+|-
+| 87 || || [[Yuan An]] was appointed ''[[situ (office)|situ]]''.
+|-
+| 88 || || [[Emperor Zhang of Han|Zhang]] died.  He was succeeded by his son [[Emperor He of Han]].
+|-
+| 89 || June || ''[[Battle of the Altai Mountains]]'': [[Han dynasty|Han]] and allied forces defeated the army of the [[Northern Chanyu (1st century)|Northern Chanyu]] and accepted the surrender of two hundred thousand [[Xiongnu]] soldiers in the [[Altai Mountains]].
+|-
+| 97 || || The [[Han dynasty|Han]] general [[Ban Chao]] sent the envoy [[Gan Ying]] to the outskirts of the [[Roman Empire]].
+|-
+| 100 || || [[Xu Shen]] completed the ''[[Shuowen Jiezi]]''.
+|}
+
+=== 2nd century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="3" valign="top" | 105 || || [[Cai Lun]] invents papermaking.
+|-
+| 13 February || [[Emperor He of Han|He]] died.
+|-
+| || [[Emperor He of Han|He's]] infant son [[Emperor Shang of Han]] was made [[emperor of China|emperor]] of [[Han dynasty|Han]] with [[empress dowager]] [[Deng Sui]] acting as regent.
+|-
+| rowspan="2" valign="top" | 106 || || [[Emperor Shang of Han|Shang]] died.
+|-
+| || [[Emperor Shang of Han|Shang's]] young cousin [[Emperor An of Han]] became [[emperor of China|emperor]], with [[Deng Sui]] continuing to act as regent.
+|-
+| 111 || || [[Ban Zhao]] completed the ''[[Book of Han]]''.
+|-
+| 120 || || [[Zhang Heng]] completed a star catalogue which also argued for a spherical moon that reflects light.
+|-
+| rowspan="6" valign="top" | 125 || || [[Zhang Heng|Zhang]] invented the first hydraulic-powered [[armillary sphere]].
+|-
+| || The earliest known Chinese depiction of a mechanical distance-marking [[odometer]] was drawn.
+|-
+| 30 April || [[Emperor An of Han|An]] died.
+|-
+| || The [[Marquess of Beixiang]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+| || The [[Marquess of Beixiang]] died.
+|-
+| || [[Emperor An of Han|An's]] son [[Emperor Shun of Han]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+| rowspan="2" valign="top" | 132 || || [[Zhang Heng|Zhang]] invented a seismometer capable of indicating the direction of earthquakes.
+|-
+| || [[Cai Yong]] was born.
+|-
+| 142 || || The ''[[Cantong qi]]'' was published.
+|-
+| 144 || || [[Emperor Shun of Han|Shun]] died.  He was succeeded by his infant son [[Emperor Chong of Han]], with [[empress dowager]] [[Liang Na]] and her brother [[Liang Ji]] acting as regents.
+|-
+| rowspan="2" valign="top" | 145 || || [[Emperor Chong of Han|Chong]] died.
+|-
+| || [[Emperor Chong of Han|Chong's]] young third cousin [[Emperor Zhi of Han]] became [[emperor of China|emperor]] of the [[Han dynasty]], with [[Liang Na]] acting as regent.
+|-
+| rowspan="2" valign="top" | 146 || || [[Liang Ji]] poisoned [[Emperor Zhi of Han|Zhi]], killing him.
+|-
+| 1 August || [[Emperor Huan of Han]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+| 147 || || [[Lokaksema (Buddhist monk)|Lokaksema]] was born.
+|-
+| 148 || || The [[Buddhism|Buddhist]] missionary [[An Shigao]] arrived in China.
+|-
+| rowspan="2" valign="top" | 166 || || ''[[Sino-Roman relations]]'': A [[Roman Empire|Roman]] envoy arrived at the [[Han dynasty|Han]] capital [[Luoyang]].
+|-
+| || ''[[Disasters of the Partisan Prohibitions]]'': Several ministers and some two hundred university students, who had opposed the influence of corrupt eunuchs at the royal court, were arrested.
+|-
+| rowspan="2" valign="top" | 168 || || [[Emperor Huan of Han|Huan]] died.
+|-
+| || [[Emperor Ling of Han]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+|-
+| 177 || || [[Cai Wenji]] was born.
+|-
+| 179 || || The earliest known reference to ''[[The Nine Chapters on the Mathematical Art]]'' appeared.
+|-
+| 180 || || [[Ding Huan]] invented the rotary fan.
+|-
+| rowspan="2" valign="top" | 184 || || ''[[Yellow Turban Rebellion]]'': The [[Taoism|Taoist]] sect leader [[Zhang Jue]] called on his followers in the [[Han dynasty|Han]] provinces to rebel against the government.
+|-
+| Winter || ''[[Liang Province Rebellion]]'': The [[Qiang (historical people)|Qiang people]] launched a rebellion against [[Han dynasty|Han]] authority in the area of modern [[Wuwei, Gansu|Wuwei]].
+|-
+| 185 || || [[Zhi Yao (monk)|Zhi Yao]] first translated [[Buddhism|Buddhist]] texts into Chinese.
+|-
+| rowspan="4" valign="top" | 189 || 13 May || [[Emperor Ling of Han|Ling]] died.
+|-
+| || [[Emperor Ling of Han|Ling's]] son [[Liu Bian]] became [[emperor of China|emperor]] of the [[Han dynasty]].
+|-
+| || Forces loyal to the warlords [[Yuan Shao]] and [[Yuan Shu]] massacred some two thousand eunuchs in the [[Han dynasty|Han]] capital [[Luoyang]].
+|-
+| 28 September || The [[Han dynasty|Han]] general [[Dong Zhuo]] deposed [[Liu Bian]] as [[emperor of China|emperor]] and appointed his brother [[Emperor Xian of Han]] in his stead.
+|-
+| 190 || February || ''[[Campaign against Dong Zhuo]]'': A coalition led by [[Yuan Shao]] gathered at [[Hangu Pass]] in anticipation of an expedition against [[Dong Zhuo|Dong]].
+|-
+| 192 || 22 May || [[Dong Zhuo|Dong]] was assassinated by his foster son [[Lü Bu]].
+|-
+| 194 || || ''[[Sun Ce's conquests in Jiangdong]]'': The warlord [[Sun Ce]] attacked and conquered territory administered by [[Lu Kang (Han dynasty)|Lu Kang]].
+|-
+| 197 || || [[War between Cao Cao and Zhang Xiu]] almost take Cao Cao's life. Cao Cao's oldest son perished in the battle, but Zhang Xiu later (199) surrendered to Cao Cao to face Yuan Shao together.
+|-
+| 198 || Winter || ''[[Battle of Xiapi]]'': The allied forces of the warlords [[Cao Cao]] and [[Liu Bei]] defeated an army loyal to [[Lü Bu]] in [[Xuzhou (ancient China)|Xuzhou]].
+|-
+| 200 || November || ''[[Battle of Guandu]]'': Forces loyal to [[Cao Cao]] dealt a bloody defeat to [[Yuan Shao]] near the confluence of the [[Bian River (China)|Bian]] and [[Yellow River]]s.
+|}
+
+=== 3rd century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 204 || || The warlord [[Gongsun Kang]] established the [[Daifang Commandery]] on the [[Korean Peninsula]].
+|-
+| 208 || Winter || ''[[Battle of Red Cliffs]]'': Forces loyal to the warlords [[Liu Bei]] and [[Sun Quan]] decisively repelled [[Cao Cao]] in an attempted invasion across the [[Yangtze River]].
+|-
+| 211 || September || ''[[Battle of Tong Pass (211)|Battle of Tong Pass]]'': [[Cao Cao]] defeated an alliance of anti-[[Han dynasty|Han]] rebels in modern [[Tongguan County]], securing his control over [[Guanzhong]].
+|-
+| rowspan="2" valign="top" | 215 || || ''[[Liu Bei's takeover of Yi Province]]'': [[Liu Zhang (warlord)|Liu Zhang]], the governor of [[Yi Province]] in modern [[Sichuan]] and [[Chongqing]], surrendered [[Chengdu]] to [[Liu Bei]].
+|-
+| || ''[[Battle of Xiaoyao Ford]]'': A plague outbreak forced [[Sun Quan]] to abandon the attempted conquest from [[Cao Cao]] of a fortress at [[Hefei]].
+|-
+| rowspan="3" valign="top" | 219 || || ''[[Battle of Han River]]'': [[Liu Bei]] ambushed and dealt a bloody defeat to [[Cao Cao]]'s army in [[Hanzhong]].
+|-
+| September || ''[[Battle of Fancheng]]'': [[Cao Cao]] repelled an attack by [[Liu Bei]]'s general [[Guan Yu]] in modern [[Fancheng District]], at great cost to both sides.
+|-
+| December || ''[[Lü Meng's invasion of Jing Province]]'': [[Liu Bei]]'s [[general officer|generals]] [[Shi Ren]] and [[Mi Fang]] defected to [[Sun Quan]], surrendering to his general [[Lü Meng]] the main defense posts of [[Jingzhou (ancient China)|Jingzhou]].
+|-
+| 220 || 10 December || ''[[End of the Han dynasty]]'': [[Cao Cao]]'s son [[Cao Pi]] forced [[Emperor Xian of Han|Xian]] to abdicate the throne and declared himself [[emperor of China|emperor]] of [[Cao Wei]].
+|-
+| rowspan="2" valign="top" | 221 || || [[Liu Bei]] declared himself [[emperor of China|emperor]] of [[Shu Han]].
+|-
+| || ''[[Battle of Xiaoting]]'': The [[Shu Han]] [[general officer|generals]] [[Wu Ban]] and [[Feng Xi]] attacked and destroyed an [[Eastern Wu]] army at [[Wu Gorge]].
+|-
+| rowspan="2" valign="top" | 222 || || [[Sun Quan]] declared himself [[Chinese sovereign|king]] of [[Eastern Wu]].
+|-
+| || ''Battle of Xiaoting'': [[Eastern Wu]] forces attacked and burned the [[Shu Han]] camps and dealt serious casualties during their retreat.
+|-
+| 223 || 10 June || [[Liu Bei]] died.  He was succeeded by his son [[Liu Shan]], with [[Li Yan (Three Kingdoms)|Li Yan]] and [[chancellor (China)|chancellor]] [[Zhuge Liang]] acting as regents.
+|-
+| 225 || Autumn || ''[[Zhuge Liang's Southern Campaign]]'': The rebel leader [[Meng Huo]] surrendered [[Nanzhong]] to [[Zhuge Liang]].
+|-
+| 226 || 29 June || [[Cao Pi]] died.  He was succeeded by [[Cao Rui]], who may have been his son or his wife [[Lady Zhen]]'s by a previous marriage to [[Yuan Xi]].
+|-
+| rowspan="2" valign="top" | 228 || || ''[[Battle of Jieting]]'': [[Cao Wei]] forces encircled and destroyed a [[Shu Han]] army guarding the supply line for an invasion in modern [[Qin'an County]].
+|-
+| || ''[[Battle of Shiting]]'': A [[Cao Wei]] army was lured into an ambush by [[Eastern Wu]] in modern [[Qianshan County]] and dealt heavy casualties on its retreat.
+|-
+|229
+|
+|[[Sun Quan]] declared himself [[Emperor of China|emperor]] of [[Eastern Wu]].
+|-
+| 232 || || [[Cao Zhi]] died.
+|-
+| 234 || Autumn || ''[[Battle of Wuzhang Plains]]'': [[Shu Han]] forces made an orderly retreat from [[Cao Wei]] forces on the [[Wuzhang Plains]] after [[Zhuge Liang]] fell ill and died.
+|-
+| 239 || 22 January || [[Cao Rui]] died.  He was succeeded by his young adopted son [[Cao Fang]], with [[Cao Shuang]] and [[Sima Yi]] acting as regents.
+|-
+| 244 || April || ''[[Battle of Xingshi]]'': [[Shu Han]] forces stalled a [[Cao Wei]] invasion at Mount Xingshi in the modern [[Changqing National Nature Reserve]].
+|-
+| 247 || || ''[[Jiang Wei's Northern Expeditions]]'': [[Cao Wei]] pushed back an invasion by the [[Shu Han]] general [[Jiang Wei]] across the [[Tao River]].
+|-
+| 248 || || [[Eastern Wu]] forces killed the Vietnamese rebel [[Lady Triệu]].
+|-
+| 249 || || ''[[Incident at Gaoping Tombs]]'': [[Sima Yi]] took control of the [[Cao Wei]] capital [[Luoyang]] during [[Cao Fang]] and [[Cao Shuang]]'s absence.
+|-
+| 252 || || [[Sun Quan]] died.  He was succeeded by his young son [[Sun Liang]], with the general [[Zhuge Ke]] acting as regent.
+|-
+| 254 || || [[Sima Yi]]'s son, the regent [[Sima Shi]], deposed [[Cao Fang]], who was succeeded by [[Cao Pi]]'s grandson [[Cao Mao]].
+|-
+| 255 || || [[Ma Jun (mechanical engineer)|Ma Jun]] invented the south-pointing chariot.
+|-
+| rowspan="2" valign="top" | 258 || || [[Sun Liang]] was deposed by the regent [[Sun Chen]].
+|-
+| || [[Sun Liang]]'s brother [[Sun Xiu]] was made [[emperor of China|emperor]] of [[Eastern Wu]].
+|-
+| rowspan="2" valign="top" | 260 || || ''[[Coup of Cao Mao]]'': [[Cao Mao]] was murdered in a failed attempt to kill the regent [[Sima Zhao]] at his residence.
+|-
+| || [[Cao Cao]]'s grandson [[Cao Huan]] was made [[emperor of China|emperor]] of [[Cao Wei]].
+|-
+| rowspan="2" valign="top" | 263 || November || ''[[Conquest of Shu by Wei]]'': The [[Cao Wei]] general [[Deng Ai]] accepted the surrender of the [[Shu Han]] [[emperor of China|emperor]] [[Liu Shan]] outside the capital [[Chengdu]].
+|-
+| || [[Liu Hui]] published a revised version of ''[[The Nine Chapters on the Mathematical Art]]''.
+|-
+| rowspan="2" valign="top" | 264 || 3 September || [[Sun Xiu]] died.
+|-
+| || [[Sun Quan]]'s grandson [[Sun Hao]] was made [[emperor of China|emperor]] of [[Eastern Wu]].
+|-
+| rowspan="3" valign="top" | 265 || || [[Cao Wei]] instituted the [[nine-rank system]] of civil servants.
+|-
+| 6 September || [[Sima Zhao]] died. His eldest son and heir, [[Emperor Wu of Jin|Sima Yan]], inherited his position as regent of [[Cao Wei]] and noble title of King of Jin.
+|-
+| || [[Pei Xiu]] introduced the grid reference and the concept of scale to Chinese mapmaking.
+|-
+| rowspan="3" valign="top" | 266 || 4 February || [[Cao Huan]], last emperor of [[Cao Wei]], abdicated in favour of [[Emperor Wu of Jin|Sima Yan]].
+|-
+| 8 February || [[Emperor Wu of Jin|Sima Yan]] formally enthroned himself as Emperor of Jin, establishing the [[Jin dynasty (265–420)|Jin dynasty]]. Sima Yan is posthumously known as Emperor Wu of Jin.
+|-
+| 20 March || [[Emperor Wu of Jin]] established his wife [[Empress Yang Yan|Yang Yan]] as Empress.
+|-
+| 267 || 4 February || [[Emperor Wu of Jin]] established his oldest living son, the developmentally disabled [[Emperor Hui of Jin|Sima Zhong]], as Heir.
+|-
+| rowspan="2" valign="top" | 280 || 15 March || ''[[Conquest of Wu by Jin]]'': [[Sun Hao]] presented himself as a prisoner to the [[Jin dynasty (265–420)|Jin]] general [[Wang Jun (Jin dynasty)|Wang Jun]].
+|-
+| || [[Chen Shou]] compiled the ''[[Records of the Three Kingdoms]]''.
+|-
+| 290 || 17 May || [[Emperor Wu of Jin|Emperor Wu]] died.  He was succeeded by his developmentally disabled son [[Emperor Hui of Jin]], with [[Yang Jun (minister)|Yang Jun]] acting as regent.
+|-
+| 291 || || ''[[War of the Eight Princes]]'': [[Emperor Hui of Jin|Hui's]] wife [[Jia Nanfeng]] invited troops loyal to his brother [[Sima Wei]] into the [[Jin dynasty (265-420)|Jin]] capital [[Luoyang]] to imprison the [[empress dowager]] [[Empress Yang Zhi]] and her relatives.
+|}
+
+=== 4th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 304 || || The [[Xiongnu]] noble [[Liu Yuan (Han Zhao)|Liu Yuan]] declared himself prince of [[Former Zhao]].
+|-
+| || The [[Di (Wu Hu)|Di]] warlord [[Li Xiong]] declared himself prince of [[Cheng Han]].
+|-
+| rowspan="2" valign="top" | 307 || 8 January || [[Emperor Hui of Jin|Hui]] was poisoned, probably by the regent [[Sima Yue]].
+|-
+| || [[Emperor Hui of Jin|Hui's]] brother [[Emperor Huai of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (265–420)|Jin dynasty]].
+|-
+| 311 || || [[Emperor Huai of Jin|Huai]] was kidnapped from the capital [[Luoyang]] by [[Former Zhao]] forces.
+|-
+| rowspan="3" valign="top" | 313 || || [[Goguryeo]] conquered and annexed the [[Lelang Commandery]].
+|-
+| 14 March || [[Emperor Huai of Jin|Huai]] was executed.
+|-
+| || [[Emperor Huai of Jin|Huai's]] nephew [[Emperor Min of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (265–420)|Jin dynasty]].
+|-
+| 316 || || [[Emperor Min of Jin|Min]] surrendered to the [[Former Zhao]] general [[Liu Yao]] during a siege of the [[Jin dynasty (265–420)|Jin]] capital [[Chang'an]].
+|-
+| 317 || || [[Emperor Yuan of Jin]] declared himself prince of [[Jin dynasty (265–420)|Jin]], with his capital at [[Jiankang]].
+|-
+| 318 || || [[Emperor Min of Jin|Min]] was executed.
+|-
+| 319 || || The [[Jie people|Jie]] warlord [[Shi Le]] declared himself prince of [[Later Zhao]].
+|-
+| 320 || || [[Zhang Mao]] issued a general pardon to the people of [[Former Liang]].
+|-
+| 322 || || The first accurate tomb depiction of stirrups appeared.
+|-
+| 323 || 3 January || [[Emperor Yuan of Jin|Yuan]] died.  He was succeeded by his son [[Emperor Ming of Jin]].
+|-
+| 324 || || The rebel [[Wang Dun]] died.
+|-
+| 325 || 18 October || [[Emperor Ming of Jin|Ming]] died.  He was succeeded by his young son [[Emperor Cheng of Jin]].
+|-
+| 328 || || The rebel [[Su Jun]] was defeated by the [[Jin dynasty (265–420)|Jin]] generals [[Tao Kan]] and [[Wen Jiao]].
+|-
+| 329 || || The [[Later Zhao]] general [[Shi Hu]] captured Shanggui in modern [[Tianshui]] and killed the [[Former Zhao]] [[emperor of China|emperor]] [[Liu Xi (Han Zhao)|Liu Xi]] and his nobility.
+|-
+| 337 || 23 November || The [[Xianbei]] [[Murong Huang]] declared himself prince of [[Former Yan]].
+|-
+| 342 || 26 June || [[Emperor Cheng of Jin|Cheng]] died.  He was succeeded by his brother [[Emperor Kang of Jin]].
+|-
+| 344 || 17 November || [[Emperor Kang of Jin|Kang]] died.  He was succeeded by his infant son [[Emperor Mu of Jin]].
+|-
+| 347 || || The [[Jin dynasty (265–420)|Jin]] general [[Huan Wen]] captured the [[Cheng Han]] capital [[Chengdu]].
+|-
+| rowspan="2" valign="top" | 351 || || The [[Jin dynasty (265–420)|Jin]] [[general officer|general]] and [[Di (Five Barbarians)|Di]] chief [[Fu Jian (317–355)|Fu Jian]] declared himself ''[[Tian Wang]]'' of [[Former Qin]].
+|-
+| || The [[Later Zhao]] emperor [[Shi Zhi]] and his court were killed by one of his [[general officer|generals]] on the orders of the warlord [[Ran Min]].
+|-
+| 353 || || [[Wang Xizhi]] wrote the ''[[Lantingji Xu]]''.
+|-
+| rowspan="2" valign="top" | 361 || 10 July || [[Emperor Mu of Jin|Mu]] died.
+|-
+| || [[Emperor Mu of Jin|Mu's]] cousin [[Emperor Ai of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (265–420)|Jin dynasty]].
+|-
+| 365 || 30 March || [[Emperor Ai of Jin|Ai]] died.  He was succeeded by his brother [[Emperor Fei of Jin]].
+|-
+| 366 || || [[Gu Kaizhi]] became a [[Jin dynasty (265–420)|Jin]] officer.
+|-
+| 369 || || A [[Jin dynasty (265–420)|Jin]] army led by [[Huan Wen|Huan]] was annihilated as it retreated from the [[Former Yan]] capital [[Ye (ancient China)|Ye]] by the general [[Murong Chui]].
+|-
+| 370 || || The [[Former Yan]] [[emperor of China|emperor]] [[Murong Wei]] was captured by the [[Former Qin]] prime minister [[Wang Meng (Former Qin)|Wang Meng]].
+|-
+| rowspan="2" valign="top" | 372 || 6 January || [[Huan Wen|Huan]] deposed [[Emperor Fei of Jin|Fei]] in favor of his granduncle [[Emperor Jianwen of Jin]].
+|-
+| 12 September || [[Emperor Jianwen of Jin|Jianwen]] died.  He was succeeded by his young son [[Emperor Xiaowu of Jin]].
+|-
+| 376 || 26 September || [[Duke]] [[Zhang Tianxi]] of [[Former Liang]] surrendered to [[Former Qin]].
+|-
+| 383 || November || ''[[Battle of Fei River]]'': A [[Jin dynasty (265-420)|Jin]] army defeated a massively larger [[Former Qin]] force, inflicting some seven hundred thousand casualties and expanding Jin territory north to the [[Yellow River]].
+|-
+| rowspan="2" valign="top" | 384 || || The [[Xianbei]] [[Former Qin]] general [[Murong Chui]] declared himself prince of [[Later Yan]].
+|-
+| || The [[Former Qin]] general [[Yao Chang]] declared himself prince of [[Later Qin]].
+|-
+| 385 || || The [[Xianbei]] chief and [[Former Qin]] vassal [[Qifu Guoren]] joined an active rebellion and declared the independence of [[Western Qin]].
+|-
+| rowspan="2" valign="top" | 386 || 20 February || [[Emperor Daowu of Northern Wei]] declared himself prince of [[Northern Wei]].
+|-
+| || The [[Former Qin]] general [[Lü Guang]] declared himself ''[[Tian Wang]]'' of the majority-[[Di (Five Barbarians)|Di]] [[Later Liang (Sixteen Kingdoms)|Later Liang]].
+|-
+| 394 || || The [[Former Qin]] [[emperor of China|emperor]] [[Fu Chong]] was killed and his territory annexed by [[Western Qin]] forces.
+|-
+| 396 || || [[Emperor Xiaowu of Jin|Xiaowu]] was suffocated by one of his [[concubinage|concubines]].  He was succeeded by his young and severely disabled son [[Emperor An of Jin]].
+|-
+| rowspan="2" valign="top" | 397 || || [[Xiongnu]] rebels established the [[Northern Liang]], with the [[Han Chinese|Han]] [[Duan Ye]] as king.
+|-
+| || The [[Xianbei]] chief [[Tufa Wugu]] declared the independence of [[Southern Liang (Sixteen Kingdoms)|Southern Liang]] from [[Later Liang (Sixteen Kingdoms)|Later Liang]].
+|-
+| 398 || || [[Murong Chui]]'s brother [[Murong De]] declared himself prince of [[Southern Yan]].
+|-
+| 399 || || [[Faxian]] left for India to acquire [[Buddhism|Buddhist]] texts.
+|-
+| 400 || || Six [[commandery (China)|commanderies]] of [[Northern Liang]] seceded as [[Western Liang (Sixteen Kingdoms)|Western Liang]], under the kingship of the [[Han Chinese|Han]] [[Li Gao]].
+|}
+
+=== 5th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 403 || || Under military pressure from [[Southern Liang (Sixteen Kingdoms)|Southern Liang]] and [[Northern Liang]], the [[Later Liang (Sixteen Kingdoms)|Later Liang]] [[emperor of China|emperor]] [[Lü Long]] surrendered his capital Guzang, in modern [[Wuwei, Gansu|Wuwei]], to the [[Later Qin]] emperor [[Yao Xing]].
+|-
+| 404 || || [[Huiyuan (Buddhist)|Huiyuan]] wrote ''On Why Monks Do Not Bow Down Before Kings'', arguing for the independence of [[Buddhism|Buddhist]] clergy from the monarchy.
+|-
+| 405 || || [[Tao Yuanming]] retired.
+|-
+| rowspan="2" valign="top" | 407 || || The [[Later Yan]] [[emperor of China|emperor]] [[Murong Xi]] was beheaded by his adoptive nephew, the Korean people [[Gao Yun (emperor)|Gao Yun]], who became emperor of the successor state of [[Northern Yan]].
+|-
+| || The [[Later Qin]] general [[Helian Bobo]] declared himself ''[[Tian Wang]]'' of the majority-[[Xiongnu]] [[Xia (Sixteen Kingdoms)|Xia]].
+|-
+| 410 || 25 March || The [[Southern Yan]] [[emperor of China|emperor]] [[Murong Chao]] was executed by [[Jin dynasty (265–420)|Jin]] along with his court and nobility.
+|-
+| 414 || || [[Western Qin]] conquered the [[Southern Liang (Sixteen Kingdoms)|Southern Liang]] capital Ledu, in modern [[Haidong]].
+|-
+| 417 || || The [[Later Qin]] [[emperor of China|emperor]] [[Yao Hong]] surrendered to the [[Jin dynasty (265–420)|Jin]] general [[Emperor Wu of Liu Song]].
+|-
+| 419 || 28 January || [[Emperor An of Jin|An]] was strangled on [[Emperor Wu of Liu Song|Wu's]] orders and succeeded by his brother [[Emperor Gong of Jin]].
+|-
+| 420 || || [[Emperor Wu of Liu Song|Wu]] deposed [[Emperor Gong of Jin|Gong]], marking the beginning of the [[Liu Song dynasty]].
+|-
+| 421 || || The [[Western Liang (Sixteen Kingdoms)|Western Liang]] prince [[Li Xun (Western Liang)|Li Xun]] committed suicide during the siege of his capital [[Dunhuang]] by [[Northern Liang]].
+|-
+| rowspan="2" valign="top" | 431 || Summer || The [[Western Qin]] prince [[Qifu Mumo]] was executed along with his nobility by the [[Xia (Sixteen Kingdoms)|Xia]] [[emperor of China|emperor]] [[Helian Ding]].
+|-
+| || [[Helian Ding]] was captured by the ''[[khan (title)|khan]]'' of [[Tuyuhun]].
+|-
+| 436 || 4 June || The [[Northern Yan]] [[emperor of China|emperor]] [[Feng Hong]] fled the capital [[Helong]] in the face of an attack by [[Northern Wei]].
+|-
+| 460 || || [[Juqu Anzhou]], the prince of [[Northern Liang]] in exile in [[Gaochang]], was killed with his family by the [[Rouran Khaganate]].
+|-
+| 475 || || [[Bodhidharma]] arrived in China.
+|-
+| 477 || || The oldest known painted depiction of a horse collar was made in the [[Mogao Caves]].
+|-
+| 479 || || The [[Liu Song dynasty|Liu Song]] [[emperor of China|emperor]] [[Emperor Shun of Liu Song]] was deposed by his general [[Emperor Gao of Southern Qi]].
+|-
+| 485 || || The [[Northern Wei]] [[emperor of China|emperor]] [[Emperor Xiaowen of Northern Wei]] introduced the [[equal-field system]].
+|-
+| 496 || || ''[[Change of Xianbei names to Han names]]'': [[Xianbei]] names were converted to [[Han Chinese|Han]] names in [[Northern Wei]].
+|}
+
+=== 6th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 502 || || The young [[Southern Qi]] [[emperor of China|emperor]] [[Emperor He of Southern Qi]] was deposed by his general [[Emperor Wu of Liang]].
+|-
+| 523 || || The [[Songyue Pagoda]] was built.
+|-
+| rowspan="2" valign="top" | 534 || || The [[Northern Wei]] [[emperor of China|emperor]] [[Emperor Xiaowu of Northern Wei]] fled the capital [[Luoyang]] to [[Chang'an]] at the advance of his general [[Gao Huan]].
+|-
+| || [[Gao Huan]] appointed [[Emperor Xiaojing of Eastern Wei]] [[emperor of China|emperor]] of [[Eastern Wei]] with his capital at [[Ye (ancient China)|Ye]].
+|-
+| 535-536 || || [[Volcanic winter of 536|Extreme weather events]]. Snow reportedly falls in August, which caused harvests to be delayed.
+|-
+| 543 || || The ''[[Yupian]]'' was completed.
+|-
+| 550 || 5 June || The [[Eastern Wei]] general [[Emperor Wenxuan of Northern Qi]] deposed [[Emperor Xiaojing of Eastern Wei|Xiaojing]] and established the state of [[Northern Qi]].
+|-
+| rowspan="2" valign="top" | 557 || || The [[Liang dynasty|Liang]] general [[Emperor Wu of Chen]] deposed the [[emperor of China|emperor]] [[Emperor Jing of Liang]], establishing the [[Chen dynasty]].
+|-
+| 15 February || The [[Western Wei]] general [[Yuwen Hu]] deposed the [[emperor of China|emperor]] [[Emperor Gong of Western Wei]] in favor of his own cousin [[Emperor Xiaomin of Northern Zhou]], establishing the successor state of [[Northern Zhou]].
+|-
+| 577 || 4 February || The [[Northern Qi]] [[emperor of China|emperor]] [[Gao Heng]] and his father, the ''[[Taishang Huang]]'' [[Gao Wei]], were executed with their family by [[Northern Zhou]].
+|-
+| 581 || || The [[Northern Zhou]] [[emperor of China|emperor]] [[Emperor Jing of Northern Zhou]] was forced to abdicate in favor of his regent [[Emperor Wen of Sui]], initiating the [[Sui dynasty]].
+|-
+| 582 || || Compilation began of the ''[[Jingdian Shiwen]]''.
+|-
+| rowspan="2" valign="top" | 589 || || [[Yan Zhitui]] first referred to toilet paper.
+|-
+| 10 February || [[Sui dynasty|Sui]] forces captured the [[Chen dynasty|Chen]] capital [[Jiankang]] and its emperor [[Chen Shubao]].
+|-
+| 598 || || ''[[Goguryeo–Sui War]]'': A [[Sui dynasty|Sui]] army of some three hundred thousand, led by the general [[Yang Liang]], invaded [[Goguryeo]].
+|}
+
+=== 7th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 601 || || The ''[[Qieyun]]'' was published.
+|-
+| 602 || || ''[[Sui–Former Lý War]]'': [[Sui dynasty|Sui]] conquered and annexed the [[Early Lý dynasty]].
+|-
+| 604 || 13 August || [[Emperor Wen of Sui|Wen]] died.  He was succeeded by his son [[Emperor Yang of Sui]].
+|-
+| rowspan="2" valign="top" | 605 || || The [[imperial examination]] was first used as the sole criterion for appointing local officials in [[Sui dynasty|Sui]].
+|-
+| || The [[Zhaozhou Bridge]] was completed.
+|-
+| 607 || || ''[[Japanese missions to Sui China]]'': The [[Wa (name of Japan)|Wa]] emissary [[Ono no Imoko]] arrived in [[Sui dynasty|Sui]].
+|-
+| 609 || || The [[Grand Canal (China)|Grand Canal]] was completed.
+|-
+| rowspan="2" valign="top" | 610 || || Engineers Geng Xun and Yuwen Kai invented an improved water clock.
+|-
+| || [[Emperor Yang of Sui|Yang]] ordered his [[commandery (China)|commanderies]] to submit maps and gazetteers to the central government.
+|-
+| 611 || || The [[Four Gates Pagoda]] was completed.
+|-
+| 612 || || ''[[Battle of Salsu]]'': [[Goguryeo]] routed a [[Sui dynasty|Sui]] invasion force at the [[Chongchon River]], inflicting some three hundred thousand casualties.
+|-
+| 616 || || [[Sa'd ibn Abi Waqqas]] first visited China.
+|-
+| 617 || 18 December || The rebel [[Emperor Gaozu of Tang]], in control of the [[Sui dynasty|Sui]] capital [[Chang'an]], declared [[Emperor Yang of Sui|Yang]] ''[[Taishang Huang]]'' and his grandson [[Yang You]] [[emperor of China|emperor]].
+|-
+| 618 || 12 June || ''[[Transition from Sui to Tang]]'': [[Emperor Gaozu of Tang|Gaozu]] deposed [[Yang You]].
+|-
+| 621 || 28 May || ''[[Battle of Hulao]]'': [[Tang dynasty|Tang]] forces defeated and captured the warlord [[Dou Jiande]] at [[Hulao Pass]].
+|-
+| 624 || || [[Ouyang Xun]] completed the ''[[Yiwen Leiju]]''.
+|-
+| rowspan="2" valign="top" | 626 || 2 July || ''[[Xuanwu Gate Incident]]'': [[Emperor Gaozu of Tang|Gaozu's]] son [[Emperor Taizong of Tang]] assassinated his brothers [[Li Yuanji]] and the [[crown prince]] [[Li Jiancheng]].
+|-
+| 4 September || [[Emperor Gaozu of Tang|Gaozu]] retired. [[Emperor Taizong of Tang|Taizong]] succeeded him.
+|-
+| 630 || || ''[[Tang campaign against the Eastern Turks]]'': [[Tang dynasty|Tang]] forces captured the ''[[khan (title)|khan]]'' of the [[Eastern Turkic Khaganate]] in the [[Yin Mountains]].
+|-
+| rowspan="5" valign="top" | 635 || || The first Christian missionaries arrived in China.
+|-
+| || [[Nestorianism|Nestorian]] monks from [[Anatolia]] and the [[Sasanian Empire]] built the [[Daqin Pagoda]].
+|-
+| || [[Alopen]] wrote the [[Jesus Sutras]].
+|-
+| || ''[[Emperor Taizong's campaign against Tuyuhun]]'': The [[Tuyuhun]] ''[[khan (title)|khan]]'' [[Murong Fuyun]], in flight from [[Tang dynasty|Tang]] forces and with much of his army destroyed, was killed by his officers.
+|-
+| || The ''[[Book of Liang]]'' was published.
+|-
+| rowspan="2" valign="top" | 636 || || The [[Xumi Pagoda]] was completed.
+|-
+| || The ''[[Book of Chen]]'', ''[[Book of Northern Qi]]'', ''[[Book of Zhou]]'', and ''[[Book of Sui]]'' were compiled.
+|-
+| 638 || || ''[[Tibetan attack on Songzhou]]'': [[Tibetan Empire|Tibetan]] forces raided the city of Songzhou, in modern [[Songpan County]].
+|-
+| rowspan="2" valign="top" | 640 || || The [[Protectorate General to Pacify the West]] was established.
+|-
+| || ''[[Tang campaign against Karakhoja]]'': [[Tang dynasty|Tang]] defeated and annexed [[Gaochang]].
+|-
+| 641 || || ''[[Emperor Taizong's campaign against Xueyantuo]]'': [[Emperor Taizong of Tang|Taizong]] sent his general [[Li Shiji]] to support the restoration of the [[Eastern Turkic Khaganate]] under [[Qilibi Khan]] against [[Xueyantuo]].
+|-
+| 643 || || [[Emperor Taizong of Tang|Taizong]] commissioned [[Yan Liben]] to paint portraits of his officials at [[Lingyan Pavilion]].
+|-
+| 644 || || ''[[Tang campaigns against Karasahr]]'': A [[Tang dynasty|Tang]] army captured [[Karasahr]] and installed a friendly king.
+|-
+| 645 || 20 July || ''[[First campaign in the Goguryeo–Tang War]]'': [[Tang dynasty|Tang]] forces dispersed a [[Goguryeo]] army which had arrived in defense of [[Ansi City]].
+|-
+| 646 || || [[Bianji]] compiled the ''[[Great Tang Records on the Western Regions]]''.
+|-
+| 647 || || The [[Protectorate General to Pacify the North]] was established.
+|-
+| rowspan="2" valign="top" | 648 || || The ''[[Book of Jin]]'' was compiled.
+|-
+| || ''Tang campaigns against Karasahr'': [[Tang dynasty|Tang]] forces captured the king of [[Karasahr]].
+|-
+| rowspan="4" valign="top" | 649 || || The [[four arts]] were first written of as skills required of a Chinese [[scholar-official]].
+|-
+| 19 January || ''[[Tang campaign against Kucha]]'': [[Kucha]] surrendered to [[Tang dynasty|Tang]] forces.
+|-
+| 10 July || [[Emperor Taizong of Tang|Taizong]] died.
+|-
+| 15 July || [[Emperor Taizong of Tang|Taizong's]] son [[Emperor Gaozong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| rowspan="2" valign="top" | 657 || || [[Emperor Gaozong of Tang|Gaozong]] commissioned the compilation of a ''materia medica''.
+|-
+| || ''[[Battle of Irtysh River]]'': [[Tang dynasty|Tang]] forces ambushed and largely destroyed the army of the [[Western Turkic Khaganate]] at the [[Irtysh River]].
+|-
+| 659 || || The ''[[History of the Southern Dynasties]]'' and the ''[[History of the Northern Dynasties]]'' were completed.
+|-
+| 663 || || ''[[Battle of Baekgang]]'': The allied navies of [[Silla]] and the [[Tang dynasty]] defeated a combined [[Baekje]] restorationist and Japanese force in the lower reaches of the [[Geum River]].
+|-
+| 666 || || The Chinese [[Buddhism|Buddhist]] monks Zhiyu and Zhiyou crafted a mechanical south-pointing chariot for the Japanese [[emperor of Japan|emperor]] [[Emperor Tenji]].
+|-
+| 668 || || The [[Protectorate General to Pacify the East]] was established.
+|-
+| 683 || 27 December || [[Emperor Gaozong of Tang|Gaozong]] died.
+|-
+| rowspan="2" valign="top" | 684 || || The [[Qianling Mausoleum]] was completed.
+|-
+| || [[Luo Binwang]] died.
+|-
+| 690 || 16 October || [[Emperor Gaozong of Tang|Gaozong's]] wife [[Wu Zetian]] became [[emperor of China|emperor]] of the [[Tang dynasty]]. She was the only generally recognized female emperor in Chinese history.
+|-
+| 692 || || [[Tang dynasty|Tang]] forces reconquered the [[Four Garrisons of Anxi]] from [[Tibetan Empire|Tibet]].
+|-
+| 700 || || The [[Dunhuang map]] was created.
+|}
+
+=== 8th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 704 || || The [[Giant Wild Goose Pagoda]] was rebuilt.
+|-
+| rowspan="2" valign="top" | 705 || 22 February || [[Wu Zetian]] was forced to abdicate the throne in favor of her son [[Emperor Zhongzong of Tang]].
+|-
+| 23 February || [[Emperor Zhongzong of Tang|Zhongzong]] became [[emperor of China|emperor]] of [[Tang dynasty|Tang]].
+|-
+| 709 || || The [[Small Wild Goose Pagoda]] was completed.
+|-
+| rowspan="5" valign="top" | 710 || || [[Liu Zhiji]] compiled the ''[[Shitong]]''.
+|-
+| || [[Shangguan Wan'er]] died.
+|-
+| 3 July || [[Emperor Zhongzong of Tang|Zhongzong]] died after being poisoned, probably by his wife [[Empress Wei (Tang dynasty)|Empress Wei]].
+|-
+| 8 July || [[Emperor Zhongzong of Tang|Zhongzong's]] son [[Emperor Shang of Tang]] became [[emperor of China|emperor]] of [[Tang dynasty|Tang]], with [[Empress Wei (Tang dynasty)|Wei]] acting as regent.
+|-
+| 25 July || A ''coup'' led by [[Emperor Gaozong of Tang|Gaozong's]] daughter [[Princess Taiping]] and grandson [[Emperor Xuanzong of Tang]] killed [[Empress Wei (Tang dynasty)|Wei]] and deposed [[Emperor Shang of Tang|Shang]] in favor of his uncle, Gaozong's son [[Emperor Ruizong of Tang]].
+|-
+| rowspan="2" valign="top" | 712 || 8 September || [[Emperor Ruizong of Tang|Ruizong]] abdicated the throne to [[Emperor Xuanzong of Tang|Xuanzong]].
+|-
+| || The [[Pear Garden]] was established.
+|-
+| 713 || || The ''[[Kaiyuan Za Bao]]'' was first published.
+|-
+| 715 || || First encounter between the Tang dynasty and the [[Umayyad Caliphate|Umayyad Arabs]]. Tang dynasty defeats the Arab occupation force in [[Fergana Valley]], reinstalls [[Ikhshid]] on the throne.
+|-
+| 717 || || Arabs attack [[Transoxiana]] hoping to capture the Tang dynasty's [[Four Garrisons of Anxi]] district, but are routed in the [[Battle of Aksu (717)|Battle of Aksu]].
+|-
+| 725 || || [[Yi Xing]] invented a water-powered armillary sphere.
+|-
+| 729 || || [[Gautama Siddha]] completed the compilation of the ''[[Treatise on Astrology of the Kaiyuan Era]]''.
+|-
+| rowspan="2" valign="top" | 740 || || [[Wu Daozi]] died.
+|-
+| || [[Meng Haoran]] died.
+|-
+| 744 || || [[Du Fu]] and [[Li Bai]] first met.
+|-
+| 751 || July || ''[[Battle of Talas]]'': After the defection of their [[Karluks|Karluk]] mercenaries, a [[Tang dynasty|Tang]] force was defeated by a vastly superior [[Abbasid Caliphate|Abbasid]]-[[Tibetan Empire|Tibetan]] allied army on the [[Talas River]], probably near modern [[Talas, Kyrgyzstan|Talas]].
+|-
+| rowspan="2" valign="top" | 755 || 16 December || ''[[An Lushan Rebellion]]'': The [[Tang dynasty|Tang]] ''[[jiedushi]]'' [[An Lushan]] declared himself [[emperor of China|emperor]] of [[Yan (An–Shi)|Yan]].
+|-
+| || [[Zhang Xuan]] died.
+|-
+| rowspan="3" valign="top" | 756 || Spring || ''[[Battle of Yongqiu]]'': [[Yan (An–Shi)|Yan]] forces retreated from their siege of a [[Tang dynasty|Tang]] fortress in Yongqiu, in modern [[Kaifeng]].
+|-
+| 12 August || The [[Tang dynasty|Tang]] army declared [[Emperor Xuanzong of Tang|Xuanzong's]] son [[Emperor Suzong of Tang]] [[emperor of China|emperor]] at [[Lingwu]].
+|-
+| 10 September || [[Emperor Xuanzong of Tang|Xuanzong]] recognized [[Emperor Suzong of Tang|Suzong]] as emperor.
+|-
+| 757 || || ''[[Battle of Suiyang]]'': [[Yan (An–Shi)|Yan]] forces finally conquered Suiyang, in modern [[Suiyang District]], after a siege that cost the lives of some sixty thousand Yan soldiers and thirty thousand [[Tang dynasty|Tang]] civilians were lost to starvation and cannibalism.
+|-
+| 758 || || [[Arabs|Arab]] and [[Persian people|Persian]] [[piracy|pirates]] looted and burned the [[Tang dynasty|Tang]] seaport of [[Guangzhou]].
+|-
+| 759 || || [[Wang Wei (Tang dynasty)|Wang Wei]] died.
+|-
+| rowspan="2" valign="top" | 760 || || [[Lu Yu]] composed ''[[The Classic of Tea]]''.
+|-
+| || ''[[Yangzhou massacre (760)]]'': Arab and Persian merchants are killed by Chinese rebels.
+|-
+| rowspan="3" valign="top" | 762 || 16 May || [[Emperor Suzong of Tang|Suzong]] died of a heart attack.
+|-
+| 18 May || [[Emperor Suzong of Tang|Suzong's]] son [[Emperor Daizong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| || [[Du Huan]] wrote the ''[[Jingxingji]]''.
+|-
+| 763 || || ''An Lushan Rebellion'': The [[Yan (An–Shi)|Yan]] emperor [[Shi Chaoyi]] committed suicide in flight from [[Tang dynasty|Tang]] forces.
+|-
+| rowspan="2" valign="top" | 779 || 23 May || [[Emperor Daizong of Tang|Daizong]] died.
+|-
+| 12 June || [[Emperor Daizong of Tang|Daizong's]] son [[Emperor Dezong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 781 || || The [[Nestorian Stele]] was composed.
+|-
+| 783 || || [[Han Gan]] died.
+|-
+| 785 || || The [[Tang dynasty|Tang]] official [[Jia Dan]] began work on a map of Tang and its former colonies.
+|-
+| 794 || || Prince Li Gao ordered the construction of the first Chinese paddle-wheel ships.
+|}
+
+=== 9th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 801 || || [[Du You]] completed the ''[[Tongdian]]''.
+|-
+| rowspan="3" valign="top" | 805 || 25 February || [[Emperor Dezong of Tang|Dezong]] died.
+|-
+| 28 February || [[Emperor Dezong of Tang|Dezong's]] son [[Emperor Shunzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 31 August || [[Emperor Shunzong of Tang|Shunzong]] abdicated in favor of his son [[Emperor Xianzong of Tang]].
+|-
+| 806 || || [[Emperor Xianzong of Tang|Xianzong]] launched the first of a series of military campaigns against the provinces.
+|-
+| rowspan="2" valign="top" | 820 || 14 February || [[Emperor Xianzong of Tang|Xianzong]] died, possibly after being poisoned by one of his eunuch officers.
+|-
+| 20 February || [[Emperor Xianzong of Tang|Xianzong's]] son [[Emperor Muzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| rowspan="3" valign="top" | 824 || 25 February || [[Emperor Muzong of Tang|Muzong]] died.
+|-
+| 29 February || [[Emperor Muzong of Tang|Muzong's]] young son [[Emperor Jingzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| || [[Han Yu]] died.
+|-
+| rowspan="2" valign="top" | 827 || 9 January || [[Emperor Jingzong of Tang|Jingzong]] was assassinated.
+|-
+| 13 January || [[Emperor Jingzong of Tang|Jingzong's]] brother [[Emperor Wenzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 831 || || An [[Uyghurs|Uyghur]] sued the son of a [[Tang dynasty|Tang]] [[general officer|general]] for failure to repay a debt.
+|-
+| rowspan="2" valign="top" | 840 || 10 February || [[Emperor Wenzong of Tang|Wenzong]] died.
+|-
+| 20 February || [[Emperor Wenzong of Tang|Wenzong's]] brother [[Emperor Wuzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 843 || || A large fire consumed four thousand buildings in an eastern neighborhood of the [[Tang dynasty|Tang]] capital [[Chang'an]].
+|-
+| 845 || || ''[[Great Anti-Buddhist Persecution]]'': [[Emperor Wuzong of Tang|Wuzong]] abolished [[Buddhism|Buddhist]] monasteries as well as establishments of [[Zoroastrianism]] and Christianity, which were thought to be Buddhist [[heresy|heresies]].
+|-
+| rowspan="3" valign="top" | 846 || 22 April || [[Emperor Wuzong of Tang|Wuzong]] died.
+|-
+| 25 April || [[Emperor Wuzong of Tang|Wuzong's]] uncle, [[Emperor Xianzong of Tang|Xianzong's]] son [[Emperor Xuānzong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| || [[Bai Juyi]] died.
+|-
+| 851 || || The [[Arabs|Arab]] merchant [[Sulaiman al-Tajir]] visited [[Guangzhou]].
+|-
+| 852 || || [[Du Mu]] died.
+|-
+| 853 || || [[Duan Chengshi]] published the ''[[Miscellaneous Morsels from Youyang]]''.
+|-
+| 858 || || A flood along the [[Grand Canal (China)|Grand Canal]] and on the [[North China Plain]] killed tens of thousands.
+|-
+| rowspan="2" valign="top" | 859 || 7 September || [[Emperor Xuānzong of Tang|Xuānzong]] died.
+|-
+| 13 September || [[Emperor Xuānzong of Tang|Xuānzong's]] son [[Emperor Yizong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 863 || || [[Duan Chengshi]] published a work describing the slave trade, ivory trade and ambergris trade in Bobali, probably modern [[Berbera]].
+|-
+| 868 || 11 May || The ''[[Diamond Sutra]]'' was printed.
+|-
+| rowspan="2" valign="top" | 873 || 15 August || [[Emperor Yizong of Tang|Yizong]] died.
+|-
+| 16 August || [[Emperor Yizong of Tang|Yizong's]] son [[Emperor Xizong of Tang]] became [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| 874 || || [[Wang Xianzhi (rebel)|Wang Xianzhi]] launched a rebellion against the [[Tang dynasty|Tang]] government.
+|-
+| 879 || || ''[[Guangzhou massacre]]'': The rebel [[Huang Chao]] burned and looted [[Guangzhou]] and killed as many as two hundred thousand foreigners, mainly Arabs and Persians.
+|-
+| 884 || 13 July || [[Huang Chao|Huang]] was murdered with his immediate family while in flight from [[Tang dynasty|Tang]] forces.
+|-
+| 888 || 20 April || [[Emperor Xizong of Tang|Xizong]] died.  He was succeeded by his brother [[Emperor Zhaozong of Tang]].
+|}
+
+=== 10th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 904 || 22 September || [[Emperor Zhaozong of Tang|Zhaozong]] was killed on the orders of the warlord [[Zhu Wen]], then in control of the [[Tang dynasty|Tang]] capital [[Chang'an]].
+|-
+| 26 September || [[Zhu Wen]] appointed [[Emperor Zhaozong of Tang|Zhaozong's]] young son [[Emperor Ai of Tang]] [[emperor of China|emperor]] of the [[Tang dynasty]].
+|-
+| rowspan="4" valign="top" | 907 || 27 February || The [[Khitan people|Khitan]] chieftain [[Abaoji]] became [[emperor of China|emperor]] of the [[Liao dynasty]].
+|-
+| 12 May || [[Zhu Wen]] deposed [[Emperor Ai of Tang|Ai]] and declared himself [[emperor of China|emperor]] of [[Later Liang (Five Dynasties)|Later Liang]].  The princes [[Yang Wo]] and [[Wang Jian (Former Shu)|Wang Jian]], who did not recognize Zhu Wen, became ''de facto'' independent, as did their states [[Wu (Ten Kingdoms)|Wu]] and [[Former Shu]], respectively.
+|-
+| || [[Zhu Wen]] created [[Qian Liu]] the prince of [[Wuyue]].
+|-
+| || [[Zhu Wen]] created [[Ma Yin]], the ''[[jiedushi]]'' of the [[Wu'an Circuit]], prince of [[Chu (Ten Kingdoms)|Chu]].
+|-
+| 909 || 27 April || [[Zhu Wen]] created [[Wang Shenzhi]] prince of [[Min (Ten Kingdoms)|Min]].
+|-
+| rowspan="2" valign="top" | 917 || || The earliest Chinese reference to Greek fire appeared.
+|-
+| 5 September || [[Liu Yan (emperor)|Liu Yan]] declared himself [[emperor of China|emperor]] of [[Southern Han]].
+|-
+| 919 || || The [[flamethrower]] was first described in China.
+|-
+| rowspan="2" valign="top" | 923 || 13 May || Prince [[Li Cunxu]] of [[Jin (Later Tang precursor)|Jin]] declared himself [[emperor of China|emperor]] of [[Later Tang]].
+|-
+| 18 November || The [[Later Liang (Five Dynasties)|Later Liang]] [[emperor of China|emperor]] [[Zhu Youzhen]] was killed by one of his [[general officer|generals]] at the approach of [[Li Cunxu]] to his capital [[Kaifeng|Daliang]].
+|-
+| 924 || 14 April || [[Gao Jixing]] declared himself [[Chinese sovereign|king]] of [[Jingnan]].
+|-
+| 925 || 15 December || The [[Former Shu]] [[emperor of China|emperor]] [[Wang Zongyan]] surrendered to the [[Later Tang]] army at his capital [[Chengdu]].
+|-
+| 926 || 6 September || [[Abaoji]] died.
+|-
+| 927 || 11 December || [[Abaoji]]'s son [[Emperor Taizong of Liao]] became [[emperor of China|emperor]] of the [[Liao dynasty]].
+|-
+| 934 || 16 March || [[Meng Zhixiang]], the [[Later Tang]] ''[[jiedushi]]'' of the territory of the defunct [[Former Shu]], declared himself [[emperor of China|emperor]] of [[Later Shu]].
+|-
+| 936 || 28 November || [[Emperor Taizong of Liao|Taizong]] recognized the [[Shatuo]] [[Later Tang]] general [[Shi Jingtang]] [[emperor of China|emperor]] of [[Later Jin (Five Dynasties)|Later Jin]] in exchange for the promised cession of the [[Sixteen Prefectures]] that formed a natural border around the [[North China Plain]].
+|-
+| rowspan="2" valign="top" | 937 || 11 January || The [[Later Tang]] [[emperor of China|emperor]] [[Li Congke]] burned himself to death with his family and servants as the joint armies of [[Liao dynasty|Liao]] and [[Later Jin (Five Dynasties)|Later Jin]] approached his capital [[Luoyang]].
+|-
+| 10 November || The [[Wu (Ten Kingdoms)|Wu]] [[emperor of China|emperor]] [[Yang Pu]] was deposed by his general [[Li Bian]], who declared himself emperor of the Wu successor state of [[Southern Tang]].
+|-
+| 945 || 2 October || [[Min (Ten Kingdoms)|Min]] was conquered and annexed by [[Southern Tang]].
+|-
+| rowspan="4" valign="top" | 947 || 11 January || The [[Later Jin (Five Dynasties)|Later Jin]] [[emperor of China|emperor]] [[Shi Chonggui]] was deposed and his territory annexed by the [[Liao dynasty]].
+|-
+| 10 March || The [[Shatuo]] [[Liu Zhiyuan]], a ''[[jiedushi]]'' of the defunct [[Later Jin (Five Dynasties)|Later Jin]], declared himself [[emperor of China|emperor]] of [[Later Han (Five Dynasties)|Later Han]].
+|-
+| 15 May || [[Emperor Taizong of Liao|Taizong]] died.
+|-
+| 16 May || [[Emperor Taizong of Liao|Taizong's]] nephew [[Emperor Shizong of Liao]], whom he had raised, became [[emperor of China|emperor]] of the [[Liao dynasty]].
+|-
+| 950 || || The earliest known depiction of a fire lance and lobbed grenade appeared.
+|-
+| rowspan="6" valign="top" | 951 || 2 January || The [[Later Han (Five Dynasties)|Later Han]] [[emperor of China|emperor]] [[Liu Chengyou]] was killed by one of his officers while attempting to escape the siege of the capital [[Ye (ancient China)|Ye]] by his general [[Guo Wei]].
+|-
+| 13 February || [[Guo Wei]] declared himself [[emperor of China|emperor]] of [[Later Zhou]].
+|-
+| 7 October || [[Emperor Shizong of Liao|Shizong]] was murdered by one of his officers.
+|-
+| 11 October || [[Emperor Shizong of Liao|Shizong's]] cousin, [[Emperor Taizong of Liao|Taizong's]] son [[Emperor Muzong of Liao]] became [[emperor of China|emperor]] of the [[Liao dynasty]].
+|-
+| || [[Southern Tang]] conquered and annexed [[Chu (Ten Kingdoms)|Chu]].
+|-
+| || [[Liu Zhiyuan]]'s brother [[Liu Chong]] declared himself declared himself [[emperor of China|emperor]] of [[Northern Han]].
+|-
+| rowspan="5" valign="top" | 960 || || [[Gu Hongzhong]] painted the ''Night Revels of Han Xizai''.
+|-
+| 3 February || [[Emperor of China|Emperor]] [[Guo Zongxun]] of [[Later Zhou]] was overthrown by his general [[Emperor Taizu of Song]].
+|-
+| 4 February || [[Emperor Taizu of Song|Taizu]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| || [[Emperor Taizu of Song|Taizu]] was presented with gunpowder-impregnated fire arrows.
+|-
+| || The ''[[Hundred Family Surnames]]'' was composed.
+|-
+| 961 || || The [[Huqiu Tower]] was built.
+|-
+| 963 || || The [[Song dynasty]] conquered and annexed [[Jingnan]].
+|-
+| 965 || 23 February || The [[Later Shu]] [[emperor of China|emperor]] [[Meng Chang]] surrendered to the [[Song dynasty|Song]] army at his capital [[Chengdu]].
+|-
+| rowspan="2" valign="top" | 969 || 12 March || [[Emperor Muzong of Liao|Muzong]] was murdered by his servants on a hunting trip.
+|-
+| 13 March || [[Emperor Shizong of Liao|Shizong's]] son [[Emperor Jingzong of Liao]] became [[emperor of China|emperor]] of the [[Liao dynasty]].
+|-
+| 971 || || [[Southern Han]] was conquered and annexed by the [[Song dynasty]].
+|-
+| 974 || || [[Song dynasty|Song]] troops constructed a floating pontoon bridge across the [[Yangtze River]] in order to secure supply lines while fighting against the [[Southern Tang]].
+|-
+| rowspan="4" valign="top" | 976 || 1 January || [[Song dynasty|Song]] forces conquered and annexed [[Southern Tang]].
+|-
+| 14 November || [[Emperor Taizu of Song|Taizu]] died.
+|-
+| 15 November || [[Emperor Taizu of Song|Taizu's]] brother [[Emperor Taizong of Song]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| || The [[Yuelu Academy]] was founded.
+|-
+| 977 || || The pagoda of the [[Longhua Temple]] was built.
+|-
+| rowspan="2" valign="top" | 978 || || The ''[[Taiping Guangji]]'' was completed.
+|-
+| || The [[Wuyue]] [[Chinese sovereign|king]] [[Qian Chu]] surrendered his territory to [[Emperor Taizong of Song|Taizong]].
+|-
+| 979 || || The [[Northern Han]] [[emperor of China|emperor]] [[Liu Jiyuan]] surrendered to [[Song dynasty|Song]].
+|-
+| 981 || || ''[[Battle of Bạch Đằng (981)|Battle of Bạch Đằng]]'': A [[Song dynasty|Song]] naval invasion of the [[Early Lê dynasty]] via the [[Bạch Đằng River]] was aborted after the land invasion was stalled.
+|-
+| rowspan="2" valign="top" | 982 || 13 October || [[Emperor Jingzong of Liao|Jingzong]] died.
+|-
+| 14 October || [[Emperor Jingzong of Liao|Jingzong's]] young son [[Emperor Shengzong of Liao]] became emperor, with his widow [[Empress Xiao Yanyan]] acting as regent.
+|-
+| 983 || || The ''[[Taiping Yulan]]'' was completed.
+|-
+| 984 || || Qiao Weiyo invented the canal pound lock.
+|-
+| 986 || || The ''[[Wenyuan Yinghua]]'' was completed.
+|-
+| 990 || || [[Fan Kuan]] was born.
+|-
+| 993 || November || ''[[First conflict in the Goryeo–Khitan War]]'': [[Liao dynasty|Liao]] forces invaded [[Goryeo]].
+|-
+| rowspan="2" valign="top" | 997 || || The ''[[Longkan Shoujian]]'' was completed.
+|-
+| 8 May || [[Emperor Taizong of Song|Taizong]] died.  He was succeeded by his son [[Emperor Zhenzong]].
+|-
+| 1000 || || The Chinese first used coke in place of charcoal for blast furnaces.
+|}
+
+=== 11th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1005 || || [[Song dynasty|Song]] signed the [[Chanyuan Treaty]], under which it agreed to pay [[Liao dynasty|Liao]] an annual tribute in silk and silver.
+|-
+| 1008 || || The ''[[Guangyun]]'' was completed.
+|-
+| rowspan="2" valign="top" | 1010 || || ''[[Second conflict in the Goryeo–Khitan War]]'': [[Liao dynasty|Liao]] captured the [[Goryeo]] general [[Kang Cho]] and burned the capital [[Kaesong]].
+|-
+| || An atlas of China was completed.
+|-
+| 1013 || || ''[[Cefu Yuangui]]'' was completed.
+|-
+| 1018 || || ''[[Third conflict in the Goryeo–Khitan War]]'': [[Liao dynasty|Liao]] invaded [[Goryeo]].
+|-
+| 1019 || 10 March || ''[[Battle of Kuju]]'': [[Goryeo]] forces decisively defeated a retreating [[Liao dynasty|Liao]] army at Kuju, near modern [[Kusong]].
+|-
+| rowspan="2" valign="top" | 1022 || 23 March || [[Emperor Zhenzong|Zhenzong]] died.
+|-
+| 24 March || [[Emperor Zhenzong|Zhenzong's]] son [[Emperor Renzong of Song]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| 1031 || 25 June || [[Emperor Shengzong of Liao|Shengzong]] died.  He was succeeded by his son [[Emperor Xingzong of Liao]].
+|-
+| 1037 || || The ''[[Jiyun]]'' was published.
+|-
+| 1038 || 10 November || The [[Tangut people|Tangut]] chieftain [[Emperor Jingzong of Western Xia]] declared himself [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| 1041 || || [[Bi Sheng]] invented movable type.
+|-
+| 1043 || || [[Ouyang Xiu]] and the vice chancellor [[Fan Zhongyan]] drafted the [[Qingli Reforms]] in [[Song dynasty|Song]].
+|-
+| 1044 || || The ''[[Wujing Zongyao]]'' was completed.
+|-
+| 1045 || || The [[Lingxiao Pagoda]] was completed.
+|-
+| 1048 || 19 January || [[Emperor Jingzong of Western Xia|Jingzong]] died.  He was succeeded by his infant son [[Emperor Yizong of Western Xia]].
+|-
+| 1049 || || The [[Iron Pagoda]] was completed.
+|-
+| rowspan="2" valign="top" | 1055 || || The [[Liaodi Pagoda]] was completed.
+|-
+| 28 August || [[Emperor Xingzong of Liao|Xingzong]] died.  He was succeeded by his son [[Emperor Daozong of Liao]].
+|-
+| 1056 || || The [[Pagoda of Fogong Temple]] was completed.
+|-
+| 1060 || || [[Ouyang Xiu]] completed the ''[[New Book of Tang]]''.
+|-
+| rowspan="3" valign="top" | 1063 || 30 April || [[Emperor Renzong of Song|Renzong]] died.
+|-
+| 1 May || [[Emperor Yingzong of Song]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| || The [[Pizhi Pagoda]] was completed.
+|-
+| rowspan="2" valign="top" | 1067 || || [[Emperor Yizong of Western Xia|Yizong]] died.  He was succeeded by his young son [[Emperor Huizong of Western Xia]].
+|-
+| 25 January || [[Emperor Yingzong of Song|Yingzong]] died.  He was succeeded by his son [[Emperor Shenzong of Song]].
+|-
+| 1068 || || The dry dock was first used in China.
+|-
+| 1069 || || The [[Song dynasty|Song]] [[Chancellor (China)|chancellor]] [[Wang Anshi]] ordered an extensive government reform including the introduction of the [[baojia system]] of community-based law enforcement.
+|-
+| 1070 || || The [[Song dynasty|Song]] ambassador [[Su Song]] published the ''Bencao Tujing''.
+|-
+| 1072 || || [[Guo Xi]] painted ''Early Spring''.
+|-
+| rowspan="2" valign="top" | 1075 || || The [[Song dynasty|Song]] diplomat [[Shen Kuo]] used court archives to reject [[Emperor Daozong of Liao|Daozong's]] territorial claims.
+|-
+| || A proto-Bessemer process was first observed in Cizhou.
+|-
+| 1076 || || [[Wang Anshi|Wang]] resigned.
+|-
+| 1077 || || [[Su Song|Su]] was sent on a mission to [[Liao dynasty|Liao]].
+|-
+| 1080 || || [[Shen Kuo|Shen]] was appointed to defend [[Yan'an]].
+|-
+| rowspan="2" valign="top" | 1081 || || A [[Song dynasty|Song]] army was dealt some sixty thousand casualties defending [[Yan'an]] against an attempted invasion of Song by [[Western Xia]] forces.
+|-
+| || [[Su Song|Su]] published a 200-volume work on [[Song dynasty|Song]]-[[Liao dynasty|Liao]] relations.
+|-
+| rowspan="2" valign="top" | 1084 || || [[Sima Guang]] completed the ''[[Zizhi Tongjian]]''.
+|-
+| || [[Li Qingzhao]] was born.
+|-
+| rowspan="2" valign="top" | 1085 || 1 April || [[Emperor Shenzong of Song|Shenzong]] died.  He was succeeded by his young son [[Emperor Zhezong]], with his widow [[Empress Xiang]] acting as regent.
+|-
+| || [[Empress Xiang|Xiang]] ousted the court faction affiliated with [[Wang Anshi|Wang's]] reforms at [[Sima Guang|Sima's]] urging.
+|-
+| rowspan="2" valign="top" | 1086 || || [[Emperor Huizong of Western Xia|Huizong]] died.
+|-
+| || [[Emperor Huizong of Western Xia|Huizong's]] son [[Emperor Chongzong of Western Xia]] became [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| 1088 || || [[Shen Kuo|Shen]] published the ''[[Dream Pool Essays]]''.
+|-
+| 1090 || || The earliest known description of the mechanical belt appeared.
+|-
+| rowspan="2" valign="top" | 1094 || || [[Su Song|Su]] completed a clock tower in [[Kaifeng]].
+|-
+| || The [[Dongpo Academy]] was established on [[Hainan]].
+|-
+| 1100 || 23 February || [[Emperor Zhezong|Zhezong]] died.  He was succeeded by his younger brother [[Emperor Huizong of Song]].
+|}
+
+=== 12th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1101 || 12 February || [[Emperor Daozong of Liao|Daozong]] was murdered.  He was succeeded by his grandson [[Emperor Tianzuo of Liao]].
+|-
+| 1103 || || The ''[[Yingzao Fashi]]'' was published.
+|-
+| 1107 || || [[Mi Fu]] died.
+|-
+| 1111 || || The [[Donglin Academy]] was founded.
+|-
+| rowspan="2" valign="top" | 1115 || 28 January || The [[Wanyan]] chieftain [[Emperor Taizu of Jin]] declared himself [[emperor of China|emperor]] of the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+| August || [[Emperor Taizu of Jin|Taizu]] conquered the [[Liao dynasty|Liao]] city of Huanglongfu.
+|-
+| 1119 || || [[Zhu Yu (author)|Zhu Yu]] published the ''Pingzhou Table Talks''.
+|-
+| 1120 || || The pagoda of [[Tianning Temple (Beijing)|Tianning Temple]] was completed.
+|-
+| rowspan="2" valign="top" | 1123 || 19 September || [[Emperor Taizu of Jin|Taizu]] died.
+|-
+| 27 September || [[Emperor Taizu of Jin|Taizu's]] brother [[Emperor Taizong of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+| 1124 || || The [[Liao dynasty|Liao]] general [[Yelü Dashi]] established the [[Khitan people|Khitan]] [[Qara Khitai]] in the Liao northwest.
+|-
+| rowspan="2" valign="top" | 1125 || 26 March || [[Jin dynasty (1115–1234)|Jin dynasty]] forces captured [[Emperor Tianzuo of Liao|Tianzuo]].
+|-
+| November || ''[[Jin–Song Wars]]'': The [[Jin dynasty (1115–1234)|Jin]] army invaded [[Song dynasty|Song]].
+|-
+| rowspan="2" valign="top" | 1126 || 18 January || [[Emperor Huizong of Song|Huizong]] abdicated in favor of his son [[Emperor Qinzong]].
+|-
+| 19 January || [[Emperor Qinzong]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| rowspan="2" valign="top" | 1127 || 9 January || ''[[Jingkang Incident]]'': The [[Song dynasty|Song]] capital [[Kaifeng]] fell to a [[Jin dynasty (1115–1234)|Jin]] siege. [[Emperor Huizong of Song|Huizong]] and [[Emperor Qinzong|Qinzong]] were captured with much of their court.
+|-
+| 12 June || [[Emperor Huizong of Song|Huizong's]] son [[Emperor Gaozong of Song]] became [[emperor of China|emperor]] of the [[Song dynasty]] at [[Lin'an City]].
+|-
+| rowspan="2" valign="top" | 1132 || || [[Song dynasty|Song]] established a standing navy headquartered at Dinghai in modern [[Dinghai District]].
+|-
+| || A fire destroyed some thirteen thousand homes in the [[Song dynasty|Song]] capital [[Lin'an City]].
+|-
+| rowspan="3" valign="top" | 1135 || || The [[Song dynasty|Song]] general [[Yue Fei]] defeated the bandit Yang Yao at [[Dongting Lake]].
+|-
+| 9 February || [[Emperor Taizong of Jin|Taizong]] died.
+|-
+| 10 February || [[Emperor Xizong of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+| rowspan="2" valign="top" | 1139 || || [[Emperor Chongzong of Western Xia|Chongzong]] died.
+|-
+| || [[Emperor Chongzong of Western Xia|Chongzong's]] son [[Emperor Renzong of Western Xia]] became [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| 1141 || || [[Song dynasty|Song]] signed the [[Treaty of Shaoxing]], under which it relinquished all claims to its former territories north of the [[Huai River]] and agreed to pay [[Jin dynasty (1115–1234)|Jin]] an annual tribute in silk and silver.
+|-
+| 1142 || 27 January || [[Yue Fei|Yue]] was executed on false charges of treason spurred by the [[Song dynasty|Song]] [[chancellor (China)|chancellor]] [[Qin Hui]].
+|-
+| 1150 || 9 January || [[Emperor Xizong of Jin|Xizong]] was murdered in a ''coup'' by [[Wanyan Liang]], who succeeded him as [[emperor of China|emperor]] of [[Jin dynasty (1115–1234)|Jin]].
+|-
+| 1153 || || The [[Jin dynasty (1115–1234)|Jin]] capital was moved from Huining Prefecture to [[Zhongdu]].
+|-
+| 1157 || || The [[Jin dynasty (1115–1234)|Jin]] capital was moved to [[Kaifeng]].
+|-
+| rowspan="5" valign="top" | 1161 || 27 October || [[Wanyan Liang]]'s cousin [[Emperor Shizong of Jin]] was declared [[emperor of China|emperor]] of [[Jin dynasty (1115–1234)|Jin]] in the capital [[Kaifeng]].
+|-
+| 16 November || ''[[Battle of Tangdao]]'': The [[Jin dynasty (1115–1234)|Jin]] navy suffered heavy losses in an attempted invasion of [[Song dynasty|Song]] near the [[Shandong Peninsula]].
+|-
+| 27 November || ''[[Battle of Caishi]]'': [[Jin dynasty (1115–1234)|Jin]] forces suffered as many as four thousand casualties at the hands of the [[Song dynasty]] in a naval battle which stalled their invasion across the [[Yangtze]].
+|-
+| 15 December || [[Wanyan Liang]] was assassinated by one of his officers near the [[Yangtze]] battlefront.
+|-
+| || The ''[[Yunjing]]'' was compiled.
+|-
+| rowspan="2" valign="top" | 1162 || 24 July || [[Emperor Gaozong of Song|Gaozong]] abdicated in favor of [[Emperor Xiaozong of Song]].
+|-
+| || The [[Beisi Pagoda]] was completed.
+|-
+| 1164 || || [[Song dynasty|Song]] and [[Jin dynasty (1115–1234)|Jin]] concluded the Treaty of Longxing.
+|-
+| 1165 || || The [[Liuhe Pagoda]] was completed.
+|-
+| 1179 || || [[Zhu Xi]] rebuilt the [[White Deer Grotto Academy]].
+|-
+| rowspan="3" valign="top" | 1189 || 20 January || [[Emperor Shizong of Jin|Shizong]] died.  He was succeeded by his grandson [[Emperor Zhangzong of Jin]].
+|-
+| 18 February || [[Emperor Xiaozong of Song|Xiaozong]] abdicated in favor of his son [[Emperor Guangzong of Song]].
+|-
+| || The Chengling Pagoda was built.
+|-
+| rowspan="2" valign="top" | 1193 || || [[Emperor Renzong of Western Xia|Renzong]] died.
+|-
+| || [[Emperor Renzong of Western Xia|Renzong's]] son [[Emperor Huanzong of Western Xia]] became [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| 1194 || 24 July || [[Emperor Guangzong of Song|Guangzong]] was forced to abdicate in favor of his son [[Emperor Ningzong]].
+|}
+
+=== 13th century ===
+{| class="wikitable" width="100%"
+
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 1206 || || [[Emperor Huanzong of Western Xia|Huanzong]] was overthrown in a ''coup''.
+|-
+| || [[Emperor Xiangzong of Western Xia]] became [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| 1208 || 29 December || [[Emperor Zhangzong of Jin|Zhangzong]] died.  He was succeeded by his brother [[Wanyan Yongji]].
+|-
+| rowspan="2" valign="top" | 1211 || || [[Emperor Shenzong of Western Xia]] deposed and replaced [[Emperor Xiangzong of Western Xia|Xiangzong]] as [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| August || ''[[Battle of Yehuling]]'': The army of the [[Mongol Empire]] captured or killed over four hundred thousand [[Jin dynasty (1115–1234)|Jin]] soldiers defending an important mountain pass at [[Zhangjiakou]].
+|-
+| rowspan="2" valign="top" | 1213 || 11 September || [[Wanyan Yongji]] was assassinated.
+|-
+| 22 September || [[Emperor Xuanzong of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+| 1214 || || The [[Jin dynasty (1115–1234)|Jin dynasty]] signed a treaty under which it became a [[vassal state]] paying tribute to the [[Mongol Empire]].
+|-
+| 1215 || 1 June || ''[[Battle of Zhongdu]]'': [[Mongol Empire|Mongol]] forces breached the walls of [[Zhongdu]] and massacred its inhabitants.
+|-
+| 1217 || || ''[[Jin–Song wars#Jin–Song war during the rise of the Mongols|Jin-Song Wars]]:'' The [[Jin dynasty (1115–1234)|Jin dynasty]] attacked the [[Song dynasty]] and were defeated on their first campaign but on their second campaign later in the year captured [[Xihe County|Xihezhou]].<ref>{{Cite journal |last=Davis |first=Richard L. |date=2009 |editor-last=Smith |editor-first=Paul Jakov |editor2-last=Twitchett |editor2-first=Denis C. |title=The Reigns of Kuang-tsung (1189-1194) and Ning-tsung (1194-1224) |url=https://www.cambridge.org/core/books/abs/cambridge-history-of-china/reigns-of-kuangtsung-11891194-and-ningtsung-11941224/6065201011A26CEF8B37E504BEB76CD2 |journal=The Cambridge History of China |volume=5, The Sung Dynasty and its Precursors, 907-1279 |issue= |pages=827 and 829 |isbn=978-0-521-81248-1 |via=Cambridge University Press}}</ref>
+|-
+| 1223 || || [[Emperor Shenzong of Western Xia|Shenzong]] abdicated in favor of his son [[Emperor Xianzong of Western Xia]].
+|-
+| rowspan="3" valign="top" | 1224 || 14 January || [[Emperor Xuanzong of Jin|Xuanzong]] died.
+|-
+| 15 January || [[Emperor Xuanzong of Jin|Xuanzong's]] son [[Emperor Aizong of Jin]] became [[emperor of China|emperor]] of the [[Jin dynasty (1115–1234)|Jin dynasty]].
+|-
+| 17 September || [[Emperor Ningzong|Ningzong]] died.  He was succeeded by [[Emperor Lizong]].
+|-
+| rowspan="2" valign="top" | 1226 || || [[Emperor Xianzong of Western Xia|Xianzong]] died.
+|-
+| || [[Emperor Mozhu of Western Xia]] became [[emperor of China|emperor]] of [[Western Xia]].
+|-
+| rowspan="2" valign="top" | 1227 || 18 August || The [[Mongol Empire|Mongol]] ''[[khagan]]'' [[Genghis Khan]] died.
+|-
+| || [[Emperor Mozhu of Western Xia|Mozhu]] surrendered to the [[Mongol Empire]] during the siege of the [[Western Xia]] capital Zhongxing.
+|-
+| 1233 || 26 February ||  ''[[Siege of Kaifeng (1232)]]'': The [[Jin dynasty (1115–1234)|Jin]] [[general officer|general]] in charge of the defense of the capital [[Kaifeng]] surrendered to the besieging [[Mongol Empire|Mongol]] army. [[Emperor Aizong of Jin|Aizong]] had fled during the siege; his family members still in the city were executed.
+|-
+| rowspan="2" valign="top" | 1234 || 9 February || ''[[Siege of Caizhou]]'': [[Emperor Aizong of Jin|Aizong]] passed the throne to his general [[Emperor Mo of Jin]] and hanged himself in the face of a [[Mongol Empire|Mongol]] siege of [[Caizhou]].  The Mongols breached the city.
+|-
+| 10 February || ''Siege of Caizhou'': [[Emperor Mo of Jin|Mo]] died fighting the [[Mongol Empire|Mongols]] at [[Caizhou]].
+|-
+| 1247 || || [[Qin Jiushao]] wrote the ''[[Mathematical Treatise in Nine Sections]]''.
+|-
+| 1259 || 11 August || The [[Mongol Empire|Mongol]] ''[[khagan]]'' [[Möngke Khan]] died during a siege of [[Diaoyu Fortress]].
+|-
+| rowspan="3" valign="top" | 1260 || || ''[[Toluid Civil War]]'': [[Möngke Khan|Möngke's]] brother [[Ariq Böke]] declared himself ''[[khagan]]'' of the [[Mongol Empire]].
+|-
+| 5 May || ''Toluid Civil War'': [[Kublai Khan]], brother to [[Möngke Khan|Möngke]] and to [[Ariq Böke]], was crowned ''[[khagan]]'' of the [[Mongol Empire]].
+|-
+| || [[Kublai Khan|Kublai]] appointed the [[Sakya (tribe)|Sakya]] ''[[lama]]'' [[Drogön Chögyal Phagpa]] [[Imperial Preceptor]].
+|-
+| 1261 || || [[Yang Hui]] first drew Pascal's triangle.
+|-
+| 1264 || 16 November || [[Emperor Lizong|Lizong]] died.  He was succeeded by his nephew [[Emperor Duzong]].
+|-
+| 1265 || || ''[[Mongol conquest of the Song dynasty]]'': The [[Mongol Empire]] invaded [[Song dynasty|Song]].
+|-
+| 1267 || || ''[[Battle of Xiangyang]]'': [[Kublai Khan|Kublai]] ordered his general [[Aju]] to take [[Xiangyang]].
+|-
+| 1270 || || ''[[Sambyeolcho Rebellion]]'': The [[Sambyeolcho]] rebelled against [[Wonjong of Goryeo]], the [[Mongol Empire|Mongol]]-allied king of [[Goryeo]].
+|-
+| rowspan="2" valign="top" | 1271 || || [[Marco Polo]] left [[Republic of Venice|Venice]].
+|-
+| || [[Kublai Khan|Kublai]] declared himself [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1273 || 14 March || ''Battle of Xiangyang'': The [[Yuan dynasty|Yuan]] army breached and captured [[Xiangyang]].
+|-
+| rowspan="2" valign="top" | 1274 || 12 August || [[Emperor Duzong|Duzong]] died.  He was succeeded by his young son [[Emperor Gong of Song]].
+|-
+| 5 October || ''[[Mongol invasions of Japan]]'': A [[Yuan dynasty|Yuan]] fleet landed at [[Tsushima Island]].
+|-
+| 1275 || || The [[Yuan dynasty|Yuan]] general [[Bayan of the Baarin]] defeated a [[Song dynasty|Song]] army led by the [[chancellor (China)|chancellor]] [[Jia Sidao]].
+|-
+| rowspan="4" valign="top" | 1276 || 4 February || [[Emperor Gong of Song|Gong]] and his great-aunt the [[grand empress dowager]] [[Xie Daoqing]] surrendered themselves to the [[Yuan dynasty|Yuan]] army besieging the [[Song dynasty|Song]] capital [[Lin'an City]].
+|-
+| 14 June || [[Emperor Gong of Song|Gong's]] older brother, the young [[Emperor Duanzong]], was crowned [[emperor of China|emperor]] of the [[Song dynasty]] at [[Fuzhou]].
+|-
+| || [[Qian Xuan]] retired.
+|-
+| || The [[Gaocheng Astronomical Observatory]] was built.
+|-
+| rowspan="3" valign="top" | 1278 || || The [[Song dynasty|Song]] general [[Wen Tianxiang]] was captured by [[Yuan dynasty|Yuan]] forces.
+|-
+| 8 May || [[Emperor Duanzong|Duanzong]] died.
+|-
+| 10 May || [[Emperor Duanzong|Duanzong's]] younger brother [[Emperor Bing of Song]] became [[emperor of China|emperor]] of the [[Song dynasty]].
+|-
+| 1279 || 19 March || ''[[Battle of Yamen]]'': A [[Yuan dynasty|Yuan]] fleet destroyed a vastly superior [[Song dynasty|Song]] force near [[Yamen (town)|Yamen]].  The Song [[chancellor (China)|chancellor]] [[Lu Xiufu]] drowned himself with [[Emperor Bing of Song|Bing]].
+|-
+| rowspan="2" valign="top" | 1287 || || The [[Zhongdu]]-born [[Rabban Bar Sauma]] left for Europe as an ambassador of [[Arghun]], the ''[[khan (title)|khan]]'' of the [[Ilkhanate]].
+|-
+| December || ''[[Battle of Pagan]]'': [[Yuan dynasty|Yuan]] forces captured the [[Pagan Kingdom|Pagan]] capital [[Bagan]].
+|-
+| 1288 || || ''[[Battle of Bạch Đằng (1288)|Battle of Bạch Đằng]]'': [[Đại Việt]] decisively defeated a numerically superior [[Yuan dynasty|Yuan]] invasion fleet on the [[Bạch Đằng River]].
+|-
+| 1289 || || ''[[Europeans in Medieval China]]'': [[Franciscan]] [[friar]]s first conducted missionary work in China.
+|-
+| rowspan="2" valign="top" | 1294 || 18 February || [[Kublai Khan|Kublai]] died.
+|-
+| 10 May || [[Kublai Khan|Kublai's]] grandson [[Temür Khan]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1293 || || [[John of Montecorvino]] arrives in China and is appointed [[Roman Catholic Archdiocese of Beijing|Archbishop]] of [[Khanbaliq]] (Beijing).
+|-
+| 1298 || || [[Wang Zhen (official)|Wang Zhen]] invented movable wooden type.
+|}
+
+=== 14th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 1307 || 10 February || [[Temür Khan|Temür]] died.
+|-
+| 21 June || [[Temür Khan|Temür's]] nephew [[Külüg Khan]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| rowspan="2" valign="top" | 1311 || 27 January || [[Külüg Khan|Külüg]] died.
+|-
+| 7 April || [[Külüg Khan|Külüg's]] younger brother [[Ayurbarwada Buyantu Khan]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1316 || || [[Guo Shoujing]] died.
+|-
+| rowspan="2" valign="top" | 1320 || 1 March || [[Ayurbarwada Buyantu Khan|Ayurbarwada]] died.
+|-
+| 19 April || [[Ayurbarwada Buyantu Khan|Ayurbarwada's]] son [[Gegeen Khan]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| rowspan="2" valign="top" | 1323 || 4 September || [[Gegeen Khan|Gegeen]] was assassinated by the [[Asud]] in a ''coup'' led by the [[Khongirad]] [[censorate|grand censor]] Tegshi.
+|-
+| 4 October || [[Yesün Temür (Yuan dynasty)|Yesün Temür]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1324 || || ''[[Zhongyuan Yinyun]]'' was published.
+|-
+| rowspan="4" valign="top" | 1328 || 15 August || [[Yesün Temür (Yuan dynasty)|Yesün Temür]] died.
+|-
+| October || [[Yesün Temür (Yuan dynasty)|Yesün Temür's]] son [[Ragibagh Khan]] was appointed [[emperor of China|emperor]] of the [[Yuan dynasty]] in [[Shangdu]].
+|-
+| 16 October || The [[Yuan dynasty|Yuan]] general [[El Temür]] crowned [[Jayaatu Khan Tugh Temür]] [[emperor of China|emperor]] in [[Khanbaliq]].
+|-
+| 14 November || Forces loyal to [[El Temür]] captured [[Shangdu]] and may have executed [[Ragibagh Khan|Ragibagh]].
+|-
+| rowspan="4" valign="top" | 1329 || 27 February  || [[Jayaatu Khan Tugh Temür|Tugh Temür's]] brother [[Khutughtu Khan Kusala]] crowned himself [[emperor of China|emperor]] of the [[Yuan dynasty]] in [[Karakorum]] with the support of the [[Chagatai Khanate]].
+|-
+| 3 April || [[Jayaatu Khan Tugh Temür|Tugh Temür]] abdicated in [[Khutughtu Khan Kusala|Khutughtu's]] favor.
+|-
+| 30 August || [[Khutughtu Khan Kusala|Khutughtu]] died, probably after being poisoned by [[Jayaatu Khan Tugh Temür|Tugh Temür]].
+|-
+| 8 September || [[Jayaatu Khan Tugh Temür|Tugh Temür]] was crowned [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1330 || || The [[Pagoda of Bailin Temple]] was completed.
+|-
+| rowspan="3" valign="top" | 1332 || 2 September || [[Jayaatu Khan Tugh Temür|Tugh Temür]] died.
+|-
+| 23 October || [[El Temür]] crowned [[Khutughtu Khan Kusala|Khutughtu's]] young son [[Rinchinbal Khan]] [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 14 December || [[Rinchinbal Khan|Rinchinbal]] died.
+|-
+| 1333 || 19 July || [[Rinchinbal Khan|Rinchinbal's]] older brother [[Toghon Temür]] became [[emperor of China|emperor]] of the [[Yuan dynasty]].
+|-
+| 1334 || || [[Wang Dayuan]] travelled to North Africa.
+|-
+| 1342 || || Papal missionary [[Giovanni de Marignolli]] leaves Europe for [[Khanbaliq]] (Beijing).
+|-
+| 1351 || || ''[[Red Turban Rebellion]]'': The [[millenarianism|millenarian]] [[White Lotus Societies|White Lotus]] sect first plotted armed rebellion against the [[Yuan dynasty]].
+|-
+| 1352 || || ''Red Turban Rebellion'': The [[Hongwu Emperor]] joined the rebellion.
+|-
+| 1356 || || ''Red Turban Rebellion'': The rebel army captured [[Nanjing]].
+|-
+| rowspan="2" valign="top" | 1363 || 30 August || ''[[Battle of Lake Poyang]]'': A Red Turban fleet commanded by the [[Hongwu Emperor]] met a fleet led by [[Chen Youliang]], the self-proclaimed [[Chinese sovereign|king]] of the rebel state of Han, on [[Poyang Lake]].
+|-
+| 4 October || ''Battle of Lake Poyang'': The Han navy was destroyed. [[Chen Youliang]] was killed.
+|-
+| rowspan="2" valign="top" | 1368 || 20 January || ''Red Turban Rebellion'': The [[Hongwu Emperor]] declared himself [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| September || [[Toghon Temür]] fled [[Khanbaliq]] for [[Shangdu]] in the face of a [[Ming dynasty|Ming]] advance.
+|-
+| 1371 || || [[Ming dynasty|Ming]] implemented the ''[[haijin]]'', a ban on all private maritime commerce.
+|-
+| rowspan="2" valign="top" | 1373 || || The [[Hongwu Emperor]] abolished the [[imperial examination]] in favor of a recommendation system for appointing local [[Ming dynasty|Ming]] officials.
+|-
+| || The [[Temple of the Six Banyan Trees]] was rebuilt.
+|-
+| 1375 || 16 May || [[Liu Bowen]] died.
+|-
+| 1380 || || The [[Hongwu Emperor]] abolished the office of [[Chancellor (China)|chancellor]] and took over direct control of the [[Three Departments and Six Ministries]].
+|-
+| rowspan="2" valign="top" | 1382 || 6 January || ''[[Ming conquest of Yunnan]]'': [[Basalawarmi]], the prince of [[Liang (realm)|Liang]] and a [[Yuan dynasty|Yuan]] loyalist, committed suicide during a massive [[Ming dynasty|Ming]] invasion of [[Yunnan]].
+|-
+| || The ''[[Jinyiwei]]'' was established and given supreme judicial authority and complete autonomy in making arrests and issuing punishments.
+|-
+| 1384 || || The [[Hongwu Emperor]] reinstituted the [[imperial examination]].
+|-
+| 1397 || || A legal code based on the [[Tang Code]] was implemented in [[Ming dynasty|Ming]].
+|-
+| rowspan="2" valign="top" | 1398 || 24 June || The [[Hongwu Emperor]] died.
+|-
+| 30 June || The [[Hongwu Emperor]]'s young grandson the [[Jianwen Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|}
+
+=== 15th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| valign="top" | 1402 || 13 July || ''[[Jingnan Campaign]]'': Forces loyal to the [[Jianwen Emperor]]'s uncle the [[Yongle Emperor]] entered the capital [[Nanjing]] and burned the imperial palace with the Jianwen Emperor inside.
+|-
+| rowspan="2" valign="top" | 1405 || 11 July || ''[[Treasure voyages]]'': The [[Yongle Emperor]] ordered a fleet of [[Chinese treasure ship]]s under the command of the [[admiral]] [[Zheng He]] to reestablish tributary relationships with states in the [[South China Sea]] and Indian Ocean.
+|-
+| || The [[Ming Xiaoling Mausoleum]] was completed.
+|-
+| 1406 || || Construction began on the [[Forbidden City]] and [[Beijing city fortifications]].
+|-
+| rowspan="2" valign="top" | 1407 || 10 April || The [[Kagyu]] ''[[karmapa]]'' [[Deshin Shekpa, 5th Karmapa Lama]] arrived at the [[Ming dynasty|Ming]] capital [[Nanjing]].
+|-
+| 16 June || ''[[Ming–Hồ War]]'': [[Ming dynasty|Ming]] forces captured the [[Hồ dynasty|Hồ]] king [[Hồ Hán Thương]].
+|-
+| 1408 || || The ''[[Yongle Encyclopedia]]'' was completed.
+|-
+| 1415 || || Restoration work on the [[Grand Canal (China)|Grand Canal]] was completed.
+|-
+| rowspan="2" valign="top" | 1420 || || Construction of the [[Forbidden City]] and [[Beijing city fortifications]] was completed.  The [[Yongle Emperor]] moved the [[Ming dynasty|Ming]] capital from [[Nanjing]] to Beijing.
+|-
+| || The [[Ming tombs]] were built.
+|-
+| rowspan="2" valign="top" | 1424 || 12 August || The [[Yongle Emperor]] died.
+|-
+| 7 September || The [[Yongle Emperor]]'s son the [[Hongxi Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| rowspan="2" valign="top" | 1425 || 29 May || The [[Hongxi Emperor]] died, probably from a heart attack.
+|-
+| 27 June || The [[Hongxi Emperor]]'s son the [[Xuande Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1427 || || [[Shen Zhou]] was born.
+|-
+| 1431 || || [[Ming dynasty|Ming]] recognized the [[Lê dynasty]] as a [[tributary state]].
+|-
+| rowspan="2" valign="top" | 1435 || 31 January || The [[Xuande Emperor]] died.
+|-
+| 7 February || The [[Xuande Emperor]]'s son the [[Zhengtong Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1443 || || The [[Zhihua Temple]] was built.
+|-
+| 1446 || || The [[Precious Belt Bridge]] was rebuilt.
+|-
+| rowspan="2" valign="top" | 1449 || 1 September || ''[[Tumu Crisis]]'': A [[Four Oirat]] force defeated a vastly superior [[Ming dynasty|Ming]] army at Tumu in modern [[Huailai County]] and captured the [[Zhengtong Emperor]].
+|-
+| 22 September || The [[Zhengtong Emperor]]'s brother the [[Jingtai Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1457 || 11 February || The Zhengtong Emperor overthrew the [[Jingtai Emperor]] in a ''coup'' and took power as the Tianshun Emperor.
+|-
+| 1461 || 7 August || ''[[Rebellion of Cao Qin]]'': An uprising of [[Mongols|Mongol]] soldiers in the [[Ming dynasty|Ming]] capital Beijing, led by the [[general officer|general]] Cao Qin, was crushed.
+|-
+| rowspan="3" valign="top" | 1464 || 23 February || The [[Zhengtong Emperor]] died.
+|-
+| 28 February || The Zhengtong Emperor's son the [[Chenghua Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| || The [[Miao people|Miao]] and [[Yao people (Asia)|Yao people]]s rebelled against [[Ming dynasty|Ming]] authority in [[Guangxi]].
+|-
+| 1473 || || The [[Zhenjue Temple]] was completed.
+|-
+| rowspan="2" valign="top" | 1487 || 9 September || The [[Chenghua Emperor]] died.
+|-
+| 22 September || The Chenghua Emperor's son the [[Hongzhi Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1488 || || The [[Joseon]] official [[Choe Bu]] suffered a shipwreck in [[Zhejiang]].
+|}
+
+=== 16th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" valign="top" | 1505 || 8 June || The [[Hongzhi Emperor]] died.
+|-
+| 19 June || The [[Hongzhi Emperor]]'s son the [[Zhengde Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1510 || 12 May || ''[[Prince of Anhua rebellion]]'': [[Ming dynasty|Ming]] tax collectors were murdered on the orders of [[Zhu Zhifan]], the prince of Anhua in modern [[Shaanxi]].
+|-
+| 1511 || 15 August || ''[[Capture of Malacca (1511)|Capture of Malacca]]'': A [[Kingdom of Portugal|Portuguese]] invasion force conquered the [[Malacca Sultanate]], the news reached the [[Ming dynasty|Ming]].
+|-
+| 1513 || || The [[Kingdom of Portugal|Portuguese]] explorer [[Jorge Álvares]] arrived on [[Lintin Island]] in the [[Pearl River Delta]].
+|-
+| 1516 || || The [[Kingdom of Portugal|Portuguese]] explorer [[Rafael Perestrello]] arrived in [[Guangzhou]].
+|-
+| 1517 || || The [[Kingdom of Portugal|Portuguese]] ambassadors [[Fernão Pires de Andrade]] and [[Tomé Pires]] arrived in [[Guangzhou]].
+|-
+| 1519 || 10 July || ''[[Prince of Ning rebellion]]'': The prince of Ning [[Zhu Chenhao]] declared that the [[Zhengde Emperor]] was an usurper and led an expedition toward [[Nanjing]].
+|-
+| rowspan="3" valign="top" | 1521 || 20 April || The [[Zhengde Emperor]] died.
+|-
+| 27 May || The [[Zhengde Emperor]]'s cousin, the [[Chenghua Emperor]]'s grandson the [[Jiajing Emperor]], became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| || The [[Jiajing Emperor]] expelled the [[Kingdom of Portugal|Portuguese]] [[diplomatic mission|embassy]].
+|-
+| 1529 || || [[Wang Yangming]] died.
+|-
+| 1530 || || An improved sand-driven mechanical clock was invented.
+|-
+| 1549 || || [[Kingdom of Portugal|Portuguese]] trade ships first stopped at [[Shangchuan Island]].
+|-
+| 1550 || || The [[Mongols|Mongol]] chieftain [[Altan Khan]] burned and looted the [[Ming dynasty|Ming]] capital Beijing and its suburbs.
+|-
+| 1553 || || The [[Ming dynasty|Ming]] capital Beijing was expanded to the south, increasing its size from {{convert|4|to|4+1/2|sqmi|km2|0|order=flip|abbr=off}}.
+|-
+| 1554 || || The [[Luso-Chinese agreement (1554)]] for [[Macau]] is made between the [[Kingdom of Portugal]] and the [[Ming dynasty]].
+|-
+| 1556 || 23 January || ''[[1556 Shaanxi earthquake]]'': An earthquake in and around modern [[Shaanxi]] killed some eight hundred thousand people.
+|-
+| 1557 || || The [[Kingdom of Portugal]] established a permanent settlement in [[Macau]].
+|-
+| 1558 || || [[Ming dynasty|Ming]] forces led by [[Qi Jiguang]] dealt the ''[[wokou]]'' a defeat at Cengang.
+|-
+| rowspan="3" valign="top" | 1567 || 23 January || The [[Jiajing Emperor]] died.
+|-
+| 4 February || The [[Jiajing Emperor]]'s son the [[Longqing Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| || The [[Ming dynasty|Ming]] ''[[haijin]]'' (ban on private maritime commerce) was repealed.
+|-
+| rowspan="2" valign="top" | 1572 || 5 July || The [[Longqing Emperor]] died.
+|-
+| 19 July || The [[Longqing Emperor]]'s son the [[Wanli Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1573 || || [[Habsburg Spain|Spain]] established a permanent base at [[Manila]].
+|-
+| 1574 || || [[Qin Liangyu]] was born.
+|-
+| 1576 || || The [[Pagoda of Cishou Temple]] was built.
+|-
+| 1577 || || The [[Wanshou Temple]] was built.
+|-
+| 1580 || || The [[Grand Secretariat|grand secretary]] [[Zhang Juzheng]] instituted the [[single whip law]], under which all monetary and labor obligations to the central government were consolidated into a single silver payment.
+|-
+| rowspan="2" valign="top" | 1582 || || ''[[Jesuit China missions]]'': The [[Jesuit]] [[missionary]] [[Matteo Ricci]] arrived in [[Macau]].
+|-
+| || Private newspapers were first published in Beijing.
+|-
+| 1584 || || The earliest known depiction of the sailing carriage appeared.
+|-
+| 1587 || || [[Li Shizhen]] published the ''[[Compendium of Materia Medica]]''.
+|-
+| 1590 || || [[Wu Cheng'en]] wrote ''[[Journey to the West]]''.
+|-
+| 1592 || || ''[[Japanese invasions of Korea (1592–1598)|Japanese invasions of Korea]]'': Some two hundred thousand Japanese troops invaded [[Joseon]].
+|-
+| 1593 || 8 January || ''[[Siege of Pyongyang (1593)|Siege of Pyongyang]]'': A combined [[Ming dynasty|Ming]]-[[Joseon]] force drove the Japanese army from [[Pyongyang]].
+|-
+| 1597 || 23 December || ''[[Siege of Ulsan]]'': A combined [[Ming dynasty|Ming]]-[[Joseon]] force arrived at the Japanese-controlled [[Ulsan Japanese Castle]].
+|-
+| rowspan="3" valign="top" | 1598 || 29 September || ''[[Battle of Sacheon (1598)|Battle of Sacheon]]'': A Japanese army under siege at [[Sacheon]] drove off a numerically superior [[Ming dynasty|Ming]]-[[Joseon]] force after the accidental explosion of the Ming powder cache.
+|-
+| 16 December || ''[[Battle of Noryang]]'': The allied navies of [[Ming dynasty|Ming]] and [[Joseon]] dealt heavy damage to a Japanese fleet attempting to break their blockade of [[Suncheon Japanese Castle]].
+|-
+| || ''[[The Peony Pavilion]]'' was first performed at the [[Pavilion of Prince Teng]].
+|}
+
+=== 17th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1602 || || The [[Dutch East India Company|Dutch East India Company (VOC)]] began shipping Chinese ceramics to Europe.
+|-
+| 1604 || || The [[Grand Secretariat|grand secretary]] [[Gu Xiancheng]] reopened the [[Donglin Academy]] in [[Wuxi]], establishing the [[Donglin movement]].
+|-
+| 1607 || || ''[[Euclid's Elements]]'' was first translated into Chinese.
+|-
+| 1609 || || ''[[Sancai Tuhui]]'' was published.
+|-
+| 1610 || || ''[[Jin Ping Mei]]'' was published.
+|-
+| 1615 || || The ''[[Zihui]]'' was compiled.
+|-
+| rowspan="2" valign="top" | 1616 || 17 February || [[Nurhaci]] declared himself ''[[khan (title)|khan]]'' of the later Jin dynasty.
+|-
+| || All foreign [[Jesuit]]s were expelled from the [[Ming dynasty|Ming]] imperial court and astronomy bureau.
+|-
+| rowspan="2" valign="top" | 1619 || 18 April || ''[[Battle of Sarhu]]'': The last of four [[Ming dynasty|Ming]] armies was destroyed during a retreat from a punitive expedition against [[Nurhaci]] and the later Jin.  Its commander [[Li Rubai]] committed suicide
+|-
+| || [[Wang Fuzhi]] was born.
+|-
+| rowspan="4" valign="top" | 1620 || 18 August || The [[Wanli Emperor]] died.
+|-
+| 28 August || The [[Wanli Emperor]]'s son the [[Taichang Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 26 September || The [[Taichang Emperor]] died.
+|-
+| 1 October || The [[Taichang Emperor]]'s young son the [[Tianqi Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 1624 || || The [[Dutch East India Company|VOC]] established the state of [[Dutch Formosa]].
+|-
+| rowspan="3" valign="top" | 1626 || || [[Johann Adam Schall von Bell]] wrote the first Chinese language treatise on the telescope.
+|-
+| || The [[Jesuit]] [[Nicolas Trigault]] invented the first system for the romanization of Chinese.
+|-
+| || ''[[Battle of Ningyuan]]'': A [[Ming dynasty|Ming]] force defended [[Xingcheng]] against a numerically superior later Jin army. [[Nurhaci]] suffered fatal wounds.
+|-
+| rowspan="6" valign="top" | 1627 || January || ''[[First Manchu invasion of Korea]]'': [[Nurhaci]]'s son [[Hong Taiji]], the ''[[khan (title)|khan]]'' of the later Jin dynasty, invaded [[Joseon]].
+|-
+| 30 September || The [[Tianqi Emperor]] died.
+|-
+| 2 October || The [[Tianqi Emperor]]'s younger brother the [[Chongzhen Emperor]] became [[emperor of China|emperor]] of the [[Ming dynasty]].
+|-
+| 13 December || The eunuch [[Wei Zhongxian]] committed suicide on hearing that the ''[[Jinyiwei]]'' had issued a warrant for his arrest.
+|-
+| || The ''[[Zhengzitong]]'' was published.
+|-
+| || The [[Polish–Lithuanian Commonwealth|Polish]] [[Jesuit]] [[Michał Boym]] first introduced the heliocentric model of the [[Solar System]] into Chinese astronomy.
+|-
+| 1632 || || The later Jin dynasty conquered [[Inner Mongolia]].
+|-
+| 1634 || || The [[Chongzhen Emperor]] acquired the telescope of the late [[Johann Schreck]].
+|-
+| 1635 || || [[Liu Tong]] wrote a preface to the ''[[Dijing Jingwulue]]''.
+|-
+| rowspan="2" valign="top" | 1637 || 30 January || ''[[Second Manchu invasion of Korea]]'': The [[Joseon]] king [[Injo of Joseon]] recognized [[Hong Taiji]]'s [[Qing dynasty]] as the legitimate rulers of China.
+|-
+| || [[Song Yingxing]] published the ''[[Tiangong Kaiwu]]''.
+|-
+| 1638 || || The [[Peking Gazette]] first used moveable type.
+|-
+| rowspan="2" valign="top" | 1639 || || [[Xu Guangqi]] published a treatise on agriculture.
+|-
+| || [[Chen Hongshou]] arrived in Beijing.
+|-
+| 1641 || 8 March || [[Xu Xiake]] died.
+|-
+| rowspan="2" valign="top" | 1642 || || ''[[1642 Yellow River flood]]'': The [[Ming dynasty|Ming]] governor of [[Kaifeng]] destroyed the levees holding back the [[Yellow River]] in order to break the siege of the [[peasant]] army of [[Li Zicheng]].  The resulting flood destroyed Kaifeng and killed some three hundred thousand people.
+|-
+| || A [[Han Chinese|Han]] army was made the last of the [[Qing dynasty|Qing]] [[Eight Banners]].
+|-
+| rowspan="2" valign="top" | 1643 || 21 September || [[Hong Taiji]] died.
+|-
+| 8 October || [[Hong Taiji]]'s young son the [[Shunzhi Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| rowspan="4" valign="top" | 1644 || 25 April || The [[Chongzhen Emperor]] hanged himself from the [[Zuihuai]] as the army of [[Li Zicheng]]'s [[Shun dynasty]] breached the walls of the [[Ming dynasty|Ming]] capital Beijing.
+|-
+| 27 May || ''[[Battle of Shanhai Pass]]'': A [[Shun dynasty|Shun]] army was dealt a heavy defeat by the [[Qing dynasty|Qing]] and the former [[Ming dynasty|Ming]] general [[Wu Sangui]] at [[Shanhai Pass]].
+|-
+| 4 June || [[Li Zicheng]] fled Beijing.
+|-
+| 8 November || [[Shunzhi Emperor]] enthroned in Beijing.
+|-
+| 1645 || 20 May || ''[[Yangzhou massacre|Yangzhou Massacre]]:'' The [[Qing dynasty|Qing Dynasty]] slaughter the inhabitants of [[Yangzhou]] city in 6 days according to the contemporary account given by [[Wang Xiuchu]].<ref>{{Cite journal |last=Finnane |first=Antonia |date=13 October 2004 |title=Yangzhou's Ten Days |url=https://brill.com/display/book/9781684174003/BP000007.xml |journal=Speaking of Yangzhou: A Chinese City, 1550-1850 |series=Harvard East Asian Monographs |edition=1 |publisher=Harvard University Asia Centre |volume=236 |pages=69–89 |doi=10.1163/9781684174003_007 |isbn=978-1-68417-400-3 |via=Brill and JSTOR}}</ref> [[Wang Xiuchu|Xiuchu]]’s entire account spans 10 days and puts the death toll at 800,000 although Lynn A. Struve conjectures that the city’s population was hardly likely to have been more than 300,000.<ref>{{Cite book |title=Voices from the Ming-Qing Cataclysm: China in Tigers' Jaws |publisher=Yale University Press |year=1993 |editor-last=Struve |editor-first=Lynn A. |location=New Haven and London |translator-last=Struve |translator-first=Lynn A.}}</ref>
+|-
+| 1653 || January || The [[5th Dalai Lama]], the [[Dalai Lama]] of [[Ganden Phodrang|Tibet]], visited the [[Qing dynasty|Qing]] capital Beijing.
+|-
+| 1659 || || [[Jesuit]]s [[Martino Martini]] and [[Ferdinand Verbiest]] arrived in China.
+|-
+| rowspan="2" valign="top" | 1661 || 5 February || The [[Shunzhi Emperor]] died.  He was succeeded by his young son the [[Kangxi Emperor]], with the [[Four Regents of the Kangxi Emperor]] acting as regents.
+|-
+| 14 June || The [[Southern Ming]] [[admiral]] [[Koxinga]] declared the establishment of the [[Kingdom of Tungning]] on [[Dutch Formosa|Taiwan]].
+|-
+| 1662 || 1 February || ''[[Siege of Fort Zeelandia]]'': The [[Dutch East India Company|VOC]] surrendered [[Fort Zeelandia (Taiwan)|Fort Zeelandia]] on [[Dutch Formosa|Taiwan]] to [[Koxinga]].
+|-
+| 1664 || || [[Johann Adam Schall von Bell|Schall von Bell]] was imprisoned.
+|-
+| 1673 || || ''[[Revolt of the Three Feudatories]]'': [[Wu Sangui|Wu]] rebelled against the [[Qing dynasty]] on the pretext of seeking to restore the [[Ming dynasty|Ming]].
+|-
+| 1682 || || The [[Spanish Netherlands|Belgian]] [[Jesuit]] [[Antoine Thomas]] arrived in China.
+|-
+| 1683 || || ''[[Battle of Penghu]]'': A [[Qing dynasty|Qing]] fleet destroyed the [[Kingdom of Tungning|Tungning]] navy at [[Penghu]].  The king of Tungning [[Zheng Keshuang]] surrendered to the Qing.
+|-
+| 1684 || || The first of the [[Qing dynasty|Qing]] [[Thirteen Factories]], neighborhoods where foreigners were allowed to live and trade, were established outside [[Guangzhou]].
+|-
+| 1689 || 27 August || The [[Qing dynasty]] signed the [[Treaty of Nerchinsk]] with [[Tsardom of Russia|Russia]], under which the two countries mutually agreed to a border at the [[Stanovoy Range]].
+|-
+| 1690 || || [[Yun Shouping]] died.
+|-
+| 1698 || || The [[Lugou Bridge]] was reconstructed.
+|}
+
+=== 18th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1705 || 4 December || The [[papal legate]] [[Charles-Thomas Maillard De Tournon]] arrived in the [[Qing dynasty|Qing]] capital Beijing.
+|-
+| rowspan="2" valign="top" | 1711 || || The [[East India Company|East India Company (EIC)]] established a trading post in [[Guangzhou]].
+|-
+| || The ''[[Peiwen Yunfu]]'' was completed.
+|-
+| 1715 || 19 March || ''[[Chinese Rites controversy]]'': The pope [[Pope Clement XI]] issued a [[papal bull]] forbidding [[veneration of the dead]] and worship of [[Confucius]] among Chinese converts to [[Catholicism]].
+|-
+| 1716 || || The ''[[Kangxi Dictionary]]'' was published.
+|-
+| 1720 || || ''[[Chinese expedition to Tibet (1720)|Chinese expedition to Tibet]]'': A [[Qing dynasty|Qing]] expedition expelled the invading forces of the [[Dzungar Khanate]] from [[Ganden Phodrang|Tibet]].
+|-
+| 1721 || || ''Chinese Rites controversy'': The [[Kangxi Emperor]] banned Christian missions in China.
+|-
+| rowspan="2" valign="top" | 1722 || 20 December || The [[Kangxi Emperor]] died.
+|-
+| 27 December || The [[Kangxi Emperor]]'s son the [[Yongzheng Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| 1725 || || The ''[[Complete Classics Collection of Ancient China]]'' was completed.
+|-
+| 1729 || || [[History of opium in China#Growth of the opium trade|Opium criminalized]] in China.
+|-
+| 1732 || || [[Jiang Tingxi]] died.
+|-
+| 1735 || 8 October || The [[Yongzheng Emperor]] died.  He was succeeded by his son the [[Qianlong emperor]].
+|-
+| 1750 || || The [[Kingdom of France|French]] [[Jesuit]] [[Jean Joseph Marie Amiot]] was sent to China.
+|-
+| rowspan="2" valign="top" | 1755 || || ''[[Ten Great Campaigns]]'': The ''[[khan (title)|khan]]'' of the [[Dzungar Khanate]] surrendered to invading [[Qing dynasty|Qing]] forces.
+|-
+| || The [[Puning Temple (Hebei)|Puning Temple]] was built to commemorate the defeat of the [[Dzungar Khanate]].
+|-
+| 1760 || || The [[Canton System]] was established, under which the Chinese merchants operating in the [[Thirteen Factories]] were organized into a guild, the ''[[Cohong]]'', and given an official monopoly.
+|-
+| 1771 || || The [[Putuo Zongcheng Temple]] was completed.
+|-
+| 1774 || || The [[Wenjin Chamber]] was built.
+|-
+| 1780 || || A pagoda was built at [[Fragrant Hills]].
+|-
+| 1782 || || The ''[[Complete Library of the Four Treasuries]]'' was completed.
+|-
+| 1791 || || ''[[Dream of the Red Chamber]]'' was published.
+|-
+| 1793 || 14 September || ''[[Macartney Embassy]]'' The [[Kingdom of Great Britain|British]] ambassador [[George Macartney, 1st Earl Macartney]] was introduced to the [[Qianlong Emperor]].
+|-
+| rowspan="2" valign="top" | 1796 || 9 February || The [[Qianlong Emperor]] abdicated in favor of his son the [[Jiaqing Emperor]].
+|-
+| || ''[[White Lotus Rebellion]]'': [[White Lotus Societies|White Lotus]] began an armed rebellion against the [[Qing dynasty]].
+|}
+
+=== 19th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1807 || || ''[[Protestant missions in China 1807–1953]]'': The [[Protestant]] [[missionary]] [[Robert Morrison (missionary)|Robert Morrison]] arrived in China.
+|-
+| rowspan="2" valign="top" | 1820 || 2 September || The [[Jiaqing Emperor]] died.
+|-
+| 3 October || The [[Jiaqing Emperor]]'s son the [[Daoguang Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| 1823 || || The Bible was first published in Chinese.
+|-
+| 1839 || 3 June || ''[[Destruction of opium at Humen]]'': The [[Qing dynasty|Qing]] [[Imperial Commissioner (China)|Imperial Commissioner]] [[Lin Zexu]] ordered the destruction of roughly a thousand tons of opium seized from [[East India Company|EIC]] merchants in [[Humen (town)|Humen]].
+|-
+| 1842 || 29 August || ''[[First Opium War]]'': The [[Qing dynasty]] and the [[United Kingdom of Great Britain and Ireland|United Kingdom]] signed the [[Treaty of Nanking]], under which the former agreed to end the monopoly of the ''[[Cohong]]'', pay reparations for the war and the destruction of opium, and cede [[Hong Kong Island]] in perpetuity.
+|-
+| rowspan="2" valign="top" | 1844 || || [[Wei Yuan]] published the ''Illustrated Treatise on the Maritime Kingdoms''.
+|-
+| 3 July || The [[Qing dynasty]] and the United States signed the [[Treaty of Wanghia]], according to which the United States was granted [[most favoured nation|most favoured nation (MFN)]] status and [[extraterritoriality]] was granted to its citizens resident in China.
+|-
+| rowspan="2" valign="top" | 1850 || 25 February || The [[Daoguang Emperor]] died.
+|-
+| 9 March || The [[Daoguang Emperor]]'s son the [[Xianfeng Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| 1851 || 11 January || ''[[Jintian Uprising]]'': The followers of [[Hong Xiuquan]], who believed him to be the younger brother of Jesus, announced their rebellion against the [[Qing dynasty]] and the establishment of the [[Taiping Heavenly Kingdom]] in modern [[Guiping]].
+|-
+| rowspan="2" valign="top" | 1855 || || ''[[Third plague pandemic]]'': A plague pandemic began in [[Yunnan]] which would kill hundreds of thousands in China and millions worldwide.
+|-
+| || ''[[Punti-Hakka Clan Wars]]'': An ethnic conflict began in [[Guangdong]] between the [[Punti]] and [[Hakka people]]s which would claim roughly a million lives.
+|-
+| 1856 || 23 October || ''[[Second Opium War]]'': The [[United Kingdom of Great Britain and Ireland|British]] navy began a bombardment of [[Guangzhou]].
+|-
+| rowspan="3" valign="top" | 1858 || 28 May || The [[Qing dynasty]] signed the [[Treaty of Aigun]], ceding to [[Russian Empire|Russia]] the land north of the [[Amur River]].
+|-
+| June || ''Second Opium War'': The [[Qing dynasty]] signed the [[Treaty of Tientsin]], under which foreigners were granted greater freedom of movement within China and [[Second French Empire|France]] and the [[United Kingdom of Great Britain and Ireland|United Kingdom]] were promised war reparations.
+|-
+| 18 November || ''[[Battle of Sanhe]]'': A [[Taiping Heavenly Kingdom|Taiping]] army encircled and destroyed a much smaller [[Qing dynasty|Qing]] force in [[Anhui]].
+|-
+| rowspan="2" valign="top" | 1860 || 18 October || ''Second Opium War'': [[United Kingdom of Great Britain and Ireland|British]] and [[Second French Empire|French]] forces looted and burned down the [[Old Summer Palace]] in the [[Qing dynasty|Qing]] capital Beijing.
+|-
+| 24 October || The [[Qing dynasty|Qing]] prince [[Prince Gong (Qing dynasty)|Prince Gong]] signed the [[Convention of Peking]], ratifying the [[Treaty of Tientsin]] and ceding the [[Kowloon Peninsula]] in perpetuity to the [[United Kingdom of Great Britain and Ireland|United Kingdom]].
+|-
+| rowspan="3" valign="top" | 1861 || || [[Prince Gong (Qing dynasty)|Gong]] established the [[Zongli Yamen]] to temporarily supervise the conduct of foreign affairs throughout the [[Qing dynasty|Qing]] government.
+|-
+| 22 August || The [[Xianfeng Emperor]] died.
+|-
+| 11 November || The [[Xianfeng Emperor]]'s young son the [[Tongzhi Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| rowspan="2" valign="top" | 1862 || || ''[[Dungan Revolt (1862–77)|Dungan Revolt]]'': A disordered uprising began among the [[Hui people]] living on the west bank of the [[Yellow River]].
+|-
+| || The [[Tongwen Guan]] school of European languages was established.
+|-
+| 1864 || May || The [[Ever Victorious Army]] of the [[Qing dynasty]] was disbanded.
+|-
+| rowspan="2" valign="top" | 1868 || 22 August || ''[[Yangzhou riot]]'': [[Scholar-official]]s resident in [[Yangzhou]] instigated a riot in which the headquarters of the [[United Kingdom of Great Britain and Ireland|British]] [[missionary]] society [[OMF International]] were attacked and burned.
+|-
+| || ''[[Nian Rebellion]]'': The last of the rebel armies was destroyed.
+|-
+| 1870 || June || ''[[Tianjin massacre]]'': A riot took place in [[Tianjin]] in which some sixty people, including foreigners and Chinese Christians, were killed.
+|-
+| 1871 || || [[Li Hongzhang]] was appointed [[Viceroy of Zhili]].
+|-
+| 1873 || || ''[[Panthay Rebellion]]'': The last surviving [[Panthays|Panthay]] rebels were defeated by the [[Qing dynasty]] in [[Tengchong]].
+|-
+| rowspan="3" valign="top" | 1875 || 12 January || The [[Tongzhi Emperor]] died.
+|-
+| 21 February || ''[[Margary Affair]]'': The [[United Kingdom of Great Britain and Ireland|British]] diplomat [[Augustus Raymond Margary]] was murdered with his retinue in [[Tengchong]].
+|-
+| 25 February || The young [[Guangxu Emperor]] became [[emperor of China|emperor]] of the [[Qing dynasty]], with the [[empress dowager]]s [[Empress Dowager Ci'an]] and [[Empress Dowager Cixi]] acting as regents.
+|-
+| 1876 || 21 August || The [[Qing dynasty]] and the [[United Kingdom of Great Britain and Ireland|United Kingdom]] signed the [[Chefoo Convention]], under which Qing promised to punish those responsible for [[Augustus Raymond Margary|Margary's]] murder and repeal the ''[[likin (taxation)|likin]]''.
+|-
+| 1884 || 23 August || ''[[Battle of Fuzhou]]'': A [[French Third Republic|French]] fleet destroyed the [[Qing dynasty|Qing]] [[Fujian Fleet]] at the mouth of the [[Min River (Fujian)|Min River]].
+|-
+| 1887 || September || ''The [[1887 Yellow River flood|Yellow River flood]]'' kills up to 2 million people and makes an additional 2 million homeless. At the time, it was the [[List of natural disasters by death toll#Ten deadliest natural disasters by highest estimated death toll excluding epidemics and famines|deadliest natural disaster ever recorded]].
+|- 
+| 1891 || || Foreign businessmen established the Shanghai Sharebrokers' Association in Shanghai.
+|-
+| 1894 || 1 August || ''[[First Sino-Japanese War]]'': War was officially declared between [[Empire of Japan|Japan]] and the [[Qing dynasty]].
+|-
+| 1895 || 17 April || ''First Sino-Japanese War'': The [[Qing dynasty]] signed the [[Treaty of Shimonoseki]], under which it recognized the independence of [[Joseon]], granted [[Empire of Japan|Japan]] [[most favoured nation|MFN]] status and ceded to it [[Penghu]], [[Geography of Taiwan|Taiwan]] and the [[Liaodong Peninsula]].
+|-
+| rowspan="2" valign="top" | 1898 || 11 June || ''[[Hundred Days' Reform]]'': The [[Guangxu Emperor]] instituted reforms including radical changes in the [[imperial examination]] and the elimination of [[sinecure]]s.
+|-
+| 21 September || The [[Guangxu Emperor]] was removed from the imperial palace in a ''coup'' organized by [[Empress Dowager Cixi|Cixi]] and [[Ronglu]], the [[Viceroy of Zhili]].
+|-
+| 1900 || 21 June || ''[[Boxer Rebellion]]'': [[Empress Dowager Cixi|Cixi]] responded to anti-foreign unrest by issuing the [[Imperial Decree of declaration of war against foreign powers]] in the [[Guangxu Emperor]]'s name.
+|}
+
+=== 20th century ===
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| 1901 || 7 September || ''Boxer Rebellion'': The [[Qing dynasty]] and [[Eight-Nation Alliance]] signed the [[Boxer Protocol]], under which the Alliance was granted war reparations and the right to station troops in the capital Beijing.
+|-
+| rowspan="2" valign="top" | 1908 || 14 November || The [[Guangxu Emperor]] died of arsenic poisoning.
+|-
+| 2 December || The [[Guangxu Emperor]]'s young nephew [[Puyi]] became [[emperor of China|emperor]] of the [[Qing dynasty]].
+|-
+| rowspan="3" valign="top" | 1911 || 27 April || ''[[Second Guangzhou Uprising]]'' 
+|-
+| 10 October || ''[[Wuchang Uprising]]'': [[New Army]] soldiers staged a mutiny in [[Wuchang District]] and occupied the residence of the [[Viceroy of Huguang]].
+|-
+| 29 December || ''[[1911 Chinese provisional presidential election]]'': [[Sun Yat-sen]] was elected [[President of the Republic of China|president]] of the [[Provisional Government of the Republic of China (1912)|Provisional Government of the Republic of China]], with a majority of sixteen of the seventeen [[Provinces of China|provincial]] representatives of the [[Tongmenghui]] in [[Nanjing]].
+|-
+| rowspan="5" valign="top" | 1912 || 1 January || ''[[Xinhai Revolution]]'': [[Sun Yat-sen]] was inaugurated [[President of the Republic of China|president]] of the [[Provisional Government of the Republic of China (1912)|Provisional Government of the Republic of China]].
+|-
+| 12 February || ''Xinhai Revolution'': [[Puyi]]'s regent, the [[empress dowager]] [[Empress Dowager Longyu]], signed an edict under which Puyi would retain his imperial title but all power would pass to the [[Provisional Government of the Republic of China (1912)|Provisional Government of the Republic of China]].
+|-
+| 10 March || [[Sun Yat-sen]] resigned in favor of [[Yuan Shikai]].
+|-
+| 25 August || The [[Tongmenghui]] and several smaller revolutionary parties merged to form the [[Kuomintang|Kuomintang (KMT)]].
+|-
+| December|| ''[[1912 Chinese National Assembly election]]'': An election to the [[National Assembly (Beiyang government)|National Assembly]] under the [[Provisional Constitution of the Republic of China]] began which would produce pluralities for the [[Kuomintang|KMT]] in the House and Senate.
+|-
+| rowspan="2" valign="top" | 1913 || 20 March || ''[[Song Jiaoren#Assassination|Assassination of Song Jiaoren]]'': [[Song Jiaoren]], founder of the [[KMT]] was assassinated, most likely by then-president [[Yuan Shikai]].
+|-
+| 12 July || A failed [[Second Revolution (Republic of China)|Second Revolution]] started in Southern China in response to [[Yuan Shikai]]'s dictatorial policies and the   [[Song Jiaoren#Assassination|assassination of Song Jiaoren]]
+|-
+| rowspan="5" valign="top" | 1915 || 8 January || [[Empire of Japan|Japan]] issued the [[Twenty-One Demands]] to the [[Republic of China (1912–1949)|Republic of China]], including demands for territory in [[Shandong]], [[Manchuria]] and [[Inner Mongolia]], rights of [[extraterritoriality]] for its citizens in China, and influence in China's internal affairs.
+|-
+| 15 September || [[Chen Duxiu]] founded the magazine ''[[New Youth]]''.<ref name="UN">{{Cite journal |last=Ash |first=Alec |date=6 September 2009 |title=China's New New Youth |url=https://digitalcommons.unl.edu/chinabeatarchive/626/ |url-status=live |journal=The China Beat Blog Archive 2008-2012 |archive-url=https://web.archive.org/web/20200612103436/https://digitalcommons.unl.edu/chinabeatarchive/626/ |archive-date=12 June 2020 |access-date=17 July 2020}}</ref>
+|-
+| 12 December || [[Yuan Shikai|Yuan]] declared himself the Hongxian Emperor of the [[Empire of China (1915–1916)|Empire of China]].
+|-
+| || The [[progressivism|progressive]], anti-[[Confucianism|Confucian]] [[New Culture Movement]] was founded.
+|-
+| 25 December || ''[[National Protection War]]'': The [[republicanism|republican]] [[general officer|generals]] [[Cai E]] and [[Tang Jiyao]] declared the independence of [[Yunnan]] from the [[Empire of China (1915–1916)|Empire of China]].
+|-
+| 1916 || 16 June || [[Yuan Shikai|Yuan]] died.<ref name="Zhengyuan">Zhengyuan Fu. (1994) ''Autocratic Tradition and Chinese Politics'', [[Cambridge University]] Press. pp. 153–154. {{ISBN|0-521-44228-1}}.</ref>
+|-
+| 1917 || 7 November || ''[[History of the Chinese Communist Party]]'': [[Bolsheviks]] led by Marxist leader [[Vladimir Lenin]] seized power in Russia in the [[October Revolution]].
+|-
+| rowspan="2" valign="top" | 1919 || 4 May || ''[[May Fourth Movement]]'': A student protest against the [[Treaty of Versailles]] took place at [[Tiananmen]].
+|-
+| 28 June || The [[Treaty of Versailles]], among whose provisions was the transfer of [[German Empire|German]] territories in [[Shandong]] to [[Empire of Japan|Japan]], was signed.
+|-
+|1920
+|14 - 23 July
+|[[Zhili–Anhui War]], a conflict between the [[Zhili clique|Zhili]] and [[Anhui clique|Anhui cliques]] for control of the [[Beiyang government]].
+|-
+| rowspan="2" valign="top" | 1921 || 23 July || The [[Chinese Communist Party|Chinese Communist Party (CCP)]] was founded.<ref>{{Cite news |last=楊立傑 |date=30 April 2013 |title=共产主义小组的建立与中国共产党的成立 |url=http://news.xinhuanet.com/ziliao/2004-10/25/content_2136770.htm |archive-url=https://web.archive.org/web/20130430055514/http://news.xinhuanet.com/ziliao/2004-10/25/content_2136770.htm |archive-date=30 April 2013 |access-date=3 December 2021 |work=Xinhua |language=zh-Hans-CN}}</ref>
+|-
+| 4 December || The first installment of [[Lu Xun]]'s novel ''[[The True Story of Ah Q]]'', the first work written in [[written vernacular Chinese]], was published.
+|-
+| rowspan="2" valign="top" | 1923 || January || The [[Radio Corporation of China]] was founded.<ref name="Miller">[[Toby Miller|Miller, Toby]] (2003). ''Television: Critical Concepts in Media and Cultural Studies''. [[Routledge Publishing]].  {{ISBN|0-415-25502-3}}</ref>
+|-
+| 6 January|| The [[Kuomintang|KMT]] and [[Chinese Communist Party|CCP]] agreed to the [[First United Front]], under which Communists would join the KMT as individuals to help combat warlordism.
+|-
+| 1924 || 5 November || The last [[Emperor of China]], [[Puyi]], is evicted from the [[Forbidden City]], severing the last imperial connection to the palace.
+|-
+| 1925 || 12 March || [[Sun Yat-sen]], China's [[Father of the Nation]], dies from cancer.
+|-
+| 1926 || 9 July || ''[[Northern Expedition]]'': The [[Kuomintang|KMT]] general [[Chiang Kai-shek]] launched an expedition of some hundred thousand [[National Revolutionary Army|National Revolutionary Army (NRA)]] soldiers from [[Guangdong]] against the warlords [[Zhang Zuolin]], [[Wu Peifu]] and [[Sun Chuanfang]].
+|-
+| rowspan="2" |1927
+|12 April
+|''[[Shanghai massacre]]'': [[Kuomintang|KMT]] forces led by [[Chiang Kai-shek|Chiang]] attack [[Chinese Communist Party|Communist]] allies in [[Shanghai]], initiating a full-scale purge of [[Chinese Communist Party|Communists]] in regions under KMT control.
+|-
+| 1 August || ''[[Nanchang uprising]]'': [[Chinese Communist Party|Communist]] forces launched an uprising against the [[Kuomintang|KMT]] in [[Nanchang]].
+|-
+| rowspan="3" valign="top" | 1928 || 7 May || ''[[Jinan incident]]'': The [[Empire of Japan|Japanese]] general [[Hikosuke Fukuda]] tortured and killed seventeen of [[Chiang Kai-shek|Chiang's]] representatives in [[Jinan]].
+|-
+| 4 June || ''[[Huanggutun incident]]'': [[Zhang Zuolin]]'s train was blown up by the [[Empire of Japan|Japanese]] [[Kwantung Army]], killing him.
+|-
+| 10 October || [[Chiang Kai-shek|Chiang]] became chairman of the [[Nationalist government]] of the [[Republic of China (1912–1949)|Republic of China]].
+|-
+| rowspan="6" valign="top" | 1931 || July || ''[[Encirclement campaign against the Northeastern Jiangxi Soviet]]'': The [[National Revolutionary Army|NRA]] encircled and invaded the [[Northeastern Jiangxi Soviet]].
+|-
+| July - November || ''[[1931 China floods]]'': Flooding began in the valleys of the [[Yellow River|Yellow]], [[Yangtze]] and [[Huai River]]s, which would claim as many as four million lives. As of 2024, it was the [[List of natural disasters by death toll#Ten deadliest natural disasters by highest estimated death toll excluding epidemics and famines|deadliest natural disaster ever recorded]].
+|-
+| rowspan="2" valign="top" | 18 September || ''[[Mukden incident]]'': In a [[false flag]] operation against the [[Republic of China (1912–1949)|Republic of China]], [[Empire of Japan|Japanese]] agents set off a dynamite explosion near a [[South Manchuria Railway]] line.
+|-
+| ''[[Japanese invasion of Manchuria]]'': The [[Kwantung Army]] invaded all [[Manchuria]]n territory along the [[South Manchuria Railway]].
+|-
+| 7 November || The [[Chinese Soviet Republic]] was established in [[Ruijin]].
+|-
+| 15 December || [[Chiang Kai-shek|Chiang]] resigned under pressure from the [[Kuomintang|KMT]]. [[Lin Sen]] became acting chairman of the [[Nationalist government]].
+|-
+| rowspan="5" valign="top" | 1932 || 1 January || [[Lin Sen]] became chairman of the [[Nationalist government]].
+|-
+| 28 January || ''[[January 28 incident]]'': [[Empire of Japan|Japanese]] aircraft carriers began bombing Shanghai in a series of raids which would kill some four thousand soldiers of the [[19th Route Army]] and as many as twenty thousand Chinese civilians.
+|-
+| 4 February || ''[[Defense of Harbin]]'': [[Empire of Japan|Japanese]] bombs and artillery forced the [[Jilin Self-Defence Army]] to retreat from [[Harbin]].
+|-
+| 18 February || The independent state of [[Manchukuo]] was established on the territory of [[Empire of Japan|Japanese]]-occupied [[Manchuria]].
+|-
+| 9 March || ''[[Pacification of Manchukuo]]'': The [[Big Swords Society]] rebelled ''en masse'' against the government of [[Manchukuo]].
+|-
+| rowspan="2" valign="top" | 1934 || February || [[Chiang Kai-shek|Chiang]] and his wife [[Soong Mei-ling]] established the quasi-fascist [[New Life Movement]].
+|-
+| 16 October || ''[[Long March]]'': The [[Chinese Workers' and Peasants' Red Army]] broke through the [[Kuomintang|KMT]] lines attempting to encircle them at [[Ganzhou]].
+|-
+| rowspan="2" |1935
+| 5 February || ''[[First Encirclement Campaign against Hubei–Henan–Shaanxi Soviet]]'': [[Chinese Workers' and Peasants' Red Army|Red Army]] forces forced the retreat of a [[Kuomintang|KMT]] army attempting to encircle the ''[[soviet (council)|soviet]]'' of [[Hubei]], Henan and [[Shaanxi]].
+|-
+| 9 December || ''[[December 9th Movement]]'': A student protest took place in Beijing demanding internal liberalization and stronger anti-[[Empire of Japan|Japanese]] resistance.
+|-
+| rowspan="2" |1936
+|
+|Japan opened a biological warfare operation called [[Unit 731]] in Manchukuo.
+|-
+| 12 December || ''[[Xi'an Incident]]'': [[Zhang Xueliang]] arrested [[Chiang Kai-shek|Chiang]] in [[Xi'an]] due to concerns he was insufficiently committed to anti-[[Empire of Japan|Japanese]] resistance.
+|-
+| rowspan="6" valign="top" | 1937 || 7 March || ''[[Marco Polo Bridge incident]]'': Roughly one hundred [[Republic of China (1912–1949)|Chinese]] soldiers were killed defending the [[Marco Polo Bridge]] in Beijing from a [[Empire of Japan|Japanese]] attack.
+|-
+| 22 September || The [[Kuomintang|KMT]] and [[Chinese Communist Party|CCP]] joined to establish the [[Second United Front]], which led to the Communists recognizing at least for the moment [[Chiang Kai-shek]] as China's leader and the official dissolution of the [[Chinese Soviet Republic]]. The [[Chinese Red Army|Red Army]] was reorganized into the [[Eighth Route Army|Eighth Route]] and [[New Fourth Army|New Fourth Armies]], which were nominally part of the [[National Revolutionary Army|NRA]] chain of command. 
+|-
+| 25 September || ''[[Battle of Pingxingguan]]'': The [[Eighth Route Army]] wiped out a [[Empire of Japan|Japanese]] force of a few hundred attempting to bring supplies through [[Pingxing Pass]].
+|-
+| 26 October || ''[[Battle of Shanghai]]'': The [[National Revolutionary Army|NRA]] began withdrawing from downtown Shanghai in the face of a [[Empire of Japan|Japanese]] onslaught.
+|-
+| 10 December || ''[[Battle of Nanking]]'': The [[Japanese Central China Area Army]] launched a full-scale assault on [[Nanjing]].
+|-
+| 13 December || ''[[Nanjing Massacre]]'': [[Nanjing]] fell to the [[Japanese Central China Area Army]]. A six-week massacre began in which tens of thousands of women were raped and as many as three hundred thousand civilians were killed.
+|-
+| rowspan="3" valign="top" | 1938 || 18 February || ''[[Bombing of Chongqing]]'': The [[Empire of Japan|Japanese]] army and naval air services began a bombing campaign against civilian targets in [[Chongqing]] which would kill some ten thousand people.
+|-
+| 7 April || ''[[Battle of Taierzhuang]]'': The [[Empire of Japan|Japanese]] army was forced to withdraw after suffering heavy losses in an attempted conquest of [[Tai'erzhuang District]].
+|-
+| 5 June || ''[[1938 Yellow River flood]]'': [[KMT]] forces destroyed a major dyke in an effort to create a flood to slow down Japanese forces. Nearly a million citizens died.
+|-
+| rowspan="2" valign="top" | 1939 || 1 September || The nominally independent [[Mengjiang]] was established on the [[Mongols|Mongol]] territories of the [[Empire of Japan|Japanese]]-occupied [[Chahar Province|Chahar]] and [[Suiyuan]] provinces.
+|-
+| 17 September || ''[[Battle of Changsha (1939)|Battle of Changsha]]'': The [[Empire of Japan|Japanese]] army attacked [[Changsha]].
+|-
+| 1940 || 20 August || ''[[Hundred Regiments Offensive]]'': [[Chinese Communist Party|Communist]] [[National Revolutionary Army|NRA]] soldiers under [[Peng Dehuai]] began a campaign of terrorism and sabotage against [[Empire of Japan|Japanese]] targets in North China.
+|-
+| rowspan="2" valign="top" | 1941 || 1 February || The [[Chinese Communist Party|Communist]] official [[Mao Zedong]] gave a speech in [[Yan'an]] entitled "Reform in Learning, the Party and Literature," establishing the [[Yan'an Rectification Movement]] and beginning an ideological purge which would claim some ten thousand lives.
+|-
+| 30 September || ''[[Battle of Changsha (1941)|Battle of Changsha]]'': A [[Empire of Japan|Japanese]] army began a general retreat after failing to take [[Changsha]].
+|-
+| 1942 || 15 January || ''[[Battle of Changsha (1942)|Battle of Changsha]]'': A [[Empire of Japan|Japanese]] army crossed the Xinqiang River after suffering heavy losses in a failed attempt to conquer [[Changsha]].
+|-
+| rowspan="2" valign="top" | 1943 || 1 August || [[Lin Sen]] died. [[Chiang Kai-shek|Chiang]] became acting chairman of the [[Nationalist government]].
+|-
+| 27 November || ''[[Cairo Conference]]'': [[Chiang Kai-shek|Chiang]], United States president [[Franklin D. Roosevelt]], and British prime minister [[Winston Churchill]] issued the [[1943 Cairo Declaration|Cairo Declaration]], under which the three powers expressed their desire for the independence of [[Korea under Japanese rule|Korea]] and the return of [[Republic of China (1912–49)|Chinese]] territories.
+|-
+| 1944 || 27 May || ''[[Battle of Changsha (1944)|Battle of Changsha]]'': The [[Empire of Japan|Japanese]] army launched a general offensive against [[Changsha]].
+|-
+| rowspan="5" valign="top" | 1945 || 26 June || The [[United Nations Charter]] establishing the [[United Nations|United Nations (UN)]] was signed at the [[San Francisco War Memorial and Performing Arts Center]] by fifty nations including [[Republic of China (1912–49)|China]].
+|-
+| 6 August || ''[[Atomic bombings of Hiroshima and Nagasaki]]'': As many as eighty thousand [[Empire of Japan|Japanese]], largely civilians, were killed in the atomic bombing of [[Hiroshima]] by a United States aircraft.
+|-
+| 9 September || ''[[Surrender of Japan]]'': [[Empire of Japan|Japanese]] forces in [[Republic of China (1912–49)|China]] formally surrendered to [[Chiang Kai-shek]].
+|-
+| 25 October || ''[[Surrender of Japan]]'': [[Republic of China (1912–49)|China]] [[Retrocession of Taiwan|regains control]] of [[Taiwan under Japanese rule|Taiwan]] from [[Empire of Japan|Japan]] and was proclaimed as [[Retrocession Day]]. [[Chen Yi (Kuomintang)|Chen Yi]] of the [[Kuomintang]] was appointed Chief Executive.
+|-
+| November || ''[[Campaign to Suppress Bandits in Northeast China]]'': The [[Chinese Communist Party|Communist]] [[People's Liberation Army|People's Liberation Army (PLA)]] launched a campaign against bandits and [[Kuomintang|KMT]] guerillas in northeast China.
+|-
+| 1946 || 20 July || ''[[Chinese Civil War]]'': The [[National Revolutionary Army|NRA]] invaded [[People's Liberation Army|PLA]]-held territory ''en masse''.
+|-
+| rowspan="2" valign="top" | 1947 || 28 February || ''[[February 28 Incident]]'': [[Nationalist government|Nationalist]] forces violently suppressed an anti-government protest in [[Taiwan Province]].
+|-
+| 25 December || The [[Constitution of the Republic of China]] came into force, dissolving the [[Nationalist government]] and renaming the [[National Revolutionary Army|NRA]] the [[Republic of China Armed Forces|Republic of China (ROC) Armed Forces]].
+|-
+| rowspan="2" valign="top" | 1948 || 2 November || ''[[Liaoshen Campaign]]'': The last [[Republic of China (1912–49)|ROC]] garrison in [[Manchuria]], in [[Yingkou]], retreated in the face of a [[People's Liberation Army|PLA]] advance.
+|-
+| 15 December || ''[[Huaihai Campaign]]'': The [[People's Liberation Army|PLA]] encircled an [[Republic of China (1912–49)|ROC]] army in [[Xuzhou]].
+|-
+| rowspan="6" valign="top" | 1949 || 21 January || [[Chiang Kai-shek|Chiang]] resigned the [[President of the Republic of China|presidency]] of the [[Republic of China (1912–49)|Republic of China]] due to military failures and under pressure from his vice president [[Li Zongren]], who succeeded him as acting president.
+|-
+| 31 January || ''[[Pingjin Campaign]]'': The [[People's Liberation Army|PLA]] took Beijing.
+|-
+| 23 April || ''Chinese Civil War'': The [[People's Liberation Army|PLA]] conquered the [[Republic of China (1912–1949)|ROC]] capital [[Nanjing]]. The ROC moved its capital to [[Guangzhou]].
+|-
+| 19 May || The ROC government imposes the 38-year [[martial law in Taiwan]]
+|-
+| 1 October || [[Mao Zedong|Mao]] declared the establishment of the People's Republic of China (PRC).
+|-
+| 10 December || The [[Republic of China (1912–1949)|ROC]] moved its capital from [[Chengdu]] to [[Taipei]].
+|-
+| rowspan="4" valign="top" | 1950 || 5 March || ''[[Landing Operation on Hainan Island]]'': Chinese forces landed on [[Taiwan|ROC]]-controlled [[Hainan]].
+|-
+| 25 June || ''[[Korean War]]'': The North Korean army launched a 135,000-man surprise assault across the [[38th parallel north|38th parallel]] into [[South Korea]].
+|-
+| 25 November || ''[[Battle of the Ch'ongch'on River]]'': The Chinese [[38th Group Army]] broke the UN line between the [[7th Infantry Division (South Korea)|7th Infantry Division]] and [[8th Infantry Division (South Korea)|8th Infantry Division]] in the valley of the [[Chongchon River]].
+|-
+| || Mass executions of political prisoners took place in the [[Canidrome (Shanghai)|Canidrome]].
+|-
+| 1951 || 23 May || Representatives of the ''[[Dalai Lama]]'' of [[Tibet (1912–51)|Tibet]] the [[14th Dalai Lama]] and of the [[Central People's Government of the People's Republic of China (1949–54)|Central People's Government of the People's Republic of China]] signed the [[Seventeen Point Agreement for the Peaceful Liberation of Tibet]], which guaranteed Tibetan autonomy within China and called for the integration of the [[Tibetan Army]] into the [[People's Liberation Army|PLA]].
+|-
+| 1952 || January || The five-anti campaign, which encouraged accusations against the ''[[bourgeoisie]]'' of crimes such as bribery and tax evasion, was founded. ''see'' [[Three-anti and Five-anti Campaigns]]
+|-
+| 1953 || || The first of the [[five-year plans of China]], which called for construction of heavy industry, began to be carried out.
+|-
+| 1955 || 20 January || ''[[Battle of Yijiangshan Islands]]'': [[People's Liberation Army]] captures the [[Yijiangshan Islands]] near [[Zhejiang]] from the ROC forces.
+|-
+| 1956 || || An outbreak of the [[Influenza A virus subtype H2N2]] occurred in China.
+|-
+| rowspan="2" valign="top" | 1957 || 27 February || [[Mao Zedong|Mao]] published a speech entitled "On the Correct Handling of the Contradictions Among the People," marking the founding of the [[Hundred Flowers Campaign]] which encouraged criticism of the government and the [[Chinese Communist Party|Communist Party]].
+|-
+| July || [[Mao Zedong|Mao]] instigated the [[Anti-Rightist Movement]] during which hundreds of thousands of alleged rightists, including many who had criticized the government during the [[Hundred Flowers Campaign]], were purged from the [[Chinese Communist Party|CCP]] or sentenced to labor or death.
+|-
+| rowspan="3" valign="top" | 1958 || || ''[[Great Leap Forward]]'': The [[Chinese Communist Party|CCP]] led campaigns to massively overhaul the Chinese economy and society with such innovations as [[collective farming]] and the use of [[backyard furnace]]s.
+|-
+| || [[Mao Zedong|Mao]] launched the [[Four Pests Campaign]], which encouraged the eradication of rats, flies, mosquitos and sparrows.
+|-
+| || ''[[Second Taiwan Strait Crisis]]'': PLA fails to capture ROC-held islands of [[Kinmen Island|Quemoy]] and [[Matsu Island]]s in [[Fujian Province, Republic of China|Fujian]].
+|-
+| rowspan="2" valign="top" | 1959 || 10 March || ''[[1959 Tibetan uprising]]'': A rebellion broke out in the [[Tibet]]an regional capital [[Lhasa]] after rumors the government was planning to arrest the [[14th Dalai Lama]] at the local [[People's Liberation Army|PLA]] headquarters.
+|-
+| || ''[[Great Chinese Famine]]'': A famine began which would claim as many as forty million lives over three years.
+|-
+| 1960 || 16 April || ''[[Sino-Soviet split]]'': A [[Chinese Communist Party|CCP]] newspaper accused the Soviet leadership of "revisionism."
+|-
+| 1962 || 20 October || ''[[Sino-Indian War]]'': The [[People's Liberation Army|PLA]] attacked Indian forces across the [[Line of Actual Control]].
+|-
+| rowspan="4" valign="top" | 1964 || 5 January || ''[[Quotations from Chairman Mao Tse-tung]]'' was first published.
+|-
+| 16 October || ''[[596 (nuclear test)|596]]'': The Chinese government detonated its first nuclear weapon at [[Lop Nur]].
+|-
+| ||The ROC government outlaws [[Taiwanese Hokkien]] language in schools and official settings
+|-
+| || The second of two volumes of [[Simplified Chinese characters]] ordered by the [[State Council of the People's Republic of China]] was published.
+|-
+| rowspan="2" valign="top" | 1966 || 19 August || ''[[Cultural Revolution]]'': The [[Chinese Communist Party|CCP]] launched a campaign to destroy the [[Four Olds]].
+|-
+| || The [[Three-Self Patriotic Movement]], the sole government-sanctioned [[Protestant]] church, was abolished.
+|-
+| rowspan="2" valign="top" | 1968 || || [[Deng Pufang]] was thrown from a third-story window at [[Peking University]] by [[Red Guards (China)|Red Guards]], crippling him.
+|-
+| 22 December || The ''[[People's Daily]]'' published an editorial entitled "We too have two hands, let us not laze about in the city," invigorating the [[Down to the Countryside Movement]] under which the [[sent-down youth]], many former [[Red Guards (China)|Red Guards]], were relocated from the cities to the country.
+|-
+| rowspan="2" valign="top" | 1969 || 2 March || ''[[Sino-Soviet border conflict]]'': [[People's Liberation Army|PLA]] forces attacked the [[Soviet Border Troops]] of the [[Soviet Union]] on [[Zhenbao Island]], killing 59.
+|-
+| 1 October || The [[Beijing Subway]] opened.
+|-
+| 1970 || 24 April || China launched [[Dong Fang Hong I]], its first satellite.
+|-
+| rowspan="3" valign="top" | 1971 || July || United States secretary of state [[Henry Kissinger]] visited Beijing.
+|-
+| 13 September ||[[Cultural Revolution]]: [[Lin Biao]] dies in mysterious air crash after failed coup. 
+|-
+| 25 October || ''[[China and the United Nations]]'': The People's Republic of China is [[United Nations General Assembly Resolution 2758|admitted]] to the [[United Nations]], replacing the [[Taiwan|Republic of China]].
+|-
+| 1972 || 28 February || ''[[1972 Nixon visit to China]]'': The United States and China issued the [[Shanghai Communiqué]] pledging to normalize relations during the visit of the former's president [[Richard Nixon]].
+|-
+| 1974 || 19 January || ''[[Battle of the Paracel Islands]]'': Some fifty [[South Vietnam]]ese soldiers were killed in a Chinese conquest of the [[Paracel Islands]].
+|-
+| 1975 || 5 April || [[Chiang Kai-shek]] died.
+|-
+| rowspan="6" valign="top" | 1976 || 8 January || The [[Premier of the People's Republic of China|premier]] [[Zhou Enlai]] died.
+|-
+| 5 April || ''[[1976 Tiananmen Incident|Tiananmen Incident]]'': Some four thousand people were arrested during a protest against the removal of wreaths, flowers and poems laid at the [[Monument to the People's Heroes]] in [[Zhou Enlai|Zhou's]] memory.
+|-
+| 27 July || ''[[1976 Tangshan earthquake]]'': An earthquake with its epicenter near [[Tangshan]] killed roughly a quarter of a million people.
+|-
+| 9 September || [[Mao Zedong|Mao]] [[Death and state funeral of Mao Zedong|died]].
+|-
+| 6 October || The [[Gang of Four]], a political faction including [[Mao Zedong|Mao's]] wife [[Jiang Qing]], was arrested on the orders of the [[Premier of the People's Republic of China|premier]] [[Hua Guofeng]].
+|-
+| 7 October || [[Hua Guofeng|Hua]] became [[Chairman of the Chinese Communist Party]].
+|-
+| 1977 || || ''[[Beijing Spring]]'': A brief period of political [[liberalism|liberalization]] began.
+|-
+| rowspan="4" valign="top" | 1978 || 11 October || The poet [[Huang Xiang]] pasted pro-democracy, anti-[[Mao Zedong|Mao]] poems on the [[Democracy Wall]] in Beijing.
+|-
+| December || The [[Chinese Communist Party|Communist]] official [[Deng Xiaoping]] became [[paramount leader]] of China.
+|-
+| December || ''[[Reform and opening up]]'': Economic [[liberalism|liberalization]] measures including the replacement of [[collective farming]] with the [[household-responsibility system]] began to be instituted.
+|-
+| December || [[Deng Xiaoping]] first advocated for the [[Four Modernizations]], of agriculture, industry, national defense and science and technology.
+|-
+| rowspan="3" valign="top" | 1979 || 1 January || China and the United States issued the [[Joint Communiqué on the Establishment of Diplomatic Relations]], under which the latter recognized the PRC as the legitimate government of China and terminated its participation in the [[Sino-American Mutual Defense Treaty]] with [[Taiwan]].
+|-
+| 6 March || ''[[Sino-Vietnamese War]]'': China declared that the punitive objective of its invasion of [[Vietnam]] had been achieved and began to retreat.
+|-
+| 30 March || [[Deng Xiaoping]] declared in a speech the [[Four Cardinal Principles]] not subject to debate within China.
+|-
+| rowspan="3" valign="top" | 1980 || || The first of the [[Special Economic Zones of China]], characterized by low regulation and the encouragement of foreign investment, were established.
+|-
+| 28 June || ''[[Sino-Vietnamese conflicts 1979–90]]'': Chinese forces began shelling the Vietnamese [[Cao Bằng Province]].
+|-
+| 18 September || The [[one-child policy]], under which Chinese couples are heavily fined for additional children after their first, with some exceptions, came into force, and then phased out in 2015.
+|-
+| 1984 || 19 December || The [[Sino-British Joint Declaration]], under which China and the United Kingdom agreed to the transfer of [[British Hong Kong|Hong Kong]] to China and the preservation there of democracy and capitalism under the [[one country, two systems]] model, was signed during the visit of the British prime minister [[Margaret Thatcher]].
+|-
+| rowspan="2" valign="top" | 1987 || 7 May || [[1987 Lieyu massacre]]: 19 people killed by the [[Republic of China Army]] targeting [[Vietnamese boat people]] near the coast of Kinmen.
+|-
+| || ''[[Martial law in Taiwan]]'' lifted.
+|-
+| 1988 || 14 March || ''[[Johnson South Reef Skirmish]]'': The [[People's Liberation Army|PLA]] took control of the [[Johnson South Reef]] after a short naval battle in which some seventy Vietnamese soldiers were killed.
+|-
+| rowspan="3" valign="top" | 1989 || 15 April || ''[[Tiananmen Square protests of 1989]]'': A crowd gathered at the [[Monument to the People's Heroes]].
+|-
+| 4 June || ''[[Tiananmen Square protests of 1989]]'': Anywhere from 241 to 5 thousand people killed in the [[Tiananmen Square Massacre]]. 
+|-
+| 24 June || [[Jiang Zemin]] became [[General Secretary of the Chinese Communist Party]].
+|-
+| rowspan="2" valign="top" | 1990 || 18 March || [[Wild Lily student movement]] in [[Chiang Kai-shek Memorial Hall]] which saw less bloodshed compared to the Tiananmen protests in Beijing.
+|-
+| || ''[[Shanghai Stock Exchange]]'' re-opened on 26 November and began operation on 19 December.
+|-
+| rowspan="3" valign="top" | 1991 || 1 May || [[Legislative Yuan]] and [[National Assembly (Republic of China)|National Assembly]] delegates elected in 1947 resigns.
+|-
+| 26 December || The [[Soviet Union]] [[Dissolution of the Soviet Union|officially dissolves]] leaving the People's Republic of China as the only major communist state on Earth.
+|-
+| || The first [[McDonald's]] restaurant in mainland China opened in Beijing.
+|-
+| rowspan="2" valign="top" | 1992 || || First free democratic elections for the [[Legislative Yuan]] held since 1948 in Taiwan only. 
+|-
+| || ''[[Deng Xiaoping]]'' traveled south to reassert the economy policy.
+|-
+| 1993 || 27 April || ''[[Wang–Koo summit]]'' took place in ''[[Singapore]]'': the first public meeting between figures of non-governmental organization (NGO) since 1949.
+|-
+| 1994 || 8 December || ''[[1994 Karamay fire]]'': A fire at a theater in [[Karamay]] killed some three hundred people.
+|-
+| 1996 || || The first direct presidential elections in Chinese history took place in Taiwan with [[Lee Teng-hui]] and the [[Kuomintang]] retaining power.
+|-
+| rowspan="3" valign="top" | 1997 || 19 February || [[Deng Xiaoping]] [[Death and state funeral of Deng Xiaoping|died]].
+|-
+| 1 July || ''[[Hong Kong handover ceremony]]'': A ceremony marked the return of sovereignty over [[British Hong Kong|Hong Kong]] to China from the United Kingdom under the terms of the [[Sino-British Joint Declaration]].
+|-
+| || The term [[Great Firewall]] was coined to describe the tools of [[Internet censorship in China]].
+|-
+| 1998 || June || ''[[1998 China floods]]'':  China experienced massive flooding including floods of the ''[[Yangtze River]]'', the ''[[Nen River]]'', the ''[[Songhua River]]'' and the ''[[Pearl River (China)|Pearl River]]''. The ''[[People's Liberation Army]]'' gained further respect for their actions amongst the people.
+|-
+| rowspan="3" valign="top" | 1999 || 7 May || ''[[United States bombing of the Chinese embassy in Belgrade]]'': United States bombers under the command of the [[NATO|North Atlantic Treaty Organization]] accidentally bombed the Chinese embassy in [[Belgrade]].
+|-
+| 22 July || The [[Chinese Communist Party]] declared the religious organization [[Falun Gong]] illegal.
+|-
+| 20 December || ''[[Transfer of sovereignty over Macau]]'': Sovereignty over [[Portuguese Macau|Macau]] was transferred from [[Portugal]] to China.
+|-
+| 2000 || || China passed Japan as the country with which the United States has the largest trade deficit.
+|}
+==<span class="anchor" id="3rd millennium"></span>21st century==
+{| class="wikitable" width="100%"
+! style="width:6%" | Year || style="width:10%" | Date || Event
+|-
+| rowspan="2" style="vertical-align:top;"| 2000 || || [[Chen Shui-bian]], the opposition candidate from the native [[Democratic Progressive Party|DPP]], [[2000 Taiwanese presidential election|elected president]] by a lead of 2.5% of votes marking the end of the [[Kuomintang|KMT]] rule of China. Voter turnout was 82.69%; first [[peaceful transition of power|peaceful transfer of power]] since the formation of the Chinese Republic in 1912 and in Taiwan since 1945.
+|-
+| || [[Four Noes and One Without]].
+|-
+| rowspan="3" valign="top" | 2001 || 23 January || ''[[Tiananmen Square self-immolation incident]]'': Five declared by Chinese government members of [[Falun Gong]] may have burned themselves to death in [[Tiananmen Square]].
+|-
+| 1 April || ''[[Hainan Island incident]]'': A United States intelligence aircraft was intercepted and forced to make an emergency landing on [[Hainan]].
+|-
+| 10 November || ''[[World Trade Organization Ministerial Conference of 2001]]'': The PRC joined the [[World Trade Organization]], subjecting it to that body's [[free trade]] and dispute resolution agreements. The following year, the ROC joined the WTO under the name ''[[Chinese Taipei|Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu]]'' to adhere with the [[One China]] policy.
+|-
+| rowspan="2" valign="top" | 2002 || 15 November || ''[[16th National Congress of the Chinese Communist Party]]'': [[Hu Jintao]] succeeded [[Jiang Zemin]] as [[General Secretary of the Chinese Communist Party]].
+|-
+| 16 November || An outbreak of [[severe acute respiratory syndrome]] began in [[Guangdong]].
+|-
+| 2003 || 15 October || The PRC launched its first crewed space mission [[Shenzhou 5]].
+|-
+| 2004 || 19 September || [[Jiang Zemin]] resigned his position as chairman of the [[Central Military Commission (China)|Central Military Commission]] of the [[Chinese Communist Party]] and succeeded by [[Hu Jintao]].
+|-
+| rowspan="6" valign="top" | 2005 || 14 March || The controversial [[Anti-Secession Law]] was passed, reasserting the PRC's desire for "peaceful reunification" with [[Taiwan]] and its right to resolve the issue by force. In response, 1.6 million people marched in Taipei against the PRC's "anti-secession law". Similar marches occur across the world by Taiwanese nationalists. Protests against the PRC were held worldwide, including, but not limited to: Chicago, New York City, Washington DC, Paris, and Sydney.
+|-
+| March-April|| [[2005 Pan-Blue visits to mainland China|Pan-Blue leaders visit to mainland China]]
+|-
+| 15 April || ''[[2005 anti-Japanese demonstrations]]'': Mass demonstrations against Japan took place.
+|-
+| 13 November || ''[[2005 Jilin chemical plant explosions]]'': A series of explosions at a chemical plant in [[Jilin City]] killed six and forced the evacuation of tens of thousands.
+|-
+| || President Chen is invited and attends the funeral of [[Pope John Paul II]]. He is the first ROC president to visit the [[Vatican City|Vatican]].
+|-
+| || The [[National Assembly of the Republic of China]] convenes for the last time to implement several constitutional reforms, including single-member two-vote districts, and votes to transfer the power of constitutional reform to the popular ballot, essentially abolishing itself.
+|-
+| rowspan="4" valign="top" | 2007 || 7 May || ''[[2007 Chinese slave scandal]]'': A local television station first reported on missing children kidnapped to work as slaves at brickyards in [[Shanxi]].
+|-
+| 10 July || [[Zheng Xiaoyu]], the former head of the [[State Food and Drug Administration]], was executed for corruption.
+|-
+| 3 August || The [[State Administration for Religious Affairs]] issued [[State Religious Affairs Bureau Order No. 5]], which required ''[[tulkus]]'' who planned to be reincarnated to submit an application to the government.
+|-
+| 24 October || The lunar orbiter [[Chang'e 1]] was launched.
+|-
+| rowspan="10" valign="top" | 2008 || 25 January || ''[[2008 Chinese winter storms]]'': A series of severe winter storms began which would claim over a hundred lives.
+|-
+| 22 March || 2008 presidential election; with 58.48% of the vote, KMT candidate [[Ma Ying-jeou]] defeats DPP candidate [[Frank Hsieh]]. Many voters boycott the referendum on whether and how to join UN so the level of voter participation required for referendum to be considered valid is not achieved. 
+|-
+| 1 May || The [[Hangzhou Bay Bridge]] opened to the public.
+|-
+| 12 May || ''[[2008 Sichuan earthquake]]'': An earthquake with its epicenter in [[Wenchuan County]] killed nearly seventy thousand people.
+|-
+| 20 May || [[Ma Ying-jeou]] sworn into office as the 12th [[President of the Republic of China|President of ROC]]. Second peaceful transfer of power with the Kuomintang regaining control of the presidency. [[Tsai Ing-wen]] inaugurate as the Chairperson of DPP.
+|-
+| 16 July || ''[[2008 Chinese milk scandal]]'': Sixteen infants were diagnosed with kidney stones in [[Gansu]] after drinking formula contaminated with melamine.
+|-
+| 8 August || ''[[2008 Summer Olympics opening ceremony]]'': A ceremony marked the beginning of the Olympic Games in Beijing.
+|-
+| 6 September || ''[[2008 Summer Paralympics]]'': The thirteenth Paralympic Games began in Beijing.
+|-
+| 27 September || The astronaut [[Zhai Zhigang]] completed China's first spacewalk on [[Shenzhou 7]].
+|-
+| 6 November|| [[Wild Strawberries Movement]] in Taiwan.<ref>{{Cite web |author=Cooper, Marc |date=December 7, 2008 |title=Taiwanese students protest demonstration law |url=http://www.huffingtonpost.com/marc-cooper/wild-strawberries-taiwane_b_149231.html |accessdate=December 12, 2008 |work=[[International Herald Tribune]]}}</ref><ref>{{Cite web |date=December 8, 2008 |title=Wild Strawberries: Taiwanese Student Movement Stirs Anew |url=http://www.iht.com/articles/ap/2008/12/07/asia/AS-Taiwan-Protest.php |accessdate=December 12, 2008 |work=[[Huffington Post]]}}</ref>
+|-
+| rowspan="2" valign="top" | 2009 || 5 July || ''[[July 2009 Ürümqi riots]]'': A riot of some thousand [[Uyghurs]] began which involved ethnic violence against the [[Han Chinese|Han]] in [[Ürümqi]].
+|-
+| 1 October || ''[[60th anniversary of the People's Republic of China]]'': A military parade on [[Chang'an Avenue]] in Beijing commemorated the establishment of the PRC.
+|-
+| rowspan="2" valign="top" | 2010 || 14 April || ''[[2010 Yushu earthquake]]'': An earthquake with its epicenter in [[Yushu City, Qinghai|Yushu]] killed as many as three thousand people.
+|-
+| 1 May || ''[[Expo 2010]]'': A world's fair began in Shanghai.
+|-
+| rowspan="3" valign="top" | 2011 || 21 September || ''[[Wukan protests]]'': Farmers in [[Wukan]] attacked a government building due to the government's seizure without compensation of their farmland.
+|-
+| 29 September || ''[[Tiangong-1]]'' was launched as China's first prototype ''[[space station]]''.
+|-
+| 10 October || The ''[[100th Anniversary of the Xinhai Revolution and Republic of China]]'' was commemorated.
+|-
+| rowspan="4" valign="top" | 2012 || 6 February || ''[[Wang Lijun incident]]'': [[Wang Lijun]], a deputy of [[Bo Xilai]], the [[Party Committee Secretary]] of [[Chongqing]], sought refuge at a United States [[consul (representative)|consulate]].
+|-
+| 4 July || The [[Three Gorges Dam]] went into operation.
+|-
+| 19 August || ''[[2012 China anti-Japanese demonstrations]]'': Anti-Japanese protests took place in China due to the [[Senkaku Islands dispute]].
+|-
+| 15 November || ''[[18th National Congress of the Chinese Communist Party]]'': [[Xi Jinping]] succeeded [[Hu Jintao]] as [[General Secretary of the Chinese Communist Party]] and the [[Chairman of the Central Military Commission (China)|Chairman of the Central Military Commission]].
+|-
+| rowspan="4" valign="top" | 2013 || || ''[[One Belt, One Road]]'' was proposed to connect and cooperate among countries primarily between China and rest of ''[[Eurasia]]''.
+|-
+| 29 September || The [[Shanghai Free-Trade Zone]] was established.
+|-
+| 28 October || ''[[2013 Tiananmen Square attack]]'': A car was driven into a crowd in [[Tiananmen Square]], killing the driver and two passengers, [[Uyghurs]] associated with the [[East Turkestan Islamic Movement]], and two pedestrians.
+|-
+| 14 December || The lunar lander [[Chang'e 3]] landed on the moon.
+|-
+| rowspan="3" valign="top" | 2014 || || China became the world's second largest economy.{{Citation needed|date=February 2026}}
+|-
+| 1 March ||''[[2014 Kunming attack]]'' is a terrorist attack, killing 31 civilians and injuring more than 140 others. No group or individual stepped forward to claim responsibility for the attack.
+|-
+| 18 March || ''[[Sunflower Student Movement]]'' in Taiwan, students occupy the [[Legislative Yuan]] force to halt the enforcement of [[Cross-Strait Service Trade Agreement]].
+|-
+| rowspan="3" valign="top" | 2015 || 17 June || ''[[2015–2016 Chinese stock market turbulence]]'' started.
+|-
+| 3 September ||''[[2015 China Victory Day Parade]]'' was held on the ''[[Tiananmen Square]]''.
+|-
+| November || [[Ma Ying-jeou]] meets with [[Xi Jinping]], the first [[First Ma–Xi meeting|Cross-Strait leader meeting]].
+|-
+| rowspan="4" valign="top" | 2016 || 16 January || presidential election; with 56.3% of the vote, DPP candidate Tsai Ing-wen defeats KMT candidate [[Eric Chu]].
+|-
+| 20 May || [[Tsai Ing-wen]] sworn into office as the 14th and current [[President of the Republic of China|President of ROC]]. Third peaceful transfer of power and first female President in Chinese history.
+|-
+| 4 September ||''[[2016 G20 Hangzhou summit]]'' was held in the city of ''[[Hangzhou]]''.
+|-
+| 15 September ||''[[Tiangong-2]]'' was launched with mission of more than ten scientific experiments. 
+|-
+| rowspan="1" valign="top" | 2017 || 25 October || ''[[19th National Congress of the Chinese Communist Party]]'': [[Xi Jinping]] was re-elected as the [[General Secretary of the Chinese Communist Party]] and the [[Chairman of the Central Military Commission (China)|Chairman of the Central Military Commission]].
+|-
+| rowspan="1" valign="top" | 2018 || March || [[Xi Jinping]] removed the [[term limits]] of the [[President of the People's Republic of China|Presidency]].
+|-
+| rowspan="3" |2019 || 24 May || [[Same-sex marriage in Taiwan|Same-sex marriage]] becomes legal in Taiwan.
+|-
+|1 October
+|[[70th anniversary of the People's Republic of China|''70th Anniversary of the People's Republic of China'']] military parade held in Tiananmen Square
+|-
+| December || First case of [[COVID-19]] identified in [[Wuhan]] leading into the [[COVID-19 pandemic|subsequent pandemic]].
+|-
+| rowspan="2" valign="top" | 2020 || 16 January || [[Tsai Ing-wen]] [[2020 Taiwanese presidential election|re-elected]] as ROC President continuing deterioration of relations with the PRC.
+|-
+| 30 June || [[2020 Hong Kong national security law|Hong Kong national security law]] passed.
+|-
+| rowspan="2" valign="top" | 2021 || 2 April || ''[[2021 Hualien train derailment]]'': A [[Taroko Express]] train was derailed at [[Hualien County]] killing 49 passengers and injuring 200 others.
+|-
+| 1 July || ''[[100th Anniversary of the Chinese Communist Party]]'' was held as part of the [[Two Centenaries]].
+|-
+| rowspan="4" valign="top" | 2022 || 22 October || [[Hu Jintao removal incident]]
+|-
+| 23 October || [[Xi Jinping]] was re-elected as [[General Secretary of the Chinese Communist Party]] for a precedent-breaking third term of [[paramount leader]] after [[Mao Zedong]]'s [[Death and state funeral of Mao Zedong|death]].<ref>{{Cite news|title=China's leader Xi Jinping secures third term and stacks inner circle with loyalists|url=https://www.theguardian.com/world/2022/oct/23/xi-jinping-to-rule-china-for-precedent-breaking-third-term|work=The Guardian|date=2022-10-23|access-date=2022-10-23}}</ref>
+|-
+| 2 November || [[2022 COVID-19 protests in China]].
+|-
+| 30 November || [[Death and state funeral of Jiang Zemin|Death and state funeral]] of former CCP General Secretary [[Jiang Zemin]].
+|-
+|2023
+|27 October
+|[[Death of Li Keqiang|Death of]] former Chinese Premier [[Li Keqiang]].
+|-
+| rowspan="2" valign="top" | 2024 || 23 January || [[2024 Uqturpan earthquake]] occurs.
+|-
+|5 November
+|100 years marked since the expulsion of the last [[Emperor of China]], [[Puyi]], from the [[Forbidden City]].
+|-
+|2025
+|25 May
+|The world's first humanoid robot fighting competition happens in Hangzhou.
+|}
+
+== Timeline of Chinese dynasties ==
+{{See also|Dynasties in Chinese history}}
+{{Wide image|Chinese_dynasties_timeline_en.png|4400px|Timeline of major Chinese dynasties and states}}
+[[File:Divisions of Chinese history.jpg|thumb|upright=1.6|Divisions of Chinese history and their corresponding dynasties]]
+
+==See also==
+* [[List of Chinese monarchs]]
+* [[Chinese emperors family tree (disambiguation)]]
+* [[Years in China]]
+;Cities in China
+* [[Timeline of Fuzhou]]
+* [[Timeline of Guangzhou]]
+* [[Timeline of Hangzhou]]
+* [[Timeline of Nanjing]]
+* [[Timeline of Shanghai]]
+* [[Timeline of Hong Kong history]]
+;Related
+* [[Timeline of Taiwanese history]]
+* [[Timeline of Tibetan history]]
+
+== References ==
+{{reflist}}
+
+==Further reading==
+{{Globalize|section|date= July 2015 }}
+;Published in the 19th century
+* {{Citation |publisher = Frederick Warne & Co. |location = London |author = George Henry Townsend |title = A Manual of Dates |date = 1867 |edition=2nd |chapter= China |chapter-url= https://archive.org/stream/manualofdatesdic00townrich#page/424/mode/1up |author-link = George Henry Townsend }}
+* {{cite book|editor= [[William Henry Overall]] |title= Dictionary of Chronology|year=1870|publisher=William Tegg |location=London |chapter= China |hdl= 2027/uc2.ark:/13960/t9m32q949}}
+
+;Published in the 20th century
+* {{Citation |publisher = Funk & Wagnalls |location = New York |title = Cyclopedia of Classified Dates |author = Charles E. Little|date = 1900 |chapter-url=https://archive.org/stream/cyclopediaofclas00littuoft#page/610/mode/1up |chapter= China |via=Internet Archive }}
+* {{Citation |publisher = Ward, Lock & Co. |location = London |title = Haydn's Dictionary of Dates |author = Benjamin Vincent |edition = 25th |date = 1910 |chapter=China |via=HathiTrust |hdl = 2027/loc.ark:/13960/t89g6g776 }}
+
+;Published in the 21st century
+* {{cite book|publisher=[[Europa Publications]] |title= Political Chronology of Central, South and East Asia|year= 2001 |series=Political Chronologies of the World |editor=Ian Preston |isbn=978-1-135-35680-4 |chapter=People's Republic of China |chapter-url= https://books.google.com/books?id=f5wcH0abSQcC&pg=PA32 |pages=32–64 }}
+* {{cite book|editor=David B.H. Denoon|title=China: Contemporary Political, Economic, and International Affairs|year= 2007|publisher=[[New York University Press]] |isbn=978-0-8147-2140-7 |chapter=Chronology of Recent Events (1993– ) |chapter-url=https://books.google.com/books?id=vi8T6tNHn74C&pg=PA217 }}
+* {{cite book|author=Lawrence R. Sullivan|title=Historical Dictionary of the People's Republic of China|year= 2007|publisher=[[Scarecrow Press]]|isbn=978-0-8108-6443-6 |chapter=Chronology |chapter-url= https://books.google.com/books?id=UQKyAAAAQBAJ&pg=PR17 }}
+* {{cite web |url= https://www.britishmuseum.org/pdf/Comparative%20timeline.pdf |title= China and the world comparative timeline |work=China: Journey to the East |publisher= [[British Museum]] |year=2009 }}
+* {{cite book|author= James Z. Gao |title=Historical Dictionary of Modern China (1800–1949)|year= 2009|publisher=[[Scarecrow Press]] |isbn=978-0-8108-6308-8 |chapter=Chronology |chapter-url= https://books.google.com/books?id=dVzLG1aqlNkC&pg=PR19 }}
+* {{cite book|author1=Xinzhong Yao |author2= Yanxia Zhao |title=Chinese Religion: a Contextual Approach |year=2010|publisher=[[Continuum International Publishing Group|Continuum]] |location = London |isbn=978-1-84706-476-9 |chapter= Timeline for Chinese Religion |chapter-url= https://books.google.com/books?id=GuINLKnJp0AC&pg=PR15 |author1-link= Xinzhong Yao }}
+* {{cite book|author=Rongxing Guo|title= Introduction to the Chinese Economy |year= 2011|publisher=John Wiley & Sons|isbn=978-0-470-82675-1 |chapter=Historical Chronology (1949– ) |chapter-url= https://books.google.com/books?id=zOjOlYDq-MoC&pg=PA177 }}
+* {{cite book|author1= Lawrence R. Sullivan |author2= Nancy Y. Liu |title=Historical Dictionary of Science and Technology in Modern China |year= 2015|publisher=Rowman & Littlefield |isbn=978-0-8108-7855-6 |chapter=Chronology |chapter-url= https://books.google.com/books?id=DGCGBwAAQBAJ&pg=PR33 }}
+
+==External links==
+* {{cite news |url= https://www.bbc.com/news/world-asia-pacific-13017882 |author=BBC News |title=China Profile: Timeline |work=BBC News |date=29 July 2019 }}
+* [http://www.travelchinaguide.com/intro/history/index.htm Chinese History and Dynasties]
+* {{cite web |url= http://afe.easia.columbia.edu/main_pop/related/timelines.htm |title= Timeline of Chinese History and Dynasties |work=Asia for Educators |publisher= [[Columbia University]] |location=US }}
+* {{cite web |url= http://www.metmuseum.org/toah/hi/hi_asch.htm |title= China |work= Heilbrunn Timeline of Art History |publisher=[[Metropolitan Museum of Art]] |location=New York }}
+* {{cite web |url= http://www.asia.si.edu/exhibitions/online/chinaTimeline/ |archive-url= https://web.archive.org/web/20150714121437/http://www.asia.si.edu/exhibitions/online/chinaTimeline/ |url-status= dead |archive-date= 2015-07-14 |title= China History Timeline |author= Freer Gallery of Art |location= Washington DC |publisher= [[Smithsonian Institution]] |author-link= Freer Gallery of Art }}
+
+{{Years in China}}
+{{Timelines of Chinese history}}
+{{Authority control}}
+
+[[Category:Years in China]]
+[[Category:Timelines by country|Chinese]]
+[[Category:Chinese history timelines| ]]
