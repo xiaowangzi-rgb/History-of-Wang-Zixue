@@ -233,3 +233,30 @@ def find_hero_image(entity_name: str) -> list[ImageCandidate]:
 
 事件场景图(~150-180 张) Phase 1 不做。
 
+---
+
+## 实地验证结论(2026-05-09)
+
+agent 已把 5 类源数据 push 到 `raw/` (commit be6937e),实地查看后定稿:
+
+| 源 | 文件 | 大小/形态 | 用法 | 选用? |
+|---|---|---|---|---|
+| dynasties-wxh06 | `raw/dynasties/dynasties-wxh06.json` | JSON 数组,带月日精度,西周→现代 | **朝代/政权骨架主力**,`tools/import_dynasties_wxh.py` 抽取 25 朝代 + 并立 regimes | ✅ 主力 |
+| history-rtkarcher | `raw/dynasties/history-rtkarcher.json` | TimelineJS 风格,英文,有 HTML | LLM 起草事件 summary 的素材库;不直接 import | ⚠️ 辅助 |
+| grand-timeline-era | `raw/dynasties/grand-timeline-era.tsv` | 年号表 | 帝王 reign 年份补充,放后期 | ⚠️ 辅助 |
+| emperors-timeline-wanxb | `raw/dynasties/emperors-timeline-wanxb.js` | 7259 行 JS | 大而杂,Phase 1 不深用 | ❌ 暂搁 |
+| people-portraits/index | `raw/images/people-portraits/index.json` | 532 君主索引 (含 reign) | **人物骨架主力**:dynasty 开国君主 + 重要在位君主直接照搬 | ✅ 主力 |
+| people-portraits/_batch_list | `raw/images/people-portraits/_batch_list.json` | 25 张 AI 画像参数 | 朝代 hero 图来源(秦始皇、朱元璋、皇太极 等) | ✅ 主力 |
+| emperor-portraits | `raw/images/emperor-portraits.json` | 70 个 Wikimedia URL | `tools/download_wikimedia_images.py` 拉取 → process | ✅ 主力 |
+| wikipedia/* | `raw/wikipedia/` 4 篇英文摘录 | LLM 起草素材 | 不直接 import | ⚠️ 辅助 |
+| people/grand-timeline-TC2SC | `raw/people/` | 繁简字典 | 校对工具用,非内容源 | ❌ 不用 |
+| geography/location-history | `raw/geography/` | 历史地名 | Phase 1 仅 locationName 文本标注用得上 | ⚠️ 辅助 |
+
+**关键决策**:
+- 朝代/政权: 全部从 wxh06 import,人工补传说时代 + 1949-1978
+- 人物骨架: 532 君主索引照搬名字 (5-10/朝代),诸子百家/重臣手填
+- 图片: 25 张现成 AI + 70 张 Wikimedia 下载 + 春秋战国诸子手补 (Scrapling)
+- 事件: 全部需要 LLM 起草 (DeepSeek-V3) + 人工校对,无现成事件源可直接 import
+
+详见 `docs/decisions.md` ADR-027。
+

@@ -1,40 +1,40 @@
 ## 1. 准备
 
-- [ ] 1.1 确认 `.gitignore` 含 `_local/` + `raw/cbdb/` 等大库 (ADR-028,raw/ 已**进 git**)
-- [ ] 1.2 安装 Python 依赖: `pip install jsonschema scrapling Pillow requests`
+- [x] 1.1 确认 `.gitignore` 含 `_local/` + `raw/cbdb/` 等大库 (ADR-028,raw/ 已**进 git**)
+- [x] 1.2 安装 Python 依赖: `pip install jsonschema Pillow` 已装 (scrapling/requests 用到再装)
 - [ ] 1.3 准备 `DEEPSEEK_API_KEY` 环境变量(β 深耕 LLM 起草用)
-- [ ] 1.4 schema 已升 v0.6 ✓ (`docs/data-schema.md`)
-- [ ] 1.5 创建 `_local/llm-drafts/` 和 `_local/crawl-cache/` 目录(gitignored 工作区)
+- [x] 1.4 schema 已升 v0.6 ✓ (`docs/data-schema.md`)
+- [x] 1.5 创建 `_local/llm-drafts/` 和 `_local/crawl-cache/` 目录(gitignored 工作区)
 
 ## 2. 数据源 review(agent 已提供 raw/,本节大部分已经做完)
 
 > 2026-05 更新: agent 已经把 5 个源的数据 push 到 `raw/`(commit be6937e),
 > 本节从"调研 + clone"变为"review 现有数据 + 决定怎么用"。
 
-- [ ] 2.1 review `raw/dynasties/` 内容
+- [x] 2.1 review `raw/dynasties/` 内容
       - dynasties-wxh06.json: 朝代 + 政权完整清单(从西周到现代)
       - history-rtkarcher.json: 英文 timeline 风格事件
       - grand-timeline-era.tsv: 年号表
       - emperors-timeline-wanxb.js: 7259 行 JS 数据
-- [ ] 2.2 review `raw/images/`
+- [x] 2.2 review `raw/images/`
       - emperor-portraits.json: 70 张 Wikimedia 帝王画像 URL
       - people-portraits/index.json: 532 位君主完整索引(含 reign 年份)
       - people-portraits/_batch_list.json: 25 位 AI 生成画像参数
       - 25 张 PNG 已在 `raw/images/people-portraits/<朝代>/<君主>/*.png`
-- [ ] 2.3 review `raw/wikipedia/` 4 篇英文 wiki 摘录(可作 LLM 起草素材库)
-- [ ] 2.4 review `raw/people/` (注: grand-timeline-TC2SC 是繁简字典,毛轨迹超 Phase 1 scope)
-- [ ] 2.5 review `raw/geography/` (Phase 1 暂用 location-history 作 locationName 标注)
-- [ ] 2.6 在 `docs/data-source-survey.md` 底部新增"实地验证结论"段,记录每个源的: 用法、覆盖度、是否选用
-- [ ] 2.7 写 ADR-027(选定数据源 + 拒用源原因)入 `docs/decisions.md`
+- [x] 2.3 review `raw/wikipedia/` 4 篇英文 wiki 摘录(可作 LLM 起草素材库)
+- [x] 2.4 review `raw/people/` (注: grand-timeline-TC2SC 是繁简字典,毛轨迹超 Phase 1 scope)
+- [x] 2.5 review `raw/geography/` (Phase 1 暂用 location-history 作 locationName 标注)
+- [x] 2.6 在 `docs/data-source-survey.md` 底部新增"实地验证结论"段,记录每个源的: 用法、覆盖度、是否选用
+- [x] 2.7 写 ADR-030(选定数据源 + 拒用源原因)入 `docs/decisions.md`(注: 编号改为 ADR-030,ADR-027 已被设计语言占用)
 
 ## 3. JSON Schema 工件
 
-- [ ] 3.1 写 `tools/schema/dynasty.schema.json`(含 `_yearAuthority` 字段)
-- [ ] 3.2 写 `tools/schema/regime.schema.json`(含 `parentRegimeId` /
+- [x] 3.1 写 `tools/schema/dynasty.schema.json`(含 `_yearAuthority` 字段)
+- [x] 3.2 写 `tools/schema/regime.schema.json`(含 `parentRegimeId` /
       `mergedIntoRegimeId` / `siblingRegimeIds`)
-- [ ] 3.3 写 `tools/schema/event.schema.json`(含 `body` 字段、字数限制)
-- [ ] 3.4 写 `tools/schema/person.schema.json`(简化版,无 persona 字段)
-- [ ] 3.5 写 `tools/schema/__init__.py` 聚合入口
+- [x] 3.3 写 `tools/schema/event.schema.json`(含 `body` 字段、字数限制)
+- [x] 3.4 写 `tools/schema/person.schema.json`(简化版,无 persona 字段)
+- [x] 3.5 写 `tools/schema/__init__.py` 聚合入口
 
 ## 4. 全 25 朝代骨架数据
 
@@ -139,16 +139,16 @@
 
 ## 6. 校验工具
 
-- [ ] 6.1 写 `tools/validate.py`(载入 schema + 跑自定义规则)
-- [ ] 6.2 实现规则: ID 唯一、跨实体引用存在
-- [ ] 6.3 实现规则: `_schemaVersion` 检查
-- [ ] 6.4 实现规则: 字数硬约束(summary / body)
-- [ ] 6.5 实现规则: 树拓扑双向一致性 + 闭环检测
-- [ ] 6.6 实现规则: β 深耕时段事件必须含 body
-- [ ] 6.7 实现规则: `source: "llm-draft"` 不允许在 `data_source/`
-- [ ] 6.8 实现规则: event.year 落在 dynasty 范围(soft warning)
-- [ ] 6.9 跑 `python tools/validate.py`,直到 `data_source/` 全 pass
-- [ ] 6.10 故意破坏数据测各条规则能 catch
+- [x] 6.1 写 `tools/validate.py`(载入 schema + 跑自定义规则)
+- [x] 6.2 实现规则: ID 唯一、跨实体引用存在
+- [x] 6.3 实现规则: `_schemaVersion` 检查
+- [x] 6.4 实现规则: 字数硬约束(summary / body)
+- [x] 6.5 实现规则: 树拓扑双向一致性 + 闭环检测
+- [x] 6.6 实现规则: β 深耕时段事件必须含 body
+- [x] 6.7 实现规则: `source: "llm-draft"` 不允许在 `data_source/`
+- [x] 6.8 实现规则: event.year 落在 dynasty 范围(soft warning)
+- [x] 6.9 跑 `python tools/validate.py`,空 data_source/ pass(0 errors / 0 warnings)
+- [ ] 6.10 故意破坏数据测各条规则能 catch(等 Sprint 2 有数据后再做)
 
 ## 7. import + merge 工具(若用)
 
@@ -171,34 +171,33 @@
 > URL + 532 君主索引。本节主要是**处理 + 关联**,而非"爬取"。
 > 缺失的图(春秋战国诸子百家)走 Scrapling 爬。
 
-- [ ] 8.5.1 写 `tools/process_images.py`(Pillow 压缩到 800x600 WebP + 缩略图)
+- [x] 8.5.1 写 `tools/process_images.py`(Pillow 压缩到 800x600 WebP + 缩略图)
 - [ ] 8.5.2 处理 raw/images/people-portraits/*.png (25 张) → data_source/images/persons/*.webp
 - [ ] 8.5.3 emperor-portraits.json 70 张 Wikimedia URL: 写 `tools/download_wikimedia_images.py`
       下载到 `_local/crawl-cache/` → process → data_source/images/persons/
 - [ ] 8.5.4 春秋战国关键人物画像缺失部分: 写 `tools/crawl_images.py`(Scrapling)
       限定 commons.wikimedia.org 域,人工 review (~2-3 小时筛选)
-- [ ] 8.5.5 写 `tools/build_image_manifest.py`(SHA-256 hash + size)
+- [x] 8.5.5 写 `tools/build_image_manifest.py`(SHA-256 hash + size)
       生成 `assets/images/_manifest.json`(独立于主数据 manifest)
 - [ ] 8.5.6 在 dynasty / person JSON 中填入 heroImage / portrait + source + license 字段
 - [ ] 8.5.7 验证图片总体积(预计 30-50 MB,β 时段为主)
 
 ## 9. build 工具
 
-- [ ] 9.1 写 `tools/build.py`(读 `data_source/` → 合并/复制 → `assets/data/`)
-- [ ] 9.2 实现 build 前调 validate,失败则 abort
-- [ ] 9.3 events 按 year 升序合并到 `assets/data/events.json`
-- [ ] 9.4 主数据 manifest: 写 `tools/build_manifest.py` 生成 `assets/data/manifest.json`
-      含 `_schemaVersion: "v0.6"` / `_minAppVersion: "1.0.0"` /
-      per-file SHA-256 hash + size (ADR-029)
-- [ ] 9.5 图片 manifest: 由 8.5.5 生成的 `assets/images/_manifest.json` 独立管理
-- [ ] 9.6 跑 `python tools/build.py`,验证 `assets/data/*.json` 内容
-- [ ] 9.7 验证文件总大小(预计 8-15 MB JSON + 30-50 MB 图片)
+- [x] 9.1 写 `tools/build.py`(读 `data_source/` → 合并/复制 → `assets/data/`)
+- [x] 9.2 实现 build 前调 validate,失败则 abort
+- [x] 9.3 events 按 year 升序合并到 `assets/data/events.json`
+- [x] 9.4 主数据 manifest: 直接在 `tools/build.py` 内写 `assets/data/manifest.json`
+      (含 `_schemaVersion: "v0.6"` / `_minAppVersion: "1.0.0"` / per-file SHA-256 + size,ADR-029)
+- [x] 9.5 图片 manifest: 由 8.5.5 生成的 `assets/images/_manifest.json` 独立管理
+- [x] 9.6 跑 `python tools/build.py`,空 data_source/ 流程通过,manifest 写入成功
+- [ ] 9.7 验证文件总大小(等 Sprint 2/3 数据 import 完再 check)
 
 ## 10. 文档收尾
 
 - [ ] 10.1 在 `docs/data-source-survey.md` 底部"实地验证结论"段补全
 - [ ] 10.2 在 `docs/decisions.md` 写 ADR-018(选定的数据源)
-- [ ] 10.3 在 `tools/README.md` 简短记录脚本用法
+- [x] 10.3 在 `tools/README.md` 简短记录脚本用法
 - [ ] 10.4 更新 `docs/data-pipeline.md`(若需)反映多源策略
 
 ## 11. 提交 + 归档

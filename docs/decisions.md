@@ -816,6 +816,46 @@ systemPromptRomance` 字段。运行期 app 直接读取该字符串,**不做模
 
 ---
 
+## ADR-030: 选定数据源 — wxh06 朝代骨架 + 532 君主索引 + Wikimedia/AI 图片
+
+**日期**: 2026-05-09
+**状态**: ✅ accepted
+
+**决策**: Phase 1 数据源最终选用如下,其余源退为"辅助素材"或弃用:
+
+主力源(直接 import / 照搬):
+- `raw/dynasties/dynasties-wxh06.json` — 朝代 + 政权骨架 (西周→现代,带月日精度)
+- `raw/images/people-portraits/index.json` — 532 君主索引,人物骨架照搬
+- `raw/images/people-portraits/_batch_list.json` + 25 张 AI PNG — 朝代 hero 图
+- `raw/images/emperor-portraits.json` — 70 张 Wikimedia URL,下载后处理
+
+辅助源(LLM 起草素材 / 标注):
+- `raw/dynasties/history-rtkarcher.json` — 英文 timeline 摘录
+- `raw/dynasties/grand-timeline-era.tsv` — 年号表
+- `raw/wikipedia/*` — 4 篇英文 wiki 摘录
+- `raw/geography/location-history` — 历史地名标注
+
+弃用 / 暂搁:
+- `emperors-timeline-wanxb.js` — 7259 行 JS,structure 复杂、价值密度低
+- `raw/people/grand-timeline-TC2SC` — 繁简字典,非内容源
+- 公开历史事件数据库(如 Hellohistory) — 实地查看后内容粒度不匹配 v0.6 schema
+
+**理由**:
+- wxh06 是少数带月日精度且覆盖完整时段的开放数据
+- 君主索引 532 人足够 Phase 1 骨架,β 时段诸子百家手填即可
+- 事件无现成可 import,全部走 LLM 起草 + 人工校对(C 风格 body)是必经路径
+
+**替代方案**:
+- 自己从头爬维基百科朝代 — 时间成本不划算,wxh06 已足够
+- 全部 LLM 生成朝代年份 — 易出错,朝代年份必须用人工权威源
+
+**后果**:
+- Sprint 2 写 `tools/import_dynasties_wxh.py` 即可产出 25 朝代 + 主要 regimes 骨架
+- β 深耕(夏/商/西周/春秋/战国)事件 100% LLM 起草 + 人工校对
+- 详细映射表见 `docs/data-source-survey.md` "实地验证结论" 段
+
+---
+
 ## ADR-010: 用 OpenSpec 管理变更
 
 **日期**: 2026-05-09

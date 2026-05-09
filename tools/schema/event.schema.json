@@ -1,0 +1,30 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "event.schema.json",
+  "title": "HistoricalEvent",
+  "type": "object",
+  "required": ["id", "name", "year", "summary", "dynastyId"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "pattern": "^event_[a-z0-9_]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "year": { "type": "integer" },
+    "month": { "type": ["integer", "null"], "minimum": 1, "maximum": 12 },
+    "day": { "type": ["integer", "null"], "minimum": 1, "maximum": 31 },
+    "yearUncertainty": { "type": "string", "enum": ["exact", "year", "decade", "century", "era"] },
+    "dynastyId": { "type": "string", "pattern": "^dynasty_[a-z0-9_]+$" },
+    "regimeId": { "type": ["string", "null"] },
+    "category": {
+      "type": "string",
+      "enum": ["politics", "war", "culture", "science", "economy", "diplomacy", "person", "religion", "other"]
+    },
+    "summary": { "type": "string", "minLength": 50, "maxLength": 1000 },
+    "body": { "type": ["string", "null"], "maxLength": 8000 },
+    "participants": { "type": "array", "items": { "type": "string", "pattern": "^person_[a-z0-9_]+$" } },
+    "locationName": { "type": ["string", "null"] },
+    "historicity": { "type": "string", "enum": ["historical", "semi-historical", "legendary"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "source": { "type": "string" },
+    "_schemaVersion": { "type": "string" }
+  }
+}

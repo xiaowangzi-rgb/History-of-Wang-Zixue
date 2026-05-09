@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "regime.schema.json",
+  "title": "Regime",
+  "type": "object",
+  "required": ["id", "name", "startYear", "endYear", "color", "colorDark", "parentDynastyId"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "pattern": "^regime_[a-z0-9_]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "nameEn": { "type": ["string", "null"] },
+    "startYear": { "type": "integer" },
+    "endYear": { "type": "integer" },
+    "yearUncertainty": { "type": "string", "enum": ["exact", "year", "decade", "century", "era"] },
+    "parentDynastyId": { "type": "string", "pattern": "^dynasty_[a-z0-9_]+$" },
+    "parentRegimeId": { "type": ["string", "null"] },
+    "mergedIntoRegimeId": { "type": ["string", "null"] },
+    "siblingRegimeIds": { "type": "array", "items": { "type": "string" } },
+    "color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "colorDark": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "summary": { "type": ["string", "null"] },
+    "_schemaVersion": { "type": "string" },
+    "source": { "type": "string" }
+  }
+}

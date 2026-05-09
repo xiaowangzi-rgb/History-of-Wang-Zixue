@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "dynasty.schema.json",
+  "title": "Dynasty",
+  "type": "object",
+  "required": ["id", "name", "startYear", "endYear", "color", "colorDark", "historicity"],
+  "additionalProperties": true,
+  "properties": {
+    "id": { "type": "string", "pattern": "^dynasty_[a-z0-9_]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "nameEn": { "type": ["string", "null"] },
+    "startYear": { "type": "integer" },
+    "endYear": { "type": "integer" },
+    "yearUncertainty": { "type": "string", "enum": ["exact", "year", "decade", "century", "era"] },
+    "_yearAuthority": { "type": "string" },
+    "historicity": { "type": "string", "enum": ["historical", "semi-historical", "legendary"] },
+    "color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "colorDark": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+    "summary": { "type": ["string", "null"] },
+    "heroImage": { "type": ["string", "null"] },
+    "heroImageSource": { "type": ["string", "null"] },
+    "heroImageLicense": { "type": ["string", "null"] },
+    "regimeIds": { "type": "array", "items": { "type": "string" } },
+    "_schemaVersion": { "type": "string" },
+    "source": { "type": "string" }
+  }
+}
