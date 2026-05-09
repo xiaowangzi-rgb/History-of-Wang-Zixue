@@ -1,7 +1,15 @@
-# 数据 Schema(草案)
+# 数据 Schema v0.6(草案)
 
-> ⚠️ 这是**阶段 0 草案**,不是最终冻结版本。最终 schema 在阶段 1 跑通孔子单
-> 人物试点后,通过 OpenSpec `/opsx:propose data-schema-v1` 流程正式确定。
+> ⚠️ **2026-05 升级**: 本草案从 v0.5 升至 **v0.6**,主要变化:
+> - event 加 `body` 字段(markdown,1-2K 常态,**5K 字硬上限**)
+> - event 字段确认: `summary` (150-500 字一行版) + `body` (详细) + `participants`
+> - regime 加树拓扑字段: `parentRegimeId` / `mergedIntoRegimeId` / `siblingRegimeIds`
+>   (用于树形时间线渲染)
+> - dynasty 加 `_yearAuthority` 标注采用的纪年权威(默认: 夏商周断代工程)
+> - person 字段维持简化版(persona 字段推迟到 Phase 3 复活)
+>
+> 顶层 JSON 含 `"_schemaVersion": "v0.6"` 字段。最终 schema 在 Phase 1 完成
+> β 深耕后,通过 OpenSpec 流程冻结为 v1.0。
 
 ---
 
@@ -121,7 +129,7 @@
 
 ---
 
-## Entity: Dynasty
+## Entity: Dynasty(v0.6 加纪年权威标注)
 
 朝代,主朝代体系。
 
@@ -139,18 +147,30 @@
   "color": "#C04848",
   "summary": "...",
   "tags": ["大一统"],
+  "historicity": "historical",
+  "_yearAuthority": "夏商周断代工程",
   "source": "manual"
 }
 ```
+
+### `_yearAuthority` 字段
+
+记录该朝代起讫年份所采纳的权威。Phase 1 默认 `"夏商周断代工程"`,争议年份
+用 `yearUncertainty: "century"` 标注。其他权威值候选:
+- `"史记"` (传统纪年)
+- `"夏商周断代工程"` (主流采纳,默认)
+- `"考古修订"` (针对夏 - 商早期等仍在演进的)
+- `"通行历史教科书"` (无争议时段)
 
 `parentId` 用于"继承关系"表达(如东汉.parent = 西汉),不强制单继承,可以为
 null。
 
 ---
 
-## Entity: Regime(政权)
+## Entity: Regime(政权,v0.6 加树拓扑字段)
 
-朝代下面一级,处理三国 / 南北朝 / 五代十国 / 辽宋夏金等并立期。
+朝代下面一级,处理三国 / 南北朝 / 五代十国 / 辽宋夏金等并立期。**v0.6 关键:
+加入树形时间线渲染所需的拓扑字段**。
 
 ```json
 {
@@ -162,17 +182,33 @@ null。
   "capital": ["洛阳"],
   "founderId": "person_cao_pi",
   "color": "#4B5D8C",
+
+  "parentRegimeId": "regime_eastern_han",       // ★ 从哪个政权 fork(可空)
+  "mergedIntoRegimeId": "regime_western_jin",   // ★ merge 到哪个(可空)
+  "siblingRegimeIds": ["regime_shu", "regime_wu"],  // ★ 同时期并立兄弟
+
   "summary": "...",
+  "historicity": "historical",
   "source": "manual"
 }
 ```
+
+### 拓扑字段语义
+
+| 字段 | 含义 | 示例 |
+|---|---|---|
+| `parentRegimeId` | 该 regime 从谁分裂出来 | 曹魏 ← 东汉 |
+| `mergedIntoRegimeId` | 该 regime 被谁取代 / 并入(可空,如朝代延续到改革开放前) | 曹魏 → 西晋 |
+| `siblingRegimeIds` | 同期并立的兄弟 regime | 曹魏 ↔ 蜀 / 吴 |
+
+**用于**: 树图 UI 计算节点位置(分叉/合并)。validate.py 检查双向引用一致性。
 
 非并立期的朝代不需要 regime,直接用 dynasty 即可(西汉就是一个 dynasty,无
 regime)。
 
 ---
 
-## Entity: Event
+## Entity: Event(v0.6)
 
 ```json
 {
@@ -182,11 +218,17 @@ regime)。
   "month": null,
   "day": null,
   "era": "建安十三年",
+  "yearUncertainty": "year",
+  "historicity": "historical",
   "dynastyId": "dynasty_eastern_han",
   "regimeIds": ["regime_eastern_han"],
   "category": "war",
   "tags": ["三国", "决定性战役"],
-  "summary": "(150-300 字)",
+
+  "summary": "(150-500 字一行卡片用)",
+
+  "body": "## 起因\n建安十三年...\n\n## 经过\n...\n\n## 后果\n...",
+
   "participants": [
     {"personId": "person_cao_cao", "role": "主将", "side": "曹军"},
     {"personId": "person_zhou_yu", "role": "主将", "side": "孙刘联军"},
@@ -198,6 +240,27 @@ regime)。
   "source": "manual"
 }
 ```
+
+### 字数硬约束(`tools/validate.py` 强制)
+
+| 字段 | 下限 | 上限 | 行为 |
+|---|---|---|---|
+| `summary` | 150 字 | 500 字 | 超过/不足 → 报错 |
+| `body` | 800 字 | **5000 字** | 超过 → 报错并阻塞 build;不足 → warning |
+
+字数计算: markdown 全文(含 `## 起因` 等标题 + 内容)的中文/英文字符数(不计空白)。
+
+### `body` 推荐结构
+
+至少含 `## 起因` / `## 经过` / `## 后果` 三段,可扩展:
+- `## 影响`(对后世/制度的深远效应)
+- `## 评价`(史家或后人评价)
+- `## 争议`(史实有分歧时)
+
+### `participants` 字段语义
+
+**仅含主角/参与者**,不含"被影响者"。一个人物在一次事件中"被影响"但未参与
+(如赤壁之战影响了汉献帝),不进入 participants。
 
 ### `category` 枚举(5-7 类够用)
 
