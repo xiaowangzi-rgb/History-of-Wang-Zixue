@@ -20,101 +20,114 @@
 
 ---
 
-## 阶段 1: 春秋战国诸子百家试点(1-2 个周末)
+## 阶段 1: 时间线先行 — 先秦 + 春秋战国(1-2 个周末)
 
-**起点为什么是这里**: 见 `decisions.md`。一句话:史实可靠 + 文献丰富 + 思想
-对比强烈,完美验证 schema 和 persona 设计。
+> ⚠️ 2026-05 重定位: 本阶段已从"孔子单人物对话跑通"改为"时间线 MVP"。原计
+> 划见本文件历史 git 记录,设计动机见 `docs/decisions.md`。
+
+**起点为什么是时间线**:
+- 时间线是项目 4 大核心模块里**视觉冲击力最高**的入口,做出来你和朋友立刻
+  有反馈
+- 时间段限定先秦 + 春秋战国(到秦统一止,约 -2070 → -221),事件量小(30-50
+  条)够先把 UI 跑通,不需要全朝代铺开
+- 数据策略改为"**优先用现成 git 仓库 + 适配 schema**",而不是 LLM 富化(降
+  级)。这件事的可行性在 1.1 spike 中验证
 
 **任务清单**:
 
-### 1.1 schema 冻结(0.5 天)
+### 1.0 doc 重定位 ✅ (本次完成)
 
-- 通过 OpenSpec 提案: `/opsx:propose data-schema-v1`
-- 在 `openspec/specs/data-schema/spec.md` 沉淀冻结版本
-- 写 `tools/schema/*.json`(JSON Schema 定义)
+- 修订 `CLAUDE.md`、`roadmap.md`、`persona-design.md`
+- 新增 `docs/timeline-design.md`(时间线模块详细设计)
+- 新增 `docs/data-source-survey.md`(现成 git 仓库调研)
 
-### 1.2 持久 prompt 模板(0.5 天)
+### 1.1 数据源 spike(0.5-1 天)
 
-- 写 `personas/template_serious.j2` 和 `personas/template_romance.j2`
-- 写 `tools/build_personas.py`(最小可用版)
+- 详细评估 `data-source-survey.md` 列出的候选仓库
+- 真去 clone 看格式 + 验证许可证
+- 产出: 选定 1-2 个仓库作 import 起点 + 留 fallback
 
-### 1.3 第一个完整人物:孔子(1-2 天)
+### 1.2 Schema 简化 v0.5(0.5 天)
 
-**手工 + LLM 协作**填一份完整 `data_source/persons/spring_autumn.json`:
-- 仅含一条:孔子(完整字段)
-- 人工填:基础信息 / 主要关系
-- LLM 草稿:summary / personality / speechStyle
-- 你校对
+- 砍掉 person 的 `personality / selfReference / speechStyle / systemPrompt*`
+  字段(留到 Phase 后期再加)
+- 留下 event / dynasty / regime 的核心字段
+- 不走 OpenSpec 冻结流程,**仅 v0.5 草案**(等数据进来再 v1)
 
-跑通: `python tools/build_personas.py` → 输出 `assets/data/persons.json`,
-含 `systemPromptSerious` 字段。
+### 1.3 数据起点(1 天)
 
-### 1.4 端到端对话验证(0.5-1 天)
+**路径根据 1.1 结果分支**:
+- 路径 A: 选中仓库导入 → 写 `tools/import_*.py` 适配
+- 路径 B: 没找到合适仓库 → 自己列 30-50 条事件(用 LLM 协助起草后人工校对)
+- 路径 C: 混合(朝代用仓库,事件自己写)
 
-**不需要 Flutter 项目还没建**:
-- 写 `tools/test_chat.py`(命令行 LLM 客户端)
-- 加载 `assets/data/persons.json` 中孔子的 systemPrompt
-- 命令行和孔子聊几轮,人工评估:
-  - ✅ 严肃模式聊"如何治国"引用《论语》原文,推礼乐
-  - ✅ 切到演义模式有差异
-  - ✅ 问"你怎么看苏轼" → "未之闻也"
-  - ✅ 自称"丘",不用"我"
-  - ✅ 不出现"OK"等现代词
+**产出**: `data_source/dynasties.json` + `data_source/events/pre_qin.json` +
+`data_source/events/spring_autumn.json` + `data_source/events/warring_states.json`
 
-### 1.5 推广到其他诸子(2-3 天)
+### 1.4 Flutter 项目骨架 + 时间线页(2-3 天)
 
-孔子跑通后,加 5-10 个诸子:
-- 老子 / 孟子 / 庄子 / 墨子 / 韩非子 / 孙武
+- `flutter create .`
+- 最简依赖: `flutter_riverpod` / `freezed` / `path_provider`
+- `assets/data/events.json + dynasties.json` 加载到内存
+- 时间线 v0:
+  - 纵向 ListView(顺序由旧到新)
+  - 朝代色块背景(分隔)
+  - 事件卡片: 年份 + 名称 + 1 行简介
+  - 缩放交互**不在 v0 范围**(可选,1.5 / Phase 2 再加)
 
-每加一个,跑 build + 测试对话。这个阶段很愉快,因为每个人物都能独立验证。
+### 1.5 在你自己手机上能滚的版本(0.5 天)
 
-**阶段 1 结束态**: 春秋战国 ~10 个核心人物,每人都能在命令行里聊得有模有样。
-schema 和 persona 模板被 6-10 个不同人物压力测试过,大概率是正确的。
+- Android: `flutter build apk` + adb install
+- iOS: 走 Xcode 个人开发者证书 → 真机
+- 给自己一个能玩的版本,**不发给朋友**(Phase 1 不公开)
 
----
-
-## 阶段 2: Flutter app 雏形(2-3 个周末)
-
-**目标**: 把阶段 1 的对话能力包进 app,让你能在手机上玩。
-
-### 2.1 Flutter 项目骨架
-
-- `flutter create .`(在项目根)
-- `pubspec.yaml` 加依赖:`flutter_secure_storage` / `riverpod` / `freezed` /
-  `dio` / `http` / `path_provider` / `sqflite`
-- 项目结构按 `architecture.md` 的 lib/ 子目录组织
-
-### 2.2 数据加载层
-
-- 启动时从 `assets/data/persons.json` 读全部 person 数据进内存
-- 用 Freezed 生成 model
-- Repository pattern 包装
-
-### 2.3 设置页 + LLM 客户端
-
-- 设置页让用户填 baseUrl / apiKey / modelName
-- `OpenAIClient`:OpenAI 兼容,支持 SSE 流式
-- "测试连接"按钮
-
-### 2.4 最简陋的人物列表 + 对话页
-
-- 列表:展示阶段 1 那 ~10 个诸子,卡片样式
-- 详情页:summary + "💬 对话"按钮
-- 对话页:消息列表 + 输入框 + 流式输出
-- 模式切换 toggle
-
-### 2.5 对话历史
-
-- SQLite 存 session + messages
-- 不同 person 独立 session 列表
-- 后退能看历史 session
-
-**阶段 2 结束态**: 你能在自己手机上点"孔子" → 进入对话 → 流畅聊几轮。
-无时间线、无朝代图、无做题,但**核心特色**已经活了。
+**阶段 1 结束态**: 你打开手机能滚一遍先秦+春秋战国时间线,从盘古到秦统一,
+事件清单 30-50 条,体验 = "中国史的形状是什么样的"。
 
 ---
 
-## 阶段 3: CBDB 接入 + 全朝代铺开(持续推进,~2-3 个月)
+## 阶段 2: 朝代脉络图 + 人物卡 + 数据扩段(2-3 个周末)
+
+> 2026-05 重定位后: 阶段 2 焦点从"对话 app 雏形"改为"补齐另外 3 个核心模块
+> 的 v0 形态"。Flutter 骨架已经在 Phase 1.4 立起来了,这里是模块扩展。
+
+**目标**: 在 Phase 1 时间线基础上,把朝代脉络图和人物卡片立起来,数据从先
+秦+春秋战国扩到秦汉。
+
+### 2.1 朝代脉络图 v0(1-2 周末)
+
+- `CustomPainter` 自绘 Swimlane
+- 数据驱动:从 `dynasties.json` + `regimes.json` 渲染
+- 第一版**不要求**三国 / 南北朝并立分叉(Phase 3 再做)
+- 横向时间轴 + 朝代色块,点朝代 → 跳到时间线对应段
+
+### 2.2 人物卡片 v0(1 周末)
+
+- 人物列表页(按朝代分组)
+- 详情卡: 基础信息 / 关键事件 / 关系(简单列表,不画网图)
+- 数据来源: 还是手填 + git 仓库 import,不调 LLM
+
+### 2.3 数据扩段: 加秦汉
+
+- 沿用 Phase 1.1 选定的数据源,扩到秦汉
+- 事件量预计扩到 100-150 条
+- 校对周期会变长,这是真实工作量
+
+### 2.4 做题模块 v0(1 周末,可后置)
+
+- 第一版: 时间排序题 + 单选题(2 种题型够用)
+- SRS 调度暂用最简版本(每天复习昨天答错的)
+- 题目可由事件自动生成:"以下事件按时间顺序排列"
+
+**阶段 2 结束态**: 4 个核心模块都有 v0 形态,数据覆盖到秦汉。能给最铁的 1-2
+个朋友看(还不公开 release)。
+
+---
+
+## 阶段 3: 全朝代铺开 + 对话能力恢复(持续推进,~2-3 个月)
+
+> 2026-05 重定位: 对话模块在 Phase 3 才恢复(原 Phase 1)。届时 4 个核心模
+> 块已稳,可以放心做加分项,且 schema/数据已经被压力测试过。
 
 **目标**: 人物数据从 ~10 扩到几百,覆盖主要朝代。
 
