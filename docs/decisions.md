@@ -777,6 +777,45 @@ systemPromptRomance` 字段。运行期 app 直接读取该字符串,**不做模
 
 ---
 
+## ADR-029: 热更范围 — file-level 全量 + 砍 UX 复杂度(2026-05)
+
+**日期**: 2026-05-09
+**状态**: ✅ accepted(细化 ADR-018)
+
+**决策**:
+- 热更新粒度 = **file-level 全量替换**(events.json / dynasties.json / 等独立)
+- 主数据 manifest 启动主动拉,有变化立刻下载
+- 图片**单独 manifest + 懒加载**(展开朝代节点才下载该朝代图)
+- 砍掉 UX 复杂度:
+  - 不做更新 toast / 通知
+  - 不区分蜂窝 vs WiFi
+  - 不做积累提示("本周新增 N 条")
+  - 用户感知 = 0(下次启动直接看到新数据)
+- 错误处理 = `tools/validate.py` 严格 + git revert 作回滚
+- Schema 迁移 = manifest 含 `_minAppVersion` 字段
+- 测试机制 = 设置页"立即检查更新"按钮 + debug 模式拉取详情
+
+**理由**:
+- 用户核心需求是"我方便推数据",不是"用户感知到更新"
+- 自用 + 朋友量 < 50,UX 投入 ROI 低
+- file-level 全量 = 简单可靠,事件级 patch 复杂度太高
+- 图片单独 manifest 因为 78 MB 不能每次启动全拉
+- 砍 UX → Phase 1.5 实施量从"可能 1 周"降到"~2 天"
+
+**替代**:
+- 整个 raw/ 全量替换: 78 MB 每次更新,流量灾难
+- 事件级 patch: 引入 diff/merge 复杂度,自用不值
+- UX 全套(toast/积累提示/选项): Phase 1.5 工作量翻倍,边际价值低
+
+**后果**:
+- `docs/data-update-strategy.md` 新增 5 段 ★ 详细规范
+- `assets/images/_manifest.json` 独立维护(图片 manifest)
+- Flutter 端 RemoteDataSyncService 实现简化
+- 设置页加"立即检查更新"按钮(Phase 1.5 唯一 UX 触点)
+- 后续: 用户量真涨大(>100 朋友)再考虑增量更新 / WiFi 区分
+
+---
+
 ## ADR-010: 用 OpenSpec 管理变更
 
 **日期**: 2026-05-09
