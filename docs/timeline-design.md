@@ -118,15 +118,27 @@
 
 ## 数据契约(完整版)
 
-时间线读 4 个 JSON 文件:
+时间线读 5 个 JSON 文件,加载策略 = **先 cache 后远程**(详见
+`docs/data-update-strategy.md`):
 
 ```
-   assets/data/
-   ├── dynasties.json       # 朝代主体
-   ├── regimes.json         # 政权(含树拓扑字段)
-   ├── events.json          # 事件(含 markdown body)
-   └── persons.json         # 人物(关键人物,Phase 后期人物模块用)
+   assets/data/                 # 内置(打包时)
+   ├── manifest.json            # 各文件 hash + schema version
+   ├── dynasties.json
+   ├── regimes.json
+   ├── events.json
+   └── persons.json
+
+   ApplicationDocumentsDir/data/  # 运行时 cache(热更产物)
+   └── 同上 5 个文件,优先读取
 ```
+
+**加载顺序**(`DataRepository`):
+1. 检查 `ApplicationDocumentsDir/data/` 是否有 cache
+2. 有 → 加载 cache
+3. 无 → 加载 `assets/data/`(打包时内置版)
+4. 后台异步拉 GitHub Raw 的 manifest,比较 hash → 有新就下载到 cache
+5. 不打断当前会话,**下次启动**用新数据
 
 ### dynasty 字段
 
