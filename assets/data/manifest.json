@@ -2,7 +2,7 @@
   "_schemaVersion": "v0.6",
   "_minAppVersion": "1.0.0",
   "count": 4,
-  "totalBytes": 234968,
+  "totalBytes": 301658,
   "files": [
     {
       "path": "dynasties.json",
@@ -21,8 +21,8 @@
     },
     {
       "path": "persons.json",
-      "sha256": "02d0bcdccc74131a4249b53ca3a57789ab4f599a5eb61f87edbd9bc04e04fb1b",
-      "size": 142526
+      "sha256": "b1ae931384707a3ed95e5bd91cb6f329c0f1213ad9beb690c5dfd32ab5d6e3c7",
+      "size": 209216
     }
   ]
 }

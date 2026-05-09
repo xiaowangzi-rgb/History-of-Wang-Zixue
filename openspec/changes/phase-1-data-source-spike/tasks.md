@@ -71,10 +71,11 @@
       → 文件: legendary, qin, western_han, xin, eastern_han, three_kingdoms,
         western_jin, eastern_jin, sixteen_kingdoms, southern_northern, sui,
         tang, five_dynasties, song, yuan, ming, qing, republic, prc_pre_reform
-- [x] 4.3.2 17 个非 β 时段共 361 个君主人物从 `raw/images/people-portraits/index.json` import
-      → `tools/import_persons_index.py` 自动映射 dynasty 名 → dynasty_id (+regime_id)
-      → β 朝代 171 条跳过留 Sprint 4 手工 curate
-      → 重要人物(诸葛亮 / 李白 等)Sprint 4 与 β 一并写入
+- [x] 4.3.2 全 21 个朝代共 **532 个君主人物**从 `raw/images/people-portraits/index.json` import
+      → `tools/import_persons_index.py [--include-beta]` 自动映射 dynasty 名 → dynasty_id (+regime_id)
+      → β 朝代 (xia 19 / shang 30 / western_zhou 14 / eastern_zhou 108) Sprint 4-lite 已 import
+      → β 朝代人物的 body / portrait 留 Sprint 4 真正 curate 时填
+      → 诸子百家 / 重臣 (诸葛亮 / 李白 等)Sprint 4 手工补
 - [x] 4.3.3 占位文件 _schemaVersion + 顶层结构正确 (validate.py 全 pass)
 
 ### 4.4 朝代 hero 图(从 raw/ 引用)

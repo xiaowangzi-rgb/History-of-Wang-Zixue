@@ -15,6 +15,7 @@ Collisions within a dynasty get numeric suffix.
 """
 from __future__ import annotations
 
+import argparse
 import json
 import re
 from collections import defaultdict
@@ -155,6 +156,11 @@ def disambiguate_jin(reign_start: int | None, default: tuple[str, str | None, st
 
 
 def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--include-beta", action="store_true",
+                    help="include β dynasties (xia/shang/western_zhou/eastern_zhou) instead of skipping")
+    args = ap.parse_args()
+
     with SRC.open("r", encoding="utf-8") as f:
         records = json.load(f)
 
@@ -180,7 +186,7 @@ def main() -> int:
 
         dynasty_id, regime_id, file_short = mapped
 
-        if dynasty_id in BETA_DYNASTIES:
+        if dynasty_id in BETA_DYNASTIES and not args.include_beta:
             skipped_beta.append({"raw_dynasty": raw_dyn, "name": name, "reign": reign, "dynasty_id": dynasty_id})
             continue
 
