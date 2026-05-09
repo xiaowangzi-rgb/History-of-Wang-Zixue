@@ -1,20 +1,31 @@
 ## 1. 准备
 
-- [ ] 1.1 确认 `.gitignore` 含 `raw/` 和 `staged/`
-- [ ] 1.2 安装 Python 依赖: `pip install jsonschema`
-- [ ] 1.3 准备 `DEEPSEEK_API_KEY` 环境变量(β 深耕用)
-- [ ] 1.4 简化 `docs/data-schema.md` 已完成 ✓ (Step 1)
+- [ ] 1.1 确认 `.gitignore` 含 `_local/` + `raw/cbdb/` 等大库 (ADR-028,raw/ 已**进 git**)
+- [ ] 1.2 安装 Python 依赖: `pip install jsonschema scrapling Pillow requests`
+- [ ] 1.3 准备 `DEEPSEEK_API_KEY` 环境变量(β 深耕 LLM 起草用)
+- [ ] 1.4 schema 已升 v0.6 ✓ (`docs/data-schema.md`)
+- [ ] 1.5 创建 `_local/llm-drafts/` 和 `_local/crawl-cache/` 目录(gitignored 工作区)
 
-## 2. 数据源候选实地验证
+## 2. 数据源 review(agent 已提供 raw/,本节大部分已经做完)
 
-- [ ] 2.1 `git clone https://github.com/Hellohistory/HistoryChronology raw/historychronology`
-      → 看 README + LICENSE + 数据格式
-- [ ] 2.2 `git clone https://github.com/wushixong/ChineseHistoryTimeline raw/chinesehistorytimeline`
-- [ ] 2.3 `git clone https://github.com/ScottYuan09/History-Chronology raw/history-chronology-scott`
-- [ ] 2.4 浏览维基百科"中国历史大事年表"页面,确认是否有结构化导出
-- [ ] 2.5 维基数据 SPARQL endpoint 测试 — 查"中国历代帝王"
-- [ ] 2.6 在 `docs/data-source-survey.md` 底部新增"实地验证结论"段
-- [ ] 2.7 选定每类数据的源,写 ADR-018 入 `docs/decisions.md`
+> 2026-05 更新: agent 已经把 5 个源的数据 push 到 `raw/`(commit be6937e),
+> 本节从"调研 + clone"变为"review 现有数据 + 决定怎么用"。
+
+- [ ] 2.1 review `raw/dynasties/` 内容
+      - dynasties-wxh06.json: 朝代 + 政权完整清单(从西周到现代)
+      - history-rtkarcher.json: 英文 timeline 风格事件
+      - grand-timeline-era.tsv: 年号表
+      - emperors-timeline-wanxb.js: 7259 行 JS 数据
+- [ ] 2.2 review `raw/images/`
+      - emperor-portraits.json: 70 张 Wikimedia 帝王画像 URL
+      - people-portraits/index.json: 532 位君主完整索引(含 reign 年份)
+      - people-portraits/_batch_list.json: 25 位 AI 生成画像参数
+      - 25 张 PNG 已在 `raw/images/people-portraits/<朝代>/<君主>/*.png`
+- [ ] 2.3 review `raw/wikipedia/` 4 篇英文 wiki 摘录(可作 LLM 起草素材库)
+- [ ] 2.4 review `raw/people/` (注: grand-timeline-TC2SC 是繁简字典,毛轨迹超 Phase 1 scope)
+- [ ] 2.5 review `raw/geography/` (Phase 1 暂用 location-history 作 locationName 标注)
+- [ ] 2.6 在 `docs/data-source-survey.md` 底部新增"实地验证结论"段,记录每个源的: 用法、覆盖度、是否选用
+- [ ] 2.7 写 ADR-027(选定数据源 + 拒用源原因)入 `docs/decisions.md`
 
 ## 3. JSON Schema 工件
 
@@ -27,31 +38,49 @@
 
 ## 4. 全 25 朝代骨架数据
 
+> **起点**: `raw/dynasties/dynasties-wxh06.json` 已含从西周到现代的完整
+> 朝代 + 政权清单(JSON 数组,带月日精度)。本节主要工作是 import + 校对 +
+> 加 v0.6 字段(树拓扑 / 颜色 / hero 图)。
+
 ### 4.1 朝代列表
 
-- [ ] 4.1.1 整理完整朝代列表(尧舜禹起,改革开放前止),包括:
-      - 传说时代(尧/舜/禹) → `dynasty_legendary` 或拆分
-      - 夏 / 商 / 西周 / 东周(春秋/战国可作为 dynasty 也可作为 regime,定一下)
-      - 秦 / 汉(西/新莽/东) / 三国 / 晋(西/东)/ 十六国 / 南北朝 / 隋 / 唐 /
-        五代十国 / 宋(辽夏金)/ 元 / 明 / 清 / 民国 / 新中国(1949-1978)
-- [ ] 4.1.2 每个朝代填: id / name / startYear / endYear / color /
-      historicity / `_yearAuthority`(默认"夏商周断代工程")
-- [ ] 4.1.3 输出到 `data_source/dynasties.json`
+- [ ] 4.1.1 写 `tools/import_dynasties_wxh.py`,从 `raw/dynasties/dynasties-wxh06.json`
+      抽取顶层朝代(夏 / 商 / 西周 / 东周 / 秦 / 西汉 / 东汉 / 三国 / 西晋 / ...)
+- [ ] 4.1.2 补充传说时代条目: `dynasty_legendary`(historicity=legendary,
+      yearUncertainty=era,雾化处理)
+- [ ] 4.1.3 补充 1949-1978 条目: `dynasty_prc_pre_reform`
+- [ ] 4.1.4 每个朝代加 v0.6 字段: color / colorDark (从 `docs/dynasty-palette.md`) /
+      historicity / `_yearAuthority` ("夏商周断代工程")
+- [ ] 4.1.5 输出到 `data_source/dynasties.json`(共 25 条)
 
 ### 4.2 政权(regime)与树拓扑
 
-- [ ] 4.2.1 列出所有 regime: 春秋诸侯(主要 5-10 国)/ 战国七雄 / 三国 /
-      十六国 / 南北朝(南朝/北朝)/ 五代十国 / 辽夏金
-- [ ] 4.2.2 每个 regime 填: id / name / dynastyId / startYear / endYear /
-      color / `parentRegimeId` / `mergedIntoRegimeId` / `siblingRegimeIds`
-- [ ] 4.2.3 双向一致性手工 review(`A.siblings ↔ B.siblings`)
-- [ ] 4.2.4 输出到 `data_source/regimes.json`
+- [ ] 4.2.1 从 `raw/dynasties/dynasties-wxh06.json` 抽取并立期: 十六国 16 条 /
+      南北朝(南朝 4 + 北朝 5)/ 三国 3 / 五代十国(主要)/ 辽宋夏金 / 战国七雄
+- [ ] 4.2.2 春秋诸侯主要 5-7 国手填(rough 资料,wxh06 没有)
+- [ ] 4.2.3 每个 regime 加 v0.6 字段: color / colorDark (从 dynasty-palette.md) /
+      `parentRegimeId` / `mergedIntoRegimeId` / `siblingRegimeIds`
+- [ ] 4.2.4 双向一致性手工 review (A.siblings ↔ B.siblings)
+- [ ] 4.2.5 输出到 `data_source/regimes.json`
 
-### 4.3 各朝代占位事件 + 人物
+### 4.3 各朝代占位事件 + 人物(非 β 时段)
 
-- [ ] 4.3.1 25 个时段每个 5-10 个事件标题 + year + dynastyId(占位)
-- [ ] 4.3.2 25 个时段每个 5-10 个关键人物 name + role + birth/death(占位)
-- [ ] 4.3.3 占位文件 _schemaVersion 和顶层结构正确
+- [ ] 4.3.1 20 个非 β 时段每个 5-10 个事件标题 (LLM 协助列出,不写 body)
+- [ ] 4.3.2 20 个非 β 时段每个 5-10 个关键人物
+      → 优先用 `raw/images/people-portraits/index.json` 中的君主名(从夏到清,
+        532 位现成)
+      → 帝王照搬,加少量重要人物(诸葛亮 / 李白 / 王安石 / 张居正 等)
+- [ ] 4.3.3 占位文件 _schemaVersion + 顶层结构正确
+
+### 4.4 朝代 hero 图(从 raw/ 引用)
+
+- [ ] 4.4.1 25 朝代 hero 图: 优先从 `raw/images/people-portraits/<朝代>/<开国君主>/`
+      引用,例如:
+      - dynasty_qin → 秦始皇.png
+      - dynasty_ming → 朱元璋.png
+      - dynasty_qing → 皇太极.png
+- [ ] 4.4.2 没现成画像的朝代(夏/商/西周/春秋战国)用 dynasty.color 色块占位
+- [ ] 4.4.3 在 dynasties.json 填 heroImage / heroImageSource / heroImageLicense
 
 ## 5. β 深耕(尧舜禹 / 夏 / 商 / 西周)
 
@@ -136,27 +165,34 @@
 - [ ] 8.3 实现"草稿落 staged + source: llm-draft"
 - [ ] 8.4 实现"校对后导出到 data_source + source 改为 llm-reviewed"
 
-## 8.5 图片爬取 + 处理(Phase 1 必做范围)
+## 8.5 图片处理(Phase 1 — agent 已提供大部分)
 
-- [ ] 8.5.1 写 `tools/crawl_images.py` 基于 Scrapling
-- [ ] 8.5.2 实现自动评分排序(分辨率 + 来源 + 标签 + 文件名匹配)
-- [ ] 8.5.3 25 朝代 hero 图: 爬取 → 你 review 选 top1 → 落 `raw/images/dynasties/`
-      (~2 小时筛选)
-- [ ] 8.5.4 β 时段 ~50 关键人物 portrait: 爬取 → review 选 top1
-      (~3-5 小时筛选)
-- [ ] 8.5.5 写 `tools/process_images.py`(Pillow 压缩 + WebP 转换)
-- [ ] 8.5.6 跑 process_images,产出 `data_source/images/{dynasties,persons}/*.{webp,thumb.webp}`
-- [ ] 8.5.7 写 `tools/build_image_manifest.py`(SHA-256 hash + size)
-- [ ] 8.5.8 在 dynasty / person JSON 中填入 heroImage / portrait + source + license 字段
+> 2026-05 更新: agent 已 push 25 张 AI 生成 PNG + 70 张 Wikimedia 帝王画像
+> URL + 532 君主索引。本节主要是**处理 + 关联**,而非"爬取"。
+> 缺失的图(春秋战国诸子百家)走 Scrapling 爬。
+
+- [ ] 8.5.1 写 `tools/process_images.py`(Pillow 压缩到 800x600 WebP + 缩略图)
+- [ ] 8.5.2 处理 raw/images/people-portraits/*.png (25 张) → data_source/images/persons/*.webp
+- [ ] 8.5.3 emperor-portraits.json 70 张 Wikimedia URL: 写 `tools/download_wikimedia_images.py`
+      下载到 `_local/crawl-cache/` → process → data_source/images/persons/
+- [ ] 8.5.4 春秋战国关键人物画像缺失部分: 写 `tools/crawl_images.py`(Scrapling)
+      限定 commons.wikimedia.org 域,人工 review (~2-3 小时筛选)
+- [ ] 8.5.5 写 `tools/build_image_manifest.py`(SHA-256 hash + size)
+      生成 `assets/images/_manifest.json`(独立于主数据 manifest)
+- [ ] 8.5.6 在 dynasty / person JSON 中填入 heroImage / portrait + source + license 字段
+- [ ] 8.5.7 验证图片总体积(预计 30-50 MB,β 时段为主)
 
 ## 9. build 工具
 
 - [ ] 9.1 写 `tools/build.py`(读 `data_source/` → 合并/复制 → `assets/data/`)
 - [ ] 9.2 实现 build 前调 validate,失败则 abort
 - [ ] 9.3 events 按 year 升序合并到 `assets/data/events.json`
-- [ ] 9.4 顶层加 `_schemaVersion: "v0.6"` + `_buildTime`
-- [ ] 9.5 跑 `python tools/build.py`,验证 `assets/data/*.json` 内容
-- [ ] 9.6 验证文件总大小(预计 8-15 MB)
+- [ ] 9.4 主数据 manifest: 写 `tools/build_manifest.py` 生成 `assets/data/manifest.json`
+      含 `_schemaVersion: "v0.6"` / `_minAppVersion: "1.0.0"` /
+      per-file SHA-256 hash + size (ADR-029)
+- [ ] 9.5 图片 manifest: 由 8.5.5 生成的 `assets/images/_manifest.json` 独立管理
+- [ ] 9.6 跑 `python tools/build.py`,验证 `assets/data/*.json` 内容
+- [ ] 9.7 验证文件总大小(预计 8-15 MB JSON + 30-50 MB 图片)
 
 ## 10. 文档收尾
 
