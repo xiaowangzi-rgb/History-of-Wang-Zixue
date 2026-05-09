@@ -44,24 +44,26 @@
 
 ### 4.1 朝代列表
 
-- [ ] 4.1.1 写 `tools/import_dynasties_wxh.py`,从 `raw/dynasties/dynasties-wxh06.json`
+- [x] 4.1.1 写 `tools/import_dynasties_wxh.py`,从 `raw/dynasties/dynasties-wxh06.json`
       抽取顶层朝代(夏 / 商 / 西周 / 东周 / 秦 / 西汉 / 东汉 / 三国 / 西晋 / ...)
-- [ ] 4.1.2 补充传说时代条目: `dynasty_legendary`(historicity=legendary,
+- [x] 4.1.2 补充传说时代条目: `dynasty_legendary`(historicity=legendary,
       yearUncertainty=era,雾化处理)
-- [ ] 4.1.3 补充 1949-1978 条目: `dynasty_prc_pre_reform`
-- [ ] 4.1.4 每个朝代加 v0.6 字段: color / colorDark (从 `docs/dynasty-palette.md`) /
+- [x] 4.1.3 补充 1949-1978 条目: `dynasty_prc_pre_reform`
+- [x] 4.1.4 每个朝代加 v0.6 字段: color / colorDark (从 `docs/dynasty-palette.md`) /
       historicity / `_yearAuthority` ("夏商周断代工程")
-- [ ] 4.1.5 输出到 `data_source/dynasties.json`(共 25 条)
+- [x] 4.1.5 输出到 `data_source/dynasties.json`(实际 23 条 — 与 dynasty-palette.md 一致;
+      docs 标题写 "25" 但表格只有 23 行,Sprint 2 尾段建议改 docs 标题)
 
 ### 4.2 政权(regime)与树拓扑
 
-- [ ] 4.2.1 从 `raw/dynasties/dynasties-wxh06.json` 抽取并立期: 十六国 16 条 /
-      南北朝(南朝 4 + 北朝 5)/ 三国 3 / 五代十国(主要)/ 辽宋夏金 / 战国七雄
-- [ ] 4.2.2 春秋诸侯主要 5-7 国手填(rough 资料,wxh06 没有)
-- [ ] 4.2.3 每个 regime 加 v0.6 字段: color / colorDark (从 dynasty-palette.md) /
+- [x] 4.2.1 从 `raw/dynasties/dynasties-wxh06.json` 抽取并立期: 十六国 16 条 /
+      南北朝(南朝 4 + 北朝 5)/ 三国 3 / 五代 5 / 战国七雄(手填)
+- [x] 4.2.2 春秋诸侯主要 7 国手填(鲁/齐/晋/楚/秦/宋/吴)
+- [x] 4.2.3 每个 regime 加 v0.6 字段: color / colorDark (从 dynasty-palette.md) /
       `parentRegimeId` / `mergedIntoRegimeId` / `siblingRegimeIds`
-- [ ] 4.2.4 双向一致性手工 review (A.siblings ↔ B.siblings)
-- [ ] 4.2.5 输出到 `data_source/regimes.json`
+- [x] 4.2.4 双向一致性: validate.py R5 自动校验通过
+- [x] 4.2.5 输出到 `data_source/regimes.json`(47 条)
+      pending: 五代十国的"十国"和辽/西夏/金 留 Sprint 3 / 后续 manual 补
 
 ### 4.3 各朝代占位事件 + 人物(非 β 时段)
 
