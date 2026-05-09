@@ -1,0 +1,70 @@
+# ===== 机密 / 凭据 =====
+# 任何 LLM API key、token、个人凭据都不得进 git
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+.deepseek_key
+.openai_key
+.anthropic_key
+config.local.*
+
+# ===== 第三方原始数据 =====
+# CBDB / chinese-poetry / Wikidata dump 等原始数据,法律边界 + 体积考虑都不进仓库
+raw/
+*.7z
+*.zip
+*.tar.gz
+
+# ===== Flutter / Dart =====
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+*.iml
+ios/Pods/
+android/.gradle/
+android/local.properties
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# ===== Python (tools/) =====
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.python-version
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ===== Node (OpenSpec / 文档构建工具) =====
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# ===== IDE =====
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== 构建/临时 =====
+*.log
+*.tmp
+*.bak
+.cache/

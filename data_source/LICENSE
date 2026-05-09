@@ -1,0 +1,66 @@
+# Data License — Creative Commons Attribution-ShareAlike 4.0 International
+# (CC BY-SA 4.0)
+
+本 `data_source/` 目录下的所有数据内容(JSON 文件、人物简介、事件记录、朝代信
+息、关系网等)采用 **CC BY-SA 4.0** 协议授权。
+
+完整协议文本: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+## 你可以
+
+- **共享** — 以任何媒介或格式复制、发行
+- **演绎** — 修改、转换、基于本数据创建衍生作品
+- 用于任何目的,包括商业用途
+
+## 必须遵守的条件
+
+1. **署名 (Attribution)** — 必须给出适当的署名,提供本协议链接,并标明是否做
+   出过修改。可以以任何合理方式做出署名,但不得以任何方式暗示授权人正式认可了
+   你或你使用本数据的方式。
+
+2. **相同方式共享 (ShareAlike)** — 如果你修改、转换或基于本数据创作,你必须以
+   与原作品**相同的协议** (CC BY-SA 4.0) 来分发你的衍生作品。
+
+3. **不得附加额外限制 (No additional restrictions)** — 不得使用法律条款或技术
+   性手段从事限制他人在协议许可范围内的行为。
+
+## 推荐的署名方式
+
+```
+本数据来自 xiaowangzi-rgb/History-of-Wang-Zixue
+(https://github.com/xiaowangzi-rgb/History-of-Wang-Zixue),
+CC BY-SA 4.0 协议授权。
+```
+
+---
+
+## 数据上游署名
+
+本目录数据为多源 ETL 产物。下游使用者除署名本仓库外,**必须同时保留**以下上游
+来源的署名:
+
+### 1. CBDB (China Biographical Database)
+
+- 维护方: 哈佛大学 / 北京大学 / 中央研究院
+- 主页: https://cbdb.hsites.harvard.edu/
+- 引用建议: "Data extracted from CBDB (China Biographical Database),
+  jointly maintained by Harvard, Peking University, and Academia Sinica."
+- 注: 本仓库**不直接分发** CBDB 原数据库,只分发提取/转换后的精简字段。
+
+### 2. chinese-poetry
+
+- 仓库: https://github.com/chinese-poetry/chinese-poetry
+- 协议: MIT
+- 引用建议: 保留 MIT 版权声明
+
+### 3. Wikipedia / Wikidata
+
+- 主页: https://www.wikipedia.org/ / https://www.wikidata.org/
+- 协议: CC BY-SA(本仓库与之兼容)
+- 引用建议: 在使用具体条目时附上对应维基链接
+
+### 4. LLM 生成内容
+
+- 用于事件草稿、文言文转译、人设字段等
+- **均经人工校对后**方进入本目录
+- 校对者: xiaowangzi-rgb
