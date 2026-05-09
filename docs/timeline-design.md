@@ -430,15 +430,136 @@ Phase 3 才恢复 `personality / selfReference / speechStyle / systemPrompt*`。
 
 ---
 
+## UI Visual Design v0.6(2026-05 ui-ux-pro-max 产出)
+
+### 设计语言: 水墨电子纸 (Ink-Paper)
+
+```
+   定位:   "现代极简" + "中国传统排版"的克制融合
+            ── 不古风(避免装饰过度),不极简到失去文化感
+            ── 像一本"用 iPhone 显示的高质量纸质历史书"
+```
+
+参考: ui-ux-pro-max 数据库的 **E-Ink / Paper** style + **Chinese Traditional**
+typography pairing。详细见 ADR-027。
+
+### 设计 token 总表
+
+详见 `docs/design-tokens.md`(完整 light/dark 双套 token + 排版 + spacing)。
+
+要点:
+- 主背景: light = `#FDFBF7` (米白纸感) / dark = `#000000` (OLED 真黑)
+- 文字: light = `#1A1A1A` (Ink Black) / dark = `#FAFAFA`
+- 圆角: 主 6px,大 12px,卡片 4-6px(微圆,不过软)
+- spacing: 4 / 8 / 12 / 16 / 20 / 24 / 32 / 48
+- 转场: 200ms ease-out,无 motion blur
+
+### 字体配对
+
+```
+   标题:  Noto Serif SC (思源宋体)  — 翻书感 / 中国味
+   正文:  Noto Sans SC  (思源黑体)  — 现代清晰 / 长读不累
+   引用:  Noto Serif SC italic       — 史料块
+   传说:  楷体 (Flutter 内置回退)    — 区分信史
+```
+
+通过 `google_fonts: ^6.x` 包加载 + 缓存。
+
+### 25 朝代色板
+
+详见 `docs/dynasty-palette.md`。设计原则:
+- 全部走**矿物色 / 自然色**(传统中国画颜料)
+- 相邻朝代色相隔 ≥ 30°
+- 饱和度 25-45%(不抢戏)
+- 每色含 light + dark 配对
+
+### 树节点造型: 印章风 (Seal Stamp)
+
+```
+   主朝代节点(level 1)    政权节点(level 2)    传说节点
+   ┌─────────────────────┐ ┌─────────────────┐ ┌──────────┐
+   │ ╔═══════════╗       │ │ ╔═══════════╗   │ │ ┄┄ 尧 ┄┄ │
+   │ ║   西周    ║       │ │ ║   曹魏    ║   │ │  灰阶虚线 │
+   │ ║  -1046    ║       │ │ ║  220-265  ║   │ │  楷书     │
+   │ ╚═══════════╝       │ │ ╚═══════════╝   │ │           │
+   │  80 × 60 dp          │ │  60 × 45 dp     │ │  楷书 italic │
+   │  双线边框(深+浅)    │ │  单线边框        │ │  浅灰 #888  │
+   │  阴文白字            │ │  缩小版主节点    │ │  虚线 4 4   │
+   └─────────────────────┘ └─────────────────┘ └──────────┘
+```
+
+### 事件卡片 + 详情页
+
+事件卡片(树图朝代节点展开后,BottomSheet 内显示):
+- 朝代色横条 4px(顶部,与树节点呼应)
+- Noto Serif SC 16pt 事件名 + 14pt summary
+- 边框 0.5px 朝代浅色 + 圆角 6px
+- 点击 → push 详情页(Navigator,转场 280ms)
+
+详情页(全屏 markdown body):
+- 单栏布局,内容宽度 = SafeArea 内屏宽 - 32dp 左右 padding
+- 段落间距 16pt,行高 1.7,行长目标 26-32 中文字符
+- 引用块 楷体或宋体斜体
+- 底部参与人物 chip + 相关事件链接
+
+### 移动端实施细节(必须遵守)
+
+**SafeArea**: 所有页面顶部/底部内容包在 SafeArea widget。AppBar 自动处理,但
+自绘 CustomPainter 区域要主动 padding。
+
+**触摸目标**: ≥ 48 dp(Material 标准)。树节点 60×45 / 80×60 已达标;chip 至
+少 44×44。卡片间距 ≥ 12dp 防误点。
+
+**按下态(无 hover)**: 所有可点击控件用 InkWell + Material ripple,或自定义
+按下态(透明度 0.7,松开 200ms 回原)。
+
+**触觉反馈**: 关键交互点用 `HapticFeedback`:
+- 点击朝代节点 → `lightImpact`
+- 跳转事件详情 → `selectionClick`
+- 数据热更完成 → `mediumImpact`
+
+**抽屉而不是 modal**: 朝代节点展开 → `showModalBottomSheet`(半屏 + 全屏两
+档)。事件详情 → `Navigator.push`(整页 push,iOS/Android 平台默认转场)。
+不用 `showDialog`。
+
+**滚动 physics**: 用 Flutter 默认(`AlwaysScrollableScrollPhysics`),平台自
+适应(iOS 弹性 / Android 硬停)。**别覆盖**。
+
+**下拉刷新**: 主树图包 `RefreshIndicator`,下拉触发数据热更检查
+(详见 `docs/data-update-strategy.md`)。
+
+**屏幕方向**: Phase 1 锁竖屏(`SystemChrome.setPreferredOrientations`)。
+Phase 2 再考虑横屏 + iPad。
+
+**Dynamic Type**: 尊重系统字号设置,用 `MediaQuery.textScaleFactor` 缩放。
+最大限制 1.3x(避免布局炸)。
+
+**主题切换**: `MaterialApp` 设 `theme` + `darkTheme` + `themeMode:
+ThemeMode.system`。设置页可强制 light / dark / system。
+
+### 传说时代雾化(详细)
+
+4 层叠加:
+1. 背景渐变: 沙色 `#F0EBE0` → 主背景(透出年代久远感)
+2. 节点本身: 灰阶 + opacity 0.6
+3. 节点边框: 虚线(`dashed: [4, 4]`)
+4. 文字: 楷书 + `#888` + italic
+
+### 暗色模式策略
+
+- 触发: 跟随系统(`MediaQuery.platformBrightness`)+ 设置页可强制
+- light 模式 = 米白纸感(不是纯白,避免刺眼)
+- dark 模式 = OLED 真黑(深夜阅读 + 续航)
+- 朝代色 dark 变体: 饱和度 +15%,亮度 +20%
+- 雾化区 dark = 深褐紫 `#2A1F1F`
+
+详见 `docs/design-tokens.md`。
+
+---
+
 ## 开放问题(Phase 1.4 实施时再决定)
 
 - 滚动方向是真"从下到上"还是允许配置(可能引入"反转"开关)
 - 春秋战国诸侯如何选"主要 3-5 个"(秦楚齐晋 vs 七雄全画)
-- 朝代节点的造型(圆点 / 印章方形 / 古铜钱?) — 待 ui-ux-pro-max 给方案
-- 全 25 朝代色板(协调 + 相邻不撞色) — 待 ui-ux-pro-max 给方案
-- 字体配对(标题楷书 / 正文宋体?) — 待 ui-ux-pro-max 给方案
-- 整体设计语言(古风 / 现代极简 / 古今融合?) — 待 ui-ux-pro-max 给方案
-- 暗色模式色彩转换策略
-
-这些 UI 设计问题计划在 Step 1 + Step 2 doc 落地后,通过 `ui-ux-pro-max` skill
-集中讨论。
+- 详情页 hero 图加载占位(灰阶 placeholder?)
+- 树图节点深度展开后的视觉层次(超过 2 层是否合并)

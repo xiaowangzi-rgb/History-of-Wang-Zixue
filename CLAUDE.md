@@ -184,8 +184,10 @@ ETL 脚本支持 `--model` 参数,环节级别选择模型。
 | `docs/ui-design.md` | 时间线 / 朝代图 / 卡片 / 对话 UI 设计 |
 | `docs/timeline-design.md` | 时间线模块详细设计(Phase 1 主战场) |
 | `docs/data-source-survey.md` | 现成 GitHub 数据集 + 图片源调研 |
-| `docs/content-style-guide.md` | **内容写作指南 + 比例 + 标准 + 敏感边界 + 图片** |
+| `docs/content-style-guide.md` | 内容写作指南 + 比例 + 标准 + 敏感边界 + 图片 |
 | `docs/data-update-strategy.md` | 数据热更(GitHub Raw / 图片 manifest)|
+| `docs/design-tokens.md` | **完整设计 token(Light/Dark 双套 / 排版 / spacing)**|
+| `docs/dynasty-palette.md` | **25 朝代色板(light + dark + regime)**|
 | `docs/data-pipeline.md` | 多源 ETL 流程 |
 | `docs/roadmap.md` | 阶段 0-4 路线图 |
 | `docs/decisions.md` | 关键决策记录(ADR 风格) |

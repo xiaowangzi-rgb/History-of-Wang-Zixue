@@ -678,6 +678,49 @@ systemPromptRomance` 字段。运行期 app 直接读取该字符串,**不做模
 
 ---
 
+## ADR-027: 设计语言 = 水墨电子纸 (Ink-Paper) + 中国传统排版
+
+**日期**: 2026-05-09
+**状态**: ✅ accepted
+
+**决策**:
+- app 整体设计语言: **"水墨电子纸"(Ink-Paper)** — 现代极简 + 中国传统排版的克制融合
+- 字体: Noto Serif SC (思源宋体) 标题 + Noto Sans SC (思源黑体) 正文,通过
+  `google_fonts` 包加载
+- 25 朝代色板: 矿物色 / 自然色,饱和度 25-45%,相邻色相隔 ≥ 30°(详见
+  `docs/dynasty-palette.md`)
+- 树节点造型: 印章风(Seal Stamp Style)
+- 传说时代雾化: 沙色 + 灰阶 + 虚线 + 楷书 + opacity 0.6
+- 暗色模式: OLED 真黑 #000000(深夜阅读 + 电池友好)
+- 移动端规范: SafeArea / 触摸 ≥ 48dp / InkWell ripple / Haptic / BottomSheet 替代 modal
+- 完整 token 表: `docs/design-tokens.md`
+
+**理由**:
+- ui-ux-pro-max 数据库匹配 **E-Ink / Paper 风格**(reading apps 最佳)+
+  **Chinese Traditional 字体配对**(Noto Serif/Sans SC)
+- 项目使命是"每天打开学历史" → 阅读型工具 → "电子纸"基调最合身
+- 不选 "教育 app 默认" Claymorphism + Vibrant: 黏土风幼龄化,违背"严肃学习"
+- 不选纯极简: 失去文化感
+- 不选古风装饰过度: 长期看疲劳,违背"每天打开"
+- 印章风格树节点: 中国文化标志性视觉,区别于通用圆点
+- 朝代矿物色板: 取自中国画颜料,有"翻古书"的统一气质
+
+**替代**:
+- 教育 app 默认 (Claymorphism + Vibrant): 不合适
+- Glassmorphism: 违背"纸感"基调
+- Cyberpunk / Neon: 违背"古"的语境
+- Brutalism: 不应景
+
+**后果**:
+- `docs/timeline-design.md` 加 UI Visual Design 段
+- 新增 `docs/design-tokens.md`(完整 token 表)
+- 新增 `docs/dynasty-palette.md`(25 朝代色板 + light/dark)
+- Flutter 实施时(Phase 1.4)直接对照 token 表,不再"看心情写颜色"
+- 引入 `google_fonts: ^6.x` 包(首次启动下载缓存)
+- iOS / Android 字体首次启动加载延迟 ~500ms(可接受,有 splash screen)
+
+---
+
 ## ADR-010: 用 OpenSpec 管理变更
 
 **日期**: 2026-05-09
