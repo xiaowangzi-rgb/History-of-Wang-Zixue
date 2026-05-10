@@ -5734,7 +5734,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/dufu.webp",
+    "_portraitThumb": "persons/dufu_thumb.webp",
+    "portraitSource": "Wikipedia: 杜甫",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_tang_唐玄宗",
@@ -7192,7 +7196,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/yuefei.webp",
+    "_portraitThumb": "persons/yuefei_thumb.webp",
+    "portraitSource": "Wikipedia: 岳飞",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_song_金太祖",
@@ -7768,7 +7776,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/wangyangming.webp",
+    "_portraitThumb": "persons/wangyangming_thumb.webp",
+    "portraitSource": "Wikipedia: 王阳明",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_ming_明孝宗",
@@ -7809,7 +7821,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/lishizhen.webp",
+    "_portraitThumb": "persons/lishizhen_thumb.webp",
+    "portraitSource": "Wikipedia: 李时珍",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_zhangjuzheng",
@@ -7822,7 +7838,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/zhangjuzheng.webp",
+    "_portraitThumb": "persons/zhangjuzheng_thumb.webp",
+    "portraitSource": "Wikipedia: 张居正",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_ming_明世宗",
@@ -7996,7 +8016,11 @@
     "historicity": "historical",
     "yearUncertainty": "year",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/caoxueqin.webp",
+    "_portraitThumb": "persons/caoxueqin_thumb.webp",
+    "portraitSource": "Wikipedia: 曹雪芹",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_qing_清世宗",
@@ -8126,7 +8150,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/sunzhongshan.webp",
+    "_portraitThumb": "persons/sunzhongshan_thumb.webp",
+    "portraitSource": "Wikipedia: 孙中山",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_qing_清德宗",
@@ -8157,7 +8185,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/luxun.webp",
+    "_portraitThumb": "persons/luxun_thumb.webp",
+    "portraitSource": "Wikipedia: 鲁迅",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_maozedong",
@@ -8170,7 +8202,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/maozedong.webp",
+    "_portraitThumb": "persons/maozedong_thumb.webp",
+    "portraitSource": "Wikipedia: 毛泽东",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_zhouenlai",
@@ -8183,7 +8219,11 @@
     "historicity": "historical",
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
-    "source": "manual"
+    "source": "manual",
+    "portrait": "persons/zhouenlai.webp",
+    "_portraitThumb": "persons/zhouenlai_thumb.webp",
+    "portraitSource": "Wikipedia: 周恩来",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_qing_溥仪",
