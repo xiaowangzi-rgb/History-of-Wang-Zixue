@@ -70,5 +70,17 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_sui_lichun_zhaozhou",
+    "name": "李春设计赵州桥",
+    "year": 605,
+    "dynastyId": "dynasty_sui",
+    "category": "science",
+    "summary": "隋匠师李春设计修建赵州安济桥,跨度 37 米,大圆拱中嵌四小拱以分洪。世界现存最早最长跨石拱桥,至今已 1400 余年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

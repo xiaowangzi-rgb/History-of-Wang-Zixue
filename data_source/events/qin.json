@@ -82,5 +82,77 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_qin_zhang_liang",
+    "name": "张良博浪沙刺秦",
+    "year": -218,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "韩国贵族后裔张良为报国仇,以重金募力士铸百二十斤大铁锥,伏击秦始皇于博浪沙。误中副车,始皇大索十日不得。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_xiang_yu_pofuzhouzhou",
+    "name": "项羽破釜沉舟 巨鹿之战",
+    "year": -207,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "秦军围赵于巨鹿,项羽率楚军救援,渡河后凿沉船只、砸碎炊釜。九战九捷,大破秦将王离主力。\"破釜沉舟\"成语典出于此。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_xiao_he_zhuihan",
+    "name": "萧何月下追韩信",
+    "year": -206,
+    "dynastyId": "dynasty_qin",
+    "category": "person",
+    "summary": "韩信不被刘邦重用,叛逃。萧何闻之不及报告,亲自月夜追还。说服刘邦拜为大将军。\"萧何月下追韩信\"成中国君臣相得佳话。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_zhao_gao_lumawei",
+    "name": "赵高指鹿为马",
+    "year": -207,
+    "dynastyId": "dynasty_qin",
+    "category": "politics",
+    "summary": "秦二世胡亥时,丞相赵高欲试朝臣,献鹿称马。称鹿者皆被构陷处死。\"指鹿为马\"成奸佞试探之典。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_hongmen",
+    "name": "鸿门宴 项庄舞剑",
+    "year": -206,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "项羽设宴鸿门,本欲杀刘邦。范增数次以玉玦示意,项庄起舞欲剑刺,项伯起舞掩护刘邦。樊哙闯帐,刘邦借如厕之机逃生。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_qin_chu_han_zhengba",
+    "name": "楚汉相争 四年决战",
+    "year": -206,
+    "dynastyId": "dynasty_qin",
+    "category": "war",
+    "summary": "项羽自封西楚霸王,封刘邦为汉王。刘邦明修栈道暗度陈仓,联韩信、彭越、英布,与项羽决战四年。垓下之围楚歌四起,项羽乌江自刎。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

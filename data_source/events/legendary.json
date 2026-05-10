@@ -34,5 +34,77 @@
     "yearUncertainty": "era",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_legendary_pangu",
+    "name": "盘古开天辟地",
+    "year": -3000,
+    "dynastyId": "dynasty_legendary",
+    "category": "religion",
+    "summary": "传说中混沌初开,盘古以巨斧劈开天地,清气上升为天,浊气下沉为地。盘古身死后,身体化作日月山川,中华神话宇宙创生由此始。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_nuwa",
+    "name": "女娲补天 抟土造人",
+    "year": -2900,
+    "dynastyId": "dynasty_legendary",
+    "category": "religion",
+    "summary": "传说女娲炼五色石以补苍天,断鳌足以立四极,抟黄土造人。中华民族始祖神之一,与伏羲并列为人文之源。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_youchao",
+    "name": "有巢氏构木为巢",
+    "year": -2800,
+    "dynastyId": "dynasty_legendary",
+    "category": "science",
+    "summary": "传说远古有巢氏教民构木为屋以避禽兽虫蛇之害,开启从穴居向房屋的文明转折。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_suiren",
+    "name": "燧人氏钻木取火",
+    "year": -2700,
+    "dynastyId": "dynasty_legendary",
+    "category": "science",
+    "summary": "传说燧人氏观鸟啄燧木生烟而悟,发明钻木取火之法。中华民族用火文明的起点。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_fuxi",
+    "name": "伏羲画八卦 教民结网",
+    "year": -2600,
+    "dynastyId": "dynasty_legendary",
+    "category": "culture",
+    "summary": "传说伏羲氏观天地之象画八卦,教民结网捕鱼、定姓氏、立婚姻。被尊为中华人文始祖。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_legendary_shennong",
+    "name": "神农尝百草",
+    "year": -2700,
+    "dynastyId": "dynasty_legendary",
+    "category": "science",
+    "summary": "传说炎帝神农氏尝百草以辨药性,著《神农本草经》之肇始。又教民耕种五谷,故称\"神农\"。",
+    "historicity": "legendary",
+    "yearUncertainty": "era",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

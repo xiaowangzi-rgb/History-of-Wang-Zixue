@@ -82,5 +82,101 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_eh_san_gu",
+    "name": "刘备三顾茅庐 隆中对",
+    "year": 207,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "person",
+    "summary": "刘备屯新野,徐庶荐诸葛亮。三顾茅庐于隆中,孔明献\"占荆益、联孙吴、抗曹操\"三分天下之策。蜀汉立国之纲领由此而出。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_caowei_jiu",
+    "name": "曹操煮酒论英雄",
+    "year": 199,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "person",
+    "summary": "曹操邀刘备煮酒,论天下英雄,曰\"今天下英雄,惟使君与操耳\"。刘备闻言失箸,适天惊雷,借此遮饰。后世传为韬晦经典。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_lvmeng",
+    "name": "吕蒙白衣渡江 袭荆州",
+    "year": 219,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "孙权令吕蒙取荆州,蒙佯病归建业,使陆逊代任示弱关羽。后率精兵伪装商人白衣渡江,袭取江陵。关羽北伐功败垂成,败走麦城。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_guan_yu_shui",
+    "name": "关羽水淹七军 威震华夏",
+    "year": 219,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "关羽北伐攻襄樊,擒于禁、斩庞德。利用秋雨连绵,决堤水淹曹军七军三万余人。\"威震华夏\",曹操几欲迁都避其锋。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_dong_zhuo_wang_yun",
+    "name": "王允施美人计 吕布杀董卓",
+    "year": 192,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "司徒王允痛恨董卓乱政,以养女貂蝉离间董卓与吕布。吕布于未央宫戟刺董卓,百姓欢腾起舞。然李傕郭汜旋即反扑,长安再陷战乱。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_ban_chao_tou_bi",
+    "name": "班超投笔从戎",
+    "year": 73,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "diplomacy",
+    "summary": "班超本为兰台令史,叹\"大丈夫无他志略,犹当效傅介子、张骞立功异域\",投笔从戎西使。三十一年间定西域五十余国,封定远侯。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_handi_qiufo",
+    "name": "汉明帝天竺求佛",
+    "year": 67,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "religion",
+    "summary": "汉明帝梦金人飞行,询臣以为佛。遣使迎天竺高僧迦叶摩腾、竺法兰至洛阳,以白马驮经,建白马寺译《四十二章经》。佛教正式入华。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_eh_ma_yuan",
+    "name": "马援老当益壮 马革裹尸",
+    "year": 49,
+    "dynastyId": "dynasty_eastern_han",
+    "category": "war",
+    "summary": "光武帝时名将马援,六十二岁仍请战南征。\"丈夫为志,穷当益坚,老当益壮\"\"马革裹尸,何足道哉\"皆出于他。终病死军中。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

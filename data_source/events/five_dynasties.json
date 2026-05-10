@@ -75,5 +75,41 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_5d_feng_dao",
+    "name": "冯道 五朝宰相",
+    "year": 940,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "category": "person",
+    "summary": "冯道历仕后唐、后晋、契丹、后汉、后周五朝十帝皆为相,二十年不倒。世所罕见,自称\"长乐老\"。后世评价两极。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_qian_liu",
+    "name": "吴越王钱镠 保境安民",
+    "year": 907,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "category": "politics",
+    "summary": "钱镠创吴越国,据两浙七十二年。修海塘、筑钱塘江堤、开运河、建灵隐寺。北宋时纳土归宋,吴越免战乱之灾。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_5d_yelv_abaoji",
+    "name": "耶律阿保机建立辽国",
+    "year": 916,
+    "dynastyId": "dynasty_five_dynasties_ten_kingdoms",
+    "category": "politics",
+    "summary": "契丹族首领耶律阿保机统一八部,建国号契丹(后改辽),都临潢府。创契丹文字,法度兼收汉法,辽王朝国祚二百余年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

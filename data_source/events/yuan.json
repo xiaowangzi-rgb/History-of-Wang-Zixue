@@ -94,5 +94,53 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_yuan_guo_shoujing",
+    "name": "郭守敬编《授时历》",
+    "year": 1281,
+    "dynastyId": "dynasty_yuan",
+    "category": "science",
+    "summary": "元代天文学家郭守敬制简仪、仰仪等天文仪器,编《授时历》。一年长 365.2425 日,与地球公转周期相差仅 26 秒,比西方格里高利历早 300 年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_zhao_mengfu",
+    "name": "赵孟頫 元代书画双绝",
+    "year": 1310,
+    "dynastyId": "dynasty_yuan",
+    "category": "culture",
+    "summary": "赵孟頫,宋宗室入元为官。书法\"赵体\"圆润秀丽,绘画提倡复古。其妻管道升、子赵雍亦皆名家,\"管赵之风\"传百年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_dunhuang",
+    "name": "敦煌莫高窟 元代壁画",
+    "year": 1300,
+    "dynastyId": "dynasty_yuan",
+    "category": "religion",
+    "summary": "敦煌莫高窟历经十六国、北朝、隋唐、五代、宋、西夏、元各代营造。元代壁画与塑像融汉藏佛教风格,千窟巍然,是丝路文明结晶。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_yuan_huoyaowang",
+    "name": "回回炮 火药西传",
+    "year": 1273,
+    "dynastyId": "dynasty_yuan",
+    "category": "science",
+    "summary": "蒙古攻襄阳时启用回回工匠造抛石机,称\"回回炮\"。蒙古西征与丝路开通把中国火药、印刷术、指南针经阿拉伯传入欧洲,改变世界。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

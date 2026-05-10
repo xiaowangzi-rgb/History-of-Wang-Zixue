@@ -102,5 +102,18 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_sn_chenhouzhu",
+    "name": "陈后主玉树后庭花 国亡",
+    "year": 589,
+    "dynastyId": "dynasty_southern_northern",
+    "category": "culture",
+    "summary": "陈后主陈叔宝荒淫无度,作《玉树后庭花》艳曲,与宠妃夜夜笙歌。隋兵渡江,陈后主与张丽华、孔贵嫔躲胭脂井被俘。\"商女不知亡国恨\"杜诗讽此。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_chen"
   }
 ]

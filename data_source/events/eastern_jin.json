@@ -82,5 +82,53 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_ej_shi_le_dushu",
+    "name": "石勒爱才 重视读书人",
+    "year": 320,
+    "dynastyId": "dynasty_eastern_jin",
+    "category": "person",
+    "summary": "羯族奴隶出身的后赵开国皇帝石勒,虽不识字却令人读《汉书》,常令人读《史记》。听到郦食其劝刘邦立六国后人时叹\"此法当败\"。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ej_wang_xizhi",
+    "name": "书圣王羲之 鹅池换帖",
+    "year": 360,
+    "dynastyId": "dynasty_eastern_jin",
+    "category": "culture",
+    "summary": "王羲之爱鹅,曾为山阴道士书《黄庭经》换鹅。其书法\"飘若浮云,矫若惊龙\",《兰亭序》《快雪时晴帖》流传千年。子王献之并称\"二王\"。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ej_xie_an",
+    "name": "谢安东山再起 淝水从容",
+    "year": 383,
+    "dynastyId": "dynasty_eastern_jin",
+    "category": "person",
+    "summary": "谢安隐居东山二十余载,四十始仕。前秦百万压境,与客围棋如常。淝水之战大捷,捷报至时神色不变,弈罢内宅过门折屐齿而不觉。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_ej_huan_wen",
+    "name": "桓温三次北伐",
+    "year": 354,
+    "dynastyId": "dynasty_eastern_jin",
+    "category": "war",
+    "summary": "权臣桓温三次北伐前秦、姚襄、前燕,所向有功。曰\"既不能流芳百世,亦不足复遗臭万载耶\"。后欲篡位未果,病卒。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

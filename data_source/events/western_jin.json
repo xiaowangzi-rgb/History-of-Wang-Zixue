@@ -58,5 +58,17 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_wj_shichong_doufu",
+    "name": "石崇王恺斗富 西晋奢风",
+    "year": 290,
+    "dynastyId": "dynasty_western_jin",
+    "category": "economy",
+    "summary": "西晋外戚王恺与富豪石崇斗富,以蜡烛代柴煮饭、紫丝为屏,武帝亦助王恺。石崇击碎武帝所赐二尺珊瑚以六七尺者偿之。西晋奢靡之风可见。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   }
 ]

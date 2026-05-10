@@ -112,5 +112,70 @@
     "yearUncertainty": "exact",
     "_schemaVersion": "v0.6",
     "source": "manual"
+  },
+  {
+    "id": "event_3k_qiqin_menghuo",
+    "name": "诸葛亮七擒孟获",
+    "year": 225,
+    "dynastyId": "dynasty_three_kingdoms",
+    "category": "war",
+    "summary": "蜀建兴三年,诸葛亮南征平定南中四郡。对叛乱首领孟获七擒七纵,使其心悦诚服。\"攻心为上,攻城为下\"成中国战略名言。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_shu"
+  },
+  {
+    "id": "event_3k_huoshao_lianying",
+    "name": "陆逊火烧连营七百里",
+    "year": 222,
+    "dynastyId": "dynasty_three_kingdoms",
+    "category": "war",
+    "summary": "夷陵之战,陆逊以逸待劳,见蜀军七百里连营在山林立寨,趁东南风发动火攻。刘备大败退白帝城。\"连营七百里,可烧\"成笑话。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_wu"
+  },
+  {
+    "id": "event_3k_simayi_zhuangbing",
+    "name": "司马懿装病 高平陵之变",
+    "year": 249,
+    "dynastyId": "dynasty_three_kingdoms",
+    "category": "politics",
+    "summary": "司马懿装病避曹爽锋芒。曹爽兄弟离都谒陵之机,司马懿勒兵奉皇太后令关闭洛阳城门,夺曹爽兵权,夷其三族。司马氏自此专魏权。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_wei"
+  },
+  {
+    "id": "event_3k_dengai_yinping",
+    "name": "邓艾偷渡阴平 蜀汉亡",
+    "year": 263,
+    "dynastyId": "dynasty_three_kingdoms",
+    "category": "war",
+    "summary": "钟会主力被姜维阻于剑阁,邓艾率精兵偷渡阴平七百里无人之地,以毡裹身滚下悬崖。直取成都,刘禅出降。蜀汉亡。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_shu"
+  },
+  {
+    "id": "event_3k_lechan_busi_shu",
+    "name": "刘禅乐不思蜀",
+    "year": 264,
+    "dynastyId": "dynasty_three_kingdoms",
+    "category": "person",
+    "summary": "蜀亡后,刘禅入洛阳被封安乐公。司马昭设宴奏蜀乐,蜀旧臣皆涕泣,禅嬉笑自若。问\"思蜀否\"答\"此间乐,不思蜀\"。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "regimeId": "regime_shu"
   }
 ]
