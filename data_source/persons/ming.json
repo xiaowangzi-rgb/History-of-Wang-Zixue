@@ -7,7 +7,11 @@
     "historicity": "historical",
     "_schemaVersion": "v0.6",
     "source": "people-portraits-index",
-    "_rawPortraitPath": "明/明思宗"
+    "_rawPortraitPath": "明/明思宗",
+    "portrait": "persons/ming_明思宗.webp",
+    "_portraitThumb": "persons/ming_明思宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_明成祖",
@@ -17,7 +21,11 @@
     "historicity": "historical",
     "_schemaVersion": "v0.6",
     "source": "people-portraits-index",
-    "_rawPortraitPath": "明/明成祖"
+    "_rawPortraitPath": "明/明成祖",
+    "portrait": "persons/ming_明成祖.webp",
+    "_portraitThumb": "persons/ming_明成祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_明太祖",
@@ -32,7 +40,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1368,
     "deathYear": 1368,
-    "_rawPortraitPath": "明/明太祖"
+    "_rawPortraitPath": "明/明太祖",
+    "portrait": "persons/ming_明太祖.webp",
+    "_portraitThumb": "persons/ming_明太祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_嗣天章道誠懿渊功观文揚武克仁篤孝让皇帝",
@@ -186,7 +198,11 @@
     "birthYear": 1567,
     "yearUncertainty": "year",
     "reignEnd": 1572,
-    "deathYear": 1572
+    "deathYear": 1572,
+    "portrait": "persons/ming_明穆宗.webp",
+    "_portraitThumb": "persons/ming_明穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_ming_明神宗",
@@ -201,7 +217,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1620,
     "deathYear": 1620,
-    "_rawPortraitPath": "明/明神宗"
+    "_rawPortraitPath": "明/明神宗",
+    "portrait": "persons/ming_明神宗.webp",
+    "_portraitThumb": "persons/ming_明神宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_明光宗",

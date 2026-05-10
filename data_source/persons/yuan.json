@@ -12,7 +12,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1294,
     "deathYear": 1294,
-    "_rawPortraitPath": "大元/元世祖"
+    "_rawPortraitPath": "大元/元世祖",
+    "portrait": "persons/yuan_元世祖.webp",
+    "_portraitThumb": "persons/yuan_元世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_yuan_元成宗",
@@ -124,7 +128,11 @@
     "birthYear": 1329,
     "yearUncertainty": "year",
     "reignEnd": 1329,
-    "deathYear": 1329
+    "deathYear": 1329,
+    "portrait": "persons/yuan_元明宗.webp",
+    "_portraitThumb": "persons/yuan_元明宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_yuan_元宁宗",

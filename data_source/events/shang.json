@@ -1,0 +1,98 @@
+[
+  {
+    "id": "event_shang_tang_found",
+    "name": "商汤建国 鸣条之战",
+    "year": -1600,
+    "dynastyId": "dynasty_shang",
+    "category": "war",
+    "summary": "商部落首领汤(成汤)联合诸侯于鸣条击败夏桀,建立商朝,定都亳(今河南商丘)。中国历史上首次记录的革命换代。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_yi_yin",
+    "name": "伊尹辅政 太甲悔过",
+    "year": -1550,
+    "dynastyId": "dynasty_shang",
+    "category": "politics",
+    "summary": "贤臣伊尹为相,见太甲昏乱,放之于桐宫三年。太甲悔过自新,伊尹复其位。开\"放逐昏君\"先例,后世传为佳话。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_pangeng_yin",
+    "name": "盘庚迁殷",
+    "year": -1300,
+    "dynastyId": "dynasty_shang",
+    "category": "politics",
+    "summary": "商王盘庚为摆脱旧贵族掣肘,率众西渡黄河迁都于殷(今河南安阳),史称\"殷商\"。商朝由此中兴二百余年,殷墟成为中国古代文明圣地。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_wuding_revival",
+    "name": "武丁中兴",
+    "year": -1250,
+    "dynastyId": "dynasty_shang",
+    "category": "politics",
+    "summary": "商王武丁在位五十九年,启用奴隶傅说为相、贵族妇好领兵,征鬼方、周方、土方,商代版图与国力达鼎盛。甲骨卜辞中武丁记载最丰富。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_fu_hao",
+    "name": "妇好统军 女将之始",
+    "year": -1200,
+    "dynastyId": "dynasty_shang",
+    "category": "war",
+    "summary": "武丁王后妇好亲率一万三千兵伐羌方,大胜。是中国有文字记载的最早女性军事统帅。1976 年安阳妇好墓出土青铜礼器一千余件,震惊学界。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_oracle_bones",
+    "name": "甲骨文 中国最早成熟文字",
+    "year": -1250,
+    "dynastyId": "dynasty_shang",
+    "category": "culture",
+    "summary": "殷商王室占卜后将卜辞刻于龟甲兽骨之上,记录战事、农事、祭祀。1899 年王懿荣发现,为中国可识读的最早系统文字,印证商代信史。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_bronze_age",
+    "name": "青铜器鼎盛 司母戊鼎铸成",
+    "year": -1200,
+    "dynastyId": "dynasty_shang",
+    "category": "science",
+    "summary": "商代青铜冶铸工艺臻至顶峰,司母戊大方鼎(后改称后母戊鼎)重 832 公斤,世界古代青铜器之最。礼器制度奠定中国\"器以载道\"的文化传统。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_shang_zhou_fall",
+    "name": "纣王亡国 周武王伐纣",
+    "year": -1046,
+    "dynastyId": "dynasty_shang",
+    "category": "war",
+    "summary": "商纣王宠妲己、造鹿台、行炮烙之刑。周武王于牧野誓师伐之,纣兵阵前倒戈,纣自焚于鹿台。商立国五百余年而亡。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

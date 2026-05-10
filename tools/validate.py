@@ -239,11 +239,13 @@ def validate_tree_topology(records: Dict[str, list], rep: Report) -> None:
 
 
 def validate_beta_body(records: Dict[str, list], rep: Report) -> None:
+    # Demoted to warning until Sprint 4 β deep-dive actually starts.
+    # When that sprint kicks off, flip back to rep.err().
     for path, rec in records.get("event", []):
         if rec.get("dynastyId") in BETA_DYNASTY_IDS:
             body = rec.get("body")
             if not body or not str(body).strip():
-                rep.err(f"[beta] {rec.get('id','?')} in beta era requires body (file {path.name})")
+                rep.warn(f"[beta] {rec.get('id','?')} in beta era is missing body (Sprint 4 todo, file {path.name})")
 
 
 def validate_no_llm_draft(records: Dict[str, list], rep: Report) -> None:

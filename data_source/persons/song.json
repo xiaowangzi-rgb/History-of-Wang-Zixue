@@ -82,7 +82,11 @@
     "yearUncertainty": "year",
     "reignEnd": 976,
     "deathYear": 976,
-    "_rawPortraitPath": "北宋/宋太祖"
+    "_rawPortraitPath": "北宋/宋太祖",
+    "portrait": "persons/song_宋太祖.webp",
+    "_portraitThumb": "persons/song_宋太祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_song_大契丹国景宗",
@@ -110,7 +114,11 @@
     "birthYear": 976,
     "yearUncertainty": "year",
     "reignEnd": 997,
-    "deathYear": 997
+    "deathYear": 997,
+    "portrait": "persons/song_宋太宗.webp",
+    "_portraitThumb": "persons/song_宋太宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_song_大契丹国圣宗",
@@ -152,7 +160,11 @@
     "birthYear": 997,
     "yearUncertainty": "year",
     "reignEnd": 1022,
-    "deathYear": 1022
+    "deathYear": 1022,
+    "portrait": "persons/song_宋真宗.webp",
+    "_portraitThumb": "persons/song_宋真宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_song_光圣皇帝",
@@ -181,7 +193,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1063,
     "deathYear": 1063,
-    "_rawPortraitPath": "北宋/宋仁宗"
+    "_rawPortraitPath": "北宋/宋仁宗",
+    "portrait": "persons/song_宋仁宗.webp",
+    "_portraitThumb": "persons/song_宋仁宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_song_大契丹国兴宗",

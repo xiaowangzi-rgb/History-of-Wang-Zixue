@@ -1,0 +1,74 @@
+[
+  {
+    "id": "event_xia_dayu_treat_water",
+    "name": "大禹治水",
+    "year": -2070,
+    "dynastyId": "dynasty_xia",
+    "category": "science",
+    "summary": "舜帝命禹继承父业治理黄河水患。禹改父亲鲧的堵塞之法为疏导,历十三年走遍九州,三过家门不入。功成被禅位为天子,开启夏代世袭制。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xia_qi_succession",
+    "name": "启杀伯益 世袭代禅让",
+    "year": -2070,
+    "dynastyId": "dynasty_xia",
+    "category": "politics",
+    "summary": "禹本欲禅位于益,启起兵杀益自立,中国\"家天下\"自此始。原始公社的禅让制被父子相承的世袭制取代,深刻改变政治结构。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xia_taikang_lost",
+    "name": "太康失国 后羿代夏",
+    "year": -2000,
+    "dynastyId": "dynasty_xia",
+    "category": "war",
+    "summary": "夏启子太康沉迷田猎,有穷氏首领后羿趁机夺权,执政时寒浞篡之。夏王朝中期一度旁落异姓四十年。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xia_shaokang_revival",
+    "name": "少康中兴",
+    "year": -1940,
+    "dynastyId": "dynasty_xia",
+    "category": "politics",
+    "summary": "夏王相之子少康自幼流亡,长大后联合诸侯灭寒浞、复夏祚。中国历史上最早记录的\"中兴\"事件。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xia_erlitou",
+    "name": "二里头文化 早期都城",
+    "year": -1750,
+    "dynastyId": "dynasty_xia",
+    "category": "culture",
+    "summary": "河南偃师二里头遗址(约公元前1750-前1530年)被多数学者认为是夏代晚期都城。出土青铜器、宫殿基址,印证夏代信史可能性。",
+    "historicity": "historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_xia_jie_fall",
+    "name": "夏桀亡国 商汤灭夏",
+    "year": -1600,
+    "dynastyId": "dynasty_xia",
+    "category": "war",
+    "summary": "夏桀暴虐无道,宠妺喜、筑倾宫、掘瑶台。商部落首领汤趁势伐之,鸣条之战桀大败,流死南巢。夏立国四百余年而亡。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "century",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]

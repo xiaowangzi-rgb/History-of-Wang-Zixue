@@ -95,7 +95,11 @@
     "birthYear": 1636,
     "yearUncertainty": "year",
     "reignEnd": 1643,
-    "deathYear": 1643
+    "deathYear": 1643,
+    "portrait": "persons/qing_清太宗.webp",
+    "_portraitThumb": "persons/qing_清太宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清世祖",
@@ -109,7 +113,11 @@
     "birthYear": 1643,
     "yearUncertainty": "year",
     "reignEnd": 1661,
-    "deathYear": 1661
+    "deathYear": 1661,
+    "portrait": "persons/qing_清世祖.webp",
+    "_portraitThumb": "persons/qing_清世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清圣祖",
@@ -123,7 +131,11 @@
     "birthYear": 1661,
     "yearUncertainty": "year",
     "reignEnd": 1722,
-    "deathYear": 1722
+    "deathYear": 1722,
+    "portrait": "persons/qing_清圣祖.webp",
+    "_portraitThumb": "persons/qing_清圣祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清世宗",
@@ -137,7 +149,11 @@
     "birthYear": 1722,
     "yearUncertainty": "year",
     "reignEnd": 1735,
-    "deathYear": 1735
+    "deathYear": 1735,
+    "portrait": "persons/qing_清世宗.webp",
+    "_portraitThumb": "persons/qing_清世宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清高宗",
@@ -151,7 +167,11 @@
     "birthYear": 1735,
     "yearUncertainty": "year",
     "reignEnd": 1796,
-    "deathYear": 1796
+    "deathYear": 1796,
+    "portrait": "persons/qing_清高宗.webp",
+    "_portraitThumb": "persons/qing_清高宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清仁宗",
@@ -165,7 +185,11 @@
     "birthYear": 1796,
     "yearUncertainty": "year",
     "reignEnd": 1820,
-    "deathYear": 1820
+    "deathYear": 1820,
+    "portrait": "persons/qing_清仁宗.webp",
+    "_portraitThumb": "persons/qing_清仁宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_qing_清宣宗",
@@ -193,7 +217,11 @@
     "birthYear": 1850,
     "yearUncertainty": "year",
     "reignEnd": 1861,
-    "deathYear": 1861
+    "deathYear": 1861,
+    "portrait": "persons/qing_清文宗.webp",
+    "_portraitThumb": "persons/qing_清文宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清穆宗",
@@ -207,7 +235,11 @@
     "birthYear": 1861,
     "yearUncertainty": "year",
     "reignEnd": 1875,
-    "deathYear": 1875
+    "deathYear": 1875,
+    "portrait": "persons/qing_清穆宗.webp",
+    "_portraitThumb": "persons/qing_清穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_qing_清德宗",
@@ -221,7 +253,11 @@
     "birthYear": 1875,
     "yearUncertainty": "year",
     "reignEnd": 1908,
-    "deathYear": 1908
+    "deathYear": 1908,
+    "portrait": "persons/qing_清德宗.webp",
+    "_portraitThumb": "persons/qing_清德宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_溥仪",
@@ -235,6 +271,10 @@
     "birthYear": 1908,
     "yearUncertainty": "year",
     "reignEnd": 1912,
-    "deathYear": 1912
+    "deathYear": 1912,
+    "portrait": "persons/qing_溥仪.webp",
+    "_portraitThumb": "persons/qing_溥仪_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   }
 ]

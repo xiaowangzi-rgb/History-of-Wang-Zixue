@@ -12,7 +12,11 @@
     "yearUncertainty": "year",
     "reignEnd": 626,
     "deathYear": 626,
-    "_rawPortraitPath": "唐/唐高祖"
+    "_rawPortraitPath": "唐/唐高祖",
+    "portrait": "persons/tang_唐高祖.webp",
+    "_portraitThumb": "persons/tang_唐高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐太宗",
@@ -27,7 +31,11 @@
     "yearUncertainty": "year",
     "reignEnd": 649,
     "deathYear": 649,
-    "_rawPortraitPath": "唐/唐太宗"
+    "_rawPortraitPath": "唐/唐太宗",
+    "portrait": "persons/tang_唐太宗.webp",
+    "_portraitThumb": "persons/tang_唐太宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐高宗",
@@ -56,7 +64,11 @@
     "yearUncertainty": "year",
     "reignEnd": 705,
     "deathYear": 705,
-    "_rawPortraitPath": "周（唐）/武瞾"
+    "_rawPortraitPath": "周（唐）/武瞾",
+    "portrait": "persons/tang_武瞾.webp",
+    "_portraitThumb": "persons/tang_武瞾_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐中宗",
@@ -70,7 +82,11 @@
     "birthYear": 705,
     "yearUncertainty": "year",
     "reignEnd": 710,
-    "deathYear": 710
+    "deathYear": 710,
+    "portrait": "persons/tang_唐中宗.webp",
+    "_portraitThumb": "persons/tang_唐中宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐睿宗",
@@ -84,7 +100,11 @@
     "birthYear": 710,
     "yearUncertainty": "year",
     "reignEnd": 712,
-    "deathYear": 712
+    "deathYear": 712,
+    "portrait": "persons/tang_唐睿宗.webp",
+    "_portraitThumb": "persons/tang_唐睿宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_殤皇帝",
@@ -113,7 +133,11 @@
     "yearUncertainty": "year",
     "reignEnd": 756,
     "deathYear": 756,
-    "_rawPortraitPath": "唐/唐玄宗"
+    "_rawPortraitPath": "唐/唐玄宗",
+    "portrait": "persons/tang_唐玄宗.webp",
+    "_portraitThumb": "persons/tang_唐玄宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐肃宗",
@@ -127,7 +151,11 @@
     "birthYear": 756,
     "yearUncertainty": "year",
     "reignEnd": 762,
-    "deathYear": 762
+    "deathYear": 762,
+    "portrait": "persons/tang_唐肃宗.webp",
+    "_portraitThumb": "persons/tang_唐肃宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐代宗",
@@ -141,7 +169,11 @@
     "birthYear": 762,
     "yearUncertainty": "year",
     "reignEnd": 779,
-    "deathYear": 779
+    "deathYear": 779,
+    "portrait": "persons/tang_唐代宗.webp",
+    "_portraitThumb": "persons/tang_唐代宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐德宗",
@@ -169,7 +201,11 @@
     "birthYear": 805,
     "yearUncertainty": "year",
     "reignEnd": 820,
-    "deathYear": 820
+    "deathYear": 820,
+    "portrait": "persons/tang_唐宪宗.webp",
+    "_portraitThumb": "persons/tang_唐宪宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐顺宗",
@@ -197,7 +233,11 @@
     "birthYear": 820,
     "yearUncertainty": "year",
     "reignEnd": 824,
-    "deathYear": 824
+    "deathYear": 824,
+    "portrait": "persons/tang_唐穆宗.webp",
+    "_portraitThumb": "persons/tang_唐穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐敬宗",
@@ -211,7 +251,11 @@
     "birthYear": 824,
     "yearUncertainty": "year",
     "reignEnd": 826,
-    "deathYear": 826
+    "deathYear": 826,
+    "portrait": "persons/tang_唐敬宗.webp",
+    "_portraitThumb": "persons/tang_唐敬宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐文宗",
@@ -225,7 +269,11 @@
     "birthYear": 826,
     "yearUncertainty": "year",
     "reignEnd": 840,
-    "deathYear": 840
+    "deathYear": 840,
+    "portrait": "persons/tang_唐文宗.webp",
+    "_portraitThumb": "persons/tang_唐文宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐武宗",
@@ -239,7 +287,11 @@
     "birthYear": 840,
     "yearUncertainty": "year",
     "reignEnd": 846,
-    "deathYear": 846
+    "deathYear": 846,
+    "portrait": "persons/tang_唐武宗.webp",
+    "_portraitThumb": "persons/tang_唐武宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐宣宗",
@@ -267,7 +319,11 @@
     "birthYear": 859,
     "yearUncertainty": "year",
     "reignEnd": 873,
-    "deathYear": 873
+    "deathYear": 873,
+    "portrait": "persons/tang_唐懿宗.webp",
+    "_portraitThumb": "persons/tang_唐懿宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐僖宗",
@@ -281,7 +337,11 @@
     "birthYear": 873,
     "yearUncertainty": "year",
     "reignEnd": 888,
-    "deathYear": 888
+    "deathYear": 888,
+    "portrait": "persons/tang_唐僖宗.webp",
+    "_portraitThumb": "persons/tang_唐僖宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐昭宗",
@@ -295,7 +355,11 @@
     "birthYear": 888,
     "yearUncertainty": "year",
     "reignEnd": 900,
-    "deathYear": 900
+    "deathYear": 900,
+    "portrait": "persons/tang_唐昭宗.webp",
+    "_portraitThumb": "persons/tang_唐昭宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_昭宣光烈孝皇帝",

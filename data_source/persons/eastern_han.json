@@ -12,7 +12,11 @@
     "yearUncertainty": "year",
     "reignEnd": 57,
     "deathYear": 57,
-    "_rawPortraitPath": "东汉/汉世祖"
+    "_rawPortraitPath": "东汉/汉世祖",
+    "portrait": "persons/eastern_han_汉世祖.webp",
+    "_portraitThumb": "persons/eastern_han_汉世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_eastern_han_汉显宗",

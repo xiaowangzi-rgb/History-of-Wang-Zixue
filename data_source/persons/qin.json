@@ -12,7 +12,11 @@
     "yearUncertainty": "year",
     "reignEnd": -210,
     "deathYear": -210,
-    "_rawPortraitPath": "秦/始皇帝"
+    "_rawPortraitPath": "秦/始皇帝",
+    "portrait": "persons/qin_始皇帝.webp",
+    "_portraitThumb": "persons/qin_始皇帝_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qin_二世皇帝",

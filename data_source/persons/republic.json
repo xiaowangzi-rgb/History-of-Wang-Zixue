@@ -11,6 +11,10 @@
     "birthYear": 1915,
     "yearUncertainty": "year",
     "reignEnd": 1916,
-    "deathYear": 1916
+    "deathYear": 1916,
+    "portrait": "persons/republic_袁世凯.webp",
+    "_portraitThumb": "persons/republic_袁世凯_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   }
 ]

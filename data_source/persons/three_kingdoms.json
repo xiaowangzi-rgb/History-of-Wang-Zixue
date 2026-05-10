@@ -13,7 +13,11 @@
     "yearUncertainty": "year",
     "reignEnd": 226,
     "deathYear": 226,
-    "_rawPortraitPath": "魏（三国）/魏高祖"
+    "_rawPortraitPath": "魏（三国）/魏高祖",
+    "portrait": "persons/three_kingdoms_魏高祖.webp",
+    "_portraitThumb": "persons/three_kingdoms_魏高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_three_kingdoms_蜀汉烈祖",
@@ -29,7 +33,11 @@
     "yearUncertainty": "year",
     "reignEnd": 223,
     "deathYear": 223,
-    "_rawPortraitPath": "蜀汉/蜀汉烈祖"
+    "_rawPortraitPath": "蜀汉/蜀汉烈祖",
+    "portrait": "persons/three_kingdoms_蜀汉烈祖.webp",
+    "_portraitThumb": "persons/three_kingdoms_蜀汉烈祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_three_kingdoms_吴太祖",

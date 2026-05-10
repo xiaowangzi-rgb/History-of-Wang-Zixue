@@ -896,6 +896,24 @@
     "deathYear": -750
   },
   {
+    "id": "person_guanzhong",
+    "name": "管仲",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_qi_state_sa",
+    "role": "政治家 改革家",
+    "birthYear": -723,
+    "deathYear": -645,
+    "summary": "名夷吾字仲,辅佐齐桓公成春秋首霸。改革政经军制,被尊为\"华夏第一相\"。法家、儒家皆奉之为先驱。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/guanzhong.webp",
+    "_portraitThumb": "persons/guanzhong_thumb.webp",
+    "portraitSource": "Wikipedia: 管仲",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_eastern_zhou_桓王",
     "name": "桓王",
     "dynastyId": "dynasty_eastern_zhou",
@@ -1048,6 +1066,59 @@
     "yearUncertainty": "year",
     "reignEnd": -545,
     "deathYear": -545
+  },
+  {
+    "id": "person_laozi",
+    "name": "老子",
+    "dynastyId": "dynasty_eastern_zhou",
+    "role": "思想家",
+    "birthYear": -571,
+    "deathYear": -471,
+    "summary": "姓李名耳字聃,周守藏室之史。著《道德经》五千言,创立道家学说。\"道法自然\"\"无为而治\"思想深刻塑造中国哲学。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/laozi.webp",
+    "_portraitThumb": "persons/laozi_thumb.webp",
+    "portraitSource": "Wikipedia: 老子",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
+    "id": "person_kongzi",
+    "name": "孔子",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_lu",
+    "role": "思想家 教育家",
+    "birthYear": -551,
+    "deathYear": -479,
+    "summary": "名丘字仲尼,鲁国陬邑人。儒家学派创始人,周游列国十四年,弟子三千、贤者七十二。修《诗》《书》,作《春秋》。儒学影响中华两千五百年。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/kongzi.webp",
+    "_portraitThumb": "persons/kongzi_thumb.webp",
+    "portraitSource": "Wikipedia: 孔子",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
+    "id": "person_sunwu",
+    "name": "孙武",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_wu_state",
+    "role": "军事家",
+    "birthYear": -545,
+    "deathYear": -470,
+    "summary": "齐人,世称\"兵圣\"。著《孙子兵法》十三篇,是世界现存最早的军事理论著作。助吴王阖闾破楚入郢,五战五胜。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/sunwu.webp",
+    "_portraitThumb": "persons/sunwu_thumb.webp",
+    "portraitSource": "Wikipedia: 孙武",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_eastern_zhou_景王",
@@ -1370,6 +1441,24 @@
     "deathYear": -370
   },
   {
+    "id": "person_shangyang",
+    "name": "商鞅",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_qin_state",
+    "role": "政治家 改革家",
+    "birthYear": -390,
+    "deathYear": -338,
+    "summary": "卫国公子姓公孙名鞅,因功封于商,故称商鞅。秦孝公时主持变法,奠定秦统一基础。孝公死后被车裂,但新法不废。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/shangyang.webp",
+    "_portraitThumb": "persons/shangyang_thumb.webp",
+    "portraitSource": "Wikipedia: 商鞅",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_eastern_zhou_秦出公",
     "name": "秦出公",
     "dynastyId": "dynasty_eastern_zhou",
@@ -1504,6 +1593,40 @@
     "deathYear": -363
   },
   {
+    "id": "person_mengzi",
+    "name": "孟子",
+    "dynastyId": "dynasty_eastern_zhou",
+    "role": "思想家",
+    "birthYear": -372,
+    "deathYear": -289,
+    "summary": "名轲字子舆,邹国人。继孔子后儒家最重要人物,提出\"民贵君轻\"\"性善论\"\"仁政\"等核心概念。后世尊为\"亚圣\"。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/mengzi.webp",
+    "_portraitThumb": "persons/mengzi_thumb.webp",
+    "portraitSource": "Wikipedia: 孟子",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
+    "id": "person_zhuangzi",
+    "name": "庄子",
+    "dynastyId": "dynasty_eastern_zhou",
+    "role": "思想家",
+    "birthYear": -369,
+    "deathYear": -286,
+    "summary": "名周,宋国蒙人。著《庄子》,与老子并称\"老庄\",道家代表。\"逍遥游\"\"齐物论\"\"庄周梦蝶\"为中国哲学经典。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/zhuangzi.webp",
+    "_portraitThumb": "persons/zhuangzi_thumb.webp",
+    "portraitSource": "Wikipedia: 莊子",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_eastern_zhou_显圣王",
     "name": "显圣王",
     "dynastyId": "dynasty_eastern_zhou",
@@ -1608,6 +1731,24 @@
     "deathYear": -326
   },
   {
+    "id": "person_quyuan",
+    "name": "屈原",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_chu",
+    "role": "诗人 政治家",
+    "birthYear": -340,
+    "deathYear": -278,
+    "summary": "楚国贵族,大诗人。因政治失意作《离骚》《九歌》《天问》,开中国浪漫主义文学先河。秦破郢都后投汨罗江而死,端午节由此而生。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/quyuan.webp",
+    "_portraitThumb": "persons/quyuan_thumb.webp",
+    "portraitSource": "Wikipedia: 屈原",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_eastern_zhou_楚威王",
     "name": "楚威王",
     "dynastyId": "dynasty_eastern_zhou",
@@ -1636,6 +1777,24 @@
     "yearUncertainty": "year",
     "reignEnd": -311,
     "deathYear": -311
+  },
+  {
+    "id": "person_baiqi",
+    "name": "白起",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_qin_state",
+    "role": "军事家",
+    "birthYear": -332,
+    "deathYear": -257,
+    "summary": "号称\"人屠\",战国四大名将之首。一生征战三十七年未尝败绩,长平之战坑杀赵卒四十万。后被秦昭王赐死。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/baiqi.webp",
+    "_portraitThumb": "persons/baiqi_thumb.webp",
+    "portraitSource": "Wikipedia: 白起",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_eastern_zhou_燕易王",
@@ -1906,6 +2065,19 @@
     "deathYear": -277
   },
   {
+    "id": "person_lisi",
+    "name": "李斯",
+    "dynastyId": "dynasty_qin",
+    "role": "政治家",
+    "birthYear": -284,
+    "deathYear": -208,
+    "summary": "楚国上蔡人,荀子弟子。秦相,助秦始皇统一文字、度量衡、推行郡县制。始皇死后参与沙丘之变,后为赵高所害,腰斩咸阳。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
     "id": "person_eastern_zhou_齐襄王",
     "name": "齐襄王",
     "dynastyId": "dynasty_eastern_zhou",
@@ -1919,6 +2091,24 @@
     "yearUncertainty": "year",
     "reignEnd": -265,
     "deathYear": -265
+  },
+  {
+    "id": "person_hanfeizi",
+    "name": "韩非子",
+    "dynastyId": "dynasty_eastern_zhou",
+    "regimeId": "regime_han_state",
+    "role": "思想家",
+    "birthYear": -280,
+    "deathYear": -233,
+    "summary": "韩国公子,荀子弟子。集法家之大成,著《孤愤》《五蠹》。秦王政读其书曰\"得见此人与之游死不恨矣\",但终为李斯所害死于秦狱。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/hanfeizi.webp",
+    "_portraitThumb": "persons/hanfeizi_thumb.webp",
+    "portraitSource": "Wikipedia: 韩非",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_eastern_zhou_燕惠王",
@@ -2248,7 +2438,11 @@
     "yearUncertainty": "year",
     "reignEnd": -210,
     "deathYear": -210,
-    "_rawPortraitPath": "秦/始皇帝"
+    "_rawPortraitPath": "秦/始皇帝",
+    "portrait": "persons/qin_始皇帝.webp",
+    "_portraitThumb": "persons/qin_始皇帝_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qin_二世皇帝",
@@ -2291,7 +2485,11 @@
     "yearUncertainty": "year",
     "reignEnd": -195,
     "deathYear": -195,
-    "_rawPortraitPath": "西汉/汉太祖"
+    "_rawPortraitPath": "西汉/汉太祖",
+    "portrait": "persons/western_han_汉太祖.webp",
+    "_portraitThumb": "persons/western_han_汉太祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_western_han_孝惠皇帝",
@@ -2376,7 +2574,11 @@
     "yearUncertainty": "year",
     "reignEnd": -87,
     "deathYear": -87,
-    "_rawPortraitPath": "西汉/汉世宗"
+    "_rawPortraitPath": "西汉/汉世宗",
+    "portrait": "persons/western_han_汉世宗.webp",
+    "_portraitThumb": "persons/western_han_汉世宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_western_han_孝昭皇帝",
@@ -2531,7 +2733,11 @@
     "yearUncertainty": "year",
     "reignEnd": 57,
     "deathYear": 57,
-    "_rawPortraitPath": "东汉/汉世祖"
+    "_rawPortraitPath": "东汉/汉世祖",
+    "portrait": "persons/eastern_han_汉世祖.webp",
+    "_portraitThumb": "persons/eastern_han_汉世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_xin_刘盆子",
@@ -2688,6 +2894,24 @@
     "deathYear": 167
   },
   {
+    "id": "person_guanyu",
+    "name": "关羽",
+    "dynastyId": "dynasty_three_kingdoms",
+    "regimeId": "regime_shu",
+    "role": "军事家",
+    "birthYear": 160,
+    "deathYear": 220,
+    "summary": "字云长,蜀汉名将。\"过五关斩六将\"\"水淹七军\"传为佳话,败走麦城被吴擒杀。后世尊为\"武圣\"\"关帝\",与孔子\"文圣\"并立。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/guanyu.webp",
+    "_portraitThumb": "persons/guanyu_thumb.webp",
+    "portraitSource": "Wikipedia: 关羽",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_eastern_han_孝靈皇帝",
     "name": "孝靈皇帝",
     "dynastyId": "dynasty_eastern_han",
@@ -2700,6 +2924,42 @@
     "yearUncertainty": "year",
     "reignEnd": 189,
     "deathYear": 189
+  },
+  {
+    "id": "person_simayi",
+    "name": "司马懿",
+    "dynastyId": "dynasty_three_kingdoms",
+    "regimeId": "regime_wei",
+    "role": "政治家 军事家",
+    "birthYear": 179,
+    "deathYear": 251,
+    "summary": "字仲达,曹魏权臣,司马氏奠基者。多次抵御诸葛亮北伐。高平陵之变夺曹爽权,为孙司马炎代魏建晋铺平道路。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/simayi.webp",
+    "_portraitThumb": "persons/simayi_thumb.webp",
+    "portraitSource": "Wikipedia: 司马懿",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
+    "id": "person_zhugeliang",
+    "name": "诸葛亮",
+    "dynastyId": "dynasty_three_kingdoms",
+    "regimeId": "regime_shu",
+    "role": "政治家 军事家",
+    "birthYear": 181,
+    "deathYear": 234,
+    "summary": "字孔明,号卧龙。蜀汉丞相,刘备三顾茅庐而出。\"鞠躬尽瘁,死而后已\",六出祁山伐魏,病逝五丈原。中国忠贞智慧的象征。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/zhugeliang.webp",
+    "_portraitThumb": "persons/zhugeliang_thumb.webp",
+    "portraitSource": "Wikipedia: 诸葛亮",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_eastern_han_刘辯",
@@ -2743,7 +3003,11 @@
     "yearUncertainty": "year",
     "reignEnd": 226,
     "deathYear": 226,
-    "_rawPortraitPath": "魏（三国）/魏高祖"
+    "_rawPortraitPath": "魏（三国）/魏高祖",
+    "portrait": "persons/three_kingdoms_魏高祖.webp",
+    "_portraitThumb": "persons/three_kingdoms_魏高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_three_kingdoms_蜀汉烈祖",
@@ -2759,7 +3023,11 @@
     "yearUncertainty": "year",
     "reignEnd": 223,
     "deathYear": 223,
-    "_rawPortraitPath": "蜀汉/蜀汉烈祖"
+    "_rawPortraitPath": "蜀汉/蜀汉烈祖",
+    "portrait": "persons/three_kingdoms_蜀汉烈祖.webp",
+    "_portraitThumb": "persons/three_kingdoms_蜀汉烈祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_three_kingdoms_吴太祖",
@@ -5218,7 +5486,11 @@
     "yearUncertainty": "year",
     "reignEnd": 604,
     "deathYear": 604,
-    "_rawPortraitPath": "隋/隋高祖"
+    "_rawPortraitPath": "隋/隋高祖",
+    "portrait": "persons/sui_隋高祖.webp",
+    "_portraitThumb": "persons/sui_隋高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_southern_northern_陈叔宝",
@@ -5251,6 +5523,23 @@
     "deathYear": 587
   },
   {
+    "id": "person_xuanzang",
+    "name": "玄奘",
+    "dynastyId": "dynasty_tang",
+    "role": "高僧 翻译家",
+    "birthYear": 602,
+    "deathYear": 664,
+    "summary": "俗名陈祎,洛阳人。冒禁西行十七年取经,归国主持长安译场二十年,译经一千三百余卷。著《大唐西域记》。《西游记》原型。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/xuanzang.webp",
+    "_portraitThumb": "persons/xuanzang_thumb.webp",
+    "portraitSource": "Wikipedia: 玄奘",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_sui_隋世祖",
     "name": "隋世祖",
     "dynastyId": "dynasty_sui",
@@ -5262,7 +5551,11 @@
     "birthYear": 604,
     "yearUncertainty": "year",
     "reignEnd": 618,
-    "deathYear": 618
+    "deathYear": 618,
+    "portrait": "persons/sui_隋世祖.webp",
+    "_portraitThumb": "persons/sui_隋世祖_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_sui_恭皇帝",
@@ -5305,7 +5598,11 @@
     "yearUncertainty": "year",
     "reignEnd": 626,
     "deathYear": 626,
-    "_rawPortraitPath": "唐/唐高祖"
+    "_rawPortraitPath": "唐/唐高祖",
+    "portrait": "persons/tang_唐高祖.webp",
+    "_portraitThumb": "persons/tang_唐高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐太宗",
@@ -5320,7 +5617,11 @@
     "yearUncertainty": "year",
     "reignEnd": 649,
     "deathYear": 649,
-    "_rawPortraitPath": "唐/唐太宗"
+    "_rawPortraitPath": "唐/唐太宗",
+    "portrait": "persons/tang_唐太宗.webp",
+    "_portraitThumb": "persons/tang_唐太宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐高宗",
@@ -5349,7 +5650,28 @@
     "yearUncertainty": "year",
     "reignEnd": 705,
     "deathYear": 705,
-    "_rawPortraitPath": "周（唐）/武瞾"
+    "_rawPortraitPath": "周（唐）/武瞾",
+    "portrait": "persons/tang_武瞾.webp",
+    "_portraitThumb": "persons/tang_武瞾_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
+  },
+  {
+    "id": "person_libai",
+    "name": "李白",
+    "dynastyId": "dynasty_tang",
+    "role": "诗人",
+    "birthYear": 701,
+    "deathYear": 762,
+    "summary": "字太白号青莲居士,人称\"诗仙\"。盛唐浪漫主义诗坛巅峰,\"飞流直下三千尺\"\"床前明月光\"千古传诵。曾入翰林,后被放逐。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/libai.webp",
+    "_portraitThumb": "persons/libai_thumb.webp",
+    "portraitSource": "Wikipedia: 李白",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_tang_唐中宗",
@@ -5363,7 +5685,11 @@
     "birthYear": 705,
     "yearUncertainty": "year",
     "reignEnd": 710,
-    "deathYear": 710
+    "deathYear": 710,
+    "portrait": "persons/tang_唐中宗.webp",
+    "_portraitThumb": "persons/tang_唐中宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐睿宗",
@@ -5377,7 +5703,11 @@
     "birthYear": 710,
     "yearUncertainty": "year",
     "reignEnd": 712,
-    "deathYear": 712
+    "deathYear": 712,
+    "portrait": "persons/tang_唐睿宗.webp",
+    "_portraitThumb": "persons/tang_唐睿宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_殤皇帝",
@@ -5394,6 +5724,19 @@
     "deathYear": 710
   },
   {
+    "id": "person_dufu",
+    "name": "杜甫",
+    "dynastyId": "dynasty_tang",
+    "role": "诗人",
+    "birthYear": 712,
+    "deathYear": 770,
+    "summary": "字子美自号少陵野老,人称\"诗圣\",诗为\"诗史\"。\"安得广厦千万间\"\"国破山河在\"反映安史之乱前后社会苦难,沉郁顿挫。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
     "id": "person_tang_唐玄宗",
     "name": "唐玄宗",
     "dynastyId": "dynasty_tang",
@@ -5406,7 +5749,11 @@
     "yearUncertainty": "year",
     "reignEnd": 756,
     "deathYear": 756,
-    "_rawPortraitPath": "唐/唐玄宗"
+    "_rawPortraitPath": "唐/唐玄宗",
+    "portrait": "persons/tang_唐玄宗.webp",
+    "_portraitThumb": "persons/tang_唐玄宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_tang_唐肃宗",
@@ -5420,7 +5767,11 @@
     "birthYear": 756,
     "yearUncertainty": "year",
     "reignEnd": 762,
-    "deathYear": 762
+    "deathYear": 762,
+    "portrait": "persons/tang_唐肃宗.webp",
+    "_portraitThumb": "persons/tang_唐肃宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐代宗",
@@ -5434,7 +5785,11 @@
     "birthYear": 762,
     "yearUncertainty": "year",
     "reignEnd": 779,
-    "deathYear": 779
+    "deathYear": 779,
+    "portrait": "persons/tang_唐代宗.webp",
+    "_portraitThumb": "persons/tang_唐代宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐德宗",
@@ -5462,7 +5817,11 @@
     "birthYear": 805,
     "yearUncertainty": "year",
     "reignEnd": 820,
-    "deathYear": 820
+    "deathYear": 820,
+    "portrait": "persons/tang_唐宪宗.webp",
+    "_portraitThumb": "persons/tang_唐宪宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐顺宗",
@@ -5490,7 +5849,11 @@
     "birthYear": 820,
     "yearUncertainty": "year",
     "reignEnd": 824,
-    "deathYear": 824
+    "deathYear": 824,
+    "portrait": "persons/tang_唐穆宗.webp",
+    "_portraitThumb": "persons/tang_唐穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐敬宗",
@@ -5504,7 +5867,11 @@
     "birthYear": 824,
     "yearUncertainty": "year",
     "reignEnd": 826,
-    "deathYear": 826
+    "deathYear": 826,
+    "portrait": "persons/tang_唐敬宗.webp",
+    "_portraitThumb": "persons/tang_唐敬宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐文宗",
@@ -5518,7 +5885,11 @@
     "birthYear": 826,
     "yearUncertainty": "year",
     "reignEnd": 840,
-    "deathYear": 840
+    "deathYear": 840,
+    "portrait": "persons/tang_唐文宗.webp",
+    "_portraitThumb": "persons/tang_唐文宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐武宗",
@@ -5532,7 +5903,11 @@
     "birthYear": 840,
     "yearUncertainty": "year",
     "reignEnd": 846,
-    "deathYear": 846
+    "deathYear": 846,
+    "portrait": "persons/tang_唐武宗.webp",
+    "_portraitThumb": "persons/tang_唐武宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐宣宗",
@@ -5560,7 +5935,11 @@
     "birthYear": 859,
     "yearUncertainty": "year",
     "reignEnd": 873,
-    "deathYear": 873
+    "deathYear": 873,
+    "portrait": "persons/tang_唐懿宗.webp",
+    "_portraitThumb": "persons/tang_唐懿宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐僖宗",
@@ -5574,7 +5953,11 @@
     "birthYear": 873,
     "yearUncertainty": "year",
     "reignEnd": 888,
-    "deathYear": 888
+    "deathYear": 888,
+    "portrait": "persons/tang_唐僖宗.webp",
+    "_portraitThumb": "persons/tang_唐僖宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_tang_唐昭宗",
@@ -5588,7 +5971,11 @@
     "birthYear": 888,
     "yearUncertainty": "year",
     "reignEnd": 900,
-    "deathYear": 900
+    "deathYear": 900,
+    "portrait": "persons/tang_唐昭宗.webp",
+    "_portraitThumb": "persons/tang_唐昭宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_five_dynasties_吴太祖",
@@ -6445,7 +6832,11 @@
     "yearUncertainty": "year",
     "reignEnd": 976,
     "deathYear": 976,
-    "_rawPortraitPath": "北宋/宋太祖"
+    "_rawPortraitPath": "北宋/宋太祖",
+    "portrait": "persons/song_宋太祖.webp",
+    "_portraitThumb": "persons/song_宋太祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_five_dynasties_文宣",
@@ -6531,7 +6922,11 @@
     "birthYear": 976,
     "yearUncertainty": "year",
     "reignEnd": 997,
-    "deathYear": 997
+    "deathYear": 997,
+    "portrait": "persons/song_宋太宗.webp",
+    "_portraitThumb": "persons/song_宋太宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_song_大契丹国圣宗",
@@ -6573,7 +6968,11 @@
     "birthYear": 997,
     "yearUncertainty": "year",
     "reignEnd": 1022,
-    "deathYear": 1022
+    "deathYear": 1022,
+    "portrait": "persons/song_宋真宗.webp",
+    "_portraitThumb": "persons/song_宋真宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_song_光圣皇帝",
@@ -6590,6 +6989,23 @@
     "deathYear": 1032
   },
   {
+    "id": "person_wanganshi",
+    "name": "王安石",
+    "dynastyId": "dynasty_song",
+    "role": "政治家 改革家 文学家",
+    "birthYear": 1021,
+    "deathYear": 1086,
+    "summary": "字介甫号半山,临川人。神宗时拜相主持熙宁变法,推青苗、募役、保甲诸法。变法引发新旧党争,影响北宋政局深远。亦为唐宋八大家之一。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/wanganshi.webp",
+    "_portraitThumb": "persons/wanganshi_thumb.webp",
+    "portraitSource": "Wikipedia: 王安石",
+    "portraitLicense": "see Wikipedia file page"
+  },
+  {
     "id": "person_song_宋仁宗",
     "name": "宋仁宗",
     "dynastyId": "dynasty_song",
@@ -6602,7 +7018,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1063,
     "deathYear": 1063,
-    "_rawPortraitPath": "北宋/宋仁宗"
+    "_rawPortraitPath": "北宋/宋仁宗",
+    "portrait": "persons/song_宋仁宗.webp",
+    "_portraitThumb": "persons/song_宋仁宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_song_大契丹国兴宗",
@@ -6617,6 +7037,23 @@
     "yearUncertainty": "year",
     "reignEnd": 1055,
     "deathYear": 1055
+  },
+  {
+    "id": "person_sushi",
+    "name": "苏轼",
+    "dynastyId": "dynasty_song",
+    "role": "文学家 政治家",
+    "birthYear": 1037,
+    "deathYear": 1101,
+    "summary": "字子瞻号东坡,眉山人。诗词文书画俱绝,\"大江东去\"开豪放词风。乌台诗案贬黄州,\"一蓑烟雨任平生\"。北宋文坛宗主。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/sushi.webp",
+    "_portraitThumb": "persons/sushi_thumb.webp",
+    "portraitSource": "Wikipedia: 苏轼",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_song_西夏毅宗",
@@ -6745,6 +7182,19 @@
     "deathYear": 1125
   },
   {
+    "id": "person_yuefei",
+    "name": "岳飞",
+    "dynastyId": "dynasty_song",
+    "role": "军事家",
+    "birthYear": 1103,
+    "deathYear": 1142,
+    "summary": "字鹏举,南宋抗金名将。背刺\"精忠报国\",率岳家军郾城大捷。被秦桧以\"莫须有\"罪缢杀风波亭,成中国民族英雄象征。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
     "id": "person_song_金太祖",
     "name": "金太祖",
     "dynastyId": "dynasty_song",
@@ -6813,6 +7263,23 @@
     "yearUncertainty": "year",
     "reignEnd": 1129,
     "deathYear": 1129
+  },
+  {
+    "id": "person_zhuxi",
+    "name": "朱熹",
+    "dynastyId": "dynasty_song",
+    "role": "思想家",
+    "birthYear": 1130,
+    "deathYear": 1200,
+    "summary": "字元晦号晦庵,集理学之大成。著《四书章句集注》,确立程朱理学体系。元明清三代官方正统思想,影响东亚八百年。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual",
+    "portrait": "persons/zhuxi.webp",
+    "_portraitThumb": "persons/zhuxi_thumb.webp",
+    "portraitSource": "Wikipedia: 朱熹",
+    "portraitLicense": "see Wikipedia file page"
   },
   {
     "id": "person_song_东昏王",
@@ -7037,7 +7504,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1294,
     "deathYear": 1294,
-    "_rawPortraitPath": "大元/元世祖"
+    "_rawPortraitPath": "大元/元世祖",
+    "portrait": "persons/yuan_元世祖.webp",
+    "_portraitThumb": "persons/yuan_元世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_yuan_元成宗",
@@ -7149,7 +7620,11 @@
     "birthYear": 1329,
     "yearUncertainty": "year",
     "reignEnd": 1329,
-    "deathYear": 1329
+    "deathYear": 1329,
+    "portrait": "persons/yuan_元明宗.webp",
+    "_portraitThumb": "persons/yuan_元明宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_yuan_元宁宗",
@@ -7178,7 +7653,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1368,
     "deathYear": 1368,
-    "_rawPortraitPath": "明/明太祖"
+    "_rawPortraitPath": "明/明太祖",
+    "portrait": "persons/ming_明太祖.webp",
+    "_portraitThumb": "persons/ming_明太祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_嗣天章道誠懿渊功观文揚武克仁篤孝让皇帝",
@@ -7279,6 +7758,19 @@
     "deathYear": 1487
   },
   {
+    "id": "person_wangyangming",
+    "name": "王阳明",
+    "dynastyId": "dynasty_ming",
+    "role": "思想家 军事家",
+    "birthYear": 1472,
+    "deathYear": 1529,
+    "summary": "名守仁字伯安,余姚人。龙场悟道,创心学,主\"心即理\"\"知行合一\"\"致良知\"。文官领兵平宁王之乱,立德立功立言三不朽。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
     "id": "person_ming_明孝宗",
     "name": "明孝宗",
     "dynastyId": "dynasty_ming",
@@ -7307,6 +7799,32 @@
     "deathYear": 1521
   },
   {
+    "id": "person_lishizhen",
+    "name": "李时珍",
+    "dynastyId": "dynasty_ming",
+    "role": "医学家",
+    "birthYear": 1518,
+    "deathYear": 1593,
+    "summary": "字东璧,蕲州人。历二十七年著《本草纲目》五十二卷,载药物 1892 种、附方 11096 首。被达尔文誉\"中国百科全书\"。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "person_zhangjuzheng",
+    "name": "张居正",
+    "dynastyId": "dynasty_ming",
+    "role": "政治家 改革家",
+    "birthYear": 1525,
+    "deathYear": 1582,
+    "summary": "字叔大号太岳,万历首辅。推考成法、一条鞭法,十年间国库充盈、边防整肃,延明祚数十年。死后即被清算抄家。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
     "id": "person_ming_明世宗",
     "name": "明世宗",
     "dynastyId": "dynasty_ming",
@@ -7332,7 +7850,11 @@
     "birthYear": 1567,
     "yearUncertainty": "year",
     "reignEnd": 1572,
-    "deathYear": 1572
+    "deathYear": 1572,
+    "portrait": "persons/ming_明穆宗.webp",
+    "_portraitThumb": "persons/ming_明穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_ming_明神宗",
@@ -7347,7 +7869,11 @@
     "yearUncertainty": "year",
     "reignEnd": 1620,
     "deathYear": 1620,
-    "_rawPortraitPath": "明/明神宗"
+    "_rawPortraitPath": "明/明神宗",
+    "portrait": "persons/ming_明神宗.webp",
+    "_portraitThumb": "persons/ming_明神宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_承天广运圣德神功肇紀立極仁孝武皇帝",
@@ -7417,7 +7943,11 @@
     "birthYear": 1636,
     "yearUncertainty": "year",
     "reignEnd": 1643,
-    "deathYear": 1643
+    "deathYear": 1643,
+    "portrait": "persons/qing_清太宗.webp",
+    "_portraitThumb": "persons/qing_清太宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清世祖",
@@ -7431,7 +7961,11 @@
     "birthYear": 1643,
     "yearUncertainty": "year",
     "reignEnd": 1661,
-    "deathYear": 1661
+    "deathYear": 1661,
+    "portrait": "persons/qing_清世祖.webp",
+    "_portraitThumb": "persons/qing_清世祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清圣祖",
@@ -7445,7 +7979,24 @@
     "birthYear": 1661,
     "yearUncertainty": "year",
     "reignEnd": 1722,
-    "deathYear": 1722
+    "deathYear": 1722,
+    "portrait": "persons/qing_清圣祖.webp",
+    "_portraitThumb": "persons/qing_清圣祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
+  },
+  {
+    "id": "person_caoxueqin",
+    "name": "曹雪芹",
+    "dynastyId": "dynasty_qing",
+    "role": "小说家",
+    "birthYear": 1715,
+    "deathYear": 1763,
+    "summary": "字梦阮号雪芹,满洲正白旗包衣。家道中落后\"批阅十载,增删五次\"成《红楼梦》前八十回。中国古典小说巅峰,\"红学\"之祖。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   },
   {
     "id": "person_qing_清世宗",
@@ -7459,7 +8010,11 @@
     "birthYear": 1722,
     "yearUncertainty": "year",
     "reignEnd": 1735,
-    "deathYear": 1735
+    "deathYear": 1735,
+    "portrait": "persons/qing_清世宗.webp",
+    "_portraitThumb": "persons/qing_清世宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清高宗",
@@ -7473,7 +8028,24 @@
     "birthYear": 1735,
     "yearUncertainty": "year",
     "reignEnd": 1796,
-    "deathYear": 1796
+    "deathYear": 1796,
+    "portrait": "persons/qing_清高宗.webp",
+    "_portraitThumb": "persons/qing_清高宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
+  },
+  {
+    "id": "person_linzexu",
+    "name": "林则徐",
+    "dynastyId": "dynasty_qing",
+    "role": "政治家",
+    "birthYear": 1785,
+    "deathYear": 1850,
+    "summary": "字元抚号少穆,福州人。1839 年虎门销烟二百多万斤鸦片,引发鸦片战争。被贬伊犁仍兴修水利。开\"睁眼看世界\"先河。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   },
   {
     "id": "person_qing_清仁宗",
@@ -7487,7 +8059,11 @@
     "birthYear": 1796,
     "yearUncertainty": "year",
     "reignEnd": 1820,
-    "deathYear": 1820
+    "deathYear": 1820,
+    "portrait": "persons/qing_清仁宗.webp",
+    "_portraitThumb": "persons/qing_清仁宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_qing_清宣宗",
@@ -7515,7 +8091,11 @@
     "birthYear": 1850,
     "yearUncertainty": "year",
     "reignEnd": 1861,
-    "deathYear": 1861
+    "deathYear": 1861,
+    "portrait": "persons/qing_清文宗.webp",
+    "_portraitThumb": "persons/qing_清文宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清穆宗",
@@ -7529,7 +8109,24 @@
     "birthYear": 1861,
     "yearUncertainty": "year",
     "reignEnd": 1875,
-    "deathYear": 1875
+    "deathYear": 1875,
+    "portrait": "persons/qing_清穆宗.webp",
+    "_portraitThumb": "persons/qing_清穆宗_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
+  },
+  {
+    "id": "person_sunzhongshan",
+    "name": "孙中山",
+    "dynastyId": "dynasty_republic",
+    "role": "革命家 政治家",
+    "birthYear": 1866,
+    "deathYear": 1925,
+    "summary": "名文字逸仙,广东中山人。提出三民主义,组建同盟会、国民党。辛亥革命领导者,中华民国临时大总统。两岸尊为\"国父\"。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   },
   {
     "id": "person_qing_清德宗",
@@ -7543,7 +8140,50 @@
     "birthYear": 1875,
     "yearUncertainty": "year",
     "reignEnd": 1908,
-    "deathYear": 1908
+    "deathYear": 1908,
+    "portrait": "persons/qing_清德宗.webp",
+    "_portraitThumb": "persons/qing_清德宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
+  },
+  {
+    "id": "person_luxun",
+    "name": "鲁迅",
+    "dynastyId": "dynasty_republic",
+    "role": "文学家 思想家",
+    "birthYear": 1881,
+    "deathYear": 1936,
+    "summary": "原名周树人,绍兴人。中国现代文学奠基人。《狂人日记》开白话小说先河,《阿 Q 正传》《呐喊》《彷徨》深刻批判国民性,被誉\"民族魂\"。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "person_maozedong",
+    "name": "毛泽东",
+    "dynastyId": "dynasty_prc_pre_reform",
+    "role": "政治家 革命家",
+    "birthYear": 1893,
+    "deathYear": 1976,
+    "summary": "字润之,湖南湘潭人。中国共产党创始人之一,中华人民共和国主要缔造者。领导土地革命、抗日、内战,1949 年建立新中国,任至 1976 年卒。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "person_zhouenlai",
+    "name": "周恩来",
+    "dynastyId": "dynasty_prc_pre_reform",
+    "role": "政治家",
+    "birthYear": 1898,
+    "deathYear": 1976,
+    "summary": "字翔宇,淮安人。新中国首任总理,任职二十六年至卒。主持外交、经济建设,推动万隆会议、中美建交。1976 年逝世举国哀悼。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
   },
   {
     "id": "person_qing_溥仪",
@@ -7557,7 +8197,11 @@
     "birthYear": 1908,
     "yearUncertainty": "year",
     "reignEnd": 1912,
-    "deathYear": 1912
+    "deathYear": 1912,
+    "portrait": "persons/qing_溥仪.webp",
+    "_portraitThumb": "persons/qing_溥仪_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_republic_袁世凯",
@@ -7571,7 +8215,11 @@
     "birthYear": 1915,
     "yearUncertainty": "year",
     "reignEnd": 1916,
-    "deathYear": 1916
+    "deathYear": 1916,
+    "portrait": "persons/republic_袁世凯.webp",
+    "_portraitThumb": "persons/republic_袁世凯_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_ming_明思宗",
@@ -7581,7 +8229,11 @@
     "historicity": "historical",
     "_schemaVersion": "v0.6",
     "source": "people-portraits-index",
-    "_rawPortraitPath": "明/明思宗"
+    "_rawPortraitPath": "明/明思宗",
+    "portrait": "persons/ming_明思宗.webp",
+    "_portraitThumb": "persons/ming_明思宗_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_ming_明成祖",
@@ -7591,7 +8243,11 @@
     "historicity": "historical",
     "_schemaVersion": "v0.6",
     "source": "people-portraits-index",
-    "_rawPortraitPath": "明/明成祖"
+    "_rawPortraitPath": "明/明成祖",
+    "portrait": "persons/ming_明成祖.webp",
+    "_portraitThumb": "persons/ming_明成祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_qing_清世宗_2",

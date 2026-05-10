@@ -12,7 +12,11 @@
     "yearUncertainty": "year",
     "reignEnd": 604,
     "deathYear": 604,
-    "_rawPortraitPath": "隋/隋高祖"
+    "_rawPortraitPath": "隋/隋高祖",
+    "portrait": "persons/sui_隋高祖.webp",
+    "_portraitThumb": "persons/sui_隋高祖_thumb.webp",
+    "portraitSource": "AI 生成",
+    "portraitLicense": "CC0"
   },
   {
     "id": "person_sui_隋世祖",
@@ -26,7 +30,11 @@
     "birthYear": 604,
     "yearUncertainty": "year",
     "reignEnd": 618,
-    "deathYear": 618
+    "deathYear": 618,
+    "portrait": "persons/sui_隋世祖.webp",
+    "_portraitThumb": "persons/sui_隋世祖_thumb.webp",
+    "portraitSource": "Wikimedia Commons",
+    "portraitLicense": "CC-BY-SA / public-domain (per Wikimedia file)"
   },
   {
     "id": "person_sui_恭皇帝",

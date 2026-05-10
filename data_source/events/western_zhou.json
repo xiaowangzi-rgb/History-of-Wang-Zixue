@@ -1,0 +1,98 @@
+[
+  {
+    "id": "event_wz_muye",
+    "name": "牧野之战 武王克商",
+    "year": -1046,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "war",
+    "summary": "周武王姬发率诸侯联军于牧野(今河南淇县)大败商纣。\"血流漂杵\"之说见于《尚书》。商灭周兴,中国进入分封制时代。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_zhou_gong",
+    "name": "周公东征 制礼作乐",
+    "year": -1042,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "politics",
+    "summary": "武王崩,成王幼,周公旦摄政。三监之乱起,周公东征三年平之,分封诸侯七十一国,制定周礼,奠定中华礼乐文明根基。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_chengkang",
+    "name": "成康之治",
+    "year": -1042,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "politics",
+    "summary": "成王、康王两代四十余年,刑措不用、天下安宁。是西周国力最盛、礼乐最备时期,后世仅次于尧舜的理想之世。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_zhao_south",
+    "name": "昭王南征 折戟汉水",
+    "year": -977,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "war",
+    "summary": "周昭王三次南征荆楚(今湖北),最后一次溺死汉水。周王声威骤损,南方诸侯渐生离心。\"丧六师于汉\"为西周由盛转衰征兆。",
+    "historicity": "historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_mu_west",
+    "name": "穆王西巡 周穆王见西王母",
+    "year": -963,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "diplomacy",
+    "summary": "周穆王驾八骏西征犬戎,远至昆仑山,与西王母于瑶池相会(《穆天子传》载)。中原与西方交流的最早记录,半信史半传说。",
+    "historicity": "semi-historical",
+    "yearUncertainty": "decade",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_li_uprising",
+    "name": "国人暴动 共和行政",
+    "year": -841,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "politics",
+    "summary": "周厉王行专利、止人言,国人忍无可忍起而暴动,厉王出奔。共伯和摄政十四年,史称\"共和行政\"。中国信史确切纪年自此始。",
+    "historicity": "historical",
+    "yearUncertainty": "exact",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_xuan_revival",
+    "name": "宣王中兴",
+    "year": -827,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "politics",
+    "summary": "周宣王在位四十六年,任贤臣方叔、召虎,北伐玁狁、南征荆楚,周室复振。但晚年亦失败于西戎,中兴未竟。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  },
+  {
+    "id": "event_wz_fenghuoxi",
+    "name": "烽火戏诸侯 西周亡",
+    "year": -771,
+    "dynastyId": "dynasty_western_zhou",
+    "category": "war",
+    "summary": "周幽王宠褒姒,为博一笑屡举烽火召诸侯。犬戎入侵时诸侯不至,幽王死于骊山下,西周亡。次年周平王东迁洛邑,东周春秋开始。",
+    "historicity": "historical",
+    "yearUncertainty": "year",
+    "_schemaVersion": "v0.6",
+    "source": "manual"
+  }
+]
